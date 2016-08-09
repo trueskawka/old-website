@@ -1,13 +1,11 @@
 ---
-layout: page
+layout: archive
 title : Blog
 permalink: /blog/
 category: "blog"
 tagline: "alicja blogs"
 ---
-
-
-  {% for post in site.posts %}
+{% for post in site.posts %}
   <div class="post postContent">
     <div  class="postDate"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
     </div>
@@ -22,6 +20,4 @@ tagline: "alicja blogs"
    {{ post.content }}
     </div>
   </div>
-
-
-  {% endfor %}
+{% endfor %}
