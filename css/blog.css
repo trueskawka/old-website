@@ -269,3 +269,8 @@ footer {
     color:#444;
   }
 }
+
+.post {
+  padding-bottom: 2em;
+  padding-top: 0;
+}
