@@ -274,3 +274,14 @@ footer {
   padding-bottom: 2em;
   padding-top: 0;
 }
+
+.thumb-img {
+  max-height: 100%;
+}
+
+.thumb-container {
+  margin: 0.5em;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+}
