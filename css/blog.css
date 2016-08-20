@@ -277,6 +277,7 @@ footer {
 
 .thumb-img {
   max-height: 100%;
+  border-radius: 5%;
 }
 
 .thumb-container {
