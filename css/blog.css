@@ -276,8 +276,7 @@ footer {
 }
 
 .thumb-img {
-  max-height: 100%;
-  border-radius: 5%;
+  max-width: none;
 }
 
 .thumb-container {
@@ -285,4 +284,6 @@ footer {
   display: inline-block;
   height: 100px;
   width: 100px;
+  overflow: hidden;
+  border-radius: 5%;
 }
