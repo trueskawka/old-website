@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-01T14:21:37-04:00</updated><id>https://trueskawka.github.io//pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 17</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/08/31/RC-day-17.html" rel="alternate" type="text/html" title="RC - dzień 17" /><published>2016-08-31T21:50:31-04:00</published><updated>2016-08-31T21:50:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/08/31/RC-day-17</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/08/31/RC-day-17.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;check-in&lt;/li&gt;
+  &lt;li&gt;kolejny dzień porannej medytacji&lt;/li&gt;
+  &lt;li&gt;rozgrzewka w Pythonie&lt;/li&gt;
+  &lt;li&gt;stworzenie łódeczki drukowanej w 3D&lt;/li&gt;
+  &lt;li&gt;wspólne programowanie z Rose&lt;/li&gt;
+  &lt;li&gt;wspólne programowanie w kółku&lt;/li&gt;
+  &lt;li&gt;dalsze uczenie się algorytmów&lt;/li&gt;
+  &lt;li&gt;czytanie “Gödel, Escher, Bach”&lt;/li&gt;
+  &lt;li&gt;zakup plecaka&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Większość dzisiejszego dnia przebiegła zgodnie z planem. Wstałam wcześnie, weszłam w rytm pracy przez kawę z owsianką, sprawdzanie maili i poranną medytację.&lt;/p&gt;
+
+&lt;p&gt;Wspólnie z Jadem udało nam się wydrukować łódeczki origami drukowane w 3D. Napisałam też na tej podstawie krótki poradnik krok po kroku, którego użyjemy w czasie jutrzejszego wieczoru twórczego.&lt;/p&gt;
+
+&lt;p&gt;Wspólne programowanie z Rose nie poszło tak dobrze, jak chciałam, bo nie wiem jeszcze wystarczająco wiele na temat analizy audio i za szybko chciałam zbyt wiele zrobić. Nauczyłam się za to sporo na temat kolejnych kroków i nie będę nikomu dalej zawracać głowy, dopóki nie będę gotowa.&lt;/p&gt;
+
+&lt;p&gt;Programowanie w kółku było świetne - programowaliśmy w parach w cyklu:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;pierwsza osoba pisała to, co nawigowała osoba po jej lewej&lt;/li&gt;
+  &lt;li&gt;po 5 minutach wszyscy przesiadali się o jedno krzesło w lewo&lt;/li&gt;
+  &lt;li&gt;pierwsza osoba nawigowała osobę po swojej prawej&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I tak każdy na przemian był piszącym i nawigatorem. Pracowaliśmy nad stworzeniem Masterminda i w którymś momencie udało nam się nawet wygrać naszą grę.&lt;/p&gt;
+
+&lt;p&gt;Poza tym byłam całkiem produktywna w zakresie uczenia się algorytmów i czytania. Kupiłam też plecak, bo nie byłam przygotowana na noszenie codziennie tylu rzeczy, a moja torebka nie pomagała przy bólach pleców.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/circle_main_1.jpg&quot; data-lightbox=&quot;circle&quot;&gt;
+  &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/circle_thumb_1.jpg&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>Kolczyki papierowe łódeczki</title><link href="https://trueskawka.github.io//pl/usa/rc/project/2016/08/31/3D-printed-earrings.html" rel="alternate" type="text/html" title="Kolczyki papierowe łódeczki" /><published>2016-08-31T19:30:31-04:00</published><updated>2016-08-31T19:30:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/project/2016/08/31/3D-printed-earrings</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/project/2016/08/31/3D-printed-earrings.html">&lt;p&gt;
+Dzisiaj razem z Jadem stworzyliśmy kolczyki w kształcie łódeczek origami za pomocą drukarki 3D. Pierwszy prototyp miał zbyt wąską podstawę i zbyt grube ścianki, ale po poszerzeniu podstawy i odchudzeniu drugi wyszedł wręcz idealny.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/product/product_main_1.jpg&quot; data-lightbox=&quot;paper_boat/product&quot; data-title=&quot;Drukowanie&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/product/product_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/product/product_main_2.jpg&quot; data-lightbox=&quot;paper_boat/product&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/product/product_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/product/product_main_3.jpg&quot; data-lightbox=&quot;paper_boat/product&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/product/product_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_3.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/product/product_main_4.jpg&quot; data-lightbox=&quot;paper_boat/product&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/product/product_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_4.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/product/product_main_5.jpg&quot; data-lightbox=&quot;paper_boat/product&quot; data-title=&quot;Pierwszy prototyp&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/product/product_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_5.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/product/product_main_6.jpg&quot; data-lightbox=&quot;paper_boat/product&quot; data-title=&quot;Drugi prototyp pływa, pierwszy się podtopił&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/product/product_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_6.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/product/product_main_7.jpg&quot; data-lightbox=&quot;paper_boat/product&quot; data-title=&quot;Drugi prototyp&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/product/product_thumb_7.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_7.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/product/product_main_8.jpg&quot; data-lightbox=&quot;paper_boat/product&quot; data-title=&quot;Porównanie&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/product/product_thumb_8.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_8.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Dzisiaj razem z Jadem stworzyliśmy kolczyki w kształcie łódeczek origami za pomocą drukarki 3D. Pierwszy prototyp miał zbyt wąską podstawę i zbyt grube ścianki, ale po poszerzeniu podstawy i odchudzeniu drugi wyszedł wręcz idealny.</summary></entry><entry><title>Tworzenie modelu 3D - papierowa łódeczka</title><link href="https://trueskawka.github.io//pl/usa/rc/project/2016/08/31/creating-a-3D-project.html" rel="alternate" type="text/html" title="Tworzenie modelu 3D - papierowa łódeczka" /><published>2016-08-31T19:20:31-04:00</published><updated>2016-08-31T19:20:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/project/2016/08/31/creating-a-3D-project</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/project/2016/08/31/creating-a-3D-project.html">&lt;p&gt;
+Tak krok po kroku wyglądało tworzenie modelu 3D papierowej łódeczki.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_main_1.jpg&quot; data-lightbox=&quot;paper_boat/project&quot; data-title=&quot;Zaczęliśmy od 3 punktów&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_main_2.jpg&quot; data-lightbox=&quot;paper_boat/project&quot; data-title=&quot;Wypełniliśmy trójkąt&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_main_3.jpg&quot; data-lightbox=&quot;paper_boat/project&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_3.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_main_4.jpg&quot; data-lightbox=&quot;paper_boat/project&quot; data-title=&quot;I odbiliśmy wzdłuż jednej osi symetrii&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_4.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_main_5.jpg&quot; data-lightbox=&quot;paper_boat/project&quot; data-title=&quot;I wzdłuż drugiej, żeby zrobić całą łódkę&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_5.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_main_6.jpg&quot; data-lightbox=&quot;paper_boat/project&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_6.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_main_7.jpg&quot; data-lightbox=&quot;paper_boat/project&quot; data-title=&quot;Dodaliśmy dolny zewnętrzny trójkąt przez kolejny punkt&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_thumb_7.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_7.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_main_8.jpg&quot; data-lightbox=&quot;paper_boat/project&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_thumb_8.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_8.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_main_9.jpg&quot; data-lightbox=&quot;paper_boat/project&quot; data-title=&quot;I ostatni trójkąt&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_thumb_9.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_9.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_main_10.jpg&quot; data-lightbox=&quot;paper_boat/project&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_thumb_10.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_10.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_main_11.jpg&quot; data-lightbox=&quot;paper_boat/project&quot; data-title=&quot;Teraz potrzeba tylko kółeczka do przyczepienia bigla&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_thumb_11.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_11.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_main_12.jpg&quot; data-lightbox=&quot;paper_boat/project&quot; data-title=&quot;I wygładzenia&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/paper_boat/project/project_thumb_12.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_12.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Tak krok po kroku wyglądało tworzenie modelu 3D papierowej łódeczki.</summary></entry><entry><title>RC - dzień 16</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/08/30/RC-day-16.html" rel="alternate" type="text/html" title="RC - dzień 16" /><published>2016-08-30T23:45:31-04:00</published><updated>2016-08-30T23:45:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/08/30/RC-day-16</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/08/30/RC-day-16.html">&lt;p&gt;
+Osiągnięcia:
+&lt;ul&gt;
+&lt;li&gt;check-in&lt;/li&gt;
+&lt;li&gt;kolejny dzień porannej medytacji&lt;/li&gt;
+&lt;li&gt;rozgrzewka w Pythonie&lt;/li&gt;
+&lt;li&gt;dalsza zabawa z algorytmami&lt;/li&gt;
+&lt;li&gt;dużo czytania nt. algorytmów i Pythona&lt;/li&gt;
+&lt;li&gt;spotkanie Hack&amp;amp;&amp;amp;Tell&lt;/li&gt;
+&lt;li&gt;powstrzymanie się od kupienia kolejnej książki zanim nie przeczytam wszystkich zaplanowanych w najbliższym czasie&lt;/li&gt;
+&lt;li&gt;karma nagrodziła mnie wygraniem książki na meetupie&lt;/li&gt;
+&lt;li&gt;dotarcie do RC przed 7:30&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+Nie mogłam dzisiaj spać, więc przyjechałam do RC najwcześniej, jak się dało, bo w mieszkaniu i tak nie ma zbyt wiele do roboty. Rano pociągi nie są aż tak opóźnione i nie jest też jeszcze tak gorąco, więc może to być dobra długoterminowa strategia.
+&lt;/p&gt;
+&lt;p&gt;
+Wreszcie udało mi się ocenić, ile tak naprawdę czasu potrzebuję rano, zanim zacznę być produktywna. Śniadanie, kawa, sprawdzanie maila i różnych kanałów z informacjami - nigdy nie sądziłam, że zajmuje to aż półtorej godziny. To może wyjaśniać, dlaczego zazwyczaj jestem zbyt optymistyczna przy ocenaniu czasu na zadania. Niekoniecznie oznacza to, że muszę działać efektywniej, ale świadomość pomaga - zawsze wydawało mi się, że to przecież &quot;tylko&quot; kilka rzeczy.
+&lt;/p&gt;
+&lt;p&gt;
+Jestem zadowolna z dzisiejszego poziomu skupienia i produktywności. Poczytałam sporo o algorytmach, poprogramowałam, czułam, że robię coś w kierunku bycia lepszym programistą. Jedynym problemem było to, że w połowie dnia potrzebowałam drzemki, bo zazwyczaj nie wstaję tak wcześnie. Może to jest po prostu mój sposób pracy i powinnam to wziąć pod uwagę w kolejnych tygodniach.
+&lt;/p&gt;
+&lt;p&gt;
+Poszłam do księgarni z używanymi książkami i udało mi się nie kupić kolejnej książki, co jest osiągnięciem, biorąc pod uwagę, że to prawdopodobnie rodzinne uzależnienie.
+&lt;/p&gt;
+&lt;p&gt;
+Wieczór był inspirujący i interesujący. Przeszłam się na spotkanie Hack&amp;amp;&amp;amp;Tell - sesji pięciominutowych prezentacji z pięciominutowymi sesjami na pytania. Prezentacje dotyczyły projektów, które różne osoby robią w swoim wolnym czasie dla czystej przyjemności. Wpadłam na kilka ciekawych pomysłów i teraz będę musiała się powstrzymywać, żeby się skupić. Posłuchałam o:
+&lt;ul&gt;
+&lt;li&gt;wirtualnej rzeczywistości w JavaScript - &lt;a href=&quot;https://webvr.info/&quot;&gt;WebVR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/turing-incomplete/turing-incomtweet&quot;&gt;autmatyzacji wrzucania postów na Twittera&lt;/a&gt; dla podcastu &lt;a href=&quot;http://turing.cool/&quot;&gt;Turing incomplete&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;nowym jęzku programowania - &lt;a href=&quot;http://www.ziglang.org&quot;&gt;Zig&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;przydatnej stronie &lt;a href=&quot;http://www.ismytrainfucked.com&quot;&gt;ismytrainfucked.com&lt;/a&gt;, pokazującej które linie metra w Nowym Jorku mają obecnie opóźnienia&lt;/li&gt;
+&lt;li&gt;gry opartej na danych z Google ngrams - &quot;Word Freq&quot; (częstotliwość słów)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://boustro.com/app&quot;&gt;aplikacji&lt;/a&gt; do &lt;a href=&quot;https://www.wikiwand.com/pl/Bustrofedon&quot;&gt;bustryfikacji&lt;/a&gt; tekstu&lt;/li&gt;
+&lt;li&gt;aplikacji w JavaScript application do arkuszy kalkulacyjnych - &lt;a href=&quot;https://github.com/gmarceau/spread.js&quot;&gt;spread.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;wizualizacji wykroczeń w Nowym Jorku w podziale na okręgi policyjne&lt;/li&gt;
+&lt;li&gt;symulację sposobu w jaki widzą daltoniści, żeby pomóc projektantom tworzyć odpowiednie produkty&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/JonHMChan/descartes&quot;&gt;Descartes&lt;/a&gt; - CSS pisany w JS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Nie sądzę, żeby udało mi się całkowicie powstrzymać od pobocznych projektów, bo wygrałam książkę &lt;a href=&quot;http://shop.oreilly.com/product/0636920022657.do&quot;&gt;&lt;i&gt;Kinect Hacks - Tips &amp;amp; Tools for Motion and Pattern Detection&lt;/i&gt;&lt;/a&gt; (nt. analizy ruchu). Mam kilka szalonych pomysłów z wykorzystaniem nagrań Ginger.
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:
+
+check-in
+kolejny dzień porannej medytacji
+rozgrzewka w Pythonie
+dalsza zabawa z algorytmami
+dużo czytania nt. algorytmów i Pythona
+spotkanie Hack&amp;amp;&amp;amp;Tell
+powstrzymanie się od kupienia kolejnej książki zanim nie przeczytam wszystkich zaplanowanych w najbliższym czasie
+karma nagrodziła mnie wygraniem książki na meetupie
+dotarcie do RC przed 7:30</summary></entry><entry><title>RC - dzień 15</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/08/30/RC-day-15.html" rel="alternate" type="text/html" title="RC - dzień 15" /><published>2016-08-30T11:45:31-04:00</published><updated>2016-08-30T11:45:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/08/30/RC-day-15</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/08/30/RC-day-15.html">&lt;p&gt;
+Osiągnięcia:
+&lt;ul&gt;
+&lt;li&gt;check-in&lt;/li&gt;
+&lt;li&gt;kolejny dzień porannej medytacji&lt;/li&gt;
+&lt;li&gt;rozgrzewka w Pythonie (dzisiaj było tylko jedno zadanie, ale dość trudne)&lt;/li&gt;
+&lt;li&gt;dalsza zabawa z algorytmami&lt;/li&gt;
+&lt;li&gt;rozmowa z Geraldem Sussmanem&lt;/li&gt;
+&lt;li&gt;obejrzenie jego wykładu o &lt;i&gt;flexible systems&lt;/i&gt; (elastyczne systemy)&lt;/li&gt;
+&lt;li&gt;przeczytanie drugiego rozdziału &quot;Gödel, Escher, Bach&quot;&lt;/li&gt;
+&lt;li&gt;zaplanowanie wspólnego programowania z Rose&lt;/li&gt;
+&lt;li&gt;dodanie kategorii do bloga&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+Po cichym weekendzie w RC skupienie się dzisiaj było trudniejsze, niż oczekiwałam. Na szczęście wczuwam się już dobrze w mój nowy rytm pracy, a zaczęcie dnia od medytacji i rozgrzewki pomaga w rozkręceniu się.
+&lt;/p&gt;
+&lt;p&gt;
+Niewiele zrobiłam w ramach mojego głównego projektu, ale zaplanowałam wspólne programowanie z Rose w środę, więc popracuję i doczytam przed spotkaniem.
+&lt;/p&gt;
+&lt;p&gt;
+Gerald Sussman (professor inżynierii elektrycznej na MIT i członek rady nadzorczej Fundacji Wolnego Oprogramowania) spędził dzisiaj dzień w RC i poprowadził wykład o &lt;i&gt;flexible systems&lt;/i&gt;. Muszę przyznać, że nie słyszałam o nim przed ogłoszeniem wydarzenia. Podziwiam jego zaangażowanie i umiejętności, niewiele osób nawet w moim wieku ma takie poczucie celu.
+&lt;/p&gt;
+&lt;p&gt;
+Nie sądziłam, że mogę powiedzieć coś choć trochę interesującego dla niego, dlatego zapytałam o jego opinie nt. edukacji przez Internet i książki, które poleciłby do nauczenia się więcej o sztucznej inteligencji i jej znaczeniu. Udało mi się też zadać pytanie po wykładzie i dostałam dość inspirującą odpowiedź:
+&lt;blockquote&gt;
+Chcę wspomóc tych, którzy dobrze się bawią programując, nie dlatego że jest to ich praca, ale dlatego że chcą myśleć i chcą nauczyć się pisać programy, które pomogą im myśleć
+&lt;/blockquote&gt;
+&lt;br /&gt;
+Napiszę coś więcej na temat samego wykładu, ale najpierw muszę pozbierać myśli.
+&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Zapomniałam wrzucić wczoraj posta, bo się zaczytałam&lt;/i&gt;&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:
+
+check-in
+kolejny dzień porannej medytacji
+rozgrzewka w Pythonie (dzisiaj było tylko jedno zadanie, ale dość trudne)
+dalsza zabawa z algorytmami
+rozmowa z Geraldem Sussmanem
+obejrzenie jego wykładu o flexible systems (elastyczne systemy)
+przeczytanie drugiego rozdziału &quot;Gödel, Escher, Bach&quot;
+zaplanowanie wspólnego programowania z Rose
+dodanie kategorii do bloga</summary></entry><entry><title>RC - dzień 14</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/08/28/RC-day-14.html" rel="alternate" type="text/html" title="RC - dzień 14" /><published>2016-08-28T21:00:31-04:00</published><updated>2016-08-28T21:00:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/08/28/RC-day-14</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/08/28/RC-day-14.html">&lt;p&gt;
+Osiągnięcia:
+&lt;ul&gt;
+&lt;li&gt;jednoosobowy check-in&lt;/li&gt;
+&lt;li&gt;kolejny dzień porannej medytacji&lt;/li&gt;
+&lt;li&gt;rozgrzewka w Ruby&lt;/li&gt;
+&lt;li&gt;dalsze uczenie się algorytmów&lt;/li&gt;
+&lt;li&gt;wreszcie zaczęłam czytać &quot;Gödel, Escher, Bach&quot;&lt;/li&gt;
+&lt;li&gt;kupiłam książkę &quot;Elementy stylu&quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+Dzisiaj większość czasu przeznaczyłam na przyjemności i odpoczynek, ale udało mi się utrzymać nawyki, które do tej pory wykształciłam w RC. Musiałam też pouczyć się trochę algorytmów, bo zaczęłam odstawać od grupy z materiałem. W międzyczasie zaczęłam też wreszcie czytać &quot;Gödel, Escher, Bach&quot; - książkę, którą chciałam przeczytać od bardzo dawna, ale nigdy jej nie tknęłam. Kupiłam też książkę &quot;Elementy stylu&quot;, bardzo popularną w USA jako lektura na studiach, żeby popracować nieco nad moją pisaniną.
+&lt;/p&gt;
+&lt;p&gt;
+Jutro będzie produktywnie.
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:
+
+jednoosobowy check-in
+kolejny dzień porannej medytacji
+rozgrzewka w Ruby
+dalsze uczenie się algorytmów
+wreszcie zaczęłam czytać &quot;Gödel, Escher, Bach&quot;
+kupiłam książkę &quot;Elementy stylu&quot;</summary></entry><entry><title>Wycieczka do ogrodów Cloisters</title><link href="https://trueskawka.github.io//pl/usa/nyc/trip/2016/08/28/cloisters-trip.html" rel="alternate" type="text/html" title="Wycieczka do ogrodów Cloisters" /><published>2016-08-28T19:10:31-04:00</published><updated>2016-08-28T19:10:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/nyc/trip/2016/08/28/cloisters-trip</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/nyc/trip/2016/08/28/cloisters-trip.html">&lt;p&gt;
+Dzisiaj spędziłam trochę czasu z Ewą i Shawnem - po śniadaniowym cieście marchewkowym, wybraliśmy się na spacer do ogrodów Cloisters.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&quot;http://www.metmuseum.org/visit/met-cloisters&quot;&gt;Cloisters&lt;/a&gt; to miejsce związane ze średnowieczną sztuką. Tylko zajrzałam do środka, ale następnym razem na pewno pokuszę się o pełną wycieczkę. Wewnątrz jest pokój jednorożców  (&lt;a href=&quot;http://www.atlasobscura.com/places/unicorn-tapestries-at-the-cloisters&quot;&gt;trochę zdjęć&lt;/a&gt;), ktoś najwyraźniej bardzo je lubił.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_1.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Część stacji metra&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_2.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Budynki zatopione w zieleni&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_3.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Szare wiewiórki są całkiem spore&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_3.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_4.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Jest nawet malutki domek&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_4.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_5.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Widać skały, na których zbudowano Nowy Jork&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_5.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_6.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Nie ma to jak zapalanie lamp w słoneczny dzień&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_6.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_7.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;New Jersey wygląda stąd jak las&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_7.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_7.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_8.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Beagle prawie-albinos&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_8.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_8.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_9.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Zielone tipi moich nowych przyjaciół&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_9.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_9.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_10.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Tego nazwałam George - nie był zbyt szczęśliwy i uciekł&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_10.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_10.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_11.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Cloisters z zewnątrz&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_11.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_11.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_12.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;I ze mną w środku&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_12.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_12.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Dzisiaj spędziłam trochę czasu z Ewą i Shawnem - po śniadaniowym cieście marchewkowym, wybraliśmy się na spacer do ogrodów Cloisters.
+
+
+Cloisters to miejsce związane ze średnowieczną sztuką. Tylko zajrzałam do środka, ale następnym razem na pewno pokuszę się o pełną wycieczkę. Wewnątrz jest pokój jednorożców  (trochę zdjęć), ktoś najwyraźniej bardzo je lubił.</summary></entry><entry><title>New York, New York</title><link href="https://trueskawka.github.io//pl/usa/nyc/2016/08/28/new-york-new-york.html" rel="alternate" type="text/html" title="New York, New York" /><published>2016-08-28T18:45:31-04:00</published><updated>2016-08-28T18:45:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/nyc/2016/08/28/new-york-new-york</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/nyc/2016/08/28/new-york-new-york.html">&lt;p&gt;
+Trochę zdjęć na niedzielne popołudnie.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_19.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Ładny kościół nieopodal Wall Street&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_19.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_19.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_20.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Street art&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_20.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_20.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_21.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Misio wiszący nad światłami&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_21.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_21.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_22.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Figurki ptaków na stacji Canal Street&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_22.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_22.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_23.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Tak wyglądają sklepy spożywcze&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_23.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_23.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_24.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Interesujące kartki&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_24.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_24.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_25.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Metro&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_25.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_25.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_26.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Urban Outfitters ma dziwaczne książki&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_26.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_26.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_27.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Spaceruję&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_27.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_27.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_28.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Kiedy nagle - to&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_28.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_28.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_29.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Street art jest wszędzie&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_29.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_29.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_30.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Wejście do metra w północnej części wyspy&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_30.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_30.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_31.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;I sama stacja&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_31.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_31.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_32.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Znów poezja w metrze&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_32.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_32.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_33.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Działy w księgarniach zawsze bawią &amp;lt;!&amp;gt;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_33.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_33.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_34.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Housing Works (organizacja charytatywna) prowadzi księgarnię z używanymi książkami&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_34.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_34.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_35.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_35.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_35.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_36.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Spacerowanie&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_36.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_36.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_37.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Dużo spacerowania&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_37.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_37.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_38.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Street art bywa niepokojący&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_38.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_38.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Trochę zdjęć na niedzielne popołudnie.</summary></entry><entry><title>RC - day 13</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/08/27/RC-day-13.html" rel="alternate" type="text/html" title="RC - day 13" /><published>2016-08-27T22:05:31-04:00</published><updated>2016-08-27T22:05:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/08/27/RC-day-13</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/08/27/RC-day-13.html">&lt;p&gt;
+Osiągnięcia:
+&lt;ul&gt;
+&lt;li&gt;jednoosobowy check-in&lt;/li&gt;
+&lt;li&gt;kolejny dzień porannej medytacji&lt;/li&gt;
+&lt;li&gt;rozgrzewka w Ruby&lt;/li&gt;
+&lt;li&gt;pierwsze podejście do stworzenia gry planszowej z Tanoy'em&lt;/li&gt;
+&lt;li&gt;nieudane zakupy, które wyszły mi na dobre&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+Dzisiaj nauczyłam się, w jaki sposób karteczki samoprzylepne i kilka godzin wystarczą do świetnego popołudnia. W końcu miałam pierwsze spotkanie z Tanoy'em, żeby zaprojektować grę planszową.
+&lt;/p&gt;
+&lt;p&gt;
+Tematem gry jest żeglowanie w malutkiej łódce po niebezpiecznych, otwartych akwenach. Najpierw zrobiliśmy małą burzę mózgów, chrupiąc ciastka, a kiedy już byliśmy zadowoleni ze wstępnych pomysłów, przystąpiliśmy do prototypowania. Robienie małych łódeczek, planszy i wszelkiej maści pomocy sprawiło, że gra nabrała kształtów.
+&lt;/p&gt;
+&lt;p&gt;
+Głównym wnioskiem z dzisiaj jest to, że powinniśmy więcej grać w grę i ją dostosowywać, a nie tylko rozmawiać o pomysłach i coraz bardziej się nimi ekscytować. Następne spotkanie będzie pewnie w kolejny weekend i, jeśli wszystko pójdzie po naszej myśli, stworzymy niedługo prototypy, żeby grać z innymi w RC.
+&lt;/p&gt;
+&lt;p&gt;
+Ta gra ma przede wszystkim służyć jako materiał do nauki dla mnie, jak projektować gry. Jeśli wyjdzie z tego przy okazji coś ciekawego, będzie to wynik znacznie powyżej oczekiwań.
+&lt;/p&gt;
+&lt;p&gt;
+Jeśli chodzi o nieudane zakupy - wczoraj udało mi się zepsuć buty w trakcie karaoke i chciałam się zaopatrzyć w nowe. Udało mi się kupić duży kubek i dwie książki.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/fun/fun_main_1.jpg&quot; data-lightbox=&quot;fun&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/fun/fun_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;fun_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/fun/fun_main_2.jpg&quot; data-lightbox=&quot;fun&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/fun/fun_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;fun_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/fun/fun_main_3.jpg&quot; data-lightbox=&quot;fun&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/fun/fun_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;fun_main_3.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:
+
+jednoosobowy check-in
+kolejny dzień porannej medytacji
+rozgrzewka w Ruby
+pierwsze podejście do stworzenia gry planszowej z Tanoy'em
+nieudane zakupy, które wyszły mi na dobre</summary></entry><entry><title>RC - dzień 12</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/08/27/RC-day-12.html" rel="alternate" type="text/html" title="RC - dzień 12" /><published>2016-08-27T21:34:31-04:00</published><updated>2016-08-27T21:34:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/08/27/RC-day-12</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/08/27/RC-day-12.html">&lt;p&gt;
+Osiągnięcia:
+&lt;ul&gt;
+&lt;li&gt;jednoosobowy check-in&lt;/li&gt;
+&lt;li&gt;kolejny dzień porannej medytacji&lt;/li&gt;
+&lt;li&gt;rozgrzewka w Ruby&lt;/li&gt;
+&lt;li&gt;warsztat z refaktoryzacji kodu&lt;/li&gt;
+&lt;li&gt;spotkanie grupy uczących się algorytmiki&lt;/li&gt;
+&lt;li&gt;wsparcie Jade'a z Google Analytics na jego stronie&lt;/li&gt;
+&lt;li&gt;Va Banque w wersji dla programistów&lt;/li&gt;
+&lt;li&gt;karaoke&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+Dzisiaj przede wszystkim integrowałam się.
+&lt;/p&gt;
+&lt;p&gt;
+Po dobrym rozpoczęciu dnia przez medytację, wspólnie programowałam z &lt;b&gt;Vaibhavem&lt;/b&gt; i &lt;b&gt;Islą&lt;/b&gt; w trakcie warsztatu z refaktoryzacji kodu. Robiliśmy ćwiczenia z &lt;a href=&quot;https://github.com/emilybache/Tennis-Refactoring-Kata&quot;&gt;Tennis Refactoring Kata&lt;/a&gt; w Pythonie - wspólnie pracowaliśmy nad celowo źle napisanym kodem w taki sposób, żeby go poprawić i uporządkować, nie zmieniając jednocześnie sposobu jego testowania.
+&lt;/p&gt;
+&lt;p&gt;
+Spotkanie grupy uczących się algorytmiki z zaplanowanych 30 minut przeciągnęło się na długo ponad godzinę, bo wspólnie rozwiązywaliśmy zadania.
+&lt;/p&gt;
+&lt;p&gt;
+Po szybkim wsparciu Jade'a z Google Analytics, przeszłam się na późny lunch z kilkoma osobami, także po to, żeby móc spędzić trochę czasu z Emilem (jego rezydentura w RC skończyła się dzisiaj). Po powrocie graliśmy drużynowo w programistyczne Va Banque (które całkowicie zdominował &lt;b&gt;Vaibhav&lt;/b&gt; - ten chłopak ma w głowie Wikipedię). Przypadkowa rozmowa ujawniła, że RC ma swoją aplikację do karaoke, a szybkie przeszukanie szafek zaoowocowało wygrzebaniem odpowiedniego pudła. Kilka godzin później, wyczerpani i przeszczęśliwi wyruszyliśmy każde w swoją stronę, żeby trochę się przespać po wieczorze pełnym wrażeń.
+&lt;/p&gt;
+&lt;p&gt;
+Jak widać na zdjęciach, podeszliśmy do sprawy profesjonalnie - używaliśmy rzutnika, dwóch mikrofonów, kuli dyskotekowej i dużej części podłogi, żeby móc tańczyć w trakcie śpiewania.
+&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/karaoke_main_1.jpg&quot; data-lightbox=&quot;bonding&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/karaoke_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;karaoke_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/karaoke_main_2.jpg&quot; data-lightbox=&quot;bonding&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/karaoke_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;karaoke_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/karaoke_main_3.jpg&quot; data-lightbox=&quot;bonding&quot; data-title=&quot;Emil prowadzący Va Banque&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/karaoke_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;karaoke_main_3.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/karaoke_main_4.jpg&quot; data-lightbox=&quot;bonding&quot; data-title=&quot;Rickrolling&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/karaoke_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;karaoke_main_4.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/karaoke_main_5.jpg&quot; data-lightbox=&quot;bonding&quot; data-title=&quot;Emil śpiewający piosenkę miłosną programisty&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/karaoke_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;karaoke_main_5.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+
+&lt;/p&gt;
+&lt;p&gt;
+&lt;i&gt;Update:&lt;/i&gt; dostałam pozwolenie na wrzucenie dodatkowych zdjęć ;)
+&lt;/p&gt;
+&lt;p&gt;
+&lt;i&gt;Ten post pojawił się ze sporym opóźnieniem, ponieważ karaoke trwało do 2 rano.&lt;/i&gt;
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:
+
+jednoosobowy check-in
+kolejny dzień porannej medytacji
+rozgrzewka w Ruby
+warsztat z refaktoryzacji kodu
+spotkanie grupy uczących się algorytmiki
+wsparcie Jade'a z Google Analytics na jego stronie
+Va Banque w wersji dla programistów
+karaoke</summary></entry></feed>
