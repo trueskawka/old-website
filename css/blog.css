@@ -287,3 +287,10 @@ footer {
   overflow: hidden;
   border-radius: 5%;
 }
+
+.icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  vertical-align: text-top;;
+}
