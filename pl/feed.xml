@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-02T23:23:20-04:00</updated><id>https://trueskawka.github.io//pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 19</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/09/02/RC-day-19.html" rel="alternate" type="text/html" title="RC - dzień 19" /><published>2016-09-02T23:20:31-04:00</published><updated>2016-09-02T23:20:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/09/02/RC-day-19</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/09/02/RC-day-19.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-03T12:20:57-04:00</updated><id>https://trueskawka.github.io//pl/</id><title>Alicja Raszkowska</title><entry><title>ElixirConf 2016 - gościnny wpis Juliano</title><link href="https://trueskawka.github.io//pl/usa/rc/guest/2016/09/03/Elixir-conference-guest-post.html" rel="alternate" type="text/html" title="ElixirConf 2016 - gościnny wpis Juliano" /><published>2016-09-03T12:14:31-04:00</published><updated>2016-09-03T12:14:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/guest/2016/09/03/Elixir-conference-guest-post</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/guest/2016/09/03/Elixir-conference-guest-post.html">&lt;p&gt;Hej, jeśli to czytasz (szczególnie polskie tłumaczenie Alicji), to na pewno mnie jeszcze nie znasz. Pozwól, że się przedstawię.&lt;/p&gt;
+
+&lt;p&gt;Mam na imię Juliano i jestem kolegą Alicji z Recurse Center.&lt;/p&gt;
+
+&lt;p&gt;Skoro już przebrnęliśmy przez wstęp, opowiem trochę o Elixirze i ElixirConf 2016.&lt;/p&gt;
+
+&lt;p&gt;Elixir to rozwijający się język programowania, stworzony przez Brazylijczyka. Wykorzystuje wiele starszych technologii (Erlang) i jest zbudowany w nowoczesny, atrakcyjny i dobrze przemyślany sposób, umożliwiając szerokiej rzeszy programistów dostęp do świetnych rozwiązań. Sama społeczność jest również niesamowita - ludzie są życzliwi i cierpliwi, starają się też uprzystępnić narzędzia dla każdego, od początkującego do doświadczonego użytkownika.&lt;/p&gt;
+
+&lt;p&gt;ElixirConf 2016 odbyło się w &lt;a href=&quot;http://www.swandolphin.com/&quot;&gt;Disney Swan and Dolphin Resort&lt;/a&gt;. Ciągle lało i mieszkańcy Orlando przebąkiwali coś nawet o “sezonie burzowym”, co moim zdaniem było znacznie ciekawsze niż sam Disney.&lt;/p&gt;
+
+&lt;p&gt;Odkąd przyjechałem do Nowego Jorku, ciągle oczekiwałem ataku grypy. Było upalnie, stacje metra były jeszcze gorętsze, a pociągi przeraźliwie zimne. Nowojorskie metro jest jak ogromna maszyna do pasteryzacji ludzi, gdzie na przemian pieką ich i zamrażają pomiędzy stacjami i przesiadkami, aż wyginą wszystkie bakterie. Przeziębienie dopadło mnie idealnie na konferencję i spędziłem pierwszy dzień z gorączką, chorym gardłem i bardzo głębokim głosem. Jednak mimo tego było warto się wybrać.&lt;/p&gt;
+
+&lt;p&gt;Liczba uczestników ElixirConf podwoiła się od ostatniego razu. Byłem w zeszłym roku na ElixirConf 2015 i nawet dostałem darmowy egzemplarz “Kolejne 7 języków programowania w 7 tygodni” jako nagrodę za “najdłuższy przebyty dystans”. Wtedy było nas około dwieście osób, które zleciały się zewsząd, żeby spotkać się z innymi, równie podekscytowanymi nowym językiem z niepewną przyszłością programistami. Bardzo niewielu z nas używało Elixira w codziennej pracy. Trochę się pozmieniało - w tym roku na konferencji było 542 uczestników i około 30% z nich używa Elixira na co dzień!&lt;/p&gt;
+
+&lt;p&gt;Jesteśmy dużą grupą nowicjuszy zaczynających pracować w technologii, która rozwija się od połowy lat 80., więc występują pewne konflikty. Niektórzy programiści Erlanga starej daty nie są zadowoleni z tego stanu rzeczy, co odbijało się w żartach w niektórych prezentacjach.&lt;/p&gt;
+
+&lt;p&gt;W tym roku wielu prelegentów było z firm używających Elixira, opowiadających o swoich sukcesach i wnioskach. Bardzo lubię tego typu prezentacje.&lt;/p&gt;
+
+&lt;p&gt;Konferencje to jednak nie tylko prezentacje. Spotkałem trochę uczestników z Brazylii, miałem też szansę porozmawiać sporo z niektórymi z twórców i programistów rozwijających Elixira. Ponowne spotkania ze znajomymi z zeszłego roku były bardzo rodzinne. Świadomość, że wielu z nich nie używa Elixira zawodowo, tak samo jak ja, przypomniała mi emocjonalne przemówienie Jessici Kerr z zeszłego roku (&lt;a href=&quot;https://youtu.be/X25xOhntr6s&quot;&gt;tutaj&lt;/a&gt;) - jej przemyślenia odbijały się w wielu rozmowach.&lt;/p&gt;
+
+&lt;p&gt;Przybiłem też piątkę z fanem drużyny Michigan i podeszły do mnie dwie osoby z Detroit, ponieważ kupiłem bluzę Michigan na lotnisku w Detroit, żeby nie przemarznąć do szczętu w czasie mojej 10-godzinnej podróży.&lt;/p&gt;
+
+&lt;p&gt;Boyd Multerer, były czołowy inżynier zespołu Xboxa w Microsofcie, zamknął konferencję swoim przemówieniem. Jego prezentacja była inspirująca - opowiadał o tym, dlaczego wybrał Elixira i Erlanga jako inwestycję w swoją karierę na najbliższe 10 lat. Bardzo satysfakcjonujące było słuchanie przekonujących powodów, dlaczego jego zdaniem te technologie najlepiej będą wpasowywały się w rynek w tym okresie. Potwierdza to wartość intelektualnej, emocjonalnej i finansowej inwestycji jaką wszyscy włożyliśmy w Elixira.&lt;/p&gt;
+
+&lt;p&gt;Wyjechałem wcześnie, ciągle nieco podchorowany, ale bardzo zainspirowany do powrotu do RC i programowania w Elixirze.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;pics coming soon&lt;/em&gt;&lt;/p&gt;</content><author><name>juliano</name></author><summary>Hej, jeśli to czytasz (szczególnie polskie tłumaczenie Alicji), to na pewno mnie jeszcze nie znasz. Pozwól, że się przedstawię.</summary></entry><entry><title>RC - dzień 19</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/09/02/RC-day-19.html" rel="alternate" type="text/html" title="RC - dzień 19" /><published>2016-09-02T23:20:31-04:00</published><updated>2016-09-02T23:20:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/09/02/RC-day-19</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/09/02/RC-day-19.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;jednoosobowy check-in&lt;/li&gt;
@@ -465,132 +491,4 @@ Dzisiaj spędziłam trochę czasu z Ewą i Shawnem - po śniadaniowym cieście m
 &lt;/p&gt;</content><author><name>alicja</name></author><summary>Dzisiaj spędziłam trochę czasu z Ewą i Shawnem - po śniadaniowym cieście marchewkowym, wybraliśmy się na spacer do ogrodów Cloisters.
 
 
-Cloisters to miejsce związane ze średnowieczną sztuką. Tylko zajrzałam do środka, ale następnym razem na pewno pokuszę się o pełną wycieczkę. Wewnątrz jest pokój jednorożców  (trochę zdjęć), ktoś najwyraźniej bardzo je lubił.</summary></entry><entry><title>New York, New York</title><link href="https://trueskawka.github.io//pl/usa/nyc/2016/08/28/new-york-new-york.html" rel="alternate" type="text/html" title="New York, New York" /><published>2016-08-28T18:45:31-04:00</published><updated>2016-08-28T18:45:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/nyc/2016/08/28/new-york-new-york</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/nyc/2016/08/28/new-york-new-york.html">&lt;p&gt;
-Trochę zdjęć na niedzielne popołudnie.
-&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_19.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Ładny kościół nieopodal Wall Street&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_19.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_19.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_20.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Street art&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_20.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_20.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_21.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Misio wiszący nad światłami&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_21.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_21.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_22.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Figurki ptaków na stacji Canal Street&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_22.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_22.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_23.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Tak wyglądają sklepy spożywcze&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_23.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_23.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_24.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Interesujące kartki&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_24.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_24.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_25.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Metro&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_25.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_25.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_26.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Urban Outfitters ma dziwaczne książki&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_26.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_26.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_27.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Spaceruję&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_27.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_27.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_28.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Kiedy nagle - to&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_28.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_28.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_29.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Street art jest wszędzie&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_29.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_29.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_30.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Wejście do metra w północnej części wyspy&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_30.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_30.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_31.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;I sama stacja&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_31.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_31.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_32.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Znów poezja w metrze&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_32.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_32.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_33.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Działy w księgarniach zawsze bawią &amp;lt;!&amp;gt;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_33.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_33.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_34.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Housing Works (organizacja charytatywna) prowadzi księgarnię z używanymi książkami&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_34.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_34.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_35.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_35.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_35.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_36.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Spacerowanie&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_36.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_36.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_37.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Dużo spacerowania&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_37.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_37.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_main_38.jpg&quot; data-lightbox=&quot;nyc/2&quot; data-title=&quot;Street art bywa niepokojący&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/2/nyc_thumb_38.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_38.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Trochę zdjęć na niedzielne popołudnie.</summary></entry></feed>
+Cloisters to miejsce związane ze średnowieczną sztuką. Tylko zajrzałam do środka, ale następnym razem na pewno pokuszę się o pełną wycieczkę. Wewnątrz jest pokój jednorożców  (trochę zdjęć), ktoś najwyraźniej bardzo je lubił.</summary></entry></feed>
