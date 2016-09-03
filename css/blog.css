@@ -35,7 +35,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#3c296c;
+  color:#8f4898;
   text-decoration:none;
 }
 
@@ -228,6 +228,11 @@ footer {
     right:50px;
     top:52px;
   }
+
+  #calendarView,
+  #categories {
+    display: none;
+  }
 }
 
 @media print, screen and (max-width: 720px) {
@@ -293,4 +298,12 @@ footer {
   width: 16px;
   height: 16px;
   vertical-align: text-top;;
+}
+
+#categories {
+  margin-top: 50px;
+}
+
+.postTitle h3 {
+  color: #ab65ad;
 }

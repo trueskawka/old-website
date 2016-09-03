@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-02T11:44:43-04:00</updated><id>https://trueskawka.github.io//</id><title>Alicja Raszkowska</title><entry><title>RC - day 18</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/01/RC-day-18.html" rel="alternate" type="text/html" title="RC - day 18" /><published>2016-09-01T23:25:31-04:00</published><updated>2016-09-01T23:25:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/01/RC-day-18</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/01/RC-day-18.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-02T23:20:53-04:00</updated><id>https://trueskawka.github.io//</id><title>Alicja Raszkowska</title><entry><title>RC - day 19</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/02/RC-day-19.html" rel="alternate" type="text/html" title="RC - day 19" /><published>2016-09-02T23:20:31-04:00</published><updated>2016-09-02T23:20:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/02/RC-day-19</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/02/RC-day-19.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;self check-in&lt;/li&gt;
+  &lt;li&gt;keeping the meditation habit streak&lt;/li&gt;
+  &lt;li&gt;warm-up in Ruby&lt;/li&gt;
+  &lt;li&gt;algorithms (Stanford course) check-in&lt;/li&gt;
+  &lt;li&gt;adding a MVP of a calendar to the blog&lt;/li&gt;
+  &lt;li&gt;starting a course on CS in Python&lt;/li&gt;
+  &lt;li&gt;trying Halo Top ice cream (and eating only half of them)&lt;/li&gt;
+  &lt;li&gt;getting a gig as a cat sitter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Fri-yay has come. The day when sleeping in after a busy week is acceptable. The day when going on a long walk just to get protein ice cream is reasonable.&lt;/p&gt;
+
+&lt;p&gt;I’ve managed to barely keep my streaks in order today, meditating on the subway while being very late and doing a warm-up right before the algorithms group meeting.&lt;/p&gt;
+
+&lt;p&gt;On top of my algorithms course I still have to catch up with the rest of the group, I’ve started a new CS course in Python (because I want to learn the language and ‘proper’ programming better) and I’m getting ready for the course on audio analysis (because I want to implement some of it in my language-learning app). It does seem like much, but structured courses and peer pressure help with motivation, so I’m going to try managing all three of them over the next few weeks.&lt;/p&gt;
+
+&lt;p&gt;I wanted to create a simple and fast github-like calendar for my blog, which turned out to be surprisingly difficult, as I’ve managed to forget all of my JS over the past few months. I got to a &lt;a href=&quot;https://github.com/trueskawka/simple_js_calendar&quot;&gt;Minimum Viable Product&lt;/a&gt; after a few hours of relearning the language. I’m planning to introduce more web development back into my routine, I don’t want it to get rusty.&lt;/p&gt;
+
+&lt;p&gt;As for the cat sitter gig, I got the dibs on spending a weekend with these &lt;a href=&quot;http://twitter.com/bigfloofs&quot;&gt;two sweet fluffs&lt;/a&gt; in two weeks, which will be a great opportunity to have a completely distraction free few days (minus the belly rubs), focusing on my learning.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 18</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/01/RC-day-18.html" rel="alternate" type="text/html" title="RC - day 18" /><published>2016-09-01T23:25:31-04:00</published><updated>2016-09-01T23:25:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/01/RC-day-18</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/01/RC-day-18.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;check-in&lt;/li&gt;
@@ -570,61 +591,4 @@ Some new photos to brighten the day.
   &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Some new photos to brighten the day.</summary></entry><entry><title>RC - day 13</title><link href="https://trueskawka.github.io//usa/rc/log/2016/08/27/RC-day-13.html" rel="alternate" type="text/html" title="RC - day 13" /><published>2016-08-27T22:05:31-04:00</published><updated>2016-08-27T22:05:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/08/27/RC-day-13</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/08/27/RC-day-13.html">&lt;p&gt;
-Achievements:
-&lt;ul&gt;
-&lt;li&gt;self check-in&lt;/li&gt;
-&lt;li&gt;keeping the meditation habit streak&lt;/li&gt;
-&lt;li&gt;warm-ups in Ruby&lt;/li&gt;
-&lt;li&gt;first board-game design session with Tanoy&lt;/li&gt;
-&lt;li&gt;failed shopping turned into a successful trip&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-Today I've learned how post-it notes and a few hours can be used for an awesome afternoon. I've finally had my first board-game design session with Tanoy.
-&lt;/p&gt;
-&lt;p&gt;
-The game theme is sailing in a small boat through open and dangerous seas. First we did some brainstorming, while munching cookies, and after we've been happy with the initial ideas we got down to prototyping. Making the tiny boats, board and all kinds of tokens made it suddenly very real.
-&lt;/p&gt;
-&lt;p&gt;
-The main takeout from today is that we need to play the game and adjust, rather than just talk about concepts and get more and more excited. Next session will probably happen next week and, if everything goes well, we'll soon create prototypes to play them with other RCers.
-&lt;/p&gt;
-&lt;p&gt;
-This game is supposed to be mainly a case study for game design, so I can learn to do it better. But if something cute and fun happens on the way, then it's even more worth it.
-&lt;/p&gt;
-&lt;p&gt;
-As for the failed shopping - I wanted to buy shoes, as I've managed to break a pair during yesterday's karaoke. I ended up getting a big mug and two books.
-&lt;/p&gt;
-&lt;p&gt;
-&lt;p&gt;&lt;i&gt;click an image to see the gallery&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/fun/fun_main_1.jpg&quot; data-lightbox=&quot;fun&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/fun/fun_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;fun_main_1.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/fun/fun_main_2.jpg&quot; data-lightbox=&quot;fun&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/fun/fun_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;fun_main_2.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/fun/fun_main_3.jpg&quot; data-lightbox=&quot;fun&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/fun/fun_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;fun_main_3.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;/p&gt;
-
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:
-
-self check-in
-keeping the meditation habit streak
-warm-ups in Ruby
-first board-game design session with Tanoy
-failed shopping turned into a successful trip</summary></entry></feed>
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Some new photos to brighten the day.</summary></entry></feed>
