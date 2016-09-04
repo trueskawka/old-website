@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-03T12:20:57-04:00</updated><id>https://trueskawka.github.io//pl/</id><title>Alicja Raszkowska</title><entry><title>ElixirConf 2016 - gościnny wpis Juliano</title><link href="https://trueskawka.github.io//pl/usa/rc/guest/2016/09/03/Elixir-conference-guest-post.html" rel="alternate" type="text/html" title="ElixirConf 2016 - gościnny wpis Juliano" /><published>2016-09-03T12:14:31-04:00</published><updated>2016-09-03T12:14:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/guest/2016/09/03/Elixir-conference-guest-post</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/guest/2016/09/03/Elixir-conference-guest-post.html">&lt;p&gt;Hej, jeśli to czytasz (szczególnie polskie tłumaczenie Alicji), to na pewno mnie jeszcze nie znasz. Pozwól, że się przedstawię.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-04T19:15:52-04:00</updated><id>https://trueskawka.github.io//pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 20</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/09/04/RC-day-20.html" rel="alternate" type="text/html" title="RC - dzień 20" /><published>2016-09-04T19:13:31-04:00</published><updated>2016-09-04T19:13:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/09/04/RC-day-20</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/09/04/RC-day-20.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;jednoosobowy check-in&lt;/li&gt;
+  &lt;li&gt;kolejny dzień porannej medytacji&lt;/li&gt;
+  &lt;li&gt;rozgrzewka w Ruby&lt;/li&gt;
+  &lt;li&gt;przygotowanie szkicu prezentacji na czwartek&lt;/li&gt;
+  &lt;li&gt;użycie Juliano jako kaczuszki programistycznej&lt;/li&gt;
+  &lt;li&gt;wyprawa na koreańskie barbecue z Cihanem, Joe i Juliano&lt;/li&gt;
+  &lt;li&gt;dalsza lektura “Gödel, Escher, Bach”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To była długa noc. Poszliśmy na koreańskie barbecue i planowaliśmy wrócić wcześnie, żeby jeszcze trochę poprogramować, ale z barbecue przenieśliśmy się na dalsze picie soju (koreańska “słaba” wódka) i zakończyliśmy wyprawę na karaoke. Doskonale się bawiliśmy i w kolejnym tygodniu spróbujemy polskiej kuchni, bo Joe był dość zmęczony rolą przewodnika.&lt;/p&gt;
+
+&lt;p&gt;Uznałam, że w czwartek zrobię prezentację na zupełnie inny temat, niż pierwotnie planowałam. Zamiast przyspieszać moją analizę audio i najprawdopodobniej po raz kolejny nie dotrzymać terminu, chcę trochę poopowiadać o blogu. Z pobocznego małego projektu rozrósł się do rozwijającego przedsięwzięcia, czego się nie spodziewałam.&lt;/p&gt;
+
+&lt;p&gt;Juliano był całkiem przydatny jako programistyczna kaczuszka do Jekylla.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/bbq_main_1.jpg&quot; data-lightbox=&quot;bonding/bbq&quot; data-title=&quot;Joe i Juliano&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/bbq_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;bbq_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/bbq_main_2.jpg&quot; data-lightbox=&quot;bonding/bbq&quot; data-title=&quot;Ja i Cihan&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/bbq_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;bbq_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/bbq_main_3.jpg&quot; data-lightbox=&quot;bonding/bbq&quot; data-title=&quot;Dodatki do barbecue&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/bbq_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;bbq_main_3.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/bbq_main_4.jpg&quot; data-lightbox=&quot;bonding/bbq&quot; data-title=&quot;Grubo krojony boczek&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/bbq_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;bbq_main_4.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/bbq_main_5.jpg&quot; data-lightbox=&quot;bonding/bbq&quot; data-title=&quot;Pyszny makaron w kolejnym lokalu&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/bbq_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;bbq_main_5.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/bbq_main_6.jpg&quot; data-lightbox=&quot;bonding/bbq&quot; data-title=&quot;Poszukiwania miejsca z karaoke&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/bbq_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;bbq_main_6.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Post jest spóźniony z powodu wyprawy na barbecue.&lt;/em&gt;&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>ElixirConf 2016 - gościnny wpis Juliano</title><link href="https://trueskawka.github.io//pl/usa/rc/guest/2016/09/03/Elixir-conference-guest-post.html" rel="alternate" type="text/html" title="ElixirConf 2016 - gościnny wpis Juliano" /><published>2016-09-03T12:14:31-04:00</published><updated>2016-09-03T12:14:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/guest/2016/09/03/Elixir-conference-guest-post</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/guest/2016/09/03/Elixir-conference-guest-post.html">&lt;p&gt;Hej, jeśli to czytasz (szczególnie polskie tłumaczenie Alicji), to na pewno mnie jeszcze nie znasz. Pozwól, że się przedstawię.&lt;/p&gt;
 
 &lt;p&gt;Mam na imię Juliano i jestem kolegą Alicji z Recurse Center.&lt;/p&gt;
 
@@ -6,7 +66,7 @@
 
 &lt;p&gt;Elixir to rozwijający się język programowania, stworzony przez Brazylijczyka. Wykorzystuje wiele starszych technologii (Erlang) i jest zbudowany w nowoczesny, atrakcyjny i dobrze przemyślany sposób, umożliwiając szerokiej rzeszy programistów dostęp do świetnych rozwiązań. Sama społeczność jest również niesamowita - ludzie są życzliwi i cierpliwi, starają się też uprzystępnić narzędzia dla każdego, od początkującego do doświadczonego użytkownika.&lt;/p&gt;
 
-&lt;p&gt;ElixirConf 2016 odbyło się w &lt;a href=&quot;http://www.swandolphin.com/&quot;&gt;Disney Swan and Dolphin Resort&lt;/a&gt;. Ciągle lało i mieszkańcy Orlando przebąkiwali coś nawet o “sezonie burzowym”, co moim zdaniem było znacznie ciekawsze niż sam Disney.&lt;/p&gt;
+&lt;p&gt;ElixirConf 2016 odbyło się w &lt;a href=&quot;http://www.swandolphin.com/&quot;&gt;Disney Swan and Dolphin Resert&lt;/a&gt;. Ciągle lało i mieszkańcy Orlando przebąkiwali coś nawet o “sezonie burzowym”, co moim zdaniem było znacznie ciekawsze niż sam Disney.&lt;/p&gt;
 
 &lt;p&gt;Odkąd przyjechałem do Nowego Jorku, ciągle oczekiwałem ataku grypy. Było upalnie, stacje metra były jeszcze gorętsze, a pociągi przeraźliwie zimne. Nowojorskie metro jest jak ogromna maszyna do pasteryzacji ludzi, gdzie na przemian pieką ich i zamrażają pomiędzy stacjami i przesiadkami, aż wyginą wszystkie bakterie. Przeziębienie dopadło mnie idealnie na konferencję i spędziłem pierwszy dzień z gorączką, chorym gardłem i bardzo głębokim głosem. Jednak mimo tego było warto się wybrać.&lt;/p&gt;
 
@@ -405,90 +465,4 @@ kolejny dzień porannej medytacji
 rozgrzewka w Ruby
 dalsze uczenie się algorytmów
 wreszcie zaczęłam czytać &quot;Gödel, Escher, Bach&quot;
-kupiłam książkę &quot;Elementy stylu&quot;</summary></entry><entry><title>Wycieczka do ogrodów Cloisters</title><link href="https://trueskawka.github.io//pl/usa/nyc/trip/2016/08/28/cloisters-trip.html" rel="alternate" type="text/html" title="Wycieczka do ogrodów Cloisters" /><published>2016-08-28T19:10:31-04:00</published><updated>2016-08-28T19:10:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/nyc/trip/2016/08/28/cloisters-trip</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/nyc/trip/2016/08/28/cloisters-trip.html">&lt;p&gt;
-Dzisiaj spędziłam trochę czasu z Ewą i Shawnem - po śniadaniowym cieście marchewkowym, wybraliśmy się na spacer do ogrodów Cloisters.
-&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&quot;http://www.metmuseum.org/visit/met-cloisters&quot;&gt;Cloisters&lt;/a&gt; to miejsce związane ze średnowieczną sztuką. Tylko zajrzałam do środka, ale następnym razem na pewno pokuszę się o pełną wycieczkę. Wewnątrz jest pokój jednorożców  (&lt;a href=&quot;http://www.atlasobscura.com/places/unicorn-tapestries-at-the-cloisters&quot;&gt;trochę zdjęć&lt;/a&gt;), ktoś najwyraźniej bardzo je lubił.
-&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_1.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Część stacji metra&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_1.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_2.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Budynki zatopione w zieleni&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_2.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_3.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Szare wiewiórki są całkiem spore&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_3.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_4.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Jest nawet malutki domek&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_4.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_5.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Widać skały, na których zbudowano Nowy Jork&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_5.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_6.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Nie ma to jak zapalanie lamp w słoneczny dzień&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_6.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_7.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;New Jersey wygląda stąd jak las&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_7.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_7.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_8.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Beagle prawie-albinos&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_8.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_8.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_9.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Zielone tipi moich nowych przyjaciół&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_9.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_9.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_10.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Tego nazwałam George - nie był zbyt szczęśliwy i uciekł&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_10.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_10.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_11.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;Cloisters z zewnątrz&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_11.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_11.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_main_12.jpg&quot; data-lightbox=&quot;cloisters&quot; data-title=&quot;I ze mną w środku&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/cloisters/cloisters_thumb_12.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cloisters_main_12.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Dzisiaj spędziłam trochę czasu z Ewą i Shawnem - po śniadaniowym cieście marchewkowym, wybraliśmy się na spacer do ogrodów Cloisters.
-
-
-Cloisters to miejsce związane ze średnowieczną sztuką. Tylko zajrzałam do środka, ale następnym razem na pewno pokuszę się o pełną wycieczkę. Wewnątrz jest pokój jednorożców  (trochę zdjęć), ktoś najwyraźniej bardzo je lubił.</summary></entry></feed>
+kupiłam książkę &quot;Elementy stylu&quot;</summary></entry></feed>
