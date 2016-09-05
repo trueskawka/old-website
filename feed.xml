@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-05T16:31:13-04:00</updated><id>https://trueskawka.github.io//</id><title>Alicja Raszkowska</title><entry><title>RC - day 21</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-21.html" rel="alternate" type="text/html" title="RC - day 21" /><published>2016-09-04T22:11:31-04:00</published><updated>2016-09-04T22:11:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-21</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-21.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-05T16:50:23-04:00</updated><id>https://trueskawka.github.io//</id><title>Alicja Raszkowska</title><entry><title>RC - day 21</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-21.html" rel="alternate" type="text/html" title="RC - day 21" /><published>2016-09-04T22:11:31-04:00</published><updated>2016-09-04T22:11:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-21</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-21.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;self check-in&lt;/li&gt;
@@ -350,7 +350,35 @@
 
 &lt;p&gt;I left early, still feeling a little bit feverish, but very much inspired to go back to the RC and write more Elixir.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;pics coming soon&lt;/em&gt;&lt;/p&gt;</content><author><name>juliano</name></author><summary>Hi, if you’re reading this (especially Alicja’s Polish translation), then you certainly don’t know me yet. Let me introduce myself.</summary></entry><entry><title>RC - day 19</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/02/RC-day-19.html" rel="alternate" type="text/html" title="RC - day 19" /><published>2016-09-02T23:20:31-04:00</published><updated>2016-09-02T23:20:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/02/RC-day-19</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/02/RC-day-19.html">&lt;p&gt;Achievements:&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;click an image to see the gallery&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/guest/elixirconf/elixirconf_main_1.jpg&quot; data-lightbox=&quot;RC/guest/elixirconf&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/guest/elixirconf/elixirconf_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;elixirconf_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/guest/elixirconf/elixirconf_main_2.jpg&quot; data-lightbox=&quot;RC/guest/elixirconf&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/guest/elixirconf/elixirconf_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;elixirconf_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/guest/elixirconf/elixirconf_main_3.jpg&quot; data-lightbox=&quot;RC/guest/elixirconf&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/guest/elixirconf/elixirconf_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;elixirconf_main_3.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/guest/elixirconf/elixirconf_main_4.jpg&quot; data-lightbox=&quot;RC/guest/elixirconf&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/guest/elixirconf/elixirconf_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;elixirconf_main_4.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;</content><author><name>juliano</name></author><summary>Hi, if you’re reading this (especially Alicja’s Polish translation), then you certainly don’t know me yet. Let me introduce myself.</summary></entry><entry><title>RC - day 19</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/02/RC-day-19.html" rel="alternate" type="text/html" title="RC - day 19" /><published>2016-09-02T23:20:31-04:00</published><updated>2016-09-02T23:20:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/02/RC-day-19</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/02/RC-day-19.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;self check-in&lt;/li&gt;
