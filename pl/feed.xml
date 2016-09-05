@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-04T21:58:16-04:00</updated><id>https://trueskawka.github.io//pl/</id><title>Alicja Raszkowska</title><entry><title>Central Park</title><link href="https://trueskawka.github.io//pl/usa/nyc/trip/2016/09/04/central-park-trip.html" rel="alternate" type="text/html" title="Central Park" /><published>2016-09-04T19:46:31-04:00</published><updated>2016-09-04T19:46:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/nyc/trip/2016/09/04/central-park-trip</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/nyc/trip/2016/09/04/central-park-trip.html">&lt;p&gt;Wreszcie wybrałam się do Central Parku. Zaczynając na samej górze przy 110-tej ulicy i wychodząc niemal dwie godziny później przy 59-tej, było to przyjemne i bardzo uspokajające doświadczenie. W czasie spaceru zupełnie zapomniałam, że jestem w wielkim i wiecznie pełnym ruchu mieście.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-04T22:15:41-04:00</updated><id>https://trueskawka.github.io//pl/</id><title>Alicja Raszkowska</title><entry><title>RC - day 21</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/09/04/RC-day-21.html" rel="alternate" type="text/html" title="RC - day 21" /><published>2016-09-04T22:11:31-04:00</published><updated>2016-09-04T22:11:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/09/04/RC-day-21</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/09/04/RC-day-21.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;jednoosobowy check-in&lt;/li&gt;
+  &lt;li&gt;kolejny dzień porannej medytacji&lt;/li&gt;
+  &lt;li&gt;rozgrzewka w Ruby&lt;/li&gt;
+  &lt;li&gt;spacer po Central Parku&lt;/li&gt;
+  &lt;li&gt;nauczenie się trochę nt. obsługi wyjątków w Ruby&lt;/li&gt;
+  &lt;li&gt;reorganizacja na kolejne trzy tygodnie&lt;/li&gt;
+  &lt;li&gt;ustawienie podcastów na najbliższy tydzień&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Po długiej nocy przychodzi krótki dzień.&lt;/p&gt;
+
+&lt;p&gt;Nie zrobiłam dzisiaj zbyt wiele w kierunku moich celów, ponieważ byłam zbyt rozproszona, żeby być produktywna. Po przejściu przez Central Park skupiłam się głównie na lepszej organizacji pracy i przemyślałam pierwsze trzy tygodnie mojego pobytu. Poszło całkiem nieźle, ale chciałabym być bardziej skupiona i mieć więcej namacalnych rezultatów.&lt;/p&gt;
+
+&lt;p&gt;Poprogramowałam trochę w Ruby i nauczyłam się sporo na temat obsługi wyjątków, ale nie jestem jeszcze pewna, czy potrafię to robić na tyle swobodnie, żeby czuć się pewnie. Przygotowałam się też do regularnego słuchania podcastów i mam nadzieję, że uda mi się rozwinąć nowy nawyk w ciągu najbliższych tygodni.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>Central Park</title><link href="https://trueskawka.github.io//pl/usa/nyc/trip/2016/09/04/central-park-trip.html" rel="alternate" type="text/html" title="Central Park" /><published>2016-09-04T19:46:31-04:00</published><updated>2016-09-04T19:46:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/nyc/trip/2016/09/04/central-park-trip</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/nyc/trip/2016/09/04/central-park-trip.html">&lt;p&gt;Wreszcie wybrałam się do Central Parku. Zaczynając na samej górze przy 110-tej ulicy i wychodząc niemal dwie godziny później przy 59-tej, było to przyjemne i bardzo uspokajające doświadczenie. W czasie spaceru zupełnie zapomniałam, że jestem w wielkim i wiecznie pełnym ruchu mieście.&lt;/p&gt;
 
 &lt;p&gt;Trochę przypomina mi londyńskie parki, w szczególności ogromny Regent’s Park (tam też jest londyńskie ZOO), ale był znacznie mniej uporządkowany i przez to bardziej interesujący. Wygląda nieco jak zachowany kawałek dzikiej natury, co jest dziwne, biorąc pod uwagę, jak wiele planowania włożono w jego założenie.&lt;/p&gt;
 
@@ -595,58 +611,4 @@ Tak krok po kroku wyglądało tworzenie modelu 3D papierowej łódeczki.
   &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Tak krok po kroku wyglądało tworzenie modelu 3D papierowej łódeczki.</summary></entry><entry><title>RC - dzień 16</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/08/30/RC-day-16.html" rel="alternate" type="text/html" title="RC - dzień 16" /><published>2016-08-30T23:45:31-04:00</published><updated>2016-08-30T23:45:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/08/30/RC-day-16</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/08/30/RC-day-16.html">&lt;p&gt;
-Osiągnięcia:
-&lt;ul&gt;
-&lt;li&gt;check-in&lt;/li&gt;
-&lt;li&gt;kolejny dzień porannej medytacji&lt;/li&gt;
-&lt;li&gt;rozgrzewka w Pythonie&lt;/li&gt;
-&lt;li&gt;dalsza zabawa z algorytmami&lt;/li&gt;
-&lt;li&gt;dużo czytania nt. algorytmów i Pythona&lt;/li&gt;
-&lt;li&gt;spotkanie Hack&amp;amp;&amp;amp;Tell&lt;/li&gt;
-&lt;li&gt;powstrzymanie się od kupienia kolejnej książki zanim nie przeczytam wszystkich zaplanowanych w najbliższym czasie&lt;/li&gt;
-&lt;li&gt;karma nagrodziła mnie wygraniem książki na meetupie&lt;/li&gt;
-&lt;li&gt;dotarcie do RC przed 7:30&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-Nie mogłam dzisiaj spać, więc przyjechałam do RC najwcześniej, jak się dało, bo w mieszkaniu i tak nie ma zbyt wiele do roboty. Rano pociągi nie są aż tak opóźnione i nie jest też jeszcze tak gorąco, więc może to być dobra długoterminowa strategia.
-&lt;/p&gt;
-&lt;p&gt;
-Wreszcie udało mi się ocenić, ile tak naprawdę czasu potrzebuję rano, zanim zacznę być produktywna. Śniadanie, kawa, sprawdzanie maila i różnych kanałów z informacjami - nigdy nie sądziłam, że zajmuje to aż półtorej godziny. To może wyjaśniać, dlaczego zazwyczaj jestem zbyt optymistyczna przy ocenaniu czasu na zadania. Niekoniecznie oznacza to, że muszę działać efektywniej, ale świadomość pomaga - zawsze wydawało mi się, że to przecież &quot;tylko&quot; kilka rzeczy.
-&lt;/p&gt;
-&lt;p&gt;
-Jestem zadowolna z dzisiejszego poziomu skupienia i produktywności. Poczytałam sporo o algorytmach, poprogramowałam, czułam, że robię coś w kierunku bycia lepszym programistą. Jedynym problemem było to, że w połowie dnia potrzebowałam drzemki, bo zazwyczaj nie wstaję tak wcześnie. Może to jest po prostu mój sposób pracy i powinnam to wziąć pod uwagę w kolejnych tygodniach.
-&lt;/p&gt;
-&lt;p&gt;
-Poszłam do księgarni z używanymi książkami i udało mi się nie kupić kolejnej książki, co jest osiągnięciem, biorąc pod uwagę, że to prawdopodobnie rodzinne uzależnienie.
-&lt;/p&gt;
-&lt;p&gt;
-Wieczór był inspirujący i interesujący. Przeszłam się na spotkanie Hack&amp;amp;&amp;amp;Tell - sesji pięciominutowych prezentacji z pięciominutowymi sesjami na pytania. Prezentacje dotyczyły projektów, które różne osoby robią w swoim wolnym czasie dla czystej przyjemności. Wpadłam na kilka ciekawych pomysłów i teraz będę musiała się powstrzymywać, żeby się skupić. Posłuchałam o:
-&lt;ul&gt;
-&lt;li&gt;wirtualnej rzeczywistości w JavaScript - &lt;a href=&quot;https://webvr.info/&quot;&gt;WebVR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/turing-incomplete/turing-incomtweet&quot;&gt;autmatyzacji wrzucania postów na Twittera&lt;/a&gt; dla podcastu &lt;a href=&quot;http://turing.cool/&quot;&gt;Turing incomplete&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;nowym jęzku programowania - &lt;a href=&quot;http://www.ziglang.org&quot;&gt;Zig&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;przydatnej stronie &lt;a href=&quot;http://www.ismytrainfucked.com&quot;&gt;ismytrainfucked.com&lt;/a&gt;, pokazującej które linie metra w Nowym Jorku mają obecnie opóźnienia&lt;/li&gt;
-&lt;li&gt;gry opartej na danych z Google ngrams - &quot;Word Freq&quot; (częstotliwość słów)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://boustro.com/app&quot;&gt;aplikacji&lt;/a&gt; do &lt;a href=&quot;https://www.wikiwand.com/pl/Bustrofedon&quot;&gt;bustryfikacji&lt;/a&gt; tekstu&lt;/li&gt;
-&lt;li&gt;aplikacji w JavaScript application do arkuszy kalkulacyjnych - &lt;a href=&quot;https://github.com/gmarceau/spread.js&quot;&gt;spread.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;wizualizacji wykroczeń w Nowym Jorku w podziale na okręgi policyjne&lt;/li&gt;
-&lt;li&gt;symulację sposobu w jaki widzą daltoniści, żeby pomóc projektantom tworzyć odpowiednie produkty&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/JonHMChan/descartes&quot;&gt;Descartes&lt;/a&gt; - CSS pisany w JS&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-&lt;p&gt;
-Nie sądzę, żeby udało mi się całkowicie powstrzymać od pobocznych projektów, bo wygrałam książkę &lt;a href=&quot;http://shop.oreilly.com/product/0636920022657.do&quot;&gt;&lt;i&gt;Kinect Hacks - Tips &amp;amp; Tools for Motion and Pattern Detection&lt;/i&gt;&lt;/a&gt; (nt. analizy ruchu). Mam kilka szalonych pomysłów z wykorzystaniem nagrań Ginger.
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:
-
-check-in
-kolejny dzień porannej medytacji
-rozgrzewka w Pythonie
-dalsza zabawa z algorytmami
-dużo czytania nt. algorytmów i Pythona
-spotkanie Hack&amp;amp;&amp;amp;Tell
-powstrzymanie się od kupienia kolejnej książki zanim nie przeczytam wszystkich zaplanowanych w najbliższym czasie
-karma nagrodziła mnie wygraniem książki na meetupie
-dotarcie do RC przed 7:30</summary></entry></feed>
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Tak krok po kroku wyglądało tworzenie modelu 3D papierowej łódeczki.</summary></entry></feed>

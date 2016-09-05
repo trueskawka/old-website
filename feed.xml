@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-04T21:58:16-04:00</updated><id>https://trueskawka.github.io//</id><title>Alicja Raszkowska</title><entry><title>Central Park trip</title><link href="https://trueskawka.github.io//usa/nyc/trip/2016/09/04/central-park-trip.html" rel="alternate" type="text/html" title="Central Park trip" /><published>2016-09-04T19:46:31-04:00</published><updated>2016-09-04T19:46:31-04:00</updated><id>https://trueskawka.github.io//usa/nyc/trip/2016/09/04/central-park-trip</id><content type="html" xml:base="https://trueskawka.github.io//usa/nyc/trip/2016/09/04/central-park-trip.html">&lt;p&gt;I finally went to Central Park. Starting at the very top at 110th St and exiting nearly two hours later around the 59th St, it was a calming and wonderful experience. During the walk I completely forgot I’m in a vast and restless city.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-04T22:15:41-04:00</updated><id>https://trueskawka.github.io//</id><title>Alicja Raszkowska</title><entry><title>RC - day 21</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-21.html" rel="alternate" type="text/html" title="RC - day 21" /><published>2016-09-04T22:11:31-04:00</published><updated>2016-09-04T22:11:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-21</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-21.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;self check-in&lt;/li&gt;
+  &lt;li&gt;keeping the meditation habit streak&lt;/li&gt;
+  &lt;li&gt;warm-up in Ruby&lt;/li&gt;
+  &lt;li&gt;went to Central Park&lt;/li&gt;
+  &lt;li&gt;learned some exception handling in Ruby&lt;/li&gt;
+  &lt;li&gt;reorganized for the next quarter of my batch&lt;/li&gt;
+  &lt;li&gt;set-up podcasts for the week&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After a long night comes a short day.&lt;/p&gt;
+
+&lt;p&gt;I didn’t do much today in terms of working towards my goals, as I was too unfocused to be productive. After walking through Central Park, I mostly worked on getting better organized and reflecting on the first quarter of my batch. All in all it went pretty well, but I want to be more focused and have more tangible products while working towards my goals.&lt;/p&gt;
+
+&lt;p&gt;I programmed a bit in Ruby today and learned a lot about exception handling, though I’m not entirely sure I know enough to feel confident using it. I also set-up a long-awaited podcast habit and hope to strengthen it over the next few weeks.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>Central Park trip</title><link href="https://trueskawka.github.io//usa/nyc/trip/2016/09/04/central-park-trip.html" rel="alternate" type="text/html" title="Central Park trip" /><published>2016-09-04T19:46:31-04:00</published><updated>2016-09-04T19:46:31-04:00</updated><id>https://trueskawka.github.io//usa/nyc/trip/2016/09/04/central-park-trip</id><content type="html" xml:base="https://trueskawka.github.io//usa/nyc/trip/2016/09/04/central-park-trip.html">&lt;p&gt;I finally went to Central Park. Starting at the very top at 110th St and exiting nearly two hours later around the 59th St, it was a calming and wonderful experience. During the walk I completely forgot I’m in a vast and restless city.&lt;/p&gt;
 
 &lt;p&gt;It reminded me partially of London parks, especially the enormous size of Regent’s Park, but it was far less orderly and thus more interesting. It looks like a preserved part of a once wild environment, which is strange considering how much planning went into creating it.&lt;/p&gt;
 
@@ -251,7 +267,7 @@
 &lt;/p&gt;</content><author><name>alicja</name></author><summary>More NYC photos.</summary></entry><entry><title>RC - day 20</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-20.html" rel="alternate" type="text/html" title="RC - day 20" /><published>2016-09-04T19:13:31-04:00</published><updated>2016-09-04T19:13:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-20</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-20.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;check-in&lt;/li&gt;
+  &lt;li&gt;self check-in&lt;/li&gt;
   &lt;li&gt;keeping the meditation habit streak&lt;/li&gt;
   &lt;li&gt;warm-up in Ruby&lt;/li&gt;
   &lt;li&gt;drafted presentation for Thursday&lt;/li&gt;
@@ -595,58 +611,4 @@ That's how creating the 3D project of a paper boat looked like, step-by-step.
   &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>That's how creating the 3D project of a paper boat looked like, step-by-step.</summary></entry><entry><title>RC - day 16</title><link href="https://trueskawka.github.io//usa/rc/log/2016/08/30/RC-day-16.html" rel="alternate" type="text/html" title="RC - day 16" /><published>2016-08-30T23:45:31-04:00</published><updated>2016-08-30T23:45:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/08/30/RC-day-16</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/08/30/RC-day-16.html">&lt;p&gt;
-Achievements:
-&lt;ul&gt;
-&lt;li&gt;check-in&lt;/li&gt;
-&lt;li&gt;keeping the meditation habit streak&lt;/li&gt;
-&lt;li&gt;warm-up in Python&lt;/li&gt;
-&lt;li&gt;further work on algorithms course&lt;/li&gt;
-&lt;li&gt;reading a lot about algorithms &amp;amp; Python&lt;/li&gt;
-&lt;li&gt;going to the Hack&amp;amp;&amp;amp;Tell meetup&lt;/li&gt;
-&lt;li&gt;managed to not buy another book before I finish my current reading shortlist&lt;/li&gt;
-&lt;li&gt;karma rewarded me with winning a book at the meetup&lt;/li&gt;
-&lt;li&gt;got to the RC before 7:30&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-I couldn't sleep today so I got to the RC as soon as possible, since there is nothing much I could do at the apartment. In the morning the trains don't have so many delays and it's also not as hot, so it might be a good longterm strategy.
-&lt;/p&gt;
-&lt;p&gt;
-I finally evaluated how much uninterrupted time it takes before I am productive - breakfast, coffee, reading emails, checking social media and various news channels. I never thought it takes about 1.5 hours, which may explain why I always underestimate my workload. It's not that I need to be more efficient with it, just never thought about it much - after all, it's &quot;just&quot; a few things.
-&lt;/p&gt;
-&lt;p&gt;
-I'm pleased with my level of focus and productivity today. I've read a lot of algorithms books, done some coding, felt like I was going in the right direction to be a better programmer. The only downside was I needed a nap halfway through, as I'm not used to getting up so early. Maybe it's just how I'm supposed to work and I should take it into account over the next few weeks.
-&lt;/p&gt;
-&lt;p&gt;
-I went to the used books store and managed not to buy another book, which is something, seeing as it seems to be an addiction that runs in the family.
-&lt;/p&gt;
-&lt;p&gt;
-The evening was fun and inspiring, as I went to the Hack&amp;amp;&amp;amp;Tell meetup - a series of 5-minute presentations followed by 5-minute Q&amp;amp;A sessions about projects people do in their free time for the pure fun of it. I came up with at least a dozen ideas on what I could do and I'll have to keep myself focused, but it was worth it. The presentations were:
-&lt;ul&gt;
-&lt;li&gt;virtual reality in JavaScript - &lt;a href=&quot;https://webvr.info/&quot;&gt;WebVR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/turing-incomplete/turing-incomtweet&quot;&gt;automatisation of Twitter posts&lt;/a&gt; for the &lt;a href=&quot;http://turing.cool/&quot;&gt;Turing incomplete&lt;/a&gt; podcast&lt;/li&gt;
-&lt;li&gt;a new programming language called &lt;a href=&quot;http://www.ziglang.org&quot;&gt;Zig&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;useful and tiny website &lt;a href=&quot;http://www.ismytrainfucked.com&quot;&gt;ismytrainfucked.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;a game with Google ngrams dataset &quot;Word Freq&quot;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://boustro.com/app&quot;&gt;an app&lt;/a&gt; for &lt;a href=&quot;https://www.wikiwand.com/en/Boustrophedon&quot;&gt;buostrofying&lt;/a&gt; text&lt;/li&gt;
-&lt;li&gt;a JavaScript application of spreadsheets called &lt;a href=&quot;https://github.com/gmarceau/spread.js&quot;&gt;spread.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;visualisation of NYC violations by precinct&lt;/li&gt;
-&lt;li&gt;simulation of the way colourblind see the world, to help designers create better products&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/JonHMChan/descartes&quot;&gt;Descartes&lt;/a&gt; - CSS written in JS&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-&lt;p&gt;
-I don't think I'll be able to not do any side projects, as I won a book - &lt;a href=&quot;http://shop.oreilly.com/product/0636920022657.do&quot;&gt;&lt;i&gt;Kinect Hacks - Tips &amp;amp; Tools for Motion and Pattern Detection&lt;/i&gt;&lt;/a&gt;. I'm having some wild ideas about working with videos of Ginger.
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:
-
-check-in
-keeping the meditation habit streak
-warm-up in Python
-further work on algorithms course
-reading a lot about algorithms &amp;amp; Python
-going to the Hack&amp;amp;&amp;amp;Tell meetup
-managed to not buy another book before I finish my current reading shortlist
-karma rewarded me with winning a book at the meetup
-got to the RC before 7:30</summary></entry></feed>
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>That's how creating the 3D project of a paper boat looked like, step-by-step.</summary></entry></feed>
