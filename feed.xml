@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-05T22:29:40-04:00</updated><id>https://trueskawka.github.io//</id><title>Alicja Raszkowska</title><entry><title>RC - day 21</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-21.html" rel="alternate" type="text/html" title="RC - day 21" /><published>2016-09-04T22:11:31-04:00</published><updated>2016-09-04T22:11:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-21</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-21.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-05T22:52:37-04:00</updated><id>https://trueskawka.github.io//</id><title>Alicja Raszkowska</title><entry><title>RC - day 22</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/05/RC-day-22.html" rel="alternate" type="text/html" title="RC - day 22" /><published>2016-09-05T22:40:31-04:00</published><updated>2016-09-05T22:40:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/05/RC-day-22</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/05/RC-day-22.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;self check-in&lt;/li&gt;
+  &lt;li&gt;keeping the meditation habit streak&lt;/li&gt;
+  &lt;li&gt;warm-up in Ruby&lt;/li&gt;
+  &lt;li&gt;chat with Adam on frontend design and workflow&lt;/li&gt;
+  &lt;li&gt;redesigned my main website&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most of the day I’ve been redesigning my &lt;a href=&quot;https://trueskawka.github.io/&quot;&gt;main website&lt;/a&gt; to match the blog. I’ve rewritten and simplified the CSS, done some heavy-lifting with reorganising language versions and created a simple logo out of my initials.&lt;/p&gt;
+
+&lt;p&gt;I had a nice chat with Adam, who pointed out some things I should work on and the general flow of frontend design. It was pretty helpful, as I disregarded the problems that can arise with a “simple” blog design and maintenance (especially the maintenance). My presentation is growing and mutating, I’m not sure how will it look on Thursday.&lt;/p&gt;
+
+&lt;p&gt;As I was feeling unproductive, we went for a short walk with Juliano to get a coffee. Starbucks in Poland may be very different or “Chile Mocha” is something that just doesn’t taste right, either way - don’t drink it. We’ve had a chance to observe some cute and enormous squirrels. Yes, I am going to use squirrel photos to obscure my lower than desired productivity.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;click an image to see the gallery&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/squirrels/squirrels_main_1.jpg&quot; data-lightbox=&quot;bonding/squirrels&quot; data-title=&quot;Just look how cute they are&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/squirrels/squirrels_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;squirrels_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/squirrels/squirrels_main_2.jpg&quot; data-lightbox=&quot;bonding/squirrels&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/squirrels/squirrels_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;squirrels_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/squirrels/squirrels_main_3.jpg&quot; data-lightbox=&quot;bonding/squirrels&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/squirrels/squirrels_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;squirrels_main_3.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/squirrels/squirrels_main_4.jpg&quot; data-lightbox=&quot;bonding/squirrels&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/squirrels/squirrels_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;squirrels_main_4.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/squirrels/squirrels_main_5.jpg&quot; data-lightbox=&quot;bonding/squirrels&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/squirrels/squirrels_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;squirrels_main_5.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 21</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-21.html" rel="alternate" type="text/html" title="RC - day 21" /><published>2016-09-04T22:11:31-04:00</published><updated>2016-09-04T22:11:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-21</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/04/RC-day-21.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;self check-in&lt;/li&gt;
@@ -559,84 +609,4 @@ Together with Jade we created 3D printed paper boat earrings. The first prototyp
   &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Together with Jade we created 3D printed paper boat earrings. The first prototype was a bit too narrow and the walls were very thick, so the second one turned out just perfect with a broader base and slimmer build.</summary></entry><entry><title>Creating a 3D project - paper boat</title><link href="https://trueskawka.github.io//usa/rc/project/2016/08/31/creating-a-3D-project.html" rel="alternate" type="text/html" title="Creating a 3D project - paper boat" /><published>2016-08-31T19:20:31-04:00</published><updated>2016-08-31T19:20:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/project/2016/08/31/creating-a-3D-project</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/project/2016/08/31/creating-a-3D-project.html">&lt;p&gt;
-That's how creating the 3D project of a paper boat looked like, step-by-step.
-&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;click an image to see the gallery&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_main_1.jpg&quot; data-lightbox=&quot;rc/paper_boat/project&quot; data-title=&quot;Starting with 3 points&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_1.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_main_2.jpg&quot; data-lightbox=&quot;rc/paper_boat/project&quot; data-title=&quot;We fill the triangle&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_2.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_main_3.jpg&quot; data-lightbox=&quot;rc/paper_boat/project&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_3.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_main_4.jpg&quot; data-lightbox=&quot;rc/paper_boat/project&quot; data-title=&quot;And then scale it symmetrically&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_4.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_main_5.jpg&quot; data-lightbox=&quot;rc/paper_boat/project&quot; data-title=&quot;And from half boat we make a full boat&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_5.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_main_6.jpg&quot; data-lightbox=&quot;rc/paper_boat/project&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_6.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_main_7.jpg&quot; data-lightbox=&quot;rc/paper_boat/project&quot; data-title=&quot;Adding the lower outer triangle with another point&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_thumb_7.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_7.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_main_8.jpg&quot; data-lightbox=&quot;rc/paper_boat/project&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_thumb_8.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_8.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_main_9.jpg&quot; data-lightbox=&quot;rc/paper_boat/project&quot; data-title=&quot;And the final triangle&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_thumb_9.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_9.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_main_10.jpg&quot; data-lightbox=&quot;rc/paper_boat/project&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_thumb_10.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_10.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_main_11.jpg&quot; data-lightbox=&quot;rc/paper_boat/project&quot; data-title=&quot;Now we just need a loop for the hook&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_thumb_11.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_11.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_main_12.jpg&quot; data-lightbox=&quot;rc/paper_boat/project&quot; data-title=&quot;And make it a bit smoother&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/project/project_thumb_12.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;project_main_12.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>That's how creating the 3D project of a paper boat looked like, step-by-step.</summary></entry></feed>
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Together with Jade we created 3D printed paper boat earrings. The first prototype was a bit too narrow and the walls were very thick, so the second one turned out just perfect with a broader base and slimmer build.</summary></entry></feed>
