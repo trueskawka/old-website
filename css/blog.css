@@ -23,6 +23,12 @@ h2 {
 h3 {
   color:#494949;
   font-weight: 500;
+  line-height: 1.5;
+}
+
+h4 {
+  font-size: 1.1em;
+  font-weight: 100;
 }
 
 .postTitle h3 {
@@ -50,11 +56,17 @@ a:hover {
   color:#9b436d;
 }
 
+header ul {
+  list-style:none;
+  padding: 0;
+}
+
 .icon {
   display: inline-block;
   width: 16px;
   height: 16px;
-  vertical-align: text-top;;
+  vertical-align: text-top;
+  margin-right: 1em;
 }
 
 .wrapper {
@@ -62,8 +74,17 @@ a:hover {
   margin:0 auto;
 }
 
+.main-wrapper {
+  margin-top: 210px;
+}
+
 img {
   max-width:100%;
+}
+
+.pic {
+  height: 200px;
+  border-radius: 5%;
 }
 
 .thumb-img {
@@ -87,7 +108,10 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-#categories {
+#categories,
+#contact,
+#lang,
+#categories-main {
   margin-top: 50px;
 }
 
@@ -104,6 +128,10 @@ section {
 .post {
   padding-bottom: 2em;
   padding-top: 0;
+}
+
+#title-main {
+  text-align: center;
 }
 
 @media print, screen and (max-width: 960px) {
@@ -132,8 +160,17 @@ section {
 
   #calendarView,
   #categories,
-  #rss {
+  #rss,
+  #signature {
     display: none;
+  }
+
+  #title-main {
+    text-align: inherit;
+  }
+
+  .main-wrapper {
+    margin-top: 2em;
   }
 }
 
@@ -144,6 +181,10 @@ section {
 
   header {
     padding:0;
+  }
+
+  pre, code {
+    word-wrap:normal;
   }
 }
 
@@ -165,4 +206,30 @@ section {
   #calendarView {
     display: none;
   }
+}
+
+code, pre {
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  color:#333;
+  font-size:12px;
+}
+
+pre {
+  padding:8px 15px;
+  background: #f8f8f8;
+  border-radius:5px;
+  border:1px solid #e5e5e5;
+  overflow-x: auto;
+}
+
+.col-1 {
+  margin-right: 2em;
+  display: inline-block;
+  vertical-align: top;
+  padding-top: 0.1em;
+}
+
+.col-2 {
+  width: 70%;
+  display: inline-block;
 }
