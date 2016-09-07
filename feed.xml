@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-06T12:25:41-04:00</updated><id>https://trueskawka.github.io//</id><title>Alicja Raszkowska</title><entry><title>RC - day 22</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/05/RC-day-22.html" rel="alternate" type="text/html" title="RC - day 22" /><published>2016-09-05T22:40:31-04:00</published><updated>2016-09-05T22:40:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/05/RC-day-22</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/05/RC-day-22.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-06T23:32:07-04:00</updated><id>https://trueskawka.github.io//</id><title>Alicja Raszkowska</title><entry><title>RC - day 23</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/06/RC-day-23.html" rel="alternate" type="text/html" title="RC - day 23" /><published>2016-09-06T23:00:31-04:00</published><updated>2016-09-06T23:00:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/06/RC-day-23</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/06/RC-day-23.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;check-in&lt;/li&gt;
+  &lt;li&gt;keeping the meditation habit streak&lt;/li&gt;
+  &lt;li&gt;warm-up in Python&lt;/li&gt;
+  &lt;li&gt;pairing with Juan on Jekyll plugin&lt;/li&gt;
+  &lt;li&gt;added subpages for every date and improved calendar&lt;/li&gt;
+  &lt;li&gt;worked on presentation&lt;/li&gt;
+  &lt;li&gt;started writing a GitBook on Jekyll&lt;/li&gt;
+  &lt;li&gt;slowly getting addicted to podcasts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This week I’ve switched to working mostly with Jekyll, as the blog and website turned out to be a pretty interesting side project. I’ve started writing a &lt;a href=&quot;https://www.gitbook.com/book/trueskawka/so-you-want-a-jekyll-blog/&quot;&gt;GitBook&lt;/a&gt; on Jekyll (or more accurately - I wrote a &lt;em&gt;Readme&lt;/em&gt; draft), as a byproduct of my learning efforts, as it may be useful to others.&lt;/p&gt;
+
+&lt;p&gt;I’ve had a chance to pair with Juan and understand better how Jekyll plugins work. Together we’ve created a plugin for generating a subpage for every category and date. I then implemented them in my calendar - now you can click on any date that has posts and be redirected to an appropriate subpage.&lt;/p&gt;
+
+&lt;p&gt;I also worked on my presentation, as 5 minutes needs far more work than a half-hour format, which I’m generally used to. I’m keeping it fun and simple, hopefully it will be interesting enough.&lt;/p&gt;
+
+&lt;p&gt;Podcasts are great, I’m listening to them whenever I’m not working. The thread on Zulip grew pretty fast and now I have far more recommendations than I could hope to check in the next month, but that just makes it a challenge, doesn’t it? So far I’ve only listened to all &lt;a href=&quot;https://overcast.fm/itunes521594713/you-are-not-so-smart&quot;&gt;You are not so smart&lt;/a&gt; episodes on logical fallacies and some &lt;a href=&quot;https://overcast.fm/itunes318345767/the-partially-examined-life-philosophy-podcast&quot;&gt;Partially Examined Life&lt;/a&gt;, but the list is slowly growing.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 22</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/05/RC-day-22.html" rel="alternate" type="text/html" title="RC - day 22" /><published>2016-09-05T22:40:31-04:00</published><updated>2016-09-05T22:40:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/05/RC-day-22</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/05/RC-day-22.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;self check-in&lt;/li&gt;
@@ -64,7 +83,7 @@
 
 &lt;p&gt;I didn’t do much today in terms of working towards my goals, as I was too unfocused to be productive. After walking through Central Park, I mostly worked on getting better organized and reflecting on the first quarter of my batch. All in all it went pretty well, but I want to be more focused and have more tangible products while working towards my goals.&lt;/p&gt;
 
-&lt;p&gt;I programmed a bit in Ruby today and learned a lot about exception handling, though I’m not entirely sure I know enough to feel confident using it. I also set-up a long-awaited podcast habit and hope to strengthen it over the next few weeks.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>Central Park trip</title><link href="https://trueskawka.github.io//usa/nyc/trip/2016/09/04/central-park-trip.html" rel="alternate" type="text/html" title="Central Park trip" /><published>2016-09-04T19:46:31-04:00</published><updated>2016-09-04T19:46:31-04:00</updated><id>https://trueskawka.github.io//usa/nyc/trip/2016/09/04/central-park-trip</id><content type="html" xml:base="https://trueskawka.github.io//usa/nyc/trip/2016/09/04/central-park-trip.html">&lt;p&gt;I finally went to Central Park. Starting at the very top at 110th St and exiting nearly two hours later around the 59th St, it was a calming and wonderful experience. During the walk I completely forgot I’m in a vast and restless city.&lt;/p&gt;
+&lt;p&gt;I programmed a bit in Ruby today and learned a lot about exception handling, though I’m not entirely sure I know enough to feel confident using it. I also set-up a long-awaited podcast habit and hope to strengthen it over the next few weeks.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>Central Park trip</title><link href="https://trueskawka.github.io//usa/nyc/trips/2016/09/04/central-park-trip.html" rel="alternate" type="text/html" title="Central Park trip" /><published>2016-09-04T19:46:31-04:00</published><updated>2016-09-04T19:46:31-04:00</updated><id>https://trueskawka.github.io//usa/nyc/trips/2016/09/04/central-park-trip</id><content type="html" xml:base="https://trueskawka.github.io//usa/nyc/trips/2016/09/04/central-park-trip.html">&lt;p&gt;I finally went to Central Park. Starting at the very top at 110th St and exiting nearly two hours later around the 59th St, it was a calming and wonderful experience. During the walk I completely forgot I’m in a vast and restless city.&lt;/p&gt;
 
 &lt;p&gt;It reminded me partially of London parks, especially the enormous size of Regent’s Park, but it was far less orderly and thus more interesting. It looks like a preserved part of a once wild environment, which is strange considering how much planning went into creating it.&lt;/p&gt;
 
@@ -553,60 +572,4 @@
 
 &lt;p&gt;&lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/circle_main_1.jpg&quot; data-lightbox=&quot;circle&quot;&gt;
   &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/circle_thumb_1.jpg&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>Paper boat earrings</title><link href="https://trueskawka.github.io//usa/rc/project/2016/08/31/3D-printed-earrings.html" rel="alternate" type="text/html" title="Paper boat earrings" /><published>2016-08-31T19:30:31-04:00</published><updated>2016-08-31T19:30:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/project/2016/08/31/3D-printed-earrings</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/project/2016/08/31/3D-printed-earrings.html">&lt;p&gt;
-Together with Jade we created 3D printed paper boat earrings. The first prototype was a bit too narrow and the walls were very thick, so the second one turned out just perfect with a broader base and slimmer build.
-&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;click an image to see the gallery&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/product/product_main_1.jpg&quot; data-lightbox=&quot;rc/paper_boat/product&quot; data-title=&quot;Printing&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/product/product_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_1.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/product/product_main_2.jpg&quot; data-lightbox=&quot;rc/paper_boat/product&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/product/product_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_2.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/product/product_main_3.jpg&quot; data-lightbox=&quot;rc/paper_boat/product&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/product/product_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_3.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/product/product_main_4.jpg&quot; data-lightbox=&quot;rc/paper_boat/product&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/product/product_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_4.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/product/product_main_5.jpg&quot; data-lightbox=&quot;rc/paper_boat/product&quot; data-title=&quot;First prototype printed&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/product/product_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_5.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/product/product_main_6.jpg&quot; data-lightbox=&quot;rc/paper_boat/product&quot; data-title=&quot;Second prototype floats, the first one sinked&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/product/product_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_6.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/product/product_main_7.jpg&quot; data-lightbox=&quot;rc/paper_boat/product&quot; data-title=&quot;Second prototype&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/product/product_thumb_7.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_7.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/product/product_main_8.jpg&quot; data-lightbox=&quot;rc/paper_boat/product&quot; data-title=&quot;Side by side comparison&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/rc/paper_boat/product/product_thumb_8.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_8.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Together with Jade we created 3D printed paper boat earrings. The first prototype was a bit too narrow and the walls were very thick, so the second one turned out just perfect with a broader base and slimmer build.</summary></entry></feed>
+&lt;/a&gt;&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>

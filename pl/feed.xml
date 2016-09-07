@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-06T12:25:41-04:00</updated><id>https://trueskawka.github.io//pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 22</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/09/05/RC-day-22.html" rel="alternate" type="text/html" title="RC - dzień 22" /><published>2016-09-05T22:40:31-04:00</published><updated>2016-09-05T22:40:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/09/05/RC-day-22</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/09/05/RC-day-22.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-06T23:32:07-04:00</updated><id>https://trueskawka.github.io//pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 23</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/09/06/RC-day-23.html" rel="alternate" type="text/html" title="RC - dzień 23" /><published>2016-09-06T23:00:31-04:00</published><updated>2016-09-06T23:00:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/09/06/RC-day-23</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/09/06/RC-day-23.html">&lt;p&gt;Osiągniecia&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;check-in&lt;/li&gt;
+  &lt;li&gt;kolejny dzień porannej medytacji&lt;/li&gt;
+  &lt;li&gt;rozgrzewka w Pythonie&lt;/li&gt;
+  &lt;li&gt;wspólne programowanie plugina do Jekylla z Juanem&lt;/li&gt;
+  &lt;li&gt;dodanie podstron dla każdej daty i ulepszenie kalendarza&lt;/li&gt;
+  &lt;li&gt;kolejny szkic prezentacji&lt;/li&gt;
+  &lt;li&gt;zaczęłam pisać GitBook o Jekyllu&lt;/li&gt;
+  &lt;li&gt;powoli uzależniam się od podcastów&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;W tym tygodniu przestawiłam się na pracę głównie z Jekyllem, bo blog i strona okazały się dość interesującym pobocznym projektem. Zaczęłam też pisać &lt;a href=&quot;https://www.gitbook.com/book/trueskawka/so-you-want-a-jekyll-blog/&quot;&gt;GitBooka&lt;/a&gt; o Jekyllu (a raczej zaczęłam zarys tego, co chciałabym napisać), przy okazji uczenia się, może komuś się później przyda.&lt;/p&gt;
+
+&lt;p&gt;Dzięki wspólnemu programowaniu z Juanem zrozumiałam lepiej, jak działają pluginy do Jekylla. Udało nam się wspólnie stworzyć plugin do generowania podstron dla każdej kategorii i daty. Od razu zaimplementowałam je w moim kalendarzu - teraz można kliknąć na dowolną datę i zostać przeniesionym na odpowiednią podstronę.&lt;/p&gt;
+
+&lt;p&gt;Popracowałam też nad moją prezentacją, bo 5-minutowe wystąpienie wymaga znacznie więcej pracy niż półgodzinne, do jakiego jestem przyzwyczajona. Staram się, żeby była prosta i zabawna, mam nadzieję, że będzie również całkiem ciekawa.&lt;/p&gt;
+
+&lt;p&gt;Podcasty są świetne, słucham ich cały czas, jeśli akurat nie pracuję. Rozpoczęty przeze mnie wątek na Zulipie szybko się rozrósł i teraz mam więcej inspiracji, niż będę w stanie przesłuchać w ciągli najbliższego miesiąca - to brzmi jak nowe wyzwanie. Jak na razie przesłuchałam wszystkie odcinki &lt;a href=&quot;https://overcast.fm/itunes521594713/you-are-not-so-smart&quot;&gt;You are not so smart&lt;/a&gt; o błędach logicznych i trochę &lt;a href=&quot;https://overcast.fm/itunes318345767/the-partially-examined-life-philosophy-podcast&quot;&gt;Partially Examined Life&lt;/a&gt;, ale moja lista do odsłuchania cały czas rośnie.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągniecia</summary></entry><entry><title>RC - dzień 22</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/09/05/RC-day-22.html" rel="alternate" type="text/html" title="RC - dzień 22" /><published>2016-09-05T22:40:31-04:00</published><updated>2016-09-05T22:40:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/09/05/RC-day-22</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/09/05/RC-day-22.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;jednoosobowy check-in&lt;/li&gt;
@@ -64,7 +83,7 @@
 
 &lt;p&gt;Nie zrobiłam dzisiaj zbyt wiele w kierunku moich celów, ponieważ byłam zbyt rozproszona, żeby być produktywna. Po przejściu przez Central Park skupiłam się głównie na lepszej organizacji pracy i przemyślałam pierwsze trzy tygodnie mojego pobytu. Poszło całkiem nieźle, ale chciałabym być bardziej skupiona i mieć więcej namacalnych rezultatów.&lt;/p&gt;
 
-&lt;p&gt;Poprogramowałam trochę w Ruby i nauczyłam się sporo na temat obsługi wyjątków, ale nie jestem jeszcze pewna, czy potrafię to robić na tyle swobodnie, żeby czuć się pewnie. Przygotowałam się też do regularnego słuchania podcastów i mam nadzieję, że uda mi się rozwinąć nowy nawyk w ciągu najbliższych tygodni.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>Central Park</title><link href="https://trueskawka.github.io//pl/usa/nyc/trip/2016/09/04/central-park-trip.html" rel="alternate" type="text/html" title="Central Park" /><published>2016-09-04T19:46:31-04:00</published><updated>2016-09-04T19:46:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/nyc/trip/2016/09/04/central-park-trip</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/nyc/trip/2016/09/04/central-park-trip.html">&lt;p&gt;Wreszcie wybrałam się do Central Parku. Zaczynając na samej górze przy 110-tej ulicy i wychodząc niemal dwie godziny później przy 59-tej, było to przyjemne i bardzo uspokajające doświadczenie. W czasie spaceru zupełnie zapomniałam, że jestem w wielkim i wiecznie pełnym ruchu mieście.&lt;/p&gt;
+&lt;p&gt;Poprogramowałam trochę w Ruby i nauczyłam się sporo na temat obsługi wyjątków, ale nie jestem jeszcze pewna, czy potrafię to robić na tyle swobodnie, żeby czuć się pewnie. Przygotowałam się też do regularnego słuchania podcastów i mam nadzieję, że uda mi się rozwinąć nowy nawyk w ciągu najbliższych tygodni.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>Central Park</title><link href="https://trueskawka.github.io//pl/usa/nyc/trips/2016/09/04/central-park-trip.html" rel="alternate" type="text/html" title="Central Park" /><published>2016-09-04T19:46:31-04:00</published><updated>2016-09-04T19:46:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/nyc/trips/2016/09/04/central-park-trip</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/nyc/trips/2016/09/04/central-park-trip.html">&lt;p&gt;Wreszcie wybrałam się do Central Parku. Zaczynając na samej górze przy 110-tej ulicy i wychodząc niemal dwie godziny później przy 59-tej, było to przyjemne i bardzo uspokajające doświadczenie. W czasie spaceru zupełnie zapomniałam, że jestem w wielkim i wiecznie pełnym ruchu mieście.&lt;/p&gt;
 
 &lt;p&gt;Trochę przypomina mi londyńskie parki, w szczególności ogromny Regent’s Park (tam też jest londyńskie ZOO), ale był znacznie mniej uporządkowany i przez to bardziej interesujący. Wygląda nieco jak zachowany kawałek dzikiej natury, co jest dziwne, biorąc pod uwagę, jak wiele planowania włożono w jego założenie.&lt;/p&gt;
 
@@ -553,60 +572,4 @@
 
 &lt;p&gt;&lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/circle_main_1.jpg&quot; data-lightbox=&quot;circle&quot;&gt;
   &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/circle_thumb_1.jpg&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>Kolczyki papierowe łódeczki</title><link href="https://trueskawka.github.io//pl/usa/rc/project/2016/08/31/3D-printed-earrings.html" rel="alternate" type="text/html" title="Kolczyki papierowe łódeczki" /><published>2016-08-31T19:30:31-04:00</published><updated>2016-08-31T19:30:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/project/2016/08/31/3D-printed-earrings</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/project/2016/08/31/3D-printed-earrings.html">&lt;p&gt;
-Dzisiaj razem z Jadem stworzyliśmy kolczyki w kształcie łódeczek origami za pomocą drukarki 3D. Pierwszy prototyp miał zbyt wąską podstawę i zbyt grube ścianki, ale po poszerzeniu podstawy i odchudzeniu drugi wyszedł wręcz idealny.
-&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/paper_boat/product/product_main_1.jpg&quot; data-lightbox=&quot;RC/paper_boat/product&quot; data-title=&quot;Drukowanie&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/paper_boat/product/product_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_1.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/paper_boat/product/product_main_2.jpg&quot; data-lightbox=&quot;RC/paper_boat/product&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/paper_boat/product/product_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_2.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/paper_boat/product/product_main_3.jpg&quot; data-lightbox=&quot;RC/paper_boat/product&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/paper_boat/product/product_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_3.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/paper_boat/product/product_main_4.jpg&quot; data-lightbox=&quot;RC/paper_boat/product&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/paper_boat/product/product_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_4.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/paper_boat/product/product_main_5.jpg&quot; data-lightbox=&quot;RC/paper_boat/product&quot; data-title=&quot;Pierwszy prototyp&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/paper_boat/product/product_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_5.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/paper_boat/product/product_main_6.jpg&quot; data-lightbox=&quot;RC/paper_boat/product&quot; data-title=&quot;Drugi prototyp pływa, pierwszy się podtopił&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/paper_boat/product/product_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_6.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/paper_boat/product/product_main_7.jpg&quot; data-lightbox=&quot;RC/paper_boat/product&quot; data-title=&quot;Drugi prototyp&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/paper_boat/product/product_thumb_7.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_7.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/paper_boat/product/product_main_8.jpg&quot; data-lightbox=&quot;RC/paper_boat/product&quot; data-title=&quot;Porównanie&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/paper_boat/product/product_thumb_8.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;product_main_8.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Dzisiaj razem z Jadem stworzyliśmy kolczyki w kształcie łódeczek origami za pomocą drukarki 3D. Pierwszy prototyp miał zbyt wąską podstawę i zbyt grube ścianki, ale po poszerzeniu podstawy i odchudzeniu drugi wyszedł wręcz idealny.</summary></entry></feed>
+&lt;/a&gt;&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
