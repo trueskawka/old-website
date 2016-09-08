@@ -1,4 +1,111 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-06T23:32:07-04:00</updated><id>https://trueskawka.github.io//pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 23</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/09/06/RC-day-23.html" rel="alternate" type="text/html" title="RC - dzień 23" /><published>2016-09-06T23:00:31-04:00</published><updated>2016-09-06T23:00:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/09/06/RC-day-23</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/09/06/RC-day-23.html">&lt;p&gt;Osiągniecia&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-08T16:39:30-04:00</updated><id>https://trueskawka.github.io//pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 24</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/09/08/RC-day-24.html" rel="alternate" type="text/html" title="RC - dzień 24" /><published>2016-09-08T16:00:31-04:00</published><updated>2016-09-08T16:00:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/09/08/RC-day-24</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/09/08/RC-day-24.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;zdalny check-in (byłam spóźniona)&lt;/li&gt;
+  &lt;li&gt;kolejny dzień porannej medytacji&lt;/li&gt;
+  &lt;li&gt;rozgrzewka w Ruby&lt;/li&gt;
+  &lt;li&gt;napisanie mojej pierwszej aplikacji w Swift w czasie warsztatów Jessego&lt;/li&gt;
+  &lt;li&gt;wspólne programowanie z Aissamem nad WebRTC&lt;/li&gt;
+  &lt;li&gt;kolejny szkic prezentacji&lt;/li&gt;
+  &lt;li&gt;wyjście na Drunk TED Talks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mieszkanie w na górnym Manhattanie ma swoje zalety i wady, jednak głównie wady - spóźniłam się na check-in, bo dotarcie wieczorem do mieszkania zajęło mi dwa razy tyle czasu, co zazwyczaj. Powinnam przestać jeździć metrem po 23 i zmniejszyć swoje oczekiwania. Przestawię się po prostu na myślenie o transporcie jako kolejce podmiejskiej, a nie metrze w europejskim znaczeniu tego słowa.&lt;/p&gt;
+
+&lt;p&gt;Jesse powtórzył swój warsztat programowania w Swifcie i napisałam moją pierwszą aplikację na iOS - prostą implementację gry &lt;a href=&quot;https://www.wikiwand.com/en/Lights_Out_(game)&quot;&gt;Lights Out&lt;/a&gt;. Było to całkiem przyjemne popołudniowe zajęcie.&lt;/p&gt;
+
+&lt;p&gt;Przypadkowo zaczęłam rozmawiać z Aissamem o jego pracy nad &lt;a href=&quot;https://webrtc.org/&quot;&gt;WebRTC&lt;/a&gt; - technologii pozwalającej na przekazywanie obrazu i dźwięku przez prostą implementację w przeglądarce (funkcjonalność podobna do Skype’a). Wspólnie zaprogramowaliśmy podobną do Snapchata funkcję, którą mam nadzieję zaprezentuje niedługo dla szerszego grona.&lt;/p&gt;
+
+&lt;p&gt;Wieczorem poszliśmy na Drunk TED Talks na temat teorii spiskowych. Chociaż były zapowiadane jako “TED talks”, nie do końca spełniły moje oczekiwania w tym zakresie - prezentacje nie przypominały tych z TEDa, chociaż część prezentujących na pewno była pijana. Były cztery obszary spisków:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nicolas Cage&lt;/li&gt;
+  &lt;li&gt;One Direction (brytyjski boyband)&lt;/li&gt;
+  &lt;li&gt;Kulty krwi&lt;/li&gt;
+  &lt;li&gt;Jill Stein (kandydatka Zielonych na prezydenta USA)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nigdy nie sądziłam, że to powiem, ale najbardziej interesująca prezentacja była na temat One Direction. Pojawił się też raczej niespodziewany polski akcent - w katedrze w Sandomierzu znajduje się obraz Karola de Prevota, który podobno przedstawia &lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/b/bc/Sandomierz_katedra_-_mord_rytualny.jpg?1473366039540&quot;&gt;rytualne zabijanie chrześcijan przez Żydów&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Poszliśmy później na drinki do sympatycznego pubu. Spróbowałam trochę cydru z glonów, ale zdecydowałam się na jabłkowy - słony posmak i zapach glonów nie były zbyt zachęcające.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_main_1.jpg&quot; data-lightbox=&quot;bonding/drunkted&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;drunkted_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_main_2.jpg&quot; data-lightbox=&quot;bonding/drunkted&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;drunkted_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_main_3.jpg&quot; data-lightbox=&quot;bonding/drunkted&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;drunkted_main_3.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_main_4.jpg&quot; data-lightbox=&quot;bonding/drunkted&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;drunkted_main_4.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_main_5.jpg&quot; data-lightbox=&quot;bonding/drunkted&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;drunkted_main_5.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_main_6.jpg&quot; data-lightbox=&quot;bonding/drunkted&quot; data-title=&quot;Tekst miesiąca - 'Czy mogę polizać Twoje oko?'&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;drunkted_main_6.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_main_7.jpg&quot; data-lightbox=&quot;bonding/drunkted&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_thumb_7.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;drunkted_main_7.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_main_8.jpg&quot; data-lightbox=&quot;bonding/drunkted&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_thumb_8.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;drunkted_main_8.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_main_9.jpg&quot; data-lightbox=&quot;bonding/drunkted&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_thumb_9.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;drunkted_main_9.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_main_10.jpg&quot; data-lightbox=&quot;bonding/drunkted&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_thumb_10.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;drunkted_main_10.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_main_11.jpg&quot; data-lightbox=&quot;bonding/drunkted&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_thumb_11.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;drunkted_main_11.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_main_12.jpg&quot; data-lightbox=&quot;bonding/drunkted&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/drunkted/drunkted_thumb_12.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;drunkted_main_12.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 23</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/09/06/RC-day-23.html" rel="alternate" type="text/html" title="RC - dzień 23" /><published>2016-09-06T23:00:31-04:00</published><updated>2016-09-06T23:00:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/09/06/RC-day-23</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/09/06/RC-day-23.html">&lt;p&gt;Osiągniecia&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;check-in&lt;/li&gt;
@@ -538,38 +645,4 @@
   &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 17</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/08/31/RC-day-17.html" rel="alternate" type="text/html" title="RC - dzień 17" /><published>2016-08-31T21:50:31-04:00</published><updated>2016-08-31T21:50:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/08/31/RC-day-17</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/08/31/RC-day-17.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;check-in&lt;/li&gt;
-  &lt;li&gt;kolejny dzień porannej medytacji&lt;/li&gt;
-  &lt;li&gt;rozgrzewka w Pythonie&lt;/li&gt;
-  &lt;li&gt;stworzenie łódeczki drukowanej w 3D&lt;/li&gt;
-  &lt;li&gt;wspólne programowanie z Rose&lt;/li&gt;
-  &lt;li&gt;wspólne programowanie w kółku&lt;/li&gt;
-  &lt;li&gt;dalsze uczenie się algorytmów&lt;/li&gt;
-  &lt;li&gt;czytanie “Gödel, Escher, Bach”&lt;/li&gt;
-  &lt;li&gt;zakup plecaka&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Większość dzisiejszego dnia przebiegła zgodnie z planem. Wstałam wcześnie, weszłam w rytm pracy przez kawę z owsianką, sprawdzanie maili i poranną medytację.&lt;/p&gt;
-
-&lt;p&gt;Wspólnie z Jadem udało nam się wydrukować łódeczki origami drukowane w 3D. Napisałam też na tej podstawie krótki poradnik krok po kroku, którego użyjemy w czasie jutrzejszego wieczoru twórczego.&lt;/p&gt;
-
-&lt;p&gt;Wspólne programowanie z Rose nie poszło tak dobrze, jak chciałam, bo nie wiem jeszcze wystarczająco wiele na temat analizy audio i za szybko chciałam zbyt wiele zrobić. Nauczyłam się za to sporo na temat kolejnych kroków i nie będę nikomu dalej zawracać głowy, dopóki nie będę gotowa.&lt;/p&gt;
-
-&lt;p&gt;Programowanie w kółku było świetne - programowaliśmy w parach w cyklu:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;pierwsza osoba pisała to, co nawigowała osoba po jej lewej&lt;/li&gt;
-  &lt;li&gt;po 5 minutach wszyscy przesiadali się o jedno krzesło w lewo&lt;/li&gt;
-  &lt;li&gt;pierwsza osoba nawigowała osobę po swojej prawej&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I tak każdy na przemian był piszącym i nawigatorem. Pracowaliśmy nad stworzeniem Masterminda i w którymś momencie udało nam się nawet wygrać naszą grę.&lt;/p&gt;
-
-&lt;p&gt;Poza tym byłam całkiem produktywna w zakresie uczenia się algorytmów i czytania. Kupiłam też plecak, bo nie byłam przygotowana na noszenie codziennie tylu rzeczy, a moja torebka nie pomagała przy bólach pleców.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/circle_main_1.jpg&quot; data-lightbox=&quot;circle&quot;&gt;
-  &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/circle_thumb_1.jpg&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
