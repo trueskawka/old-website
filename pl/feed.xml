@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-09T23:31:05-04:00</updated><id>https://trueskawka.github.io//pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 25</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/09/08/RC-day-25.html" rel="alternate" type="text/html" title="RC - dzień 25" /><published>2016-09-08T22:50:31-04:00</published><updated>2016-09-08T22:50:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/09/08/RC-day-25</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/09/08/RC-day-25.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-10T00:16:17-04:00</updated><id>https://trueskawka.github.io//pl/</id><title>Alicja Raszkowska</title><entry><title>RC - day 26</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/09/08/RC-day-26.html" rel="alternate" type="text/html" title="RC - day 26" /><published>2016-09-08T23:40:31-04:00</published><updated>2016-09-08T23:40:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/09/08/RC-day-26</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/09/08/RC-day-26.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;jednoosobowy check-in&lt;/li&gt;
+  &lt;li&gt;kolejny dzień porannej medytacji&lt;/li&gt;
+  &lt;li&gt;rozgrzewka w Pythonie&lt;/li&gt;
+  &lt;li&gt;naczytanie się na temat wyrażeń regularnych (regex)&lt;/li&gt;
+  &lt;li&gt;skończenie mikro-projektu w p5.js&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bardzo trudno jest znaleźć niedrogi pokój w Nowym Jorku, zwłaszcza pod wpływem stresu i z potrzebą jak najszybszej ucieczki od karaluchów.&lt;/p&gt;
+
+&lt;p&gt;Wszystko jest jednak znacznie łatwiejsze z przyszywaną rodziną w osobach Ewy i Shawna oraz społecznością RC.&lt;/p&gt;
+
+&lt;p&gt;Airbnb zgodziło się całkowicie zwrócić mi koszty pozostałych dni, które miałabym spędzić w obecnym mieszkaniu, więc przez większość dnia poszukiwałam niedrogiego i czystego pokoju. Okazało się, że nie jest to takie proste (chyba że nagięłabym moją definicję niedrogiego i/lub czystego). Zwróciłam się do mojej społeczności i dostałam tyle wsparcia, że stres zniknął w magiczny sposób.&lt;/p&gt;
+
+&lt;p&gt;Ponieważ głównie skupiłam się dzisiaj na kwestiach organizacyjnych, zrobiłam dzisiaj tylko dwie małe rzeczy w kierunku bycia lepszym programistą:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;przeczytałam świetny artykuł o &lt;a href=&quot;https://iluxonchik.github.io/regular-expression-check-if-number-is-prime/&quot;&gt;sprawdzaniu, czy liczby są pierwsze, przez wyrażenia regularne&lt;/a&gt;, dzięki Juanowi, a potem wpadłam w spiralę zaczytywania się na temat regex&lt;/li&gt;
+  &lt;li&gt;stworzyłam &lt;a href=&quot;https://trueskawka.github.io/flowing&quot;&gt;mój pierwszy projekt w p5.js&lt;/a&gt; dzięki instrukcjom Emily&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mam nadzieję, że do końca weekendu będę wiedziała, gdzie będę spać przez kolejne tygodnie, i skupię się znowu na tworzeniu.&lt;/p&gt;
+
+&lt;p&gt;Wieczorem dotknęła nas tragedia - Internet przestał działać w RC i musieliśmy zebrać się przed północą. Mam nadzieję, że ta plaga przeminie nim wstanie nowy dzień.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 25</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/09/08/RC-day-25.html" rel="alternate" type="text/html" title="RC - dzień 25" /><published>2016-09-08T22:50:31-04:00</published><updated>2016-09-08T22:50:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/09/08/RC-day-25</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/09/08/RC-day-25.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;check-in&lt;/li&gt;
@@ -581,25 +606,4 @@ to Warszawa&lt;/li&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><author><name>juliano</name></author><summary>Hej, jeśli to czytasz (szczególnie polskie tłumaczenie Alicji), to na pewno mnie jeszcze nie znasz. Pozwól, że się przedstawię.</summary></entry><entry><title>RC - dzień 19</title><link href="https://trueskawka.github.io//pl/usa/rc/log/2016/09/02/RC-day-19.html" rel="alternate" type="text/html" title="RC - dzień 19" /><published>2016-09-02T23:20:31-04:00</published><updated>2016-09-02T23:20:31-04:00</updated><id>https://trueskawka.github.io//pl/usa/rc/log/2016/09/02/RC-day-19</id><content type="html" xml:base="https://trueskawka.github.io//pl/usa/rc/log/2016/09/02/RC-day-19.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;jednoosobowy check-in&lt;/li&gt;
-  &lt;li&gt;kolejny dzień porannej medytacji&lt;/li&gt;
-  &lt;li&gt;rozgrzewka w Ruby&lt;/li&gt;
-  &lt;li&gt;spotkanie grupy algorytmicznej&lt;/li&gt;
-  &lt;li&gt;dodanie pierwszej wersji kalendarza do bloga&lt;/li&gt;
-  &lt;li&gt;zaczęcie kursu Computer Science w Pythonie&lt;/li&gt;
-  &lt;li&gt;spróbowanie lodów Halo Top (i zjedzenie tylko połowy opakowania)&lt;/li&gt;
-  &lt;li&gt;załapanie się na weekend opiekowania się kotami&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Piątek, piąteczek, piątunio. Dzień, kiedy zaspanie po pracowitym tygodniu jest akceptowalne. Dzień, kiedy wybranie się na wyprawę tylko po to, żeby zdobyć proteinowe lody, jest zrozumiałe.&lt;/p&gt;
-
-&lt;p&gt;Ledwo udało mi się utrzymać mój rytm pracy. Medytowałam jadąc spóźniona metrem i udało mi się skończyć rozgrzewkę tuż przed spotkaniem grupy algorytmicznej.&lt;/p&gt;
-
-&lt;p&gt;Poza kursem o algorytmach, który muszę jeszcze nadrobić w stosunku do grupy, zaczęłam nowy kurs Computer Science w Pythonie (pomnieważ chcę się nauczyć języka i ‘prawdziwego’ programowania) i przygotowuję się do kursu analizowania audio (ponieważ chcę część rozwiązań zaimplemetnować w mojej aplikacji do uczenia się języków). Jest tego całkiem sporo, ale ustrukturyzowane kursy i uczenie się w grupie pomaga z motywacją, więc spróbuję takiego trybu nauki przez kolejne kilka tygodni i w razie potrzeby go dostosuję.&lt;/p&gt;
-
-&lt;p&gt;Chciałam stworzyć prosty i szybki kalendarz w Githubowym stylu, ale okazało się to znacznie trudniejsze niż oczekiwałam. Udało mi się zapomnieć prawie wszystko z JavaScripta przez ostatnie kilka miesięcy. Zrobiłam &lt;a href=&quot;https://github.com/trueskawka/simple_js_calendar&quot;&gt;pierwszy prototyp&lt;/a&gt; po kilku godzinach ponownego uczenia się języka. Planuję dołożyć trochę więcej web developmentu do moich codziennych zajęć, bo nie chciałabym więcej zapominać.&lt;/p&gt;
-
-&lt;p&gt;Jeśli chodzi o opiekowanie sie kotami, za dwa tygodnie spędzę cały weekend z &lt;a href=&quot;http://twitter.com/bigfloofs&quot;&gt;tymi dwoma futerkowcami&lt;/a&gt;, co będzie doskonałą okazją do skupienia się na nauce bez rozpraszania się (pomijając głaskanie brzuszków).&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
+&lt;/p&gt;</content><author><name>juliano</name></author><summary>Hej, jeśli to czytasz (szczególnie polskie tłumaczenie Alicji), to na pewno mnie jeszcze nie znasz. Pozwól, że się przedstawię.</summary></entry></feed>
