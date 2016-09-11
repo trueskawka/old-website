@@ -106,6 +106,16 @@
       
     
       
+        <post postDate="20160911" class="dpost"></post>
+      
+    
+  
+    
+      
+    
+      
+    
+      
         <post postDate="20160909" class="dpost"></post>
       
     
@@ -613,6 +623,154 @@
 
       <section>
           <h2>Notatki z Recurse Center</h2>
+
+  
+    
+  
+    
+  
+    
+      <div class="post postContent">
+        <div  class="postDate">
+          <time datetime="2016-09-11T01:00:31-04:00" itemprop="datePublished">
+          
+            11.09.2016 01:00
+          
+          </time>
+        </div>
+        <div class="postDay">
+          
+        </div>
+        <br>
+        
+          <a class="link-it" href="/pl/usa/rc/log/2016/09/11/RC-day-27.html">
+            <div class="postTitle">
+              <h3>RC - dzień 27</h3>
+            </div>
+          </a>
+        
+        <div class="post-content">
+          <p>Osiągnięcia:</p>
+
+<ul>
+  <li>jednoosobowy check-in</li>
+  <li>kolejny dzień porannej medytacji</li>
+  <li>rozgrzewka w Ruby</li>
+  <li>napisanie prostego minutnika 52/17</li>
+  <li>przeczytanie przypadkowych książek</li>
+  <li>pozytywne nastawienie</li>
+</ul>
+
+<p>Zaraza utrzymała się i zaczęła rozprzestrzeniać - dzisiaj Internet nie działał przez większość dnia ani w RC, ani w mieszkaniu. Zabawne, jak łatwo można zapomnieć o tym, ile się go używa. I jakie daje poczucie bezpieczeństwa. Od początku wyjazdu nie czułam, że jestem tak daleko od domu, bo zawsze mogłam się skontaktować.</p>
+
+<p>Potrakotowałam to jako okazję do potrenowania swojej cierpliwości. Robiłam wszystko co tylko się dało bez Internetu, aż naprawdę go potrzebowałam - głównie do sprawdzenia maila i organizwania nowego lokum.</p>
+
+<p>Wnioski:</p>
+
+<ul>
+  <li>dziel się swoimi winogronami (dosłownymi, kiedy kupisz ponad kilogram na promocji)</li>
+  <li>wybieraj i czytaj przypadkowe książki, które wyglądają ciekawie</li>
+  <li>dodawaj przyprawę dyniową do porannej kawy zanim ją zalejesz</li>
+  <li>oddychaj</li>
+  <li>jeśli ktoś chce się z Tobą podzielić swoimi gigabajtami - użyj ich, żeby nie zwariować</li>
+  <li>czekolada łagodzi każde zmartwienie</li>
+</ul>
+
+<p>Stworzyłam prosty minutnik <a href="https://trueskawka.github.io/timer">52/17</a> (52 minuty na pracę, 17 na odpoczynek), bo <a href="http://www.pcgeek.info/fokasu/">Fokasu</a> ma irytujące reklamy, a poza tym było to dobre ćwiczenie na programowanie bez Internetu. Nigdy nie sądziłam, że prosty JavaScript może zająć tyle czasu.</p>
+
+<p>Przeczytałam też dwie książki, które wybrałam w biblioteczce RC tylko na podstawie ich okładek:</p>
+
+<ul>
+  <li><a href="http://www.goodreads.com/book/show/302971.Happier">Happier</a> (<strong>Szczęśliwiej</strong>) Tala Ben-Shahara,
+o tym, jak systematycznie podnosić swój poziom szczęścia, z kilkoma ćwiceniami, które dodałam do mojej listy produktywnej prokrastynacji</li>
+  <li>
+    <p><a href="http://www.goodreads.com/book/show/21487480-if-hemingway-wrote-javascript">If Hemingway Wrote JavaScript</a> (<strong>Gdyby Hemingway pisał w JavaScipcie</strong>) Angusa Crolla, zabawna książka o tym, jak pisarze programowaliby w JavaScripcie, moje ulubione przykłady [EN]:</p>
+
+    <p><strong>Ernest Hemigway</strong> o zwracaniu pierwszych <em>n</em> liczb w sekwencji Fibonacciego:</p>
+
+    <p><code></code></p>
+
+    <div class="highlighter-rouge"><pre class="highlight"><code>1 function fibonacci(size) {
+2
+3 var first = 0, second = 1, next, count = 2,
+  result = [first, second];
+4
+5 if (size &lt; 2)
+6 return "the request was made but it was not good"
+7
+8 while (count++ &lt; size) {
+9 next = first + second;
+10 first = second;
+11 second = next;
+12 result.push(next);
+13 }
+14
+15 return result;
+16 }
+</code></pre>
+    </div>
+
+    <p><strong>Jack Kerouac</strong> o zwracaniu silni podanego argumentu funkcji:</p>
+
+    <p><code></code></p>
+
+    <div class="highlighter-rouge"><pre class="highlight"><code>1 /*...the only numbers for me are the mad ones,
+  take forty-three like a steam
+  engine with a talky caboose at the end*/ n = 43, /
+  *and that lanky fellow in a cocked fedora*/ r = 1 /
+  *then back to our number, our mad number,
+  mad to become one*/ while (n &gt; 1) /
+  *mad to descend*/ n--, /
+  *mad to multiply*/ r = r * n /
+  *and at the end, you see the blue center-light pop,
+  and everybody goes 1.4050061177528801e+51...*/
+2 r
+</code></pre>
+    </div>
+
+    <p><strong>Douglas Adams</strong> o zwracaniu wszystkich liczb pierwszych aż do podanego argumentu funkcji:</p>
+
+    <p><code></code></p>
+
+    <div class="highlighter-rouge"><pre class="highlight"><code>1 //Here I am, brain the size of a planet,
+  and they ask me to write JavaScript...
+2 function kevinTheNumberMentioner(_){
+3 l=[]
+4 /* mostly harmless --&gt; */ with(l) {
+5
+6 //Sorry about all this,
+  my babel fish has a headache today...
+7 for (ll=!+[]+!![];ll&lt;_+(+!![]);ll++) {
+8 lll=+!![];
+9 while (ll%++lll);
+10 //I've got this terrible pain
+  in all the semicolons down my right-hand side.
+11 (ll==lll)&amp;&amp;push(ll);
+12 }
+13 forEach(alert);
+14
+15 }
+16
+17 //You're really not going to like this...
+18 return [!+[]+!+[]+!+[]+!+[]]+[!+[]+!+[]];
+19 }
+</code></pre>
+    </div>
+  </li>
+</ul>
+
+<p>Chciałam zakończyć dzień pozytywnie, więc kreatywnie zapełniłam tablicę. [EN]</p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/56085440/photos/bonding/whiteboard_main.jpg" data-lightbox="nonet">
+  <img src="https://dl.dropboxusercontent.com/u/56085440/photos/bonding/whiteboard_thumb.jpg" />
+</a></p>
+
+<p>Na szczęście Internet powrócił do mieszkania, przynajmniej na razie.</p>
+
+        </div>
+      </div>
+    
+  
 
   
     

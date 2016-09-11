@@ -1,4 +1,118 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-10T18:41:37-04:00</updated><id>https://trueskawka.github.io//</id><title>Alicja Raszkowska</title><entry><title>RC - day 26</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/09/RC-day-26.html" rel="alternate" type="text/html" title="RC - day 26" /><published>2016-09-09T23:40:31-04:00</published><updated>2016-09-09T23:40:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/09/RC-day-26</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/09/RC-day-26.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io//" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-11T01:23:27-04:00</updated><id>https://trueskawka.github.io//</id><title>Alicja Raszkowska</title><entry><title>RC - day 27</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/11/RC-day-27.html" rel="alternate" type="text/html" title="RC - day 27" /><published>2016-09-11T01:00:31-04:00</published><updated>2016-09-11T01:00:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/11/RC-day-27</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/11/RC-day-27.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;self check-in&lt;/li&gt;
+  &lt;li&gt;keeping the meditation habit streak&lt;/li&gt;
+  &lt;li&gt;warm-up in Ruby&lt;/li&gt;
+  &lt;li&gt;building a simple 52/17 timer&lt;/li&gt;
+  &lt;li&gt;reading random books&lt;/li&gt;
+  &lt;li&gt;staying positive&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Plague prevailed and spread - there was no Internet today neither at RC, nor at the Airbnb. Funny how easy it is to forget how often I use it. And how safe it makes me feel. With the ability to contact my loved ones any time I want, I haven’t really felt far from home up till now.&lt;/p&gt;
+
+&lt;p&gt;I decided to make an exercise on patience out of it. I’ve been doing everything I could without Internet, untilI really needed it - mostly to check my email and organise a new apartment.&lt;/p&gt;
+
+&lt;p&gt;Lessons learned:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;share your grapes (literal grapes, when you buy 2+ lbs)&lt;/li&gt;
+  &lt;li&gt;pick up random books that look fun&lt;/li&gt;
+  &lt;li&gt;add pumpkin spice to your morning coffee before you pour hot water in&lt;/li&gt;
+  &lt;li&gt;breathe&lt;/li&gt;
+  &lt;li&gt;if someone offers to share their data plan - use it for the sake of your sanity (thank you V!)&lt;/li&gt;
+  &lt;li&gt;chocolate soothes all stress&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’ve created a simple &lt;a href=&quot;https://trueskawka.github.io/timer&quot;&gt;52/17 timer&lt;/a&gt; (52 minutes for work, 17 minutes playtime), since &lt;a href=&quot;http://www.pcgeek.info/fokasu/&quot;&gt;Fokasu&lt;/a&gt; has irritating advertisements and it was a good exercise on programming without Internet. Never thought simple JavaScript can take so much time.&lt;/p&gt;
+
+&lt;p&gt;I also read two books I randomly picked in the library, based entirely on their covers:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.goodreads.com/book/show/302971.Happier&quot;&gt;Happier&lt;/a&gt; by Tal Ben-Shahar, with a lot of ideas on how to improve your happiness and a few exercises I’ve added to my productive procrastination list&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.goodreads.com/book/show/21487480-if-hemingway-wrote-javascript&quot;&gt;If Hemingway Wrote JavaScript&lt;/a&gt; by Angus Croll, a hilarious little book on how different writers would write JavaScript programs - my favourites were:&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Ernest Hemigway&lt;/strong&gt; on returning the first &lt;em&gt;n&lt;/em&gt; numbers of the Fibonacci sequence:&lt;/p&gt;
+
+    &lt;p&gt;&lt;code&gt;&lt;/code&gt;&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1 function fibonacci(size) {
+2
+3 var first = 0, second = 1, next, count = 2,
+  result = [first, second];
+4
+5 if (size &amp;lt; 2)
+6 return &quot;the request was made but it was not good&quot;
+7
+8 while (count++ &amp;lt; size) {
+9 next = first + second;
+10 first = second;
+11 second = next;
+12 result.push(next);
+13 }
+14
+15 return result;
+16 }
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+
+    &lt;p&gt;&lt;strong&gt;Jack Kerouac&lt;/strong&gt; on returning the factorial of the supplied argument:&lt;/p&gt;
+
+    &lt;p&gt;&lt;code&gt;&lt;/code&gt;&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1 /*...the only numbers for me are the mad ones,
+  take forty-three like a steam
+  engine with a talky caboose at the end*/ n = 43, /
+  *and that lanky fellow in a cocked fedora*/ r = 1 /
+  *then back to our number, our mad number,
+  mad to become one*/ while (n &amp;gt; 1) /
+  *mad to descend*/ n--, /
+  *mad to multiply*/ r = r * n /
+  *and at the end, you see the blue center-light pop,
+  and everybody goes 1.4050061177528801e+51...*/
+2 r
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+
+    &lt;p&gt;&lt;strong&gt;Douglas Adams&lt;/strong&gt; on returning all the prime numbers up to the supplied argument:&lt;/p&gt;
+
+    &lt;p&gt;&lt;code&gt;&lt;/code&gt;&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1 //Here I am, brain the size of a planet,
+  and they ask me to write JavaScript...
+2 function kevinTheNumberMentioner(_){
+3 l=[]
+4 /* mostly harmless --&amp;gt; */ with(l) {
+5
+6 //Sorry about all this,
+  my babel fish has a headache today...
+7 for (ll=!+[]+!![];ll&amp;lt;_+(+!![]);ll++) {
+8 lll=+!![];
+9 while (ll%++lll);
+10 //I've got this terrible pain
+  in all the semicolons down my right-hand side.
+11 (ll==lll)&amp;amp;&amp;amp;push(ll);
+12 }
+13 forEach(alert);
+14
+15 }
+16
+17 //You're really not going to like this...
+18 return [!+[]+!+[]+!+[]+!+[]]+[!+[]+!+[]];
+19 }
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I wanted to end the day on a positive note, so I got creative on the whiteboard.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/whiteboard_main.jpg&quot; data-lightbox=&quot;nonet&quot;&gt;
+  &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/whiteboard_thumb.jpg&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thankfully, the Internet works at the apartment, at least for now.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 26</title><link href="https://trueskawka.github.io//usa/rc/log/2016/09/09/RC-day-26.html" rel="alternate" type="text/html" title="RC - day 26" /><published>2016-09-09T23:40:31-04:00</published><updated>2016-09-09T23:40:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/log/2016/09/09/RC-day-26</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/log/2016/09/09/RC-day-26.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;self check-in&lt;/li&gt;
@@ -552,58 +666,4 @@ equals Warsaw&lt;/li&gt;
 
 &lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;The post is late because of our BBQ adventures.&lt;/em&gt;&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>ElixirConf 2016 - guest post by Juliano</title><link href="https://trueskawka.github.io//usa/rc/guest/2016/09/03/Elixir-conference-guest-post.html" rel="alternate" type="text/html" title="ElixirConf 2016 - guest post by Juliano" /><published>2016-09-03T12:14:31-04:00</published><updated>2016-09-03T12:14:31-04:00</updated><id>https://trueskawka.github.io//usa/rc/guest/2016/09/03/Elixir-conference-guest-post</id><content type="html" xml:base="https://trueskawka.github.io//usa/rc/guest/2016/09/03/Elixir-conference-guest-post.html">&lt;p&gt;Hi, if you’re reading this (especially Alicja’s Polish translation), then you certainly don’t know me yet. Let me introduce myself.&lt;/p&gt;
-
-&lt;p&gt;I’m Juliano, Alicja’s batch-mate from Brazil!&lt;/p&gt;
-
-&lt;p&gt;Now that that’s out of the way, let me tell you about Elixir and ElixirConf 2016.&lt;/p&gt;
-
-&lt;p&gt;Elixir is an up and coming programming language made by another Brazilian. It leverages a lot of ancient technology (Erlang) and is built in a modern, attractive and well thought out way, making awesome stuff accessible to a broader range of programmers. The community is pretty awesome. People are genuinely friendly and patient and they make an effort to make things accessible to everyone at every level.&lt;/p&gt;
-
-&lt;p&gt;ElixirConf 2016 was set in the &lt;a href=&quot;http://www.swandolphin.com/&quot;&gt;Disney Swan and Dolphin Resert&lt;/a&gt;. It was raining hard and natives from Orlando were talking about “hurricane season”, which I thought was more exciting than Disney itself.&lt;/p&gt;
-
-&lt;p&gt;Ever since I arrived to NY I’ve been waiting for a flu to catch me. The weather was very hot, the subway stations were even hotter, and the trains were freezing cold. To me, the NY subway system is like a massive human pasteurization machine, where they successively bake and freeze you between train stops and connections, until all of your bacteria are dead. The cold arrived right on time for ElixirConf and I spent my first conference day with a fever, sore throat and an artificially deep voice. Even so, it was awesome and well worth it.&lt;/p&gt;
-
-&lt;p&gt;ElixirConf has doubled in size compared to last year. I was there too during ElixirConf 2015, and actually got a free copy of “Seven More Programming Languages in Seven Weeks” as a “Longest Distance Travelled” Award. We were some 200 programmers flying in from a lot of different places to meet other people excited about this cool new language with an uncertain future. Very few of us were actually using Elixir in our day jobs. Things have changed a bit. This year we were 542 and around 30% of attendees say they run Elixir in their day jobs!&lt;/p&gt;
-
-&lt;p&gt;We are a heavy flock of newbies coming into a technology stack that has been there since the 80’s, so there is eventually some friction. Some old-time Erlang developers are not happy with that, which became fuel for jokes in some presentations.&lt;/p&gt;
-
-&lt;p&gt;This year, many of the talks were from companies actively using Elixir, talking about their success stories and things they learned. I personally like that kind of presentations a lot.&lt;/p&gt;
-
-&lt;p&gt;Conferences are, in the end, much more than just the talks. I’ve met some very nice people from Brazil who were also attending and had a chance to talk at length with some of Elixir’s creators and core contributors. Meeting again with people I’ve seen last year gave the conference sort of a feeling of family, and knowing that many of them, like me, are still not using Elixir at work made me feel that Jessica Kerr’s tear-inducing keynote from last year (&lt;a href=&quot;https://youtu.be/X25xOhntr6s&quot;&gt;here&lt;/a&gt;) still echoed in everyone’s hearts.&lt;/p&gt;
-
-&lt;p&gt;I’ve also been high-fived by a Michigan fan and approached by two Detroit residents during the conference because I bought a Michigan hoodie at the Detroit airport so I wouldn’t freeze to death during my 10 hour connection.&lt;/p&gt;
-
-&lt;p&gt;The closing keynote was done by Boyd Multerer, former engineering leader for Microsoft’s Xbox console for the last 14 years. He gave a very thought provoking presentation and spoke at length about why he chose Elixir and Erlang as his career investment for the next 10 years. It was a very rewarding talk to watch, hearing Boyd come up with compelling reasons why, for him, the Erlang VM and Elixir are the best fit for technology in the next decade, giving confirmation to the intellectual, emotional and financial investment we all had in the language.&lt;/p&gt;
-
-&lt;p&gt;I left early, still feeling a little bit feverish, but very much inspired to go back to the RC and write more Elixir.&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;click an image to see the gallery&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/guest/elixirconf/elixirconf_main_1.jpg&quot; data-lightbox=&quot;RC/guest/elixirconf&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/guest/elixirconf/elixirconf_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;elixirconf_main_1.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/guest/elixirconf/elixirconf_main_2.jpg&quot; data-lightbox=&quot;RC/guest/elixirconf&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/guest/elixirconf/elixirconf_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;elixirconf_main_2.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/guest/elixirconf/elixirconf_main_3.jpg&quot; data-lightbox=&quot;RC/guest/elixirconf&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/guest/elixirconf/elixirconf_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;elixirconf_main_3.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/guest/elixirconf/elixirconf_main_4.jpg&quot; data-lightbox=&quot;RC/guest/elixirconf&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/RC/guest/elixirconf/elixirconf_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;elixirconf_main_4.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;/p&gt;</content><author><name>juliano</name></author><summary>Hi, if you’re reading this (especially Alicja’s Polish translation), then you certainly don’t know me yet. Let me introduce myself.</summary></entry></feed>
+&lt;p&gt;&lt;em&gt;The post is late because of our BBQ adventures.&lt;/em&gt;&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
