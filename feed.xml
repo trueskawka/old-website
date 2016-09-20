@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-19T12:55:33-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 35</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/18/RC-day-35.html" rel="alternate" type="text/html" title="RC - day 35" /><published>2016-09-18T23:45:31-04:00</published><updated>2016-09-18T23:45:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/18/RC-day-35</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/18/RC-day-35.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-20T00:32:31-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 36</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/20/RC-day-36.html" rel="alternate" type="text/html" title="RC - day 36" /><published>2016-09-20T00:20:31-04:00</published><updated>2016-09-20T00:20:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/20/RC-day-36</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/20/RC-day-36.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;started the week right with experimental check-in group&lt;/li&gt;
+  &lt;li&gt;paired with Ivan on improving blog loading&lt;/li&gt;
+  &lt;li&gt;worked on an app concept with Alicia, Isla and Juan&lt;/li&gt;
+  &lt;li&gt;took part in OpenGL workshop&lt;/li&gt;
+  &lt;li&gt;discussed my next portfolio + blog steps with Jeni&lt;/li&gt;
+  &lt;li&gt;had some inspiration for growing as a programmer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The experimental check-in group is about accountability, so we’ve started the week with assigning each other a person to help us and someone we could help with their work. I got a lot of support from Jeni on my writing and discussed Aissam’s up with him (though I don’t feel I’ve helped him much).&lt;/p&gt;
+
+&lt;p&gt;We’ve also done the initial planning for our problem-tracking app - we’re going to set it up in Django and do the initial functionality in plain HTML + CSS, to be further improved with proper JS (we might even try a JS framework, though it seems like a lot of work for a tiny app).&lt;/p&gt;
+
+&lt;p&gt;Other than that, the OpenGL workshop brought some inspiration, but I’m afraid I don’t have enough time for it know, with all the career- and CS-focused tasks ahead. I have some ideas on my next career steps, but I need to clarify and commit to them.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 35</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/18/RC-day-35.html" rel="alternate" type="text/html" title="RC - day 35" /><published>2016-09-18T23:45:31-04:00</published><updated>2016-09-18T23:45:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/18/RC-day-35</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/18/RC-day-35.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;got some more time off&lt;/li&gt;
@@ -405,25 +420,4 @@
 
 &lt;p&gt;The rest of the day was mostly about reading and chilling, since I didn’t even realise all the Airbnb stuff was so stressful.&lt;/p&gt;
 
-&lt;p&gt;The new chill room (Babbage) is perfect for reading and napping and reading some more.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 28</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/12/RC-day-28.html" rel="alternate" type="text/html" title="RC - day 28" /><published>2016-09-12T23:10:31-04:00</published><updated>2016-09-12T23:10:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/12/RC-day-28</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/12/RC-day-28.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;self check-in&lt;/li&gt;
-  &lt;li&gt;keeping the meditation habit streak&lt;/li&gt;
-  &lt;li&gt;warm-up in Ruby&lt;/li&gt;
-  &lt;li&gt;almost getting banana coffee&lt;/li&gt;
-  &lt;li&gt;helping with RC space rearrangements&lt;/li&gt;
-  &lt;li&gt;chilling with Ginger and a book&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Yes, there was still no Internet. I’ve had a plan for that - going for a banana coffee in Brooklyn.&lt;/p&gt;
-
-&lt;p&gt;First I had a total derp moment with swiping my Metrocard and not passing fast enough. So I decided to walk to the nearest bookstore, but it was closed. Apparently, the city never sleeps, but the books need some rest.&lt;/p&gt;
-
-&lt;p&gt;The Internet was down also in the bank, so I walked and got lost a few times to withdraw some cash. Then I took the subway to Brooklyn, where the J+B cafe I wanted to get my banana coffee at was closed.&lt;/p&gt;
-
-&lt;p&gt;I took it surprisingly well and just went for a walk through Brooklyn, took the wrong subway, walked some more in Lower Manhattan and ended up at a Korean cafe for misugaru latte.&lt;/p&gt;
-
-&lt;p&gt;Got back to the RC. Had fun with Lisa, John and Cihran rearranging the space a little bit. Ended the day with blissful hours of reading and cuddling with Ginger.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This post is late due to, surprise-surprise, no Internet :)&lt;/em&gt;&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+&lt;p&gt;The new chill room (Babbage) is perfect for reading and napping and reading some more.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
