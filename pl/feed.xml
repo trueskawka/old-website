@@ -1,21 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-22T00:08:29-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - day 36</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/20/RC-day-36.html" rel="alternate" type="text/html" title="RC - day 36" /><published>2016-09-20T00:20:31-04:00</published><updated>2016-09-20T00:20:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/20/RC-day-36</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/20/RC-day-36.html">&lt;p&gt;&lt;em&gt;do przetłumaczenia&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-22T03:00:35-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - day 38</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/22/RC-day-38.html" rel="alternate" type="text/html" title="RC - day 38" /><published>2016-09-22T02:35:31-04:00</published><updated>2016-09-22T02:35:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/22/RC-day-38</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/22/RC-day-38.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;started the week right with experimental check-in group&lt;/li&gt;
-  &lt;li&gt;paired with Ivan on improving blog loading&lt;/li&gt;
-  &lt;li&gt;worked on an app concept with Alicia, Isla and Juan&lt;/li&gt;
-  &lt;li&gt;took part in OpenGL workshop&lt;/li&gt;
-  &lt;li&gt;discussed my next portfolio + blog steps with Jeni&lt;/li&gt;
-  &lt;li&gt;had some inspiration for growing as a programmer&lt;/li&gt;
+  &lt;li&gt;worked with Alicia, Jeni and Satabdi on the sexism-tracking app&lt;/li&gt;
+  &lt;li&gt;Brian’s workshop on RESTful API design&lt;/li&gt;
+  &lt;li&gt;Nick’s workshop on macOS development&lt;/li&gt;
+  &lt;li&gt;refactored my code with Cihan&lt;/li&gt;
+  &lt;li&gt;written niceties for fellow Recursers&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The experimental check-in group is about accountability, so we’ve started the week with assigning each other a person to help us and someone we could help with their work. I got a lot of support from Jeni on my writing and discussed Aissam’s up with him (though I don’t feel I’ve helped him much).&lt;/p&gt;
+&lt;p&gt;I have a pretty good feeling about our sexism-tracking app. It seems self-contained, pretty well planned and it will hopefully turn out to be useful - I’m especially up for doing a lot of data visualisation. The first session was mostly about setting up the environment and I went down the rabbit hole with the virtual environment, as it didn’t like to have a space in the path name for my app.&lt;/p&gt;
 
-&lt;p&gt;We’ve also done the initial planning for our problem-tracking app - we’re going to set it up in Django and do the initial functionality in plain HTML + CSS, to be further improved with proper JS (we might even try a JS framework, though it seems like a lot of work for a tiny app).&lt;/p&gt;
+&lt;p&gt;Brian’s workshop on RESTful API design was concise and well planned, I’ll be using his notes shortly. Nick has provided us with such a vast amount of knowledge on macOS development, I’ll need to pair with him soon to wrap my mind around it. I’ve always wanted to have my own Markdown writing app, so it fits perfectly with my programming bucket list.&lt;/p&gt;
 
-&lt;p&gt;Other than that, the OpenGL workshop brought some inspiration, but I’m afraid I don’t have enough time for it know, with all the career- and CS-focused tasks ahead. I have some ideas on my next career steps, but I need to clarify and commit to them.&lt;/p&gt;</content><author><name>alicja</name></author><summary>do przetłumaczenia</summary></entry><entry><title>RC - dzień 35</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/18/RC-day-35.html" rel="alternate" type="text/html" title="RC - dzień 35" /><published>2016-09-18T23:45:31-04:00</published><updated>2016-09-18T23:45:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/18/RC-day-35</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/18/RC-day-35.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+&lt;p&gt;As I didn’t feel productive enough, I’ve had an impromptu session of refactoring my JS calendar with Cihan. He’s a great pairing navigator - intimidating me into working on my code by sitting and waiting for me to answer my own questions (this was not sarcastic, he’s so much fun to work with!)&lt;/p&gt;
+
+&lt;p&gt;I’ve also spent an hour on writing niceties for our fellow Recursers, whose (half-)batch is ending soon. It was wonderful to be able to share all the feelings and gratitude, but also sad to think they’ll be gone soon. Alas, you can never be truly gone from the RC community.&lt;/p&gt;
+
+&lt;p&gt;Over all, the day went pretty great, even though I didn’t make it for today’s experimental check-in. I didn’t plan for it, it’s just that yesterday evening I met Luna - an RC alumni - with whom I’ve spend a better part of three hours completely lost in conversation and didn’t get back to the apartment soon enough to wake up on time. I think it falls into the category of “first world problems” - I have so many amazing people to meet and talk to that I can’t find time to sleep or be productive enough. I’ve done it yet again during the day - an innocent conversation with John turned into a 1.5h+ experience.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 37</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/22/RC-day-37.html" rel="alternate" type="text/html" title="RC - day 37" /><published>2016-09-22T02:20:31-04:00</published><updated>2016-09-22T02:20:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/22/RC-day-37</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/22/RC-day-37.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;nauczyłam się więcej o frameworku Django REST&lt;/li&gt;
+  &lt;li&gt;uczestniczyłam w warsztacie V na temat Gita&lt;/li&gt;
+  &lt;li&gt;przeczytałam przezabawny artykuł porównującyh Pythona i Ruby&lt;/li&gt;
+  &lt;li&gt;zaplanowałam sesję wspólnego programowania dla kolejnej grupy Recurserów&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ponieważ nasza aplikacja do rejestrowania seksistowskich (i nie tylko) incydentów będzie zbudowana w Django, chciałam się nauczyć trochę więcej na temat framworka RESTowego. Warsztat o odpowiednim projektowaniu RESTful API został przesunięty na środę, więc pewnie popracuję nad tym więcej w trakcie weekendu, mając wszystkie niezbędne informacje.&lt;/p&gt;
+
+&lt;p&gt;V miał niezły warsztat na temat Gita, napisany całkowicie w Gicie. Nie czułam, że rozumiem wystarczająco wiele, żeby docenić jego wysiłki, ale na pewno wrócę do materiałów jak tylko będę miała czas, aby w końcu obejrzeć &lt;a href=&quot;https://www.youtube.com/watch?v=YUCwr1Y6bFI&quot;&gt;przentację Emily na temat Gita&lt;/a&gt;. Słyszałam, że może być bardzo pomocna.&lt;/p&gt;
+
+&lt;p&gt;Poza tym przede wszystkim przeglądałam Internet i organizowałam. Ten &lt;a href=&quot;https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.adrdav245&quot;&gt;świetny artykuł&lt;/a&gt; porównujący Pythona i Ruby rozbawił mnie do łez. Podążając za przykładem Alicii, zdecydowałam się zorganizować sesję wspólnego programowania w poniedziałek, kiedy pojawią się nowi Recurserzy. Nadal szukam odpowiedniego wyzwania na sesję.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - day 36</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/20/RC-day-36.html" rel="alternate" type="text/html" title="RC - day 36" /><published>2016-09-20T00:20:31-04:00</published><updated>2016-09-20T00:20:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/20/RC-day-36</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/20/RC-day-36.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;zaczęłam odpowiednio tydzień z eksperymentalną grupą check-inową&lt;/li&gt;
+  &lt;li&gt;wspólnie pracowałam z Ivanem nad poprawieniem wydajności ładowania bloga&lt;/li&gt;
+  &lt;li&gt;pracowałam z Alicią, Islą i Juanem nad koncepcją aplikacji&lt;/li&gt;
+  &lt;li&gt;wzięłam udział w warasztacie Lyn na temat OpenGL&lt;/li&gt;
+  &lt;li&gt;porozmawiałam z Jeni na temat mojego portfolio i profesjonalnego bloga&lt;/li&gt;
+  &lt;li&gt;dostałam sporo insipiracji do rozwoju&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Eksperymentalna grupa check-inowa skupia się na rozliczalności naszej pracy, więc zaczęliśmy tydzień od przypisania każdemu osobę, która ma pomóc nam, i kogoś, komu my możemy pomóc. Dostałam sporo wsparcia od Jeni, głównie w zakresie pisania, i porozmawialiśmy z Aissamem na temat jego aplikacji (ale nie czuję, żebym wiele mu pomogła).&lt;/p&gt;
+
+&lt;p&gt;Zaczęliśmy też planować naszą aplikację to rejestrowania problemów - zbudojemy ją w Django, a pierwszą funkcjonalność oprzemy głównie na HTMLu i CSSie, żeby później uzupełnić ją o odpowiedni JavaScript (może nawet pokusimy się o framework, ale brzmi to trochę jak przesada na malutką aplikację).&lt;/p&gt;
+
+&lt;p&gt;Poza tym warsztat na temat OpenGL był inspirujący, ale obawiam się, że nie mam wystarczająco dużo czasu, żeby wgryźć się w temat, pomiędzy karierą a nauką. Mam też kilka pomysłów na kolejne kroki zawodowe, ale muszę najpierw je wyklarować, zanim publicznie się zadeklaruję.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 35</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/18/RC-day-35.html" rel="alternate" type="text/html" title="RC - dzień 35" /><published>2016-09-18T23:45:31-04:00</published><updated>2016-09-18T23:45:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/18/RC-day-35</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/18/RC-day-35.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;jeszcze więcej wypoczywania&lt;/li&gt;
@@ -379,45 +408,4 @@
 
 &lt;p&gt;Łącznie przejażdżka ambulansem, EKG i sprawdzenie ciśnienia w szpitalu oraz dwie minuty rozmowy z lekarzem mogą kosztować od 2 to 8 tysięcy dolarów. Na szczęście moje ubezpieczenie jest na ponad 30 tysięcy.&lt;/p&gt;
 
-&lt;p&gt;Dodając do tego problemy z Airbnb i weekendową bezproduktywnością, czułam się zagubiona i zestresowana. Na szczęście moi bliscy i społeczność RC mnie wspierali. Uznałam też, że muszę trochę zwolnić.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 30</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/13/RC-day-30.html" rel="alternate" type="text/html" title="RC - dzień 30" /><published>2016-09-13T21:33:31-04:00</published><updated>2016-09-13T21:33:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/13/RC-day-30</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/13/RC-day-30.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;check-in&lt;/li&gt;
-  &lt;li&gt;kolejny dzień porannej medytacji&lt;/li&gt;
-  &lt;li&gt;rozmowa z Nancy o planach zawodowych&lt;/li&gt;
-  &lt;li&gt;szkic prezentacji o uczeniu się&lt;/li&gt;
-  &lt;li&gt;reewaluacja moich planów i celów&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Uznałam, że dzisiaj muszę być produktywna, mimo całego stresu związanego z Airbnb. Skupienie się na rozwoju pomogło, szczególnie w połączeniu z celnym komentarzem od kogoś bliskiego.&lt;/p&gt;
-
-&lt;p&gt;Porozmawiałam z Nancy o moich planach zawodowych i rozplaniowałam kolejne kroki w kierunku poprawienia mojego profesjonalnego wizerunku:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;udoskonalenie moich starych projektów, które w miarę szybko mogę poprawić i użyć w moim portfolio&lt;/li&gt;
-  &lt;li&gt;napisanie zaległych postów na oficjalnym blogu&lt;/li&gt;
-  &lt;li&gt;więcej pracy nad GitBookiem o Jekyllu, jako projekcie z myślą o społeczności&lt;/li&gt;
-  &lt;li&gt;zapoznanie się z możliwościami na pracę zdalną&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Przeczytałam też ponownie książkę o uczeniu się nowych umiejętności - &lt;a href=&quot;https://first20hours.com/&quot;&gt;First 20 Hours&lt;/a&gt; Josha Kaufmana - i będę wdrażać opisane techiki w pracy nad moimi projektami przez kolejne kilka tygodni. Będę też miała krótką prezentację na ten temat, ponieważ system ten składa się z wielu prostych pomysłów, które mogą się przydać także innym.&lt;/p&gt;
-
-&lt;p&gt;Jeśli chodzi o długofalowe cele, przejrzałam moje niekończące się listy tematów do nauki, potencjalnych projektów, wymarzonych osiągnięć i mini-zadań do produktywnej prokrastynacji (tak, bardzo lubię robić listy). Pozmieniałam nieco priorytety i dostosowałam je do rozwijania się programistycznie.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - day 29</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/12/RC-day-29.html" rel="alternate" type="text/html" title="RC - day 29" /><published>2016-09-12T23:19:31-04:00</published><updated>2016-09-12T23:19:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/12/RC-day-29</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/12/RC-day-29.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;check-in&lt;/li&gt;
-  &lt;li&gt;kolejny dzień porannej medytacji&lt;/li&gt;
-  &lt;li&gt;rozgrzewka w Pythonie&lt;/li&gt;
-  &lt;li&gt;skontaktowanie się z Tomem w celu ustalenia szczegółów przeprowadzki&lt;/li&gt;
-  &lt;li&gt;skontaktowanie się z Airbnb w celu anulowania rezerwacji&lt;/li&gt;
-  &lt;li&gt;czytanie “Gödel, Escher, Bach” i Aaronovitcha&lt;/li&gt;
-  &lt;li&gt;przewiezienie walizki do RC&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Internet powrócił dzisiaj po południu i nastała radość.&lt;/p&gt;
-
-&lt;p&gt;Wreszcie udało mi się uporządkować sprawy mieszkaniowe. Pojechałam do Toma i będę u niego mieszkać do 3 października, w czasie kiedy jest na wyjeździe. Skontaktowałam się z Airbnb i dostanę pełny zwrot środków za pozostałe dni pobytu. Dotachałam moją walizkę do RC przez pół miasta.&lt;/p&gt;
-
-&lt;p&gt;Resztę dnia spędziłam głównie czytając i wypoczywając. Nawet nie czułam, jak bardzo sresująca jest dla mnie sytuacja mieszkaniowa.&lt;/p&gt;
-
-&lt;p&gt;Nowy pokój relaksu (wcześniej Babbage) jest idealny do czytania, drzemania i półdrzemania w trakcie czytania.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
+&lt;p&gt;Dodając do tego problemy z Airbnb i weekendową bezproduktywnością, czułam się zagubiona i zestresowana. Na szczęście moi bliscy i społeczność RC mnie wspierali. Uznałam też, że muszę trochę zwolnić.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>

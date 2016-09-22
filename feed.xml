@@ -1,19 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-22T00:08:29-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 36</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/20/RC-day-36.html" rel="alternate" type="text/html" title="RC - day 36" /><published>2016-09-20T00:20:31-04:00</published><updated>2016-09-20T00:20:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/20/RC-day-36</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/20/RC-day-36.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-22T03:00:35-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 38</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/22/RC-day-38.html" rel="alternate" type="text/html" title="RC - day 38" /><published>2016-09-22T02:35:31-04:00</published><updated>2016-09-22T02:35:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/22/RC-day-38</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/22/RC-day-38.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;worked with Alicia, Jeni and Satabdi on the sexism-tracking app&lt;/li&gt;
+  &lt;li&gt;Brian’s workshop on RESTful API design&lt;/li&gt;
+  &lt;li&gt;Nick’s workshop on macOS development&lt;/li&gt;
+  &lt;li&gt;refactored my code with Cihan&lt;/li&gt;
+  &lt;li&gt;written niceties for fellow Recursers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I have a pretty good feeling about our sexism-tracking app. It seems self-contained, pretty well planned and it will hopefully turn out to be useful - I’m especially up for doing a lot of data visualisation. The first session was mostly about setting up the environment and I went down the rabbit hole with the virtual environment, as it didn’t like to have a space in the path name for my app.&lt;/p&gt;
+
+&lt;p&gt;Brian’s workshop on RESTful API design was concise and well planned, I’ll be using his notes shortly. Nick has provided us with such a vast amount of knowledge on macOS development, I’ll need to pair with him soon to wrap my mind around it. I’ve always wanted to have my own Markdown writing app, so it fits perfectly with my programming bucket list.&lt;/p&gt;
+
+&lt;p&gt;As I didn’t feel productive enough, I’ve had an impromptu session of refactoring my JS calendar with Cihan. He’s a great pairing navigator - intimidating me into working on my code by sitting and waiting for me to answer my own questions (this was not sarcastic, he’s so much fun to work with!)&lt;/p&gt;
+
+&lt;p&gt;I’ve also spent an hour on writing niceties for our fellow Recursers, whose (half-)batch is ending soon. It was wonderful to be able to share all the feelings and gratitude, but also sad to think they’ll be gone soon. Alas, you can never be truly gone from the RC community.&lt;/p&gt;
+
+&lt;p&gt;Over all, the day went pretty great, even though I didn’t make it for today’s experimental check-in. I didn’t plan for it, it’s just that yesterday evening I met Luna - an RC alumni - with whom I’ve spend a better part of three hours completely lost in conversation and didn’t get back to the apartment soon enough to wake up on time. I think it falls into the category of “first world problems” - I have so many amazing people to meet and talk to that I can’t find time to sleep or be productive enough. I’ve done it yet again during the day - an innocent conversation with John turned into a 1.5h+ experience.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 37</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/22/RC-day-37.html" rel="alternate" type="text/html" title="RC - day 37" /><published>2016-09-22T02:20:31-04:00</published><updated>2016-09-22T02:20:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/22/RC-day-37</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/22/RC-day-37.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;learned more about Django REST framework&lt;/li&gt;
+  &lt;li&gt;V’s workshop on Git Internals in Git&lt;/li&gt;
+  &lt;li&gt;read a hilarious article on Ruby vs Python&lt;/li&gt;
+  &lt;li&gt;planned a mob coding session for the new batch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As the sexism-tracking app will be built in Django, I wanted to learn more about the REST framework. The RESTful API design workshop was moved till Wednesday, so I’ll probably work on it a little bit more during the weekend.&lt;/p&gt;
+
+&lt;p&gt;V had a cool workshop on Git internals done entirely in Git. I didn’t feel I knew enough to understand and appreciate it enough, but I’ll definitely go through it again as soon as I have some time to watch &lt;a href=&quot;https://www.youtube.com/watch?v=YUCwr1Y6bFI&quot;&gt;Emily’s presentation on Git&lt;/a&gt;, as I’ve heard it might be very helpful.&lt;/p&gt;
+
+&lt;p&gt;Other than that, I was mostly browsing and organising. This &lt;a href=&quot;https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.adrdav245&quot;&gt;hilarious article&lt;/a&gt; on Ruby vs Python made my evening. Following into Alicia’s footsteps, I’ve decided to do a mob coding session for the new batch on Monday and I’m still looking for just the right challenge.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 36</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/20/RC-day-36.html" rel="alternate" type="text/html" title="RC - day 36" /><published>2016-09-20T00:20:31-04:00</published><updated>2016-09-20T00:20:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/20/RC-day-36</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/20/RC-day-36.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;started the week right with experimental check-in group&lt;/li&gt;
   &lt;li&gt;paired with Ivan on improving blog loading&lt;/li&gt;
   &lt;li&gt;worked on an app concept with Alicia, Isla and Juan&lt;/li&gt;
-  &lt;li&gt;took part in OpenGL workshop&lt;/li&gt;
+  &lt;li&gt;took part in Lyn’s OpenGL workshop&lt;/li&gt;
   &lt;li&gt;discussed my next portfolio + blog steps with Jeni&lt;/li&gt;
   &lt;li&gt;had some inspiration for growing as a programmer&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The experimental check-in group is about accountability, so we’ve started the week with assigning each other a person to help us and someone we could help with their work. I got a lot of support from Jeni on my writing and discussed Aissam’s up with him (though I don’t feel I’ve helped him much).&lt;/p&gt;
+&lt;p&gt;The experimental check-in group is about accountability, so we’ve started the week with assigning each other a person to help us and someone we could help with their work. I got a lot of support from Jeni on my writing and discussed Aissam’s app with him (though I don’t feel I’ve helped him much).&lt;/p&gt;
 
 &lt;p&gt;We’ve also done the initial planning for our problem-tracking app - we’re going to set it up in Django and do the initial functionality in plain HTML + CSS, to be further improved with proper JS (we might even try a JS framework, though it seems like a lot of work for a tiny app).&lt;/p&gt;
 
-&lt;p&gt;Other than that, the OpenGL workshop brought some inspiration, but I’m afraid I don’t have enough time for it know, with all the career- and CS-focused tasks ahead. I have some ideas on my next career steps, but I need to clarify and commit to them.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 35</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/18/RC-day-35.html" rel="alternate" type="text/html" title="RC - day 35" /><published>2016-09-18T23:45:31-04:00</published><updated>2016-09-18T23:45:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/18/RC-day-35</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/18/RC-day-35.html">&lt;p&gt;Achievements:&lt;/p&gt;
+&lt;p&gt;Other than that, the OpenGL workshop brought some inspiration, but I’m afraid I don’t have enough time for it now, with all the career- and CS-focused tasks ahead. I have some ideas on my next career steps, but I need to clarify and commit to them.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 35</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/18/RC-day-35.html" rel="alternate" type="text/html" title="RC - day 35" /><published>2016-09-18T23:45:31-04:00</published><updated>2016-09-18T23:45:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/18/RC-day-35</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/18/RC-day-35.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;got some more time off&lt;/li&gt;
@@ -379,45 +410,4 @@
 
 &lt;p&gt;Altogether an ambulance ride, an ECG &amp;amp; a blood pressure check at the hospital and a two minute chat with the doctor can cost anything between $2.000 and $8.000. Good my insurance is for more than $30.000.&lt;/p&gt;
 
-&lt;p&gt;With the Airbnb problems and lack of productivity over the weekend, I felt lost and extremely stressed. Luckily, my loved ones and the RC community were there for me. I decided to take it slow.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 30</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/13/RC-day-30.html" rel="alternate" type="text/html" title="RC - day 30" /><published>2016-09-13T21:33:31-04:00</published><updated>2016-09-13T21:33:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/13/RC-day-30</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/13/RC-day-30.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;check-in&lt;/li&gt;
-  &lt;li&gt;keeping the meditation habit streak&lt;/li&gt;
-  &lt;li&gt;having a talk with Nancy about my career goals&lt;/li&gt;
-  &lt;li&gt;drafting a presentation on learning&lt;/li&gt;
-  &lt;li&gt;refactoring my goals and plans&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I’ve decided today needs to be a productive day, despite the stress with the Airbnb. Refocusing on growing helped a lot, as did a cold shower from a loved one.&lt;/p&gt;
-
-&lt;p&gt;I had a chat with Nancy about my career goals and decided on the next steps I’m going to take in order to improve my professional presence:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;refactoring some of my older projects that I can quickly improve and use in my portfolio&lt;/li&gt;
-  &lt;li&gt;writing long overdue blog posts for my official blog&lt;/li&gt;
-  &lt;li&gt;working more on the GitBook, as it is a project with community values in mind&lt;/li&gt;
-  &lt;li&gt;looking into remote work opportunities&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I’ve also reread a book on acquiring new skills - &lt;a href=&quot;https://first20hours.com/&quot;&gt;First 20 Hours&lt;/a&gt; by Josh Kaufman - and I’m going to use the concepts to improve my learning over the next few weeks. I also want to have a short presentation on the topic, since it is a system of simple concepts that can be useful to others.&lt;/p&gt;
-
-&lt;p&gt;In terms of long-term goals, I’ve revised my bucket, project, learning and productive procrastination lists (I seem to love lists for some reason). I’ve changed some priorities and aligned them more with my programming skills.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 29</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/12/RC-day-29.html" rel="alternate" type="text/html" title="RC - day 29" /><published>2016-09-12T23:19:31-04:00</published><updated>2016-09-12T23:19:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/12/RC-day-29</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/12/RC-day-29.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;check-in&lt;/li&gt;
-  &lt;li&gt;keeping the meditation habit streak&lt;/li&gt;
-  &lt;li&gt;warm-up in Python&lt;/li&gt;
-  &lt;li&gt;getting in touch with Tom to switch apartments&lt;/li&gt;
-  &lt;li&gt;getting in touch with Airbnb to cancel my reservation&lt;/li&gt;
-  &lt;li&gt;reading some “Gödel, Escher, Bach” and Aaronovitch&lt;/li&gt;
-  &lt;li&gt;getting my suitcase to RC&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The Internet came back today in the afternoon. Oh, the joy!&lt;/p&gt;
-
-&lt;p&gt;I’ve finally got some peace of mind with the apartment situation. Got in touch with Tom and will be staying at his apartment till Oct 3rd. Got in touch with Airbnb and will get a full refund for the remainder of my stay. Got my suitcase to RC from Uptown.&lt;/p&gt;
-
-&lt;p&gt;The rest of the day was mostly about reading and chilling, since I didn’t even realise all the Airbnb stuff was so stressful.&lt;/p&gt;
-
-&lt;p&gt;The new chill room (Babbage) is perfect for reading and napping and reading some more.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+&lt;p&gt;With the Airbnb problems and lack of productivity over the weekend, I felt lost and extremely stressed. Luckily, my loved ones and the RC community were there for me. I decided to take it slow.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
