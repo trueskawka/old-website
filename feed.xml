@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-27T01:58:27-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 41</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/24/RC-day-41.html" rel="alternate" type="text/html" title="RC - day 41" /><published>2016-09-24T23:41:31-04:00</published><updated>2016-09-24T23:41:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/24/RC-day-41</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/24/RC-day-41.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-27T02:00:09-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 43</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-43.html" rel="alternate" type="text/html" title="RC - day 43" /><published>2016-09-27T01:39:31-04:00</published><updated>2016-09-27T01:39:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-43</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-43.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;met a ton of new people today&lt;/li&gt;
+  &lt;li&gt;watched community presentations&lt;/li&gt;
+  &lt;li&gt;lost and regained a friend&lt;/li&gt;
+  &lt;li&gt;did a mob coding session&lt;/li&gt;
+  &lt;li&gt;watched presidential debate with friends&lt;/li&gt;
+  &lt;li&gt;had a lot of quality time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Today was the first day of the Fall 2 2016 batch. It was amazing to meet all those new people, ready for their RC experience. It also told us a lot about our first day - we were as utterly lost and confused as we thought we were. I hope our batch can be as great guides for the newcomers, as Summer 2s were for us.&lt;/p&gt;
+
+&lt;p&gt;I had a friendship scare today - there was a serious risk of Cihan going back home and I actually thought it’s going to happen most of the day. I wasn’t surprised it moved me - after all, he’s one of my best friends here and it was so sudden, I expected to have six more weeks of coding and bonding. Fortunately, it turned out to be ‘only’ a scare, that got me to also bond with a lot of people. It’s surprising how close one can get to a person in such a short time.&lt;/p&gt;
+
+&lt;p&gt;Despite the sadness, I’ve managed to have a pretty cool mob coding session with Sarah, Leah, James and Chris. We build together a working implementation of &lt;a href=&quot;https://gist.github.com/trueskawka/8667b12d4552c4ca46b6f79fb195c78d&quot;&gt;Hangman&lt;/a&gt; in about half an hour (mostly thanks to the mad skills of the Python experts in the group). It was fun, next time we could focus more on actual pairing and not ‘mob coding’ as such - we did a lot of thinking together and it was a bit chaotic. Looking forward to work on that.&lt;/p&gt;
+
+&lt;p&gt;Today was an unusual Monday, because we’ve had some presentations. As there were only five of them, I think it’s just appropriate to mention them all:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;V talked about &lt;a href=&quot;http://vaibhavsagar.com/duffer/&quot;&gt;duffer&lt;/a&gt; - his implementation of git in Haskell&lt;/li&gt;
+  &lt;li&gt;Marcio did a short introduction for his &lt;a href=&quot;https://github.com/marciok/SwiftyRuby&quot;&gt;SwiftyRuby&lt;/a&gt; - a way to use Ruby in Swift&lt;/li&gt;
+  &lt;li&gt;Andy, as hilarious as always, talked about &lt;a href=&quot;http://www.simplyshredded.com/oak-roots-how-arnold-turned-his-biggest-weakness%C2%97-his-calves-into-a-showcase-muscle.html&quot;&gt;Schwarzenegger’s calfs&lt;/a&gt;, in the context of his programming pop-quiz project&lt;/li&gt;
+  &lt;li&gt;Michelle presented her awesome &lt;a href=&quot;http://i17on.com/&quot;&gt;intranationalization engine&lt;/a&gt; in Markdown and I want to pair with her on my app project, right after I pair with Nick&lt;/li&gt;
+  &lt;li&gt;Satabdi live coded &lt;a href=&quot;https://github.com/satabdidas/RC_Notes/blob/65121c40b26e84a77ddc1c980e2829e9e838ad95/notes/quest_of_deep_c/tiny_elf_execs.md&quot;&gt;tiny ELF executables&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After all the events and talks, we all needed some alone time. At 9pm we watched the presidential debate in a side room, as to not make an official event out of it - after all politics can be a bit overwhelming for the community. It was great to see reactions of my friends, especially American ones, who do understand a lot more of it than I do. I was still very moved by it and spent a lot of time discussing it afterwards (yes, I know it was supposed to be about more pairing, but today was a social day).&lt;/p&gt;
+
+&lt;p&gt;All in all, quality time dominated most of the day and I’m very happy - about new and old friends, discussions, bonding and Nutella. Yes, indulgences were on.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 42</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-42.html" rel="alternate" type="text/html" title="RC - day 42" /><published>2016-09-27T01:30:31-04:00</published><updated>2016-09-27T01:30:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-42</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-42.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;got new headphones&lt;/li&gt;
+  &lt;li&gt;found an apartment for the next two weeks&lt;/li&gt;
+  &lt;li&gt;had an awesome evening with RC women&lt;/li&gt;
+  &lt;li&gt;found out what my RC pseudonym is&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Loved ones took most of the day today, as I spent a lot of time on Skype. It has become sort of a routine to call them at least once a week and whenever I have Internet access, I can’t miss them too much.&lt;/p&gt;
+
+&lt;p&gt;I got bargain noise-cancelling over-ear headphones, which makes me very happy - bye, bye headphone headaches. I’m now completely surrounded by music and silence to work. I’ve also found a new place to stay after my current sublet. Both thanks to RC community.&lt;/p&gt;
+
+&lt;p&gt;In the evening, I’ve spent some time with other RC women from our and the upcoming batches. All women meetings should be more of a thing, especially in the tech community. I do miss all the women in my life a lot and it helps to have new friendships here.&lt;/p&gt;
+
+&lt;p&gt;When we apply to RC, we get automatically generated pseudonyms to reduce bias (more on this in &lt;a href=&quot;https://www.recurse.com/blog/43-building-a-better-and-more-diverse-community&quot;&gt;this&lt;/a&gt; post by Nick). Mine is totally awesome - Feature Fog. I can’t wait to use it in a programming context soon.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 41</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/24/RC-day-41.html" rel="alternate" type="text/html" title="RC - day 41" /><published>2016-09-24T23:41:31-04:00</published><updated>2016-09-24T23:41:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/24/RC-day-41</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/24/RC-day-41.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;got a lot of rest&lt;/li&gt;
@@ -150,51 +194,7 @@
   &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 43</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/24/RC-day-43.html" rel="alternate" type="text/html" title="RC - day 43" /><published>2016-09-24T01:39:31-04:00</published><updated>2016-09-24T01:39:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/24/RC-day-43</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/24/RC-day-43.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;met a ton of new people today&lt;/li&gt;
-  &lt;li&gt;watched community presentations&lt;/li&gt;
-  &lt;li&gt;lost and regained a friend&lt;/li&gt;
-  &lt;li&gt;did a mob coding session&lt;/li&gt;
-  &lt;li&gt;watched presidential debate with friends&lt;/li&gt;
-  &lt;li&gt;had a lot of quality time&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Today was the first day of the Fall 2 2016 batch. It was amazing to meet all those new people, ready for their RC experience. It also told us a lot about our first day - we were as utterly lost and confused as we thought we were. I hope our batch can be as great guides for the newcomers, as Summer 2s were for us.&lt;/p&gt;
-
-&lt;p&gt;I had a friendship scare today - there was a serious risk of Cihan going back home and I actually thought it’s going to happen most of the day. I wasn’t surprised it moved me - after all, he’s one of my best friends here and it was so sudden, I expected to have six more weeks of coding and bonding. Fortunately, it turned out to be ‘only’ a scare, that got me to also bond with a lot of people. It’s surprising how close one can get to a person in such a short time.&lt;/p&gt;
-
-&lt;p&gt;Despite the sadness, I’ve managed to have a pretty cool mob coding session with Sarah, Leah, James and Chris. We build together a working implementation of &lt;a href=&quot;https://gist.github.com/trueskawka/8667b12d4552c4ca46b6f79fb195c78d&quot;&gt;Hangman&lt;/a&gt; in about half an hour (mostly thanks to the mad skills of the Python experts in the group). It was fun, next time we could focus more on actual pairing and not ‘mob coding’ as such - we did a lot of thinking together and it was a bit chaotic. Looking forward to work on that.&lt;/p&gt;
-
-&lt;p&gt;Today was an unusual Monday, because we’ve had some presentations. As there were only five of them, I think it’s just appropriate to mention them all:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;V talked about &lt;a href=&quot;http://vaibhavsagar.com/duffer/&quot;&gt;duffer&lt;/a&gt; - his implementation of git in Haskell&lt;/li&gt;
-  &lt;li&gt;Marcio did a short introduction for his &lt;a href=&quot;https://github.com/marciok/SwiftyRuby&quot;&gt;SwiftyRuby&lt;/a&gt; - a way to use Ruby in Swift&lt;/li&gt;
-  &lt;li&gt;Andy, as hilarious as always, talked about &lt;a href=&quot;http://www.simplyshredded.com/oak-roots-how-arnold-turned-his-biggest-weakness%C2%97-his-calves-into-a-showcase-muscle.html&quot;&gt;Schwarzenegger’s calfs&lt;/a&gt;, in the context of his programming pop-quiz project&lt;/li&gt;
-  &lt;li&gt;Michelle presented her awesome &lt;a href=&quot;http://i17on.com/&quot;&gt;intranationalization engine&lt;/a&gt; in Markdown and I want to pair with her on my app project, right after I pair with Nick&lt;/li&gt;
-  &lt;li&gt;Satabdi live coded &lt;a href=&quot;https://github.com/satabdidas/RC_Notes/blob/65121c40b26e84a77ddc1c980e2829e9e838ad95/notes/quest_of_deep_c/tiny_elf_execs.md&quot;&gt;tiny ELF executables&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;After all the events and talks, we all needed some alone time. At 9pm we watched the presidential debate in a side room, as to not make an official event out of it - after all politics can be a bit overwhelming for the community. It was great to see reactions of my friends, especially American ones, who do understand a lot more of it than I do. I was still very moved by it and spent a lot of time discussing it afterwards (yes, I know it was supposed to be about more pairing, but today was a social day).&lt;/p&gt;
-
-&lt;p&gt;All in all, quality time dominated most of the day and I’m very happy - about new and old friends, discussions, bonding and Nutella. Yes, indulgences were on.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 42</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/24/RC-day-42.html" rel="alternate" type="text/html" title="RC - day 42" /><published>2016-09-24T01:30:31-04:00</published><updated>2016-09-24T01:30:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/24/RC-day-42</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/24/RC-day-42.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;got new headphones&lt;/li&gt;
-  &lt;li&gt;found an apartment for the next two weeks&lt;/li&gt;
-  &lt;li&gt;had an awesome evening with RC women&lt;/li&gt;
-  &lt;li&gt;found out what my RC pseudonym is&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Loved ones took most of the day today, as I spent a lot of time on Skype. It has become sort of a routine to call them at least once a week and whenever I have Internet access, I can’t miss them too much.&lt;/p&gt;
-
-&lt;p&gt;I got bargain noise-cancelling over-ear headphones, which makes me very happy - bye, bye headphone headaches. I’m now completely surrounded by music and silence to work. I’ve also found a new place to stay after my current sublet. Both thanks to RC community.&lt;/p&gt;
-
-&lt;p&gt;In the evening, I’ve spent some time with other RC women from our and the upcoming batches. All women meetings should be more of a thing, especially in the tech community. I do miss all the women in my life a lot and it helps to have new friendships here.&lt;/p&gt;
-
-&lt;p&gt;When we apply to RC, we get automatically generated pseudonyms to reduce bias (more on this in &lt;a href=&quot;https://www.recurse.com/blog/43-building-a-better-and-more-diverse-community&quot;&gt;this&lt;/a&gt; post by Nick). Mine is totally awesome - Feature Fog. I can’t wait to use it in a programming context soon.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 38</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/22/RC-day-38.html" rel="alternate" type="text/html" title="RC - day 38" /><published>2016-09-22T02:35:31-04:00</published><updated>2016-09-22T02:35:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/22/RC-day-38</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/22/RC-day-38.html">&lt;p&gt;Achievements:&lt;/p&gt;
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 38</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/22/RC-day-38.html" rel="alternate" type="text/html" title="RC - day 38" /><published>2016-09-22T02:35:31-04:00</published><updated>2016-09-22T02:35:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/22/RC-day-38</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/22/RC-day-38.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;worked with Alicia, Jeni and Satabdi on the sexism-tracking app&lt;/li&gt;
