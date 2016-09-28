@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-27T14:12:40-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 43</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-43.html" rel="alternate" type="text/html" title="RC - day 43" /><published>2016-09-27T01:39:31-04:00</published><updated>2016-09-27T01:39:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-43</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-43.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-28T00:19:34-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 44</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/28/RC-day-44.html" rel="alternate" type="text/html" title="RC - day 44" /><published>2016-09-28T00:00:31-04:00</published><updated>2016-09-28T00:00:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/28/RC-day-44</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/28/RC-day-44.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;stopped forcing myself to be a morning person&lt;/li&gt;
+  &lt;li&gt;warm-up in Python&lt;/li&gt;
+  &lt;li&gt;took a few steps to build my Markdown app&lt;/li&gt;
+  &lt;li&gt;improved my Gmail experience&lt;/li&gt;
+  &lt;li&gt;paired on code dojo problem with Cihan&lt;/li&gt;
+  &lt;li&gt;took part in the improv night, a fun and amazing experience (all thanks to Sarah!)&lt;/li&gt;
+  &lt;li&gt;had a wonderful evening with RC friends&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I think it was the high time to stop kidding myself - I am not nor will I ever be a morning person. Starting the day slowly and getting to RC just in time for my breakfast and 1pm check-in was the perfect solution to my motivation problems. Firstly, I got so much sleep I woke up without an alarm and wasn’t stressed about being late. Coming in during the day, seeing all those people working away on their laptops, focused, calm and going forward with their plans was my driving force for today.&lt;/p&gt;
+
+&lt;p&gt;Thanks to Mike, warmups are alive and well again, and I’ve had a nice half hour playing with a simple problem in Python.&lt;/p&gt;
+
+&lt;p&gt;I then proceeded to plan my Markdown app - the features I want to include, people to ask for help and pair with, general look and feel of it. I’ve asked Marcio for some help on getting started and will hopefully pair soon with Nick (macOS development), Andy (macOS development and Markdown) and Michelle (Markdown filtering). Can’t wait!&lt;/p&gt;
+
+&lt;p&gt;As for minor tweaks, I’ve spent a productive half-hour learning all the Gmail shortcuts. I have so many messages coming in every day, it’s surprising I’ve never done that before.&lt;/p&gt;
+
+&lt;p&gt;Cihan made it in time for code dojo and we’ve created together a working simple solution in Python and then struggled to reimplement it in Elm. About an hour after the dojo ended, a simplistic approach got &lt;a href=&quot;https://gist.github.com/trueskawka/ba9f5dae3fd89a30b30a353b30ffee74&quot;&gt;implemented&lt;/a&gt;. I want to work more on my functional programming, since doing even the simplest things is such a struggle. It’s like &lt;a href=&quot;https://www.youtube.com/watch?v=MFzDaBzBlL0&quot;&gt;relearning to ride a bike&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The improvisation night was so amazing it’s hard to describe. Sarah is such a wonderful teacher! We’ve had a lot of group and individual exercises, all of them focused on supporting each other no matter what. Improv is really about saying “yes and” to everything, I want to do more of that in programming. And a lot more improv. It could’ve also been the group - it’s not often you come up with a new theory for global warming: flying unicorns pooping ice-cream into the atmosphere (that was a very inside joke, no worries if it wasn’t clear).&lt;/p&gt;
+
+&lt;p&gt;After the improv I went for great (and very cheap!) vegetarian food with some of my RC friends. It was firstly about bidding farewell to Naomi, but mostly it was simply an amazing evening.&lt;/p&gt;
+
+&lt;p&gt;Lastly, some food for thought:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-coffeelicious/%EF%B8%8F-write-it-anyway-f31f3ebed5e4#.f4oxuing1&quot;&gt;write it&lt;/a&gt; anyway&lt;/li&gt;
+  &lt;li&gt;how to &lt;a href=&quot;https://www.themuse.com/advice/5-polite-ways-to-deal-with-people-who-notsopolitely-keep-interrupting-you&quot;&gt;politely deal with interruptions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;why smart people are expected to &lt;a href=&quot;https://aeon.co/essays/you-don-t-have-to-be-stupid-to-work-here-but-it-helps&quot;&gt;be stupid at work&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;are you a &lt;a href=&quot;http://nautil.us/issue/40/learning/how-to-tell-if-youre-a-jerk&quot;&gt;jerk&lt;/a&gt;?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I seem overly amazingly and wonderfully happy recently, I should work on my adjectives starting tomorrow.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 43</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-43.html" rel="alternate" type="text/html" title="RC - day 43" /><published>2016-09-27T01:39:31-04:00</published><updated>2016-09-27T01:39:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-43</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-43.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;met a ton of new people today&lt;/li&gt;
@@ -284,124 +319,4 @@
   &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>The First 20 Hours</title><link href="https://trueskawka.github.io/blog/life/2016/09/18/first-20-hours.html" rel="alternate" type="text/html" title="The First 20 Hours" /><published>2016-09-18T22:11:00-04:00</published><updated>2016-09-18T22:11:00-04:00</updated><id>https://trueskawka.github.io/blog/life/2016/09/18/first-20-hours</id><content type="html" xml:base="https://trueskawka.github.io/blog/life/2016/09/18/first-20-hours.html">&lt;p&gt;I have recently reread &lt;a href=&quot;https://www.amazon.com/First-20-Hours-Learn-Anything/dp/1591846943&quot;&gt;The First 20 Hours: How To Learn Anything… Fast!&lt;/a&gt; by Josh Kaufman - a light book with some helpful insights on acquiring new skills. As I have so much to learn and so little time (or at least so is my perception), the concept of spending just 20 hours on something and going from knowing nothing to performing noticeably well is appealing.&lt;/p&gt;
-
-&lt;p&gt;One needs to forget the notion of 10.000 hours needed to master a skill. That is not to say that practicing for about 5 years as a full-time job won’t help in acquiring and mastering a skill, it’s simply that most of us don’t need to be experts in every field. Sometimes just the basic skill can get a long way.&lt;/p&gt;
-
-&lt;p&gt;Some of the concepts presented in the book reminded me of well-known economic ideas, among others:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;the law of diminishing returns - the more you learn, the less noticeable your progress (just as well as eating more and more chocolate won’t bring noticeable difference after the first half of the bar)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Pareto principle - 20% of efforts bring 80% of returns (but those efforts have to be directed and deliberate)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Parkinson’s law - work will fill out all the time available (so shorter deadlines can be more productive)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Merely understanding and noticing these rules may not be enough to overcome them, so Josh goes on to present actionable steps for learning any skill. By ‘any skill’ he means ‘any skill that is important to you’. The first step is to choose a lovable subject and concentrate on one project at a time.&lt;/p&gt;
-
-&lt;p&gt;Secondly, one needs to define a target performance. What does it mean for you to learn a skill? If you were to learn a language, do you want to be a communicative tourist during your summer holidays or have never-ending philosophical disputes? Do you want to play guitar at a campfire or be a rock star? Josh advices that it’s better to start small - when you can understand the basic concepts and perform simple tasks, you can then move on to more sophisticated notions. In order to be a rock star, you need to know how a guitar produces the sounds and how to strum it.&lt;/p&gt;
-
-&lt;p&gt;In order to take the first steps, one can apply the rules of rapid skill acquisition, mainly:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;deconstructing&lt;/strong&gt; the desired skill into smallest possible subskills&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;learning about each subskill&lt;/strong&gt; to practice intelligently and self-correct based on fast feedback loops&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;removing barriers&lt;/strong&gt; to learning
-    &lt;ul&gt;
-      &lt;li&gt;physical - acquiring the right tools (e.g. guitar, books) and setting aside time for practice (e.g. every day for 45 minutes)&lt;/li&gt;
-      &lt;li&gt;mental and emotional - setting oneself in a can-do mindset (e.g. I can learn this concept for the next 20 minutes)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;practicing&lt;/strong&gt; mindfully and deliberately&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Constraining oneself further with practicing for just 20 hours or until the desired target performance is reached helps with avoiding the Parkinson’s law trap. Also, short-term results are usually the most rapid ones, as the function of skill to time is most steep at the very start. Hence one can get pretty good quickly and base motivation for their next steps on the already achieved success.&lt;/p&gt;
-
-&lt;p&gt;Concentrating on one skill for a short time has also the advantage of testing the idea. Do I really want to speak Spanish, or is it just something I feel I need to know? Is this something I want to spend more time on? Sometimes one can’t know their own preferences until they’ve properly tested their presumptions. After a short experiment, there is no harm in deciding not to follow up on it.&lt;/p&gt;
-
-&lt;p&gt;In his book, Josh goes on to describe how he acquired six new skills over the course of a year:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;setting up a daily yoga routine&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;basic programming and building two applications&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;touch typing in Colemak&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;playing Go&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;playing ukulele&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;windsurfing&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As I don’t want to spoil the book, I’ll briefly describe the ukulele-playing chapter.&lt;/p&gt;
-
-&lt;p&gt;How would one go about it?&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Obtaining an ukulele and other necessary equipment seems like a good start.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Learning how it works (parts of the instrument, where does the sound come from etc.).
-         &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/blog/20hours/ukulele.jpg&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Focusing on learning four most common chords (they say you can play most pop songs with just G, D, Em and C).
-         &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/blog/20hours/chords.jpg&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;When one can play the chords without looking, practicing until they can play them without thinking.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Beginning to learn songs by humming along, then adding lyrics.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Experimenting, e.g. learning fingerpicking and new chords.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Never graduating.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;You can &lt;a href=&quot;https://www.youtube.com/watch?v=5MgBikgcWnY&quot;&gt;watch Josh’s talk about these concepts&lt;/a&gt; or &lt;a href=&quot;https://www.amazon.com/First-20-Hours-Learn-Anything/dp/1591846943&quot;&gt;buy his book&lt;/a&gt;. Other resources you might find useful:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X&quot;&gt;The Power of Habit&lt;/a&gt; by Charles Duhigg, a book on understanding habits and some ideas on how to change them&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.coursera.org/learn/learning-how-to-learn&quot;&gt;Learning How to Learn&lt;/a&gt; a free MOOC on the basic concepts of learning and the inner workings of the mind&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.udemy.com/&quot;&gt;Become a Superlearner&lt;/a&gt; a relatively cheap course focusing on rapid learning and memory techniques, with a lot of emphasis on speed reading&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://lifehacker.com/&quot;&gt;Lifehacker&lt;/a&gt; a website with daily ideas on various topics, in the spirit of lifehacking&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://xkcd.com/&quot;&gt;xkcd&lt;/a&gt; a delightful comic on life and science by Randall Munroe (check out his wonderful &lt;a href=&quot;https://www.amazon.com/Randall-Munroe/e/B004H66444/ref=dp_byline_cont_book_1&quot;&gt;books&lt;/a&gt;)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://smbc-comics.com/&quot;&gt;Saturday Morning Breakfast Cereal&lt;/a&gt; a philosophical and satirical web comic by Zach Weinersmith&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Happy learning!&lt;/p&gt;</content><author><name>alicja</name></author><summary>I have recently reread The First 20 Hours: How To Learn Anything… Fast! by Josh Kaufman - a light book with some helpful insights on acquiring new skills. As I have so much to learn and so little time (or at least so is my perception), the concept of spending just 20 hours on something and going from knowing nothing to performing noticeably well is appealing.</summary></entry></feed>
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>

@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-27T14:12:41-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 43</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/27/RC-day-43.html" rel="alternate" type="text/html" title="RC - dzień 43" /><published>2016-09-27T01:39:31-04:00</published><updated>2016-09-27T01:39:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/27/RC-day-43</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/27/RC-day-43.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-28T00:19:34-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 44</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/28/RC-day-44.html" rel="alternate" type="text/html" title="RC - dzień 44" /><published>2016-09-28T00:00:31-04:00</published><updated>2016-09-28T00:00:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/28/RC-day-44</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/28/RC-day-44.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;przestałam się zmuszać do bycia poranną osobą&lt;/li&gt;
+  &lt;li&gt;rozgrzewka w Pythonie&lt;/li&gt;
+  &lt;li&gt;jestem kilka kroków bliżej do mojej aplikacji Markdownowej&lt;/li&gt;
+  &lt;li&gt;poprawiłam swój sposób pracy z Gmailem&lt;/li&gt;
+  &lt;li&gt;wspólnie programowałam z Cihanem nad problemem z code dojo&lt;/li&gt;
+  &lt;li&gt;wzięłam udział w wieczorze improwizacji, zabawnym i wspaniałym doświadczeniu (wszystko dzięki Sarze!)&lt;/li&gt;
+  &lt;li&gt;miałam niesamowity wieczór ze znajomymi z RC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Myślę, że najwyższy czas przestać się oszukiwać - nie jestem i nigdy nie będę poranną osobą. Rozpoczęcie dnia powoli i dotarcie do RC na śniadanie i check-in o 13 było idealnym rozwiązaniem moich problemów z motywacją. Po pierwsze, wyspałam się tak bardzo, że obudziłam się bez budzika i stresu, że się spóźnię. Poza tym wejście do RC w środku dnia i zobaczenie wszystkich tych osób pracujących w skupieniu nad swoimi projektami, osiągającymi wyznaczone cele, było dzisiaj moją siłą napędową.&lt;/p&gt;
+
+&lt;p&gt;Dzięki Mike’owi, rozgrzewki wróciły do planu dnia i spędziłam dość przyjemne pół godziny na rozwiązywaniu prostego problemu w Pythonie.&lt;/p&gt;
+
+&lt;p&gt;Zajęłam się następnie planowaniem mojej aplikacji Markdownowej - funkcjonalności, które chciałabym w niej umieścić, ludzi, z którymi chciałabym nad nią pracować, a także wyglądu i użytkowania. Poprosiłam Marcio o pomoc do rozpoczęcia pracy nad aplikacją i niedługo mam nadzieję wspólnie programować z Nickiem (macOS), Andym (macOS i Markddown) oraz Michelle (filtrowanie w Markdownie). Nie mogę się doczekać!&lt;/p&gt;
+
+&lt;p&gt;Jeśli chodzi o drobne usprawnienia, spędziłam produktywne pół godziny na uczeniu się wszystkich skrótów klawiaturowych w Gmailu. Mam tak wiele maili codziennie, aż dziw, że nie zrobiłam tego wcześniej.&lt;/p&gt;
+
+&lt;p&gt;Cihanowi udało się dotrzeć na czas na code dojo (rozwiązywanie tego samego zadania parami, na wiele sposobów) i udało nam się dość szybko zbudować działające proste rozwiązanie w Pythonie, a przez większość czasu męczyć się nad reimplementacją w Elmie. Ponad godzinę po zakończeniu dojo, proste rozwiązanie zostało &lt;a href=&quot;https://gist.github.com/trueskawka/ba9f5dae3fd89a30b30a353b30ffee74&quot;&gt;wdrożone&lt;/a&gt;. Chcę popracować więcej nad funkcjonalnym programowaniem, ponieważ nawet najprostsze rzeczy okazują się bardzo trudne do wdrożenia. Trochę jak &lt;a href=&quot;https://www.youtube.com/watch?v=MFzDaBzBlL0&quot;&gt;ponowne uczenie się jazdy na rowerze&lt;/a&gt; [EN - rower skręca w odwrotną stronę].&lt;/p&gt;
+
+&lt;p&gt;Wieczór improwizacji był tak niesamowity, że aż trudno to opisać. Sarah jest świetnym nauczycielem! Bawiliśmy się przednio, mieliśmy dużo grupowych i indywidualnych ćwiczeń. Wszystkie skupiały się na wzajemnym wspieraniu się, niezależnie od tego, co się działo. Improwizacja polega na mówieniu ciągle “tak i” na wszystko, bycia pozytywnie otwartym na cokolwiek, co się może zdarzyć. Chciałabym więcej takiego podejścia stosować w programowaniu. I też więcej improwizować. Mogła to być też kwestia grupy, w końcu rzadko kiedy redefiniuje się przyczyny globalnego ocieplenia - w trakcie sesji improwizacji wysnuliśmy teorię o latających jednorożcach, które wydalają lody i w ten sposób zanieczyszczają powietrze (to był bardzo specyficzny dowcip).&lt;/p&gt;
+
+&lt;p&gt;Po improwizacji wybrałam się na świetną (i tanią!) wegetariańską kolację ze znajomymi. Chodziło przede wszystkim o pożegnanie Naomi, ale był to po prostu udany wieczór.&lt;/p&gt;
+
+&lt;p&gt;Trochę inspiracji z dzisiaj (wszystkie [EN]):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-coffeelicious/%EF%B8%8F-write-it-anyway-f31f3ebed5e4#.f4oxuing1&quot;&gt;napisz to&lt;/a&gt; i tak&lt;/li&gt;
+  &lt;li&gt;jak &lt;a href=&quot;https://www.themuse.com/advice/5-polite-ways-to-deal-with-people-who-notsopolitely-keep-interrupting-you&quot;&gt;kulturalnie uporać się z wchodzeniem w słowo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;dlaczego inteligentni ludzie muszą &lt;a href=&quot;https://aeon.co/essays/you-don-t-have-to-be-stupid-to-work-here-but-it-helps&quot;&gt;być głupi w pracy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;czy jesteś &lt;a href=&quot;http://nautil.us/issue/40/learning/how-to-tell-if-youre-a-jerk&quot;&gt;palantem&lt;/a&gt;?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Wydaję się bardzo wspaniale i niesamowicie szczęśliwa ostatnio, muszę poszerzyć nieco swój słownik od jutra.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 43</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/27/RC-day-43.html" rel="alternate" type="text/html" title="RC - dzień 43" /><published>2016-09-27T01:39:31-04:00</published><updated>2016-09-27T01:39:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/27/RC-day-43</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/27/RC-day-43.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;poznałam dzisiaj mnóstwo nowych osób&lt;/li&gt;
@@ -284,124 +319,4 @@
   &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>Pierwsze 20 godzin</title><link href="https://trueskawka.github.io/pl/blog/life/2016/09/18/first-20-hours.html" rel="alternate" type="text/html" title="Pierwsze 20 godzin" /><published>2016-09-18T22:11:00-04:00</published><updated>2016-09-18T22:11:00-04:00</updated><id>https://trueskawka.github.io/pl/blog/life/2016/09/18/first-20-hours</id><content type="html" xml:base="https://trueskawka.github.io/pl/blog/life/2016/09/18/first-20-hours.html">&lt;p&gt;Niedawno przeczytałam ponownie &lt;a href=&quot;https://www.amazon.com/First-20-Hours-Learn-Anything/dp/1591846943&quot;&gt;Pierwsze 20 godzin: jak nauczyć się czegokolwiek… szybko!&lt;/a&gt; [EN] Josha Kaufmana - lekką książkę z przydatnymi spostrzeżeniami na temat uczenia się nowych umiejętności. Ponieważ mam tyle do nauczenia się i tak mało czasu (a przynajmniej mam takie poczucie), idea spędzenia tylko 20 godzin nad czymś, od nieznajomości tematu do całkiem niezłego radzenia sobie z nim, brzmi zachęcająco.&lt;/p&gt;
-
-&lt;p&gt;Trzeba zapomnieć o założeniu, że nauczenie się nowej umiejętności wymaga 10 tysięcy godzin. Oczywiście, przeznaczenie pięciu lat w wymiarze pełnego etatu na pewno przyczyni się do zdobycia i doprowadzenia do perfekcji nowej umiejętności, ale nie każdy z nas musi być ekspertem w każdej dziedzinie. Czasami wystarczy tylko podstawowa znajomość tematu.&lt;/p&gt;
-
-&lt;p&gt;Niektóre pomysły przedstawione w książce skojarzyły mi się ze znanymi z ekonomii ideami, przede wszystkim:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;prawem malejących przychodów - im więcej się uczysz, tym mniej zauważalne będą Twoje postępy (tak samo jak jedzenie coraz więcej czekolady po pierwszej połówce tabliczki nie przyczynia się zauważalnie do zwiększenia zadowolenia)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;zasadą Pareto - 20% wysiłków przynosi 80% zysków (ale wysiłki te muszą być ukierunkowane i celowe)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;prawem Parkinsona - praca wypełni cały czas przeznaczony na zadanie (więc krótsze terminy mogą czasem zwiększyć produktywność)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Wyłącznie rozumienie i zauważanie tych zasad może nie być wystarczające dla ich przezwyciężenia, stąd Josh prezentuje proste kroki do nauczenia się dowolnej umiejętności. Przez ‘dowolną umiejętność’ ma na myśli ‘dowolną umiejętność, na której Ci zależy’. Stąd pierwszym krokiem jest wybranie istotnego tematu i skupienie się na jednym projekcie.&lt;/p&gt;
-
-&lt;p&gt;Następnie należy określić docelowy poziom umiejętności. Co dla Ciebie znaczy nauczenie się czegoś nowego? Jeśli chcesz się nauczyć języka obcego, pragniesz być komunikatywnym turystą w trakcie wakacji czy prowadzić niekończące się dysputy filozoficzne? Chcesz grać na gitarze przy ognisku czy zostać gwiazdą rocka? Josh radzi, żeby zacząć powoli - kiedy już rozumiesz podstawowe pojęcia i umiesz wykonywać proste czynności, możesz zacząć utrudniać sobie życie. Aby zostać gwiazdą rocka, musisz najpierw wiedzieć, jak działa gitara i w jak na niej brzdąkać.&lt;/p&gt;
-
-&lt;p&gt;Aby zacząć naukę, można zastosować zasady szybkiego uczenia się umiejętności, przede wszystkim:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;dekonstrukcję&lt;/strong&gt; umiejętności i rozbicie jej na mniejsze kroki&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;uczenie się o każdym kroku z osobna&lt;/strong&gt;, aby móc właściwie ćwiczyć i poprawiać się w oparciu o szybkie informacje zwrotne&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;usunięcie barier&lt;/strong&gt; do nauki
-    &lt;ul&gt;
-      &lt;li&gt;fizycznych - zebranie potrzebnych narzędzi (np. gitary, książek) i wyznaczenie czasu na naukę (np. codziennie 45 minut)&lt;/li&gt;
-      &lt;li&gt;psychicznych - przyjęcie czynnego podejścia do nauki (np. jestem w stanie uczyć się na ten temat przez kolejne 20 minut)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;świadome i celowe &lt;strong&gt;ćwiczenie&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ograniczenie się do tylko 20 godzin ćwiczenia nowej umiejętności (albo osiągnięcia docelowego poziomu umiejętności) pozwala uniknąć pułapki prawa Parkinsona. Dodatkowo  rozwój umiejętności jest zazwyczaj najszybszy na początku, ponieważ funkcja poziomu umiejętności do czasu gwałtownie rośnie w pierwszym okresie. Można więc w miarę szybko nauczyć się dużo i oprzeć dalszą motywację na już osiągniętym sukcesie.&lt;/p&gt;
-
-&lt;p&gt;Skupienie się na jednej umiejętności przez krótki czas pozwala też na przetestowanie pomysłu. Czy na pewno chcę się nauczyć hiszpańskiego, czy jest to tylko coś, co uważam, że powinnam umieć? Czy chcę nad tym spędzić więcej czasu? Czasami nie da się poznać swoich własnych preferencji bez odpowiedniego przetestowania założeń. Rezygnacja z dalszej nauki po krótkim eksperymencie jest jak najbardziej pożądana, jeśli okaże się ona bezcelowa.&lt;/p&gt;
-
-&lt;p&gt;W swojej książce Josh opisuje, w jaki sposób nauczył się sześciu nowych umiejętności w ciągu roku:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;codzienne ćwiczenie jogi&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;podstawowe programowanie i zbudowanie dwóch aplikacji&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;bezwzrokowe pisanie na klawiaturze w Colemaku&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;granie w Go&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;granie na ukulele&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;windsurfing&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Nie chciałabym zepsuć nikomu przyjemności z czytania książki opiszę więc tylko pokrótce rozdział o grze na ukulele.&lt;/p&gt;
-
-&lt;p&gt;Jak możnaby się tego nauczyć?&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Zakup ukulele i innego niezbędnego sprzętu brzmi jak dobry początek.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Nauczenie się, jak działa ukulele (części instrumentu, skąd bierze się dźwięk etc.).
- &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/blog/20hours/ukulele.jpg&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Skupienie się na nauce czterech podstawowych chwytów (podobno większość popularnych piosenek można zagrać używając tylko G, D, Em i C).
- &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/blog/20hours/chords.jpg&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kiedy już granie tych chwytów bezwzrokowo jest proste, skupienie się na graniu ich bez zastanawiania się.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Uczenie się piosenek przez najpierw nucenie, a potem śpiewanie.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Eksperymentowanie, np. nauczenie się fingerpickingu i nowych chwytów.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ciągłe uczenie się.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5MgBikgcWnY&quot;&gt;Tutaj&lt;/a&gt; Josh opowiada o swoich pomysłach, a &lt;a href=&quot;https://www.amazon.com/First-20-Hours-Learn-Anything/dp/1591846943&quot;&gt;tu&lt;/a&gt; można kupić jego książkę [EN]. Inne przydatne źródła:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.empik.com/sila-nawyku-duhigg-charles,p1066293191,ksiazka-p&quot;&gt;Siła nawyku&lt;/a&gt; Charlesa Duhigga, książka o zrozumieniu nawyków i pomysłach na ich zmienianie&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.coursera.org/learn/learning-how-to-learn&quot;&gt;Learning How to Learn&lt;/a&gt; [EN] - darmowy kurs online o tym, jak działa umysł, i sposobach uczenia się&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.udemy.com/&quot;&gt;Become a Superlearner&lt;/a&gt; [EN] stosunkowo niedrogi kurs skupiający się na szybkim uczeniu się i technikach zapamiętywania, z dość dużym naciskiem na szybkie czytanie&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://lifehacker.com/&quot;&gt;Lifehacker&lt;/a&gt; [EN] strona z codziennymi poradami na różnorodne tematy, w duchu lifehackingu (&lt;em&gt;hackowania życia&lt;/em&gt;)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://xkcd.com/&quot;&gt;xkcd&lt;/a&gt; [EN] wspaniały komiks o życiu i nauce, prowadzony przez Randalla Munroe (ma też świetne &lt;a href=&quot;https://www.amazon.com/Randall-Munroe/e/B004H66444/ref=dp_byline_cont_book_1&quot;&gt;książki&lt;/a&gt;)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://smbc-comics.com/&quot;&gt;Saturday Morning Breakfast Cereal&lt;/a&gt; [EN] filozoficzno-satyryczny komiks ZachA WeinersmithA&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Przyjemnej nauki!&lt;/p&gt;</content><author><name>alicja</name></author><summary>Niedawno przeczytałam ponownie Pierwsze 20 godzin: jak nauczyć się czegokolwiek… szybko! [EN] Josha Kaufmana - lekką książkę z przydatnymi spostrzeżeniami na temat uczenia się nowych umiejętności. Ponieważ mam tyle do nauczenia się i tak mało czasu (a przynajmniej mam takie poczucie), idea spędzenia tylko 20 godzin nad czymś, od nieznajomości tematu do całkiem niezłego radzenia sobie z nim, brzmi zachęcająco.</summary></entry></feed>
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
