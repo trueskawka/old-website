@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-28T00:34:45-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 44</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/28/RC-day-44.html" rel="alternate" type="text/html" title="RC - day 44" /><published>2016-09-28T00:00:31-04:00</published><updated>2016-09-28T00:00:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/28/RC-day-44</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/28/RC-day-44.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-29T02:52:42-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 45</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/29/RC-day-45.html" rel="alternate" type="text/html" title="RC - day 45" /><published>2016-09-29T02:20:31-04:00</published><updated>2016-09-29T02:20:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/29/RC-day-45</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/29/RC-day-45.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;got comfortable with Outreachy application process and narrowed down my choices to three companies&lt;/li&gt;
+  &lt;li&gt;got a working Zulip development environment&lt;/li&gt;
+  &lt;li&gt;productively procrastinated on a presentation&lt;/li&gt;
+  &lt;li&gt;went for a feelings check-in&lt;/li&gt;
+  &lt;li&gt;visited Eva and Shawn&lt;/li&gt;
+  &lt;li&gt;signed up for a blog club and interview prep&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I feel I’ve finally read enough about the &lt;a href=&quot;https://wiki.gnome.org/Outreachy&quot;&gt;Outreachy&lt;/a&gt; application process to feel comfortable with applying. I’ve reached out on Zulip to Sumana (experienced Outreachy mentor) and the thread helped me tremendously, especially when Alice shared her application experiences. I’ll focus on trying out the projects I’m interested in locally (or reading up about the ones that are not strictly technical), maybe even make small contributions over the weekend.&lt;/p&gt;
+
+&lt;p&gt;Instead of simply procrastinating, I’ve managed to focus on science behind making decisions and quitting, inspired by an &lt;a href=&quot;https://medium.com/galleys/optimal-stopping-45c54da6d8d0#.txu450qhe&quot;&gt;article on optimal stopping&lt;/a&gt;. I have some slides for tomorrow, but I’m not yet sure if I’m going to present - it’s not entirely a technical topic. Though knowing when to quit a project seems like a useful skill for Recursers.&lt;/p&gt;
+
+&lt;p&gt;The feelings check-in was a blast. It’s interesting how hearing about insecurities of others helps with my own struggles.&lt;/p&gt;
+
+&lt;p&gt;I visited the always warm and welcoming Eva and Shawn. The baby is going to be born soon, can’t wait! Also, I might give back to my American family and help out with some web development in exchange for dinner and cheesecake.&lt;/p&gt;
+
+&lt;p&gt;Friday is going to be a busy day:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;interview prep - I’ve been a bit late for prep signups, so instead of algorithms I’m just going to do regular interview questions&lt;/li&gt;
+  &lt;li&gt;watercolours - I’ll spend some time with Nayley on the pure pleasure of playing with paints&lt;/li&gt;
+  &lt;li&gt;blog club - we’re starting a new group at RC, encouraging each other to write more and/or better blog posts&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 44</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/28/RC-day-44.html" rel="alternate" type="text/html" title="RC - day 44" /><published>2016-09-28T00:00:31-04:00</published><updated>2016-09-28T00:00:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/28/RC-day-44</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/28/RC-day-44.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;stopped forcing myself to be a morning person&lt;/li&gt;
@@ -275,48 +300,4 @@
 
 &lt;p&gt;We’ve also done the initial planning for our problem-tracking app - we’re going to set it up in Django and do the initial functionality in plain HTML + CSS, to be further improved with proper JS (we might even try a JS framework, though it seems like a lot of work for a tiny app).&lt;/p&gt;
 
-&lt;p&gt;Other than that, the OpenGL workshop brought some inspiration, but I’m afraid I don’t have enough time for it now, with all the career- and CS-focused tasks ahead. I have some ideas on my next career steps, but I need to clarify and commit to them.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 35</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/18/RC-day-35.html" rel="alternate" type="text/html" title="RC - day 35" /><published>2016-09-18T23:45:31-04:00</published><updated>2016-09-18T23:45:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/18/RC-day-35</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/18/RC-day-35.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;got some more time off&lt;/li&gt;
-  &lt;li&gt;finally went to Times Square&lt;/li&gt;
-  &lt;li&gt;wrote my first &lt;a href=&quot;http://trueskawka.github.io/blog/life/2016/09/18/first-20-hours.html&quot;&gt;“professional” blog post&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Today was mostly about relaxing by playing with kittens, walking and organising. There was nearly nobody at RC, which meant I got a lot of space to focus.&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;click an image to see the gallery&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/cat_sitting/cat_sitting_main_1.jpg&quot; data-lightbox=&quot;bonding/cat_sitting&quot; data-title=&quot;I was carefully sniffed&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/cat_sitting/cat_sitting_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cat_sitting_main_1.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/cat_sitting/cat_sitting_main_2.jpg&quot; data-lightbox=&quot;bonding/cat_sitting&quot; data-title=&quot;And soon accepted as the current food server&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/cat_sitting/cat_sitting_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cat_sitting_main_2.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/cat_sitting/cat_sitting_main_3.jpg&quot; data-lightbox=&quot;bonding/cat_sitting&quot; data-title=&quot;Who should also play with the fluffs when they demand it&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/cat_sitting/cat_sitting_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cat_sitting_main_3.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/cat_sitting/cat_sitting_main_4.jpg&quot; data-lightbox=&quot;bonding/cat_sitting&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/cat_sitting/cat_sitting_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cat_sitting_main_4.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/cat_sitting/cat_sitting_main_5.jpg&quot; data-lightbox=&quot;bonding/cat_sitting&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/cat_sitting/cat_sitting_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;cat_sitting_main_5.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+&lt;p&gt;Other than that, the OpenGL workshop brought some inspiration, but I’m afraid I don’t have enough time for it now, with all the career- and CS-focused tasks ahead. I have some ideas on my next career steps, but I need to clarify and commit to them.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
