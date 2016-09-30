@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-30T00:51:37-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 45</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/29/RC-day-45.html" rel="alternate" type="text/html" title="RC - dzień 45" /><published>2016-09-29T02:20:31-04:00</published><updated>2016-09-29T02:20:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/29/RC-day-45</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/29/RC-day-45.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-30T02:15:53-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 46</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/30/RC-day-46.html" rel="alternate" type="text/html" title="RC - dzień 46" /><published>2016-09-30T01:34:31-04:00</published><updated>2016-09-30T01:34:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/30/RC-day-46</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/30/RC-day-46.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;miałam prezentację na temat rezygnowania&lt;/li&gt;
+  &lt;li&gt;obejrzałam pozostałe prezentacje&lt;/li&gt;
+  &lt;li&gt;wzięłam udział w wieczorze planszówkowym&lt;/li&gt;
+  &lt;li&gt;poprawiłam stary projekt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Oficjalnie przeszliśmy dzisiaj sami siebie - tak zatraciliśmy się w pracy, że w którymś momencie zrobiła się 6 rano i wybraliśmy się na śniadanie. Moje pierwsze doświadczenie z typowym amerykańskim “barem mlecznym” (diner) składało się głównie z trzech ogromnych francuskich tostów polanych słodkim syropem, co nasyciło mnie na kolejne 10 godzin. Po szybkim odwiedzeniu mieszkania, wróciłam do RC, żeby pracować nad moją aplikacją do Outreachy i prezentacją. Postaram się o tej drugiej napisać nieco więcej, jak już zdecyduję, jaki jest najlepszy sposób na renderowanie równań matematycznych w HTMLu.&lt;/p&gt;
+
+&lt;p&gt;Prezentacje był dzisiaj ciekawe, najlepsze w mojej ocenie (same nowe osoby):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fenimore zbudował &lt;a href=&quot;https://github.com/polypmer/barnacle&quot;&gt;serwer muzyczny&lt;/a&gt; do dzielenia się swoją muzyką w sieci lokalnej (jego preferencje są na tyle interesujące, że przejrzę aplikację dla samego sprawdzenia, co nowego posłuchać)&lt;/li&gt;
+  &lt;li&gt;Harold przedstawił swoją wtyczkę do Chrome - &lt;a href=&quot;https://epub.press/&quot;&gt;EpubPress&lt;/a&gt;, służącą do tworzenia automatycznie epubów z kontentu webowego&lt;/li&gt;
+  &lt;li&gt;Noah opowiedział trochę o swoim &lt;a href=&quot;https://twitter.com/TinyDungeons&quot;&gt;bocie Twitterowym&lt;/a&gt;, generującym mini lochy przy pomocy emoji, ale najlepsze w jego prezentacji było to, że zainspirowało to kogoś do stworzenia &lt;a href=&quot;http://tdp.andrewfaraday.com/&quot;&gt;gry&lt;/a&gt; z jego tweetów&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Wieczór planszówkowy był dość intensywny - było tak wiele nowych osób, włączając w to nieznanych mi wcześniej alumnów, że po zagraniu jednej partii w Codenames i mojej pierwszej rozgrywce w Go, zaszyłam się z pizzą i piwem w bocznym pokoju, żeby w spokoju popracować. Ten tydzień był przytłaczający i samodzielna praca nad starymi projektami była najlepszym rozwiązaniem.&lt;/p&gt;
+
+&lt;p&gt;Udało mi się popracować głównie nad mini aplikacją do sprawdzania pogody. Na początek naprawiłam &lt;a href=&quot;https://codepen.io/trueskawka/pen/pgdvdY&quot;&gt;starą implementację&lt;/a&gt; i popracowałam nad &lt;a href=&quot;https://trueskawka.github.io/weather&quot;&gt;nową&lt;/a&gt; przez jakieś dwie godziny. Napotkałam trochę małych problemów, z których dwa wnioski mogą być przydatne na przyszłość:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Chrome nie akceptuje geolokalizacji przy niezabezpieczonych połączeniach - co dość łatwo rozwiązać przez &lt;code class=&quot;highlighter-rouge&quot;&gt;https&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;API OpenWeatherMap.org ma jednak tylko płatne opcje dla zabezpieczonych połączeń - po poczytaniu trochę na ten temat i rozważeniu wielu możliwych opcji (m.in. użycia danych z innego źródła, z których wiele jest opartych na &lt;a href=&quot;http://freegeoip.net/json/&quot;&gt;IP&lt;/a&gt;), zdecydowałam się po prostu użyć &lt;a href=&quot;https://crossorigin.me/&quot;&gt;crossorigin.me&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Chciałam się też nauczyć czegoś nowego i uznałam, że &lt;a href=&quot;https://css-tricks.com/animating-svg-css/&quot;&gt;animowanie SVG&lt;/a&gt; brzmi interesująco. Jestem całkiem zadowolona z tempa pracy i, biorąc pod uwagę, że mam jeszcze kilka projektów do poprawienia, powinnam się z nimi uporać w ciągu kolejnego tygodnia.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 45</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/29/RC-day-45.html" rel="alternate" type="text/html" title="RC - dzień 45" /><published>2016-09-29T02:20:31-04:00</published><updated>2016-09-29T02:20:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/29/RC-day-45</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/29/RC-day-45.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;oswoiłam się z procesem rekrutacji na staż Outreachy i skupiam się na trzech firmach&lt;/li&gt;
@@ -285,19 +313,4 @@
 
 &lt;p&gt;V miał niezły warsztat na temat Gita, napisany całkowicie w Gicie. Nie czułam, że rozumiem wystarczająco wiele, żeby docenić jego wysiłki, ale na pewno wrócę do materiałów jak tylko będę miała czas, aby w końcu obejrzeć &lt;a href=&quot;https://www.youtube.com/watch?v=YUCwr1Y6bFI&quot;&gt;przentację Emily na temat Gita&lt;/a&gt;. Słyszałam, że może być bardzo pomocna.&lt;/p&gt;
 
-&lt;p&gt;Poza tym przede wszystkim przeglądałam Internet i organizowałam. Ten &lt;a href=&quot;https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.adrdav245&quot;&gt;świetny artykuł&lt;/a&gt; porównujący Pythona i Ruby rozbawił mnie do łez. Podążając za przykładem Alicii, zdecydowałam się zorganizować sesję wspólnego programowania w poniedziałek, kiedy pojawią się nowi Recurserzy. Nadal szukam odpowiedniego wyzwania na sesję.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 36</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/20/RC-day-36.html" rel="alternate" type="text/html" title="RC - dzień 36" /><published>2016-09-20T00:20:31-04:00</published><updated>2016-09-20T00:20:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/20/RC-day-36</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/20/RC-day-36.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;zaczęłam odpowiednio tydzień z eksperymentalną grupą check-inową&lt;/li&gt;
-  &lt;li&gt;wspólnie pracowałam z Ivanem nad poprawieniem wydajności ładowania bloga&lt;/li&gt;
-  &lt;li&gt;pracowałam z Alicią, Islą i Juanem nad koncepcją aplikacji&lt;/li&gt;
-  &lt;li&gt;wzięłam udział w warasztacie Lyn na temat OpenGL&lt;/li&gt;
-  &lt;li&gt;porozmawiałam z Jeni na temat mojego portfolio i profesjonalnego bloga&lt;/li&gt;
-  &lt;li&gt;dostałam sporo insipiracji do rozwoju&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Eksperymentalna grupa check-inowa skupia się na rozliczalności naszej pracy, więc zaczęliśmy tydzień od przypisania każdemu osobę, która ma pomóc nam, i kogoś, komu my możemy pomóc. Dostałam sporo wsparcia od Jeni, głównie w zakresie pisania, i porozmawialiśmy z Aissamem na temat jego aplikacji (ale nie czuję, żebym wiele mu pomogła).&lt;/p&gt;
-
-&lt;p&gt;Zaczęliśmy też planować naszą aplikację to rejestrowania problemów - zbudojemy ją w Django, a pierwszą funkcjonalność oprzemy głównie na HTMLu i CSSie, żeby później uzupełnić ją o odpowiedni JavaScript (może nawet pokusimy się o framework, ale brzmi to trochę jak przesada na malutką aplikację).&lt;/p&gt;
-
-&lt;p&gt;Poza tym warsztat na temat OpenGL był inspirujący, ale obawiam się, że nie mam wystarczająco dużo czasu, żeby wgryźć się w temat, pomiędzy karierą a nauką. Mam też kilka pomysłów na kolejne kroki zawodowe, ale muszę najpierw je wyklarować, zanim publicznie się zadeklaruję.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
+&lt;p&gt;Poza tym przede wszystkim przeglądałam Internet i organizowałam. Ten &lt;a href=&quot;https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.adrdav245&quot;&gt;świetny artykuł&lt;/a&gt; porównujący Pythona i Ruby rozbawił mnie do łez. Podążając za przykładem Alicii, zdecydowałam się zorganizować sesję wspólnego programowania w poniedziałek, kiedy pojawią się nowi Recurserzy. Nadal szukam odpowiedniego wyzwania na sesję.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>

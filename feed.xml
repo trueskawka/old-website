@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-30T00:51:37-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 45</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/29/RC-day-45.html" rel="alternate" type="text/html" title="RC - day 45" /><published>2016-09-29T02:20:31-04:00</published><updated>2016-09-29T02:20:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/29/RC-day-45</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/29/RC-day-45.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-30T02:15:52-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 46</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/30/RC-day-46.html" rel="alternate" type="text/html" title="RC - day 46" /><published>2016-09-30T01:34:31-04:00</published><updated>2016-09-30T01:34:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/30/RC-day-46</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/30/RC-day-46.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;had a presentation about quitting&lt;/li&gt;
+  &lt;li&gt;seen community presentations&lt;/li&gt;
+  &lt;li&gt;took part in game night&lt;/li&gt;
+  &lt;li&gt;refactored an old project&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We officially outdid ourselves - got so lost in work, at some point we’ve realized that it’s already 6am and we should get some breakfast. My first time at a diner consisted of three huge French toasts with syrup, something to keep one full for the next 10 hours. After a quick trip to the apartment, I got back to RC to work on my Outreachy application and presentation. I’ll try to write a longer post on the latter, as soon as I figure out what’s the best way of rendering mathematical formulas in HTML.&lt;/p&gt;
+
+&lt;p&gt;The community presentations today were fun, some highlights:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fenimore’s &lt;a href=&quot;https://github.com/polypmer/barnacle&quot;&gt;Music Server&lt;/a&gt; for streaming albums over local network (also, his music preferences seem interesting enough to dig into it just for the sake of listening to something new)&lt;/li&gt;
+  &lt;li&gt;Harold’s &lt;a href=&quot;https://epub.press/&quot;&gt;EpubPress&lt;/a&gt; Chrome extension for turning web content into ebooks&lt;/li&gt;
+  &lt;li&gt;Noah’s &lt;a href=&quot;https://twitter.com/TinyDungeons&quot;&gt;Tiny Dungeon Twitter Bot&lt;/a&gt; and what’s even more amazing - someone was inspired to create a &lt;a href=&quot;http://tdp.andrewfaraday.com/&quot;&gt;Dungeon Player&lt;/a&gt; out of the tweets&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The game night was pretty intense - there were so many new people, including a lot of alumni, that after playing a short game of Codenames and my first Go game ever (thank you Danielle!), I grabbed a pizza slice and beer to work quietly in a side room. This week has been a bit overwhelming and I felt like working on refactoring some old projects.&lt;/p&gt;
+
+&lt;p&gt;I’ve managed to work mostly on one of them, a tiny weather app. I first fixed the &lt;a href=&quot;https://codepen.io/trueskawka/pen/pgdvdY&quot;&gt;old implementation&lt;/a&gt; and went on to work on the &lt;a href=&quot;https://trueskawka.github.io/weather&quot;&gt;new one&lt;/a&gt; for about two hours. I’ve encountered some little bugs, two that might be useful for future reference:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Chrome doesn’t accept anymore geolocation over insecure connections - easily fixed with &lt;code class=&quot;highlighter-rouge&quot;&gt;https&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;the OpenWeatherMap.org has a secure API as a premium feature - after reading up about possible solutions (e.g. getting data from other sources, &lt;a href=&quot;http://freegeoip.net/json/&quot;&gt;IP-based&lt;/a&gt;), I’ve decided to simply use &lt;a href=&quot;https://crossorigin.me/&quot;&gt;crossorigin.me&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I also wanted to learn something new and decided &lt;a href=&quot;https://css-tricks.com/animating-svg-css/&quot;&gt;animating SVG&lt;/a&gt; sounds fun enough. All in all, with a few more projects to refactor, I feel pretty comfortable with tackling them over the next week or so.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 45</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/29/RC-day-45.html" rel="alternate" type="text/html" title="RC - day 45" /><published>2016-09-29T02:20:31-04:00</published><updated>2016-09-29T02:20:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/29/RC-day-45</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/29/RC-day-45.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;got comfortable with Outreachy application process and narrowed down my choices to three companies&lt;/li&gt;
@@ -285,19 +313,4 @@
 
 &lt;p&gt;V had a cool workshop on Git internals done entirely in Git. I didn’t feel I knew enough to understand and appreciate it enough, but I’ll definitely go through it again as soon as I have some time to watch &lt;a href=&quot;https://www.youtube.com/watch?v=YUCwr1Y6bFI&quot;&gt;Emily’s presentation on Git&lt;/a&gt;, as I’ve heard it might be very helpful.&lt;/p&gt;
 
-&lt;p&gt;Other than that, I was mostly browsing and organising. This &lt;a href=&quot;https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.adrdav245&quot;&gt;hilarious article&lt;/a&gt; on Ruby vs Python made my evening. Following into Alicia’s footsteps, I’ve decided to do a mob coding session for the new batch on Monday and I’m still looking for just the right challenge.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 36</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/20/RC-day-36.html" rel="alternate" type="text/html" title="RC - day 36" /><published>2016-09-20T00:20:31-04:00</published><updated>2016-09-20T00:20:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/20/RC-day-36</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/20/RC-day-36.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;started the week right with experimental check-in group&lt;/li&gt;
-  &lt;li&gt;paired with Ivan on improving blog loading&lt;/li&gt;
-  &lt;li&gt;worked on an app concept with Alicia, Isla and Juan&lt;/li&gt;
-  &lt;li&gt;took part in Lyn’s OpenGL workshop&lt;/li&gt;
-  &lt;li&gt;discussed my next portfolio + blog steps with Jeni&lt;/li&gt;
-  &lt;li&gt;had some inspiration for growing as a programmer&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The experimental check-in group is about accountability, so we’ve started the week with assigning each other a person to help us and someone we could help with their work. I got a lot of support from Jeni on my writing and discussed Aissam’s app with him (though I don’t feel I’ve helped him much).&lt;/p&gt;
-
-&lt;p&gt;We’ve also done the initial planning for our problem-tracking app - we’re going to set it up in Django and do the initial functionality in plain HTML + CSS, to be further improved with proper JS (we might even try a JS framework, though it seems like a lot of work for a tiny app).&lt;/p&gt;
-
-&lt;p&gt;Other than that, the OpenGL workshop brought some inspiration, but I’m afraid I don’t have enough time for it now, with all the career- and CS-focused tasks ahead. I have some ideas on my next career steps, but I need to clarify and commit to them.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+&lt;p&gt;Other than that, I was mostly browsing and organising. This &lt;a href=&quot;https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.adrdav245&quot;&gt;hilarious article&lt;/a&gt; on Ruby vs Python made my evening. Following into Alicia’s footsteps, I’ve decided to do a mob coding session for the new batch on Monday and I’m still looking for just the right challenge.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
