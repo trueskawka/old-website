@@ -107,6 +107,16 @@
       
     
       
+        <post postDate="20161001" class="dpost"></post>
+      
+    
+  
+    
+      
+    
+      
+    
+      
         <post postDate="20160930" class="dpost"></post>
       
     
@@ -776,7 +786,7 @@
 <div id="calendarView">
   <div class="month" id="august"></div>
   <div class="month" id="september"></div>
-  <div class="month" id="october" style="display: none"></div>
+  <div class="month" id="october"></div>
   <div class="month" id="november" style="display: none"></div>
 </div>
 
@@ -784,6 +794,82 @@
 
       <section>
           <h2>Notatki z Recurse Center</h2>
+
+  
+    
+  
+    
+  
+    
+      <div class="post postContent">
+        <div  class="postDate">
+          <time datetime="2016-10-01T03:34:31-04:00" itemprop="datePublished">
+          
+            01.10.2016 03:34
+          
+          </time>
+        </div>
+        <div class="postDay">
+          
+        </div>
+        <br>
+        
+          <a class="link-it" href="/pl/usa/rc/log/2016/10/01/RC-day-47.html">
+            <div class="postTitle">
+              <h3>RC - dzień 47</h3>
+            </div>
+          </a>
+        
+        <div class="post-content">
+          <p>Osiągnięcia:</p>
+
+<ul>
+  <li>wzięłam udział w warsztacie nt. Wiresharka</li>
+  <li>zapisałam się na warsztat przedsiębiorczości</li>
+  <li>nauczyłam się komunikować z API RC</li>
+  <li>zaplanowałam aplikację dla społeczności</li>
+  <li>nauczyłam się budować aplikacje w Sinatrze i deployować je na Heroku</li>
+  <li>zbudowałam aplikację z listami zadań</li>
+</ul>
+
+<p>Nie podejrzewałam, że całkowite przejscie na tryb nocny będzie tak satysfakcjonujące, a jednocześnie tak rozsynchronizowane z otoczeniem. Znacznie lepiej śpię i wypoczywam, ale cokolwiek by się działo przed południem jest dla mnie niedostępne.</p>
+
+<p>Część dnia spędzona w RC zaczęła się dość późno, ze względu na sprawy osobiste, znacznie ważniejsze niż przygotowanie do rekrutacji, akwarele czy spotkanie bloggerów. Na szczęście udało mi się przynajmniej zdążyć na drugi warsztat Mike’a o Wiresharku i zapisać na intensywny warsztat Paula nt. przedsiębiorczości w następną sobotę.</p>
+
+<p>Chciałam tylko poprawić jeden ze starych projektów, ale zainspirowano mnie do zbudowania aplikacji dla społeczności RC - quiz pomagający w poznaniu imion Recurserów. Zdecydowałam się zrobić to przy użyciu minimalnych narzędzi, Ruby’ego z Sinatrą, ale w tym celu musiałam się najpierw ich nauczyć.</p>
+
+<p>Po kilku godzinach, jednym <a href="https://www.sitepoint.com/just-do-it-learn-sinatra-i/">całkiem niezłym tutorialu</a> i ponad setce zapytań do Googla, zbudowałam i zdeployowałam na Heroku <a href="https://initialist.herokuapp.com/">prostą aplikację z listami zadań</a>. Obecnie nie ma tam użytkowników, więc nie odpowiadam za wszelkie nieodpowiednie treści, które mogą zostać dodane przez osoby trzecie. Przez weekend dodam użytkowników i autoryzację, najprawdopodobniej przy użyciu OAuth RC, żeby poćwiczyć przed głównym projektem.</p>
+
+<p>Jeśli ktokolwiek miałby ochotę skorzystać z tutoriala (aplikacja to w 95% tutorial i nieco ozdobników w CSSie), zajęło mi sporo czasu dojście do tego, jak zdeployować aplikację na Heroku. Najprzydatniejsze wskazówki:</p>
+
+<ul>
+  <li>
+    <p>musi zostać zainicjowana pusta baza postgresql:</p>
+
+    <div class="highlighter-rouge"><pre class="highlight"><code>heroku addons:add heroku-postgresql:dev
+</code></pre>
+    </div>
+  </li>
+  <li>
+    <p>migracje robi się w konsoli Heroku:</p>
+
+    <div class="highlighter-rouge"><pre class="highlight"><code>heroku run console
+require 'sinatra'
+require 'slim'
+require 'data_mapper'
+require './main'
+DataMapper.setup(:default, ENV['DATABASE_URL'] ||
+ "sqlite3://#{Dir.pwd}/development.db")  
+DataMapper.auto_migrate!
+</code></pre>
+    </div>
+  </li>
+</ul>
+
+        </div>
+      </div>
+    
+  
 
   
     

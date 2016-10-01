@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-09-30T02:15:52-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 46</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/30/RC-day-46.html" rel="alternate" type="text/html" title="RC - day 46" /><published>2016-09-30T01:34:31-04:00</published><updated>2016-09-30T01:34:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/30/RC-day-46</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/30/RC-day-46.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-01T04:09:06-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 47</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/01/RC-day-47.html" rel="alternate" type="text/html" title="RC - day 47" /><published>2016-10-01T03:34:31-04:00</published><updated>2016-10-01T03:34:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/01/RC-day-47</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/01/RC-day-47.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;took part in Wireshark workshop&lt;/li&gt;
+  &lt;li&gt;signed up for entrepreneurship workshop&lt;/li&gt;
+  &lt;li&gt;learned to communicate with RC API&lt;/li&gt;
+  &lt;li&gt;planned an app for the community&lt;/li&gt;
+  &lt;li&gt;learned to build apps in Sinatra and deploy them to Heroku&lt;/li&gt;
+  &lt;li&gt;build a to-do list app&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I didn’t suspect that becoming a full-time night-owl can be so satisfying and at the same time so completely out of sync with everyone. I sleep and rest better, but anything happening before noon is out of my reach.&lt;/p&gt;
+
+&lt;p&gt;The RC part of the day started late, with some much needed personal errands that took priority over interview prep, watercolours and blog meeting. Thankfully, at least I’ve made it to Mike’s second Wireshark workshop and was able to sign-up for Paul’s intense workshop on entrepreneurship next Saturday.&lt;/p&gt;
+
+&lt;p&gt;I wanted to simply refactor one of my old projects, but got inspired to come up with an app for RC community - a pop quiz to help learn fellow Recursers’ names. In order to do that with a minimum setup, I’ve decided to use Ruby and Sinatra, which I first had to learn.&lt;/p&gt;
+
+&lt;p&gt;A few hours, one &lt;a href=&quot;https://www.sitepoint.com/just-do-it-learn-sinatra-i/&quot;&gt;pretty good tutorial&lt;/a&gt; and some hundred Google queries later, I’ve created and deployed a &lt;a href=&quot;https://initialist.herokuapp.com/&quot;&gt;simple to-do list&lt;/a&gt; app on Heroku. At the moment there are no users, so I’m not taking responsibility for any content that may or may not be added by any third parties. Over the weekend I’ll add some users and authorisation, probably using the RC OAuth, just to practice before the bigger project.&lt;/p&gt;
+
+&lt;p&gt;In case anyone wants to try the tutorial (the app is 95% the tutorial verbatim with some CSS flavours on top), it took me some time to figure out how to deploy it to Heroku. Most helpful tips:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;an empty postgresql database must be initiated:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;heroku addons:add heroku-postgresql:dev
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;migratons happen in heroku console:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;heroku run console
+require 'sinatra'
+require 'slim'
+require 'data_mapper'
+require './main'
+DataMapper.setup(:default, ENV['DATABASE_URL'] ||
+ &quot;sqlite3://#{Dir.pwd}/development.db&quot;)  
+DataMapper.auto_migrate!
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 46</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/30/RC-day-46.html" rel="alternate" type="text/html" title="RC - day 46" /><published>2016-09-30T01:34:31-04:00</published><updated>2016-09-30T01:34:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/30/RC-day-46</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/30/RC-day-46.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;had a presentation about quitting&lt;/li&gt;
@@ -300,17 +343,4 @@
 
 &lt;p&gt;I’ve also spent an hour on writing niceties for our fellow Recursers, whose (half-)batch is ending soon. It was wonderful to be able to share all the feelings and gratitude, but also sad to think they’ll be gone soon. Alas, you can never be truly gone from the RC community.&lt;/p&gt;
 
-&lt;p&gt;Over all, the day went pretty great, even though I didn’t make it for today’s experimental check-in. I didn’t plan for it, it’s just that yesterday evening I met Luna - an RC alumni - with whom I’ve spend a better part of three hours completely lost in conversation and didn’t get back to the apartment soon enough to wake up on time. I think it falls into the category of “first world problems” - I have so many amazing people to meet and talk to that I can’t find time to sleep or be productive enough. I’ve done it yet again during the day - an innocent conversation with John turned into a 1.5h+ experience.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 37</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/22/RC-day-37.html" rel="alternate" type="text/html" title="RC - day 37" /><published>2016-09-22T02:20:31-04:00</published><updated>2016-09-22T02:20:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/22/RC-day-37</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/22/RC-day-37.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;learned more about Django REST framework&lt;/li&gt;
-  &lt;li&gt;V’s workshop on Git Internals in Git&lt;/li&gt;
-  &lt;li&gt;read a hilarious article on Ruby vs Python&lt;/li&gt;
-  &lt;li&gt;planned a mob coding session for the new batch&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As the sexism-tracking app will be built in Django, I wanted to learn more about the REST framework. The RESTful API design workshop was moved till Wednesday, so I’ll probably work on it a little bit more during the weekend.&lt;/p&gt;
-
-&lt;p&gt;V had a cool workshop on Git internals done entirely in Git. I didn’t feel I knew enough to understand and appreciate it enough, but I’ll definitely go through it again as soon as I have some time to watch &lt;a href=&quot;https://www.youtube.com/watch?v=YUCwr1Y6bFI&quot;&gt;Emily’s presentation on Git&lt;/a&gt;, as I’ve heard it might be very helpful.&lt;/p&gt;
-
-&lt;p&gt;Other than that, I was mostly browsing and organising. This &lt;a href=&quot;https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.adrdav245&quot;&gt;hilarious article&lt;/a&gt; on Ruby vs Python made my evening. Following into Alicia’s footsteps, I’ve decided to do a mob coding session for the new batch on Monday and I’m still looking for just the right challenge.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+&lt;p&gt;Over all, the day went pretty great, even though I didn’t make it for today’s experimental check-in. I didn’t plan for it, it’s just that yesterday evening I met Luna - an RC alumni - with whom I’ve spend a better part of three hours completely lost in conversation and didn’t get back to the apartment soon enough to wake up on time. I think it falls into the category of “first world problems” - I have so many amazing people to meet and talk to that I can’t find time to sleep or be productive enough. I’ve done it yet again during the day - an innocent conversation with John turned into a 1.5h+ experience.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>

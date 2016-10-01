@@ -103,6 +103,16 @@
   
     
       
+        <post postDate="20161001" class="dpost"></post>
+      
+    
+      
+    
+      
+    
+  
+    
+      
         <post postDate="20160930" class="dpost"></post>
       
     
@@ -826,7 +836,7 @@
 <div id="calendarView">
   <div class="month" id="august"></div>
   <div class="month" id="september"></div>
-  <div class="month" id="october" style="display: none"></div>
+  <div class="month" id="october"></div>
   <div class="month" id="november" style="display: none"></div>
 </div>
 
@@ -834,6 +844,84 @@
 
       <section>
           
+  
+    
+      <div class="post postContent">
+        <div  class="postDate">
+          <time datetime="2016-10-01T03:34:31-04:00" itemprop="datePublished">
+          
+            10/01/2016 03:34
+          
+          </time>
+        </div>
+        <div class="postDay">
+          
+        </div>
+        <br>
+
+        
+          <a class="link-it" href="/usa/rc/log/2016/10/01/RC-day-47.html">
+            <div class="postTitle">
+              <h3>RC - day 47</h3>
+            </div>
+          </a>
+        
+
+        <div class="post-content">
+          <p>Achievements:</p>
+
+<ul>
+  <li>took part in Wireshark workshop</li>
+  <li>signed up for entrepreneurship workshop</li>
+  <li>learned to communicate with RC API</li>
+  <li>planned an app for the community</li>
+  <li>learned to build apps in Sinatra and deploy them to Heroku</li>
+  <li>build a to-do list app</li>
+</ul>
+
+<p>I didn’t suspect that becoming a full-time night-owl can be so satisfying and at the same time so completely out of sync with everyone. I sleep and rest better, but anything happening before noon is out of my reach.</p>
+
+<p>The RC part of the day started late, with some much needed personal errands that took priority over interview prep, watercolours and blog meeting. Thankfully, at least I’ve made it to Mike’s second Wireshark workshop and was able to sign-up for Paul’s intense workshop on entrepreneurship next Saturday.</p>
+
+<p>I wanted to simply refactor one of my old projects, but got inspired to come up with an app for RC community - a pop quiz to help learn fellow Recursers’ names. In order to do that with a minimum setup, I’ve decided to use Ruby and Sinatra, which I first had to learn.</p>
+
+<p>A few hours, one <a href="https://www.sitepoint.com/just-do-it-learn-sinatra-i/">pretty good tutorial</a> and some hundred Google queries later, I’ve created and deployed a <a href="https://initialist.herokuapp.com/">simple to-do list</a> app on Heroku. At the moment there are no users, so I’m not taking responsibility for any content that may or may not be added by any third parties. Over the weekend I’ll add some users and authorisation, probably using the RC OAuth, just to practice before the bigger project.</p>
+
+<p>In case anyone wants to try the tutorial (the app is 95% the tutorial verbatim with some CSS flavours on top), it took me some time to figure out how to deploy it to Heroku. Most helpful tips:</p>
+
+<ul>
+  <li>
+    <p>an empty postgresql database must be initiated:</p>
+
+    <div class="highlighter-rouge"><pre class="highlight"><code>heroku addons:add heroku-postgresql:dev
+</code></pre>
+    </div>
+  </li>
+  <li>
+    <p>migratons happen in heroku console:</p>
+
+    <div class="highlighter-rouge"><pre class="highlight"><code>heroku run console
+require 'sinatra'
+require 'slim'
+require 'data_mapper'
+require './main'
+DataMapper.setup(:default, ENV['DATABASE_URL'] ||
+ "sqlite3://#{Dir.pwd}/development.db")  
+DataMapper.auto_migrate!
+</code></pre>
+    </div>
+  </li>
+</ul>
+
+        </div>
+      </div>
+    
+  
+    
+  
+    
+  
+
   
     
       <div class="post postContent">
@@ -947,76 +1035,6 @@
   <li>watercolours - I’ll spend some time with Nayley on the pure pleasure of playing with paints</li>
   <li>blog club - we’re starting a new group at RC, encouraging each other to write more and/or better blog posts</li>
 </ul>
-
-        </div>
-      </div>
-    
-  
-    
-  
-    
-  
-
-  
-    
-      <div class="post postContent">
-        <div  class="postDate">
-          <time datetime="2016-09-28T00:00:31-04:00" itemprop="datePublished">
-          
-            09/28/2016 00:00
-          
-          </time>
-        </div>
-        <div class="postDay">
-          
-        </div>
-        <br>
-
-        
-          <a class="link-it" href="/usa/rc/log/2016/09/28/RC-day-44.html">
-            <div class="postTitle">
-              <h3>RC - day 44</h3>
-            </div>
-          </a>
-        
-
-        <div class="post-content">
-          <p>Achievements:</p>
-
-<ul>
-  <li>stopped forcing myself to be a morning person</li>
-  <li>warm-up in Python</li>
-  <li>took a few steps to build my Markdown app</li>
-  <li>improved my Gmail experience</li>
-  <li>paired on code dojo problem with Cihan</li>
-  <li>took part in the improv night, a fun and amazing experience (all thanks to Sarah!)</li>
-  <li>had a wonderful evening with RC friends</li>
-</ul>
-
-<p>I think it was high time to stop kidding myself - I am not nor will I ever be a morning person. Starting the day slowly and getting to RC just in time for my breakfast and 1pm check-in was the perfect solution to my motivation problems. Firstly, I got so much sleep I woke up without an alarm and wasn’t stressed about being late. Coming in during the day, seeing all those people working away on their laptops, focused, calm and going forward with their plans was my driving force for today.</p>
-
-<p>Thanks to Mike, warmups are alive and well again, and I’ve had a nice half hour playing with a simple problem in Python.</p>
-
-<p>I then proceeded to plan my Markdown app - the features I want to include, people to ask for help and pair with, general look and feel of it. I’ve asked Marcio for some help on getting started and will hopefully pair soon with Nick (macOS development), Andy (macOS development and Markdown) and Michelle (Markdown filtering). Can’t wait!</p>
-
-<p>As for minor tweaks, I’ve spent a productive half-hour learning all the Gmail shortcuts. I have so many messages coming in every day, it’s surprising I’ve never done that before.</p>
-
-<p>Cihan made it in time for code dojo and we’ve created together a working simple solution in Python and then struggled to reimplement it in Elm. About an hour after the dojo ended, a simplistic approach got <a href="https://gist.github.com/trueskawka/ba9f5dae3fd89a30b30a353b30ffee74">implemented</a>. I want to work more on my functional programming, since doing even the simplest things is such a struggle. It’s like <a href="https://www.youtube.com/watch?v=MFzDaBzBlL0">relearning to ride a bike</a>.</p>
-
-<p>The improvisation night was so amazing it’s hard to describe. Sarah is such a wonderful teacher! We’ve had a lot of group and individual exercises, all of them focused on supporting each other no matter what. Improv is really about saying “yes and” to everything, I want to do more of that in programming. And a lot more improv. It could’ve also been the group - it’s not often you come up with a new theory for global warming: flying unicorns pooping ice-cream into the atmosphere (that was a very inside joke, no worries if it wasn’t clear).</p>
-
-<p>After the improv I went for great (and very cheap!) vegetarian food with some of my RC friends. It was firstly about bidding farewell to Naomi, but mostly it was simply an amazing evening.</p>
-
-<p>Lastly, some food for thought:</p>
-
-<ul>
-  <li><a href="https://medium.com/the-coffeelicious/%EF%B8%8F-write-it-anyway-f31f3ebed5e4#.f4oxuing1">write it</a> anyway</li>
-  <li>how to <a href="https://www.themuse.com/advice/5-polite-ways-to-deal-with-people-who-notsopolitely-keep-interrupting-you">politely deal with interruptions</a></li>
-  <li>why smart people are expected to <a href="https://aeon.co/essays/you-don-t-have-to-be-stupid-to-work-here-but-it-helps">be stupid at work</a></li>
-  <li>are you a <a href="http://nautil.us/issue/40/learning/how-to-tell-if-youre-a-jerk">jerk</a>?</li>
-</ul>
-
-<p>I seem overly amazingly and wonderfully happy recently, I should work on my adjectives starting tomorrow.</p>
 
         </div>
       </div>

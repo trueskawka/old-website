@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-09-30T02:15:53-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 46</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/30/RC-day-46.html" rel="alternate" type="text/html" title="RC - dzień 46" /><published>2016-09-30T01:34:31-04:00</published><updated>2016-09-30T01:34:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/30/RC-day-46</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/30/RC-day-46.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-01T04:09:07-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 47</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/01/RC-day-47.html" rel="alternate" type="text/html" title="RC - dzień 47" /><published>2016-10-01T03:34:31-04:00</published><updated>2016-10-01T03:34:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/01/RC-day-47</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/01/RC-day-47.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;wzięłam udział w warsztacie nt. Wiresharka&lt;/li&gt;
+  &lt;li&gt;zapisałam się na warsztat przedsiębiorczości&lt;/li&gt;
+  &lt;li&gt;nauczyłam się komunikować z API RC&lt;/li&gt;
+  &lt;li&gt;zaplanowałam aplikację dla społeczności&lt;/li&gt;
+  &lt;li&gt;nauczyłam się budować aplikacje w Sinatrze i deployować je na Heroku&lt;/li&gt;
+  &lt;li&gt;zbudowałam aplikację z listami zadań&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nie podejrzewałam, że całkowite przejscie na tryb nocny będzie tak satysfakcjonujące, a jednocześnie tak rozsynchronizowane z otoczeniem. Znacznie lepiej śpię i wypoczywam, ale cokolwiek by się działo przed południem jest dla mnie niedostępne.&lt;/p&gt;
+
+&lt;p&gt;Część dnia spędzona w RC zaczęła się dość późno, ze względu na sprawy osobiste, znacznie ważniejsze niż przygotowanie do rekrutacji, akwarele czy spotkanie bloggerów. Na szczęście udało mi się przynajmniej zdążyć na drugi warsztat Mike’a o Wiresharku i zapisać na intensywny warsztat Paula nt. przedsiębiorczości w następną sobotę.&lt;/p&gt;
+
+&lt;p&gt;Chciałam tylko poprawić jeden ze starych projektów, ale zainspirowano mnie do zbudowania aplikacji dla społeczności RC - quiz pomagający w poznaniu imion Recurserów. Zdecydowałam się zrobić to przy użyciu minimalnych narzędzi, Ruby’ego z Sinatrą, ale w tym celu musiałam się najpierw ich nauczyć.&lt;/p&gt;
+
+&lt;p&gt;Po kilku godzinach, jednym &lt;a href=&quot;https://www.sitepoint.com/just-do-it-learn-sinatra-i/&quot;&gt;całkiem niezłym tutorialu&lt;/a&gt; i ponad setce zapytań do Googla, zbudowałam i zdeployowałam na Heroku &lt;a href=&quot;https://initialist.herokuapp.com/&quot;&gt;prostą aplikację z listami zadań&lt;/a&gt;. Obecnie nie ma tam użytkowników, więc nie odpowiadam za wszelkie nieodpowiednie treści, które mogą zostać dodane przez osoby trzecie. Przez weekend dodam użytkowników i autoryzację, najprawdopodobniej przy użyciu OAuth RC, żeby poćwiczyć przed głównym projektem.&lt;/p&gt;
+
+&lt;p&gt;Jeśli ktokolwiek miałby ochotę skorzystać z tutoriala (aplikacja to w 95% tutorial i nieco ozdobników w CSSie), zajęło mi sporo czasu dojście do tego, jak zdeployować aplikację na Heroku. Najprzydatniejsze wskazówki:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;musi zostać zainicjowana pusta baza postgresql:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;heroku addons:add heroku-postgresql:dev
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;migracje robi się w konsoli Heroku:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;heroku run console
+require 'sinatra'
+require 'slim'
+require 'data_mapper'
+require './main'
+DataMapper.setup(:default, ENV['DATABASE_URL'] ||
+ &quot;sqlite3://#{Dir.pwd}/development.db&quot;)  
+DataMapper.auto_migrate!
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 46</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/30/RC-day-46.html" rel="alternate" type="text/html" title="RC - dzień 46" /><published>2016-09-30T01:34:31-04:00</published><updated>2016-09-30T01:34:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/30/RC-day-46</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/30/RC-day-46.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;miałam prezentację na temat rezygnowania&lt;/li&gt;
@@ -300,17 +343,4 @@
 
 &lt;p&gt;Spędziłam też godzinę na pisaniu pożegnań dla osób, których pobyt w RC niedługo się kończy. Wspaniale było podzielić się pozytywnymi emocjami i wdzęcznością, ale jednocześnie trochę smutno ich żegnać. Na szczęście nigdy tak naprawdę nie przestaje się być członkiem społeczności.&lt;/p&gt;
 
-&lt;p&gt;Jestem całkiem zadowolna z dzisiejszego dnia, mimo że nie udało mi się dotrzeć na eksperymentalną grupę check-inową. Nie planowałam tego, po prostu wczoraj wieczorem poznałam Lunę (alumnę RC) i spędziłyśmy prawie trzy godziny na rozmawianiu na wszystkie możliwe tematy, więc dotarłam do mieszkania zbyt późno, żeby się obudzić na czas. Myślę, że to problem pierwszego świata - jest tutaj tyle interesujących osób, że nie znajduję czasu na to, żeby być wyspana czy wystarczająco produktywna. Dzisiaj zresztą znowu to zrobiłam w ciągu dnia - miła krótka rozmowa z Johnem przerodziła się w półtoragodzinne doświadczenie.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 37</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/22/RC-day-37.html" rel="alternate" type="text/html" title="RC - dzień 37" /><published>2016-09-22T02:20:31-04:00</published><updated>2016-09-22T02:20:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/22/RC-day-37</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/22/RC-day-37.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;nauczyłam się więcej o frameworku Django REST&lt;/li&gt;
-  &lt;li&gt;uczestniczyłam w warsztacie V na temat Gita&lt;/li&gt;
-  &lt;li&gt;przeczytałam przezabawny artykuł porównującyh Pythona i Ruby&lt;/li&gt;
-  &lt;li&gt;zaplanowałam sesję wspólnego programowania dla kolejnej grupy Recurserów&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ponieważ nasza aplikacja do rejestrowania seksistowskich (i nie tylko) incydentów będzie zbudowana w Django, chciałam się nauczyć trochę więcej na temat framworka RESTowego. Warsztat o odpowiednim projektowaniu RESTful API został przesunięty na środę, więc pewnie popracuję nad tym więcej w trakcie weekendu, mając wszystkie niezbędne informacje.&lt;/p&gt;
-
-&lt;p&gt;V miał niezły warsztat na temat Gita, napisany całkowicie w Gicie. Nie czułam, że rozumiem wystarczająco wiele, żeby docenić jego wysiłki, ale na pewno wrócę do materiałów jak tylko będę miała czas, aby w końcu obejrzeć &lt;a href=&quot;https://www.youtube.com/watch?v=YUCwr1Y6bFI&quot;&gt;przentację Emily na temat Gita&lt;/a&gt;. Słyszałam, że może być bardzo pomocna.&lt;/p&gt;
-
-&lt;p&gt;Poza tym przede wszystkim przeglądałam Internet i organizowałam. Ten &lt;a href=&quot;https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.adrdav245&quot;&gt;świetny artykuł&lt;/a&gt; porównujący Pythona i Ruby rozbawił mnie do łez. Podążając za przykładem Alicii, zdecydowałam się zorganizować sesję wspólnego programowania w poniedziałek, kiedy pojawią się nowi Recurserzy. Nadal szukam odpowiedniego wyzwania na sesję.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
+&lt;p&gt;Jestem całkiem zadowolna z dzisiejszego dnia, mimo że nie udało mi się dotrzeć na eksperymentalną grupę check-inową. Nie planowałam tego, po prostu wczoraj wieczorem poznałam Lunę (alumnę RC) i spędziłyśmy prawie trzy godziny na rozmawianiu na wszystkie możliwe tematy, więc dotarłam do mieszkania zbyt późno, żeby się obudzić na czas. Myślę, że to problem pierwszego świata - jest tutaj tyle interesujących osób, że nie znajduję czasu na to, żeby być wyspana czy wystarczająco produktywna. Dzisiaj zresztą znowu to zrobiłam w ciągu dnia - miła krótka rozmowa z Johnem przerodziła się w półtoragodzinne doświadczenie.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
