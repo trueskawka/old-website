@@ -103,6 +103,36 @@
   
     
       
+        <post postDate="20161002" class="dpost"></post>
+      
+    
+      
+    
+      
+    
+  
+    
+      
+        <post postDate="20161002" class="dpost"></post>
+      
+    
+      
+    
+      
+    
+  
+    
+      
+        <post postDate="20161002" class="dpost"></post>
+      
+    
+      
+    
+      
+    
+  
+    
+      
         <post postDate="20161001" class="dpost"></post>
       
     
@@ -848,9 +878,9 @@
     
       <div class="post postContent">
         <div  class="postDate">
-          <time datetime="2016-10-01T03:34:31-04:00" itemprop="datePublished">
+          <time datetime="2016-10-02T23:24:31-04:00" itemprop="datePublished">
           
-            10/01/2016 03:34
+            10/02/2016 23:24
           
           </time>
         </div>
@@ -860,9 +890,9 @@
         <br>
 
         
-          <a class="link-it" href="/usa/rc/log/2016/10/01/RC-day-47.html">
+          <a class="link-it" href="/usa/rc/log/2016/10/02/RC-day-49.html">
             <div class="postTitle">
-              <h3>RC - day 47</h3>
+              <h3>RC - day 49</h3>
             </div>
           </a>
         
@@ -871,47 +901,17 @@
           <p>Achievements:</p>
 
 <ul>
-  <li>took part in Wireshark workshop</li>
-  <li>signed up for entrepreneurship workshop</li>
-  <li>learned to communicate with RC API</li>
-  <li>planned an app for the community</li>
-  <li>learned to build apps in Sinatra and deploy them to Heroku</li>
-  <li>build a to-do list app</li>
+  <li>went to the Museum of the National History</li>
+  <li>moved to a new place</li>
+  <li>tested out a few Markdown tools</li>
+  <li>read another book on Sinatra</li>
 </ul>
 
-<p>I didn’t suspect that becoming a full-time night-owl can be so satisfying and at the same time so completely out of sync with everyone. I sleep and rest better, but anything happening before noon is out of my reach.</p>
+<p>In order not to be so out of sync I’ve decided to pull another all-nighter. My reasoning was to get so tired, I’ll have to go to sleep at a reasonable hour to get up early on Monday. And I won’t be late for the Museum of Natural History trip. It all went great most of the day, but now I’m too tired to go to the new apartment and sleep.</p>
 
-<p>The RC part of the day started late, with some much needed personal errands that took priority over interview prep, watercolours and blog meeting. Thankfully, at least I’ve made it to Mike’s second Wireshark workshop and was able to sign-up for Paul’s intense workshop on entrepreneurship next Saturday.</p>
+<p>Apart from the trip and switching apartment for the next two weeks, I’ve had some quality time with RC friends and managed to play with a few Markdown tools, to get a better feeling for my app. I also read another book on Sinatra, but still require some pairing from a more experienced developer to set it up right.</p>
 
-<p>I wanted to simply refactor one of my old projects, but got inspired to come up with an app for RC community - a pop quiz to help learn fellow Recursers’ names. In order to do that with a minimum setup, I’ve decided to use Ruby and Sinatra, which I first had to learn.</p>
-
-<p>A few hours, one <a href="https://www.sitepoint.com/just-do-it-learn-sinatra-i/">pretty good tutorial</a> and some hundred Google queries later, I’ve created and deployed a <a href="https://initialist.herokuapp.com/">simple to-do list</a> app on Heroku. At the moment there are no users, so I’m not taking responsibility for any content that may or may not be added by any third parties. Over the weekend I’ll add some users and authorisation, probably using the RC OAuth, just to practice before the bigger project.</p>
-
-<p>In case anyone wants to try the tutorial (the app is 95% the tutorial verbatim with some CSS flavours on top), it took me some time to figure out how to deploy it to Heroku. Most helpful tips:</p>
-
-<ul>
-  <li>
-    <p>an empty postgresql database must be initiated:</p>
-
-    <div class="highlighter-rouge"><pre class="highlight"><code>heroku addons:add heroku-postgresql:dev
-</code></pre>
-    </div>
-  </li>
-  <li>
-    <p>migratons happen in heroku console:</p>
-
-    <div class="highlighter-rouge"><pre class="highlight"><code>heroku run console
-require 'sinatra'
-require 'slim'
-require 'data_mapper'
-require './main'
-DataMapper.setup(:default, ENV['DATABASE_URL'] ||
- "sqlite3://#{Dir.pwd}/development.db")  
-DataMapper.auto_migrate!
-</code></pre>
-    </div>
-  </li>
-</ul>
+<p>New week, greater challenges!</p>
 
         </div>
       </div>
@@ -926,9 +926,9 @@ DataMapper.auto_migrate!
     
       <div class="post postContent">
         <div  class="postDate">
-          <time datetime="2016-09-30T01:34:31-04:00" itemprop="datePublished">
+          <time datetime="2016-10-02T23:15:31-04:00" itemprop="datePublished">
           
-            09/30/2016 01:34
+            10/02/2016 23:15
           
           </time>
         </div>
@@ -938,43 +938,274 @@ DataMapper.auto_migrate!
         <br>
 
         
-          <a class="link-it" href="/usa/rc/log/2016/09/30/RC-day-46.html">
+          <a class="link-it" href="/usa/nyc/trips/2016/10/02/natural-history.html">
             <div class="postTitle">
-              <h3>RC - day 46</h3>
+              <h3>Museum of Natural History</h3>
             </div>
           </a>
         
 
         <div class="post-content">
-          <p>Achievements:</p>
+          <p>The Museum of Natural History is ginormous. We went for a trip together and after more than three hours I haven’t seen half of it. Definitely going to come back.</p>
 
-<ul>
-  <li>had a presentation about quitting</li>
-  <li>seen community presentations</li>
-  <li>took part in game night</li>
-  <li>refactored an old project</li>
-</ul>
+<p><i>click an image to see the gallery</i></p>
 
-<p>We officially outdid ourselves - got so lost in work, at some point we’ve realized that it’s already 6am and we should get some breakfast. My first time at a diner consisted of three huge French toasts with syrup, something to keep one full for the next 10 hours. After a quick trip to the apartment, I got back to RC to work on my Outreachy application and presentation. I’ll try to write a longer post on the latter, as soon as I figure out what’s the best way of rendering mathematical formulas in HTML.</p>
+<p>
 
-<p>The community presentations today were fun, some highlights:</p>
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_1.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_1.jpg" class="thumb-img" alt="history_main_1.jpg" />
+  </a>
+</div>
 
-<ul>
-  <li>Fenimore’s <a href="https://github.com/polypmer/barnacle">Music Server</a> for streaming albums over local network (also, his music preferences seem interesting enough to dig into it just for the sake of listening to something new)</li>
-  <li>Harold’s <a href="https://epub.press/">EpubPress</a> Chrome extension for turning web content into ebooks</li>
-  <li>Noah’s <a href="https://twitter.com/TinyDungeons">Tiny Dungeon Twitter Bot</a> and what’s even more amazing - someone was inspired to create a <a href="http://tdp.andrewfaraday.com/">Dungeon Player</a> out of the tweets</li>
-</ul>
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_2.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_2.jpg" class="thumb-img" alt="history_main_2.jpg" />
+  </a>
+</div>
 
-<p>The game night was pretty intense - there were so many new people, including a lot of alumni, that after playing a short game of Codenames and my first Go game ever (thank you Danielle!), I grabbed a pizza slice and beer to work quietly in a side room. This week has been a bit overwhelming and I felt like working on refactoring some old projects.</p>
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_3.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_3.jpg" class="thumb-img" alt="history_main_3.jpg" />
+  </a>
+</div>
 
-<p>I’ve managed to work mostly on one of them, a tiny weather app. I first fixed the <a href="https://codepen.io/trueskawka/pen/pgdvdY">old implementation</a> and went on to work on the <a href="https://trueskawka.github.io/weather">new one</a> for about two hours. I’ve encountered some little bugs, two that might be useful for future reference:</p>
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_4.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_4.jpg" class="thumb-img" alt="history_main_4.jpg" />
+  </a>
+</div>
 
-<ul>
-  <li>Chrome doesn’t accept anymore geolocation over insecure connections - easily fixed with <code class="highlighter-rouge">https</code></li>
-  <li>the OpenWeatherMap.org has a secure API as a premium feature - after reading up about possible solutions (e.g. getting data from other sources, <a href="http://freegeoip.net/json/">IP-based</a>), I’ve decided to simply use <a href="https://crossorigin.me/">crossorigin.me</a></li>
-</ul>
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_5.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_5.jpg" class="thumb-img" alt="history_main_5.jpg" />
+  </a>
+</div>
 
-<p>I also wanted to learn something new and decided <a href="https://css-tricks.com/animating-svg-css/">animating SVG</a> sounds fun enough. All in all, with a few more projects to refactor, I feel pretty comfortable with tackling them over the next week or so.</p>
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_6.jpg" data-lightbox="trips/history" data-title="I wonder what he's seen">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_6.jpg" class="thumb-img" alt="history_main_6.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_7.jpg" data-lightbox="trips/history" data-title="Wax casting">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_7.jpg" class="thumb-img" alt="history_main_7.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_8.jpg" data-lightbox="trips/history" data-title="Llama - before and after">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_8.jpg" class="thumb-img" alt="history_main_8.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_9.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_9.jpg" class="thumb-img" alt="history_main_9.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_10.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_10.jpg" class="thumb-img" alt="history_main_10.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_11.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_11.jpg" class="thumb-img" alt="history_main_11.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_12.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_12.jpg" class="thumb-img" alt="history_main_12.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_13.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_13.jpg" class="thumb-img" alt="history_main_13.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_14.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_14.jpg" class="thumb-img" alt="history_main_14.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_15.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_15.jpg" class="thumb-img" alt="history_main_15.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_16.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_16.jpg" class="thumb-img" alt="history_main_16.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_17.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_17.jpg" class="thumb-img" alt="history_main_17.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_18.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_18.jpg" class="thumb-img" alt="history_main_18.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_19.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_19.jpg" class="thumb-img" alt="history_main_19.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_20.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_20.jpg" class="thumb-img" alt="history_main_20.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_21.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_21.jpg" class="thumb-img" alt="history_main_21.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_22.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_22.jpg" class="thumb-img" alt="history_main_22.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_23.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_23.jpg" class="thumb-img" alt="history_main_23.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_24.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_24.jpg" class="thumb-img" alt="history_main_24.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_25.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_25.jpg" class="thumb-img" alt="history_main_25.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_26.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_26.jpg" class="thumb-img" alt="history_main_26.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_27.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_27.jpg" class="thumb-img" alt="history_main_27.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_28.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_28.jpg" class="thumb-img" alt="history_main_28.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_29.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_29.jpg" class="thumb-img" alt="history_main_29.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_30.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_30.jpg" class="thumb-img" alt="history_main_30.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_31.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_31.jpg" class="thumb-img" alt="history_main_31.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_32.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_32.jpg" class="thumb-img" alt="history_main_32.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_33.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_33.jpg" class="thumb-img" alt="history_main_33.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_34.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_34.jpg" class="thumb-img" alt="history_main_34.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_35.jpg" data-lightbox="trips/history" data-title="The shadow of gigantic dinosaur - people for scale">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_35.jpg" class="thumb-img" alt="history_main_35.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_36.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_36.jpg" class="thumb-img" alt="history_main_36.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_37.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_37.jpg" class="thumb-img" alt="history_main_37.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_38.jpg" data-lightbox="trips/history" data-title="Taken between two hordes of people craving selfies">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_38.jpg" class="thumb-img" alt="history_main_38.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_39.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_39.jpg" class="thumb-img" alt="history_main_39.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_40.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_40.jpg" class="thumb-img" alt="history_main_40.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_41.jpg" data-lightbox="trips/history" data-title="Hello, I'm Whale">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_41.jpg" class="thumb-img" alt="history_main_41.jpg" />
+  </a>
+</div>
+
+<div class="thumb-container">
+  <a href="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_42.jpg" data-lightbox="trips/history" data-title="">
+    <img src="https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_42.jpg" class="thumb-img" alt="history_main_42.jpg" />
+  </a>
+</div>
+
+</p>
+
 
         </div>
       </div>
@@ -989,9 +1220,9 @@ DataMapper.auto_migrate!
     
       <div class="post postContent">
         <div  class="postDate">
-          <time datetime="2016-09-29T02:20:31-04:00" itemprop="datePublished">
+          <time datetime="2016-10-02T22:43:31-04:00" itemprop="datePublished">
           
-            09/29/2016 02:20
+            10/02/2016 22:43
           
           </time>
         </div>
@@ -1001,40 +1232,27 @@ DataMapper.auto_migrate!
         <br>
 
         
-          <a class="link-it" href="/usa/rc/log/2016/09/29/RC-day-45.html">
+          <a class="link-it" href="/usa/rc/log/2016/10/02/RC-day-48.html">
             <div class="postTitle">
-              <h3>RC - day 45</h3>
+              <h3>RC - day 48</h3>
             </div>
           </a>
         
 
         <div class="post-content">
-          <p>Achievements:</p>
+          <p>Osiągnięcia:</p>
 
 <ul>
-  <li>got comfortable with Outreachy application process and narrowed down my choices to three companies</li>
-  <li>got a working Zulip development environment</li>
-  <li>productively procrastinated on a presentation</li>
-  <li>went for a feelings check-in</li>
-  <li>visited Eva and Shawn</li>
-  <li>signed up for a blog club and interview prep</li>
+  <li>porozmawiałam z Andym o pomysłach i funkcjonalnościach mojej aplikacji Mardownowej</li>
+  <li>zaczęłam się uczyć Emacsa</li>
+  <li>zrobiłam kilka tutoriali w Sinatrze</li>
 </ul>
 
-<p>I feel I’ve finally read enough about the <a href="https://wiki.gnome.org/Outreachy">Outreachy</a> application process to feel comfortable with applying. I’ve reached out on Zulip to Sumana (experienced Outreachy mentor) and the thread helped me tremendously, especially when Alice shared her application experiences. I’ll focus on trying out the projects I’m interested in locally (or reading up about the ones that are not strictly technical), maybe even make small contributions over the weekend.</p>
+<p>Dzisiaj skupiłam się przede wszystkim na planowaniu mojej aplikacji Markdownowej i szukaniu inspiracji. Długa rozmowa z Andym pomogła w zdefiniowaniu podstawowych i przydatnych funkcjonalności, wraz z wieloma innymi świetnymi pomysłami. Doszliśmy do wniosku, że istnieje tutaj pewne szczególne uczucie - “kocham Cię w duchu RC” - platonicznej więzi i współdzielenia radości ze wspólnej pracy i działania (po polsku brzmi to co najmniej jak swego rodzaju propaganda).</p>
 
-<p>Instead of simply procrastinating, I’ve managed to focus on science behind making decisions and quitting, inspired by an <a href="https://medium.com/galleys/optimal-stopping-45c54da6d8d0#.txu450qhe">article on optimal stopping</a>. I have some slides for tomorrow, but I’m not yet sure if I’m going to present - it’s not entirely a technical topic. Though knowing when to quit a project seems like a useful skill for Recursers.</p>
+<p>Poza ściągnięciem 12 nowych narzędzi Markdownowych i pobawienia się nimi, zaczęłam się uczyć Emacsa (edytor dla ‘prawdziwych programistów’) i postanowiłam przez kolejny tydzień pisać kod tylko przy jego pomocy, żeby sprawdzić, czemu wszyscy tak go chwalą. Pod koniec tygodnia będę miała wypracowane świadome zdanie na ten temat i poczuję się lepiej, niezależnie od tego, na co się ostatecznie zdecyduję.</p>
 
-<p>The feelings check-in was a blast. It’s interesting how hearing about insecurities of others helps with my own struggles.</p>
-
-<p>I visited the always warm and welcoming Eva and Shawn. The baby is going to be born soon, can’t wait! Also, I might give back to my American family and help out with some web development in exchange for dinner and cheesecake.</p>
-
-<p>Friday is going to be a busy day:</p>
-
-<ul>
-  <li>interview prep - I’ve been a bit late for prep signups, so instead of algorithms I’m just going to do regular interview questions</li>
-  <li>watercolours - I’ll spend some time with Nayley on the pure pleasure of playing with paints</li>
-  <li>blog club - we’re starting a new group at RC, encouraging each other to write more and/or better blog posts</li>
-</ul>
+<p>Przerobiłam też kilka tutoriali do Sinatry dla potwierdzania tożsamości użytkowników, chociaż nadal nie czuję, że dobrze je rozumiem i potrafię używać.</p>
 
         </div>
       </div>
