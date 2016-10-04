@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-03T00:01:18-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 49</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/02/RC-day-49.html" rel="alternate" type="text/html" title="RC - dzień 49" /><published>2016-10-02T23:24:31-04:00</published><updated>2016-10-02T23:24:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/02/RC-day-49</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/02/RC-day-49.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-04T01:07:02-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 50</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/03/RC-day-50.html" rel="alternate" type="text/html" title="RC - dzień 50" /><published>2016-10-03T23:57:31-04:00</published><updated>2016-10-03T23:57:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/03/RC-day-50</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/03/RC-day-50.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;miałam dłuższą rozmowę na temat Outreachy&lt;/li&gt;
+  &lt;li&gt;wprowadziłam użytkowników do aplikacji&lt;/li&gt;
+  &lt;li&gt;dowiedziałam się czegoś o problemie odległości między słowami&lt;/li&gt;
+  &lt;li&gt;miałam pierwszy check-out&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nowe mieszkanie jest świetne, ale nie zaplanowałam odpowiednio podróży do RC. Spóźniłam się na check-in i otwarte godziny w Zulipie na rozmowy o Outreachy. Na szczęście udało mi się zadać pytania, na które chciałam dostać odpowiedzi, i zdecydować, od czego zacząć.&lt;/p&gt;
+
+&lt;p&gt;Nie pracowałam dzisiaj jednak zbyt wiele nad Zulipem, ponieważ głównie programowałam wspólnie z Michelle nad Sinatrą, przede wszystkim autentykacją użytkowników. Udało mi się zaimplementować użytkowników w aplikacji do list zadań, jako następny krok do zbudowania głównej aplikacji. Nauczyłam się też od Joego, jak rozwiązuje się problem &lt;a href=&quot;https://leetcode.com/problems/edit-distance/&quot;&gt;odległości między słowami&lt;/a&gt;, chociaż sama go jeszcze nie zaimplementowałam, co może być dobrym ćwiczeniem na przyszłość.&lt;/p&gt;
+
+&lt;p&gt;Miałam też swój pierwszy check-out - wieczorny check-in, ale nie tak swobodny. Razem z Deniz, Brianem i Noah rozmawialiśmy o tym, co udało nam się dzisiaj zdziałać i pokazaliśmy sobie nawzajem nasz kod, co robiłam po raz pierwszy od dawna (pomijając wspólne programowanie). Jutro spotykamy się znowu o 18, żeby omówić nasze postępy, co jest bardzo motywujące, biorąc pod uwagę, jak dużo zrobili dzisiaj wszyscy poza mną.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 49</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/02/RC-day-49.html" rel="alternate" type="text/html" title="RC - dzień 49" /><published>2016-10-02T23:24:31-04:00</published><updated>2016-10-02T23:24:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/02/RC-day-49</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/02/RC-day-49.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;poszłam do muzeum historii naturalnej&lt;/li&gt;
@@ -306,7 +319,7 @@
   &lt;li&gt;
     &lt;p&gt;musi zostać zainicjowana pusta baza postgresql:&lt;/p&gt;
 
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;heroku addons:add heroku-postgresql:dev
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;heroku addons:add heroku-postgresql
 &lt;/code&gt;&lt;/pre&gt;
     &lt;/div&gt;
   &lt;/li&gt;
@@ -456,55 +469,4 @@ DataMapper.auto_migrate!
 
 &lt;p&gt;Wieczorem spędziłam trochę czasu z kobietami z obecnej i nowej sesji RC. Spotkania tylko dla kobiet powinny byc częściej organizowane, szczególnie w środowisku technologicznym. Tęsknię za wszystkimi kobietami w moim życiu i nowe przyjaźnie tutaj bardzo pomagają.&lt;/p&gt;
 
-&lt;p&gt;Kiedy aplikujemy do RC, nie pojawiamy się na liście pod nazwiskiem, ale używany jest automatycznie generowany pseudonim, żeby zmniejszyć ryzyko uprzedzeń (więcej na ten temat w &lt;a href=&quot;https://www.recurse.com/blog/43-building-a-better-and-more-diverse-community&quot;&gt;artykule Nicka&lt;/a&gt; [EN]). Myślę, że mój jest najlepszy z całej grupy - Feature Fog (mgła funkcjonalności). Nie mogę się doczekać, żeby zacząć go używać w kontekście programistycznym.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 41</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/24/RC-day-41.html" rel="alternate" type="text/html" title="RC - dzień 41" /><published>2016-09-24T23:41:31-04:00</published><updated>2016-09-24T23:41:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/24/RC-day-41</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/24/RC-day-41.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;wypoczęłam&lt;/li&gt;
-  &lt;li&gt;przemyślałam moje pierwsze 6 tygodni w RC&lt;/li&gt;
-  &lt;li&gt;odkryłam, jakiego mam patronusa&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Sześć tygodni temu przyleciałam do Nowego Jorku z bardzo niedookreślonym pomysłem na siebie, z wieloma pomysłami ale bez wielu szczegółów. Wydawało się, że jest tyle rzeczy, których chciałam i ‘musiałam’ się nauczyć - algorytmy, teoria systemów, sieci, ‘właściwe’ programowanie (cokolwiek miałoby to znaczyć), uczenie maszynowe, lepsze wizualizacje, praca z API, przetwarzanie audio etc. Lista była niekończąca sie i przez pierwsze kilka dni byłam rozproszona i zagubiona.&lt;/p&gt;
-
-&lt;p&gt;Przez pierwszą połowę mojej sesji próbowałam i zrezygnowałam z wielu rzeczy. Nie pracowałam wystarczająco nad moim głównym projektem, czułam, że niektóre metody uczenia się czy tematy nie są dla mnie. Chodziłam na mnóstwo warsztatów, często kilka dziennie, próbując się uczyć jak najwięcej. Jednocześnie cały czas zadziwiali mnie inny Recurserzy, szczególnie ci, którzy przyjechali tutaj na ‘tylko’ 6 tygodni, potrafiący skupić się w każdych warunkach.&lt;/p&gt;
-
-&lt;p&gt;Problemy zdrowotne w zeszłym tygodniu uświadomiły mi, że przepracowywałam się i przedobrzyłam ze wspaniałym doświadczeniem, jakim jest RC. Tak, świetnie jest wstawać codziennie rano, mając mnóstwo planów i przepełnioną listę zadań. Spieszyć się na poranną medytację i check-in, czuć, że prę do przodu. Ale muszę dostosować swoje zadania i cele, bo inaczej stracę zupełnie motywację. W końcu nauka nigdy się nie kończy.&lt;/p&gt;
-
-&lt;p&gt;Mam kilka obszarów i celów, na których się skupię, wydystylowanych z morza możliwości jakie przede mną się otworzyło:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;nadal chcę zbudować aplikację do uczenia się języków, choć jest to w tym momencie projekt, który podzieliłam na mnóstwo mini zadań, zasypanych gdzieś na dnie mojej listy pod lawiną innych pomysłów&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;uwielbiam rozmawiać z ludźmi i robię to często, ale chciałabym rozmawiać trochę więcej o programowaniu, co oznacza więcej wspólnego programowania - przynajmniej część z tego powinna się skupiać na moich projektach&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;krótka lista dużych projektów:
-    &lt;ul&gt;
-      &lt;li&gt;aplikacja do nauki języków obcych (możliwe wspólne programowanie w zakresie przetwrzania audio, API i web developmentu)&lt;/li&gt;
-      &lt;li&gt;uczenie się Reacta w czasie budowaniu aplikacji (mam kilka pomysłów, nad którymi chciałabym popracować, głównie z Ivem)&lt;/li&gt;
-      &lt;li&gt;zbudowanie mojego własnego edytora tekstu z Markdownem, webowego albo na Maca&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;cele zawodowe:
-    &lt;ul&gt;
-      &lt;li&gt;napisanie 10 profesjonalnych postów przed końcem mojego pobytu w USA&lt;/li&gt;
-      &lt;li&gt;złożenie aplikacji na pewien zdalny projekt, który wydaje mi się świetnym kolejnym krokiem (ale nie chcę o tym pisać za dużo, żeby nie zapeszyć)&lt;/li&gt;
-      &lt;li&gt;co najmniej dwie sesje przygotowania do rekrutacji tygodniowo&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;produktywna prokrastynacja:
-    &lt;ul&gt;
-      &lt;li&gt;niekończąca się lista mini projektów do uczenia się konkretnych umiejętności&lt;/li&gt;
-      &lt;li&gt;budowanie małych projektów techniką druku 3D&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;5 godzin tygodniowo nauki nieprogramistycznej umiejętności&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;spędzianie niedziel i większości sobót na zwiedzaniu i integrowaniu się&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Podsumowując, pierwsze sześć tygodni mojego pobytu zmieniło moją perspektywę. Będę pracować nad tym, żeby kolejne tygodnie były jeszcze lepsze.&lt;/p&gt;
-
-&lt;p&gt;Poza przemyślywaniem, planowaniem i odpoczynkiem, spędziłam kilka minut nad odkrywaniem &lt;a href=&quot;https://www.pottermore.com/news/discover-your-patronus-on-pottermore&quot;&gt;jaki jest mój patronus na Pottermore&lt;/a&gt;. Najwyraźniej jest to łasiczka, co nie jest zbyt dalekie od wiewiórki, którą zawsze sobie wyobrażałam.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
+&lt;p&gt;Kiedy aplikujemy do RC, nie pojawiamy się na liście pod nazwiskiem, ale używany jest automatycznie generowany pseudonim, żeby zmniejszyć ryzyko uprzedzeń (więcej na ten temat w &lt;a href=&quot;https://www.recurse.com/blog/43-building-a-better-and-more-diverse-community&quot;&gt;artykule Nicka&lt;/a&gt; [EN]). Myślę, że mój jest najlepszy z całej grupy - Feature Fog (mgła funkcjonalności). Nie mogę się doczekać, żeby zacząć go używać w kontekście programistycznym.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>

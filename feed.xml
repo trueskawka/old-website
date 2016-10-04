@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-03T00:01:17-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 49</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/02/RC-day-49.html" rel="alternate" type="text/html" title="RC - day 49" /><published>2016-10-02T23:24:31-04:00</published><updated>2016-10-02T23:24:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/02/RC-day-49</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/02/RC-day-49.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-04T01:07:02-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 50</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/03/RC-day-50.html" rel="alternate" type="text/html" title="RC - day 50" /><published>2016-10-03T23:57:31-04:00</published><updated>2016-10-03T23:57:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/03/RC-day-50</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/03/RC-day-50.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;had a chat about Outreachy&lt;/li&gt;
+  &lt;li&gt;implemented users in the Sinatra app&lt;/li&gt;
+  &lt;li&gt;learned something about the edit distance problem&lt;/li&gt;
+  &lt;li&gt;first check-out&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The new apartment is great, but I didn’t anticipate how long it would take to get to RC in the morning. I was late for my check-in and office hours for Outreachy at Zulip. Thankfully, I’ve managed to ask the questions I’ve needed answers for and decided what contribution to start with.&lt;/p&gt;
+
+&lt;p&gt;That being said, I’ve not worked much on Zulip today, as I paired with Michelle on Sinatra user authentication and managed to implement users in the to-do app, as a next step for learning how to build the main app. I’ve also learned how to solve the &lt;a href=&quot;https://leetcode.com/problems/edit-distance/&quot;&gt;edit distance&lt;/a&gt; problem from Joe, though I haven’t implemented it myself yet, so that could be a good exercise sometime soon.&lt;/p&gt;
+
+&lt;p&gt;I’ve also had my first check-out, best described as a check-in at the end of the day, but not as casual. Together with Deniz, Brian and Noah we discussed what we’ve done today and showed the actual code, which is the first time I’ve done it apart from pairing in a long time. Tomorrow we meet again at 6pm to review our progress, which is very motivating, considering how much they’ve all managed to do today.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 49</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/02/RC-day-49.html" rel="alternate" type="text/html" title="RC - day 49" /><published>2016-10-02T23:24:31-04:00</published><updated>2016-10-02T23:24:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/02/RC-day-49</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/02/RC-day-49.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;went to the Museum of the National History&lt;/li&gt;
@@ -306,7 +319,7 @@
   &lt;li&gt;
     &lt;p&gt;an empty postgresql database must be initiated:&lt;/p&gt;
 
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;heroku addons:add heroku-postgresql:dev
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;heroku addons:add heroku-postgresql
 &lt;/code&gt;&lt;/pre&gt;
     &lt;/div&gt;
   &lt;/li&gt;
@@ -456,55 +469,4 @@ DataMapper.auto_migrate!
 
 &lt;p&gt;In the evening, I’ve spent some time with other RC women from our and the upcoming batches. All women meetings should be more of a thing, especially in the tech community. I do miss all the women in my life a lot and it helps to have new friendships here.&lt;/p&gt;
 
-&lt;p&gt;When we apply to RC, we get automatically generated pseudonyms to reduce bias (more on this in &lt;a href=&quot;https://www.recurse.com/blog/43-building-a-better-and-more-diverse-community&quot;&gt;this&lt;/a&gt; post by Nick). Mine is totally awesome - Feature Fog. I can’t wait to use it in a programming context soon.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 41</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/24/RC-day-41.html" rel="alternate" type="text/html" title="RC - day 41" /><published>2016-09-24T23:41:31-04:00</published><updated>2016-09-24T23:41:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/24/RC-day-41</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/24/RC-day-41.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;got a lot of rest&lt;/li&gt;
-  &lt;li&gt;reflected on my first six weeks at RC&lt;/li&gt;
-  &lt;li&gt;discovered my patronus&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Six weeks ago I came to NYC with a very vague idea of what I wanted to do specifically. There seemed to be so many things I wanted and ‘had’ to learn - algorithms, networking, CS, ‘proper’ programming (whatever that means), machine learning, better visualisations, APIs, audio processing etc. The list could go on and on, as for the first few days I was utterly distracted and lost.&lt;/p&gt;
-
-&lt;p&gt;Over the course of the first half of my batch, I’ve tried and resigned from many things. I didn’t work enough on my ‘big’ project, I felt that some methods of learning or topics I wanted to learn do not resonate with me. I’ve been going to workshops, sometimes a few a day, trying to learn as much as possible. At the same time, I was constantly amazed by the degree of focus of some of my fellow batchers, especially those who came here for ‘only’ six weeks.&lt;/p&gt;
-
-&lt;p&gt;The health scare last week was a wake-up call - I’ve been overworking myself, overdosing on the wonderful experience that is RC. Yes, it was great to get up every morning full of plans and with my to-do list bursting. To rush for my morning meditation and check-in, feeling like I’m moving forward. But I need to shift my focus and adjust my goals, otherwise I might lose my motivation altogether. After all, it’s all about never graduating.&lt;/p&gt;
-
-&lt;p&gt;As such, I have a few areas and goals to focus on, distilled from the vast universe of possibilities:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;I still want to build my language-learning app, a project I’ve spread into tiny tasks that are now somewhere near the end of my to-do list under an avalanche of ideas&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I love talking to people and I’ve been doing a lot of that, but I want to talk more about programming, which means more pairing - at least part of it should be focused on pursuing my projects&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;shortlist of bigger projects:
-    &lt;ul&gt;
-      &lt;li&gt;language-learning app (possible pairing on audio processing, APIs and web dev)&lt;/li&gt;
-      &lt;li&gt;learning React while building an app (I have some ideas I would like to work on, especially with Ivo)&lt;/li&gt;
-      &lt;li&gt;building my own Markdown editor, either web or for MacOS&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;career goals:
-    &lt;ul&gt;
-      &lt;li&gt;writing 10 professional blog posts by the end of my stay in the US&lt;/li&gt;
-      &lt;li&gt;applying for the remote opportunity I’m excited about (but don’t want to write about it too much, as not to jinx it)&lt;/li&gt;
-      &lt;li&gt;having at least 2 interview prep sessions a week&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;productive procrastination:
-    &lt;ul&gt;
-      &lt;li&gt;an ongoing list of shorter projects to learn specific programming skills&lt;/li&gt;
-      &lt;li&gt;making small 3D printed prototypes for future DYIing&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;5 hours a week for a non-programming learning project&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;spending Sundays and most of Saturdays on sightseeing/socializing&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All in all, the first half of my batch was a perspective-changing experience. I’ll work on the next six weeks to be even better.&lt;/p&gt;
-
-&lt;p&gt;Other than reflections, plans and rest, I’ve had a fun few minutes with discovering &lt;a href=&quot;https://www.pottermore.com/news/discover-your-patronus-on-pottermore&quot;&gt;my patronus on Pottermore&lt;/a&gt;. Apparently it’s a weasel, which doesn’t seem too far removed from a squirrel I’ve always imagined it to be.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+&lt;p&gt;When we apply to RC, we get automatically generated pseudonyms to reduce bias (more on this in &lt;a href=&quot;https://www.recurse.com/blog/43-building-a-better-and-more-diverse-community&quot;&gt;this&lt;/a&gt; post by Nick). Mine is totally awesome - Feature Fog. I can’t wait to use it in a programming context soon.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
