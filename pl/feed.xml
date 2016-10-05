@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-04T01:07:02-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 50</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/03/RC-day-50.html" rel="alternate" type="text/html" title="RC - dzień 50" /><published>2016-10-03T23:57:31-04:00</published><updated>2016-10-03T23:57:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/03/RC-day-50</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/03/RC-day-50.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-05T01:40:00-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 51</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/04/RC-day-51.html" rel="alternate" type="text/html" title="RC - dzień 51" /><published>2016-10-04T23:43:31-04:00</published><updated>2016-10-04T23:43:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/04/RC-day-51</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/04/RC-day-51.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;czytałam dokumentację, mapę drogową i rozwijane funkcjonalności Zulipa&lt;/li&gt;
+  &lt;li&gt;miałam owocną rozmowę z Sumaną na temat Outreachy&lt;/li&gt;
+  &lt;li&gt;umówiłam spotkanie z Michaelem na temat jego funkcjonalności Zulipa&lt;/li&gt;
+  &lt;li&gt;zaplanowałam kolejne kroki&lt;/li&gt;
+  &lt;li&gt;check-out&lt;/li&gt;
+  &lt;li&gt;zaczęłam kurs efektywnego myślenia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pracując nad aplikacją do Outreachy, czuję się coraz bardziej komfortowo myśląc o pracy nad dużymi projektami i pracowaniem nad nimi w małych kawałkach. Doczytałam sporo dokumentacji Zulipa, przestudiowałam mapę drogową i obecnie rozwijane funkcjonlaności, próbując zdecydować, gdzie najlepiej zainwestować moje umiejętności i oczekiwania.&lt;/p&gt;
+
+&lt;p&gt;Sumana jest mądrą, utalentowaną, niesamowitą osobą. Spędziłam z nią dzisiaj tylko półtorej godziny i nie tylko pomogła mi z moimi pomysłami i priorytetami dla Outreachy, wskazując obszary, w które moje umiejętności najlepiej się wpisują, ale zainspirowała mnie też do dalszego rozwoju. Dodatkowe bodźce znalazłam dzisiaj w postaci [EN]:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.harihareswara.net/sumana&quot;&gt;bloga Sumany&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ballingt.com/&quot;&gt;pracy Toma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://moriel.smarterthanthat.com/tips/the-language-double-take-dealing-with-bidirectional-text-or-wait-tahw/&quot;&gt;artykule Moriel o wsparciu języków RTL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Myślę też, że, biorąc pod uwagę moje doświadczenie i umiejętności, budowanie funkcjonalności wspierających języki pisane od prawej do lewej (eng. &lt;em&gt;right-to-left&lt;/em&gt;, RTL) i innych aspektów internacjonalizacji (tłumaczenia) aplikacji brzmi jak dobry projekt na początek. Pamiętając jednak jednocześnie, że chcę pracować nad więcej niż jednym obszarem, bo wiele celów może bardziej pomóc mi w rozwoju.&lt;/p&gt;
+
+&lt;p&gt;Michael, alumn RC, stworzył funkcjonalność do filtrowania tematów w Zulipie i umówiliśmy się na czwartek, żeby wyjaśnił mi jej działanie. Będę mogła na tej podstawie zacząć nad nią pracować i spróbować ją połączyć z głównym projektem. Jest też dość interesująca funkcjonalność do zliczania użytkowników w danym temacie i chcę się jej bliżej przyjrzeć jutro, żeby zobaczyć, z czym potrzebuję pomocy.&lt;/p&gt;
+
+&lt;p&gt;Jednym z kolejnych kroków w procesie aplikacji jest odpowiednie nauczenie się Vagranta (oprogramowanie do tworzenia wirtualnych środowisk) - obecnie głównie używam komend, które nie do końca rozumiem, co nie pomaga przy rozwiązywaniu problemów.&lt;/p&gt;
+
+&lt;p&gt;Drugi dzień check-outów był odpowiednio motywujący. Grupa trochę urosła - przy obecnym formacie wzrost o 25% jest jednak całkiem spory i wydaje mi się, że 5 osób jest na granicy sensowności, jeśli ma to służyć jako metoda do poprawy rozliczalności z zadań. Im więcej osób w grupie, tym mniej są zaangażowani w poszczególne projekty, a wydaje mi się, że zaangażowanie jest kluczowe. Tak samo, jak wczoraj, pozostali zrobili tak dużo, że zmotywowali mnie do zrobienia więcej na jutrzejsze spotkanie.&lt;/p&gt;
+
+&lt;p&gt;Jako rozrywkę, przy której nie czuję, że marnuję czas, zaczęłam kurs &lt;a href=&quot;https://courses.edx.org/courses/course-v1:UTAustinX+UT.9.10x+3T2016/&quot;&gt;efektywnego myślenia przez matematykę&lt;/a&gt;. Rozwijanie umiejętności analitycznych zawsze się przyda, a potrzebuję przerwy od czasu do czasu.&lt;/p&gt;
+
+&lt;p&gt;Najlepszy cytat, jaki dzisiaj przeczytałam, dzięki &lt;a href=&quot;http://rose.github.io/posts/measured-in-wats/&quot;&gt;Rose&lt;/a&gt;: &lt;em&gt;knowledge is power - it’s measured in watts&lt;/em&gt; (pl. wiedza to potęga - mierzy się ją w watach)&lt;/p&gt;
+
+&lt;p&gt;[angielski &lt;em&gt;watt&lt;/em&gt; brzmi podobnie do &lt;em&gt;what&lt;/em&gt; (pl. co, jaki) - często zaczyna się tak pytania]&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 50</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/03/RC-day-50.html" rel="alternate" type="text/html" title="RC - dzień 50" /><published>2016-10-03T23:57:31-04:00</published><updated>2016-10-03T23:57:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/03/RC-day-50</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/03/RC-day-50.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;miałam dłuższą rozmowę na temat Outreachy&lt;/li&gt;
@@ -454,19 +487,4 @@ DataMapper.auto_migrate!
 
 &lt;p&gt;Po wszystkich tych rozrywkach, potrzebowaliśmy trochę czasu dla siebie. O 21 obejrzeliśmy wspólnie debatę prezydencką w oddzielnym pokoju, żeby nie zrobić z tego przypadkiem oficjalnego wydarzenia - polityka może nie być zbyt przyjaznym tematem w społeczności. Interesujące było oglądanie reakcji moich znajomych, w szczególności Amerykanów, którzy rozumieją z tego pewnie sporo więcej, niż ja. I tak dość mocno poruszył mnie ten temat i spędziłam sporo czasu na dyskusjach po godzinach (tak, miałam się skupić bardziej na programowaniu, ale dzisiaj był szczególny dzień).&lt;/p&gt;
 
-&lt;p&gt;Jestem całkiem zadowolna z tego, jak przebiegł pierwszy dzień z nową sesją. Cieszę się z nowych i starych znajomych, rozmów i Nutelli. Tak, pojawiło się też trochę mało zdrowych przyjemności.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 42</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/27/RC-day-42.html" rel="alternate" type="text/html" title="RC - dzień 42" /><published>2016-09-27T01:30:31-04:00</published><updated>2016-09-27T01:30:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/27/RC-day-42</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/27/RC-day-42.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;zdobyłam nowe słuchawki&lt;/li&gt;
-  &lt;li&gt;znalazłam mieszkanie na kolejne dwa tygodnie&lt;/li&gt;
-  &lt;li&gt;miałam wspaniały wieczór z kobietami z RC&lt;/li&gt;
-  &lt;li&gt;odkryłam swój pseudonim w RC&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Większość dnia spędziłam rozmawiając z najbliższymi na Skype. Dzwonienie do nich przynajmniej raz w tygodniu stało się już nieco rutynowe i, jeśli tylko mam dostęp do Internetu, trudno mi do nich za bardzo tęsknić.&lt;/p&gt;
-
-&lt;p&gt;Zdobyłam tanio porządne słuchawki nauszne z wygłuszaniem otoczenia - żegnajcie bóle głowy od moich poprzednich słuchawek. Jestem teraz całkowicie otoczona muzyką i ciszą w trakcie pracy. Znalazłam też kolejne miejsce pobytu po moim obecnym mieszkaniu. Wszystko dzięki społeczności RC.&lt;/p&gt;
-
-&lt;p&gt;Wieczorem spędziłam trochę czasu z kobietami z obecnej i nowej sesji RC. Spotkania tylko dla kobiet powinny byc częściej organizowane, szczególnie w środowisku technologicznym. Tęsknię za wszystkimi kobietami w moim życiu i nowe przyjaźnie tutaj bardzo pomagają.&lt;/p&gt;
-
-&lt;p&gt;Kiedy aplikujemy do RC, nie pojawiamy się na liście pod nazwiskiem, ale używany jest automatycznie generowany pseudonim, żeby zmniejszyć ryzyko uprzedzeń (więcej na ten temat w &lt;a href=&quot;https://www.recurse.com/blog/43-building-a-better-and-more-diverse-community&quot;&gt;artykule Nicka&lt;/a&gt; [EN]). Myślę, że mój jest najlepszy z całej grupy - Feature Fog (mgła funkcjonalności). Nie mogę się doczekać, żeby zacząć go używać w kontekście programistycznym.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
+&lt;p&gt;Jestem całkiem zadowolna z tego, jak przebiegł pierwszy dzień z nową sesją. Cieszę się z nowych i starych znajomych, rozmów i Nutelli. Tak, pojawiło się też trochę mało zdrowych przyjemności.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>

@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-04T01:07:02-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 50</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/03/RC-day-50.html" rel="alternate" type="text/html" title="RC - day 50" /><published>2016-10-03T23:57:31-04:00</published><updated>2016-10-03T23:57:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/03/RC-day-50</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/03/RC-day-50.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-05T01:39:59-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 51</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/04/RC-day-51.html" rel="alternate" type="text/html" title="RC - day 51" /><published>2016-10-04T23:43:31-04:00</published><updated>2016-10-04T23:43:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/04/RC-day-51</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/04/RC-day-51.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;read up on Zulip documentation, roadmap and issues&lt;/li&gt;
+  &lt;li&gt;had a fruitful conversation with Sumana on Outreachy&lt;/li&gt;
+  &lt;li&gt;set up a meeting with Michael on his Zulip feature&lt;/li&gt;
+  &lt;li&gt;planned next steps&lt;/li&gt;
+  &lt;li&gt;check-out&lt;/li&gt;
+  &lt;li&gt;started a course in effective thinking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As I work towards the Outreachy internship, I get more and more comfortable with thinking about the big projects and tackling them in small chunks. I’ve reread a big part of Zulip documentation, studied the roadmap and current issues, trying to figure out where my skills and expectations would fit best.&lt;/p&gt;
+
+&lt;p&gt;Sumana is a knowledgable, skillful and amazing person. I’ve spent with her only 1.5 hours today and not only did she help me with my Outreachy ideas and priorities, pointing out some areas my skills could be best used for, but also gave a ton of inspiration on how to grow. I’ve been getting more and more inspired thanks to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.harihareswara.net/sumana&quot;&gt;Sumana’s blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ballingt.com/&quot;&gt;Tom’s work&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://moriel.smarterthanthat.com/tips/the-language-double-take-dealing-with-bidirectional-text-or-wait-tahw/&quot;&gt;Moriel’s take on RTL language support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I also think that, given my experience and skills, building features for right-to-left language support and other internationalization aspects of apps sounds like a good project to focus on, while also remembering that I want to work on more than one area, since multiple goals are more likely to help me grow.&lt;/p&gt;
+
+&lt;p&gt;Michael, an RC alumnus, build a stream filtering feature for Zulip and I’m meeting with him on Thursday to understand it better and be able to work on it, as to merge it with the codebase. There is also an interesting feature for counting users following a stream and I’ll look into it tomorrow, to see what I’ll need help with.&lt;/p&gt;
+
+&lt;p&gt;One of the next steps in the application process is to learn how to use Vagrant properly - at the moment I’m mostly running commands I don’t fully understand, which doesn’t help with troubleshooting.&lt;/p&gt;
+
+&lt;p&gt;Second day of check-outs worked well. The group got a little big bigger, though considering the format a 25% increase is pretty substantial and I’d say 5 people is really the limit if it’s going to work as a method for improving accountability. The more people in the group, the less engaged they are and I think engagement is the key. Same as yesterday, others have done so much I’m motivated to do more for tomorrow’s meeting.&lt;/p&gt;
+
+&lt;p&gt;Just to have some entertainment that doesn’t feel like wasting much time, I’ve started a course on &lt;a href=&quot;https://courses.edx.org/courses/course-v1:UTAustinX+UT.9.10x+3T2016/&quot;&gt;Effective Thinking through Mathematics&lt;/a&gt;. Improving analytical skills is always useful and I need a break from time to time.&lt;/p&gt;
+
+&lt;p&gt;Also, the best quote I’ve stumbled upon today, thanks to &lt;a href=&quot;http://rose.github.io/posts/measured-in-wats/&quot;&gt;Rose&lt;/a&gt;: &lt;em&gt;knowledge is power - it’s measured in wats&lt;/em&gt;.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 50</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/03/RC-day-50.html" rel="alternate" type="text/html" title="RC - day 50" /><published>2016-10-03T23:57:31-04:00</published><updated>2016-10-03T23:57:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/03/RC-day-50</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/03/RC-day-50.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;had a chat about Outreachy&lt;/li&gt;
@@ -454,19 +485,4 @@ DataMapper.auto_migrate!
 
 &lt;p&gt;After all the events and talks, we all needed some alone time. At 9pm we watched the presidential debate in a side room, as to not make an official event out of it - after all politics can be a bit overwhelming for the community. It was great to see reactions of my friends, especially American ones, who do understand a lot more of it than I do. I was still very moved by it and spent a lot of time discussing it afterwards (yes, I know it was supposed to be about more pairing, but today was a social day).&lt;/p&gt;
 
-&lt;p&gt;All in all, quality time dominated most of the day and I’m very happy - about new and old friends, discussions, bonding and Nutella. Yes, indulgences were on.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 42</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-42.html" rel="alternate" type="text/html" title="RC - day 42" /><published>2016-09-27T01:30:31-04:00</published><updated>2016-09-27T01:30:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-42</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-42.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;got new headphones&lt;/li&gt;
-  &lt;li&gt;found an apartment for the next two weeks&lt;/li&gt;
-  &lt;li&gt;had an awesome evening with RC women&lt;/li&gt;
-  &lt;li&gt;found out what my RC pseudonym is&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Loved ones took most of the day today, as I spent a lot of time on Skype. It has become sort of a routine to call them at least once a week and whenever I have Internet access, I can’t miss them too much.&lt;/p&gt;
-
-&lt;p&gt;I got bargain noise-cancelling over-ear headphones, which makes me very happy - bye, bye headphone headaches. I’m now completely surrounded by music and silence to work. I’ve also found a new place to stay after my current sublet. Both thanks to RC community.&lt;/p&gt;
-
-&lt;p&gt;In the evening, I’ve spent some time with other RC women from our and the upcoming batches. All women meetings should be more of a thing, especially in the tech community. I do miss all the women in my life a lot and it helps to have new friendships here.&lt;/p&gt;
-
-&lt;p&gt;When we apply to RC, we get automatically generated pseudonyms to reduce bias (more on this in &lt;a href=&quot;https://www.recurse.com/blog/43-building-a-better-and-more-diverse-community&quot;&gt;this&lt;/a&gt; post by Nick). Mine is totally awesome - Feature Fog. I can’t wait to use it in a programming context soon.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+&lt;p&gt;All in all, quality time dominated most of the day and I’m very happy - about new and old friends, discussions, bonding and Nutella. Yes, indulgences were on.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
