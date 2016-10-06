@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-05T01:40:00-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 51</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/04/RC-day-51.html" rel="alternate" type="text/html" title="RC - dzień 51" /><published>2016-10-04T23:43:31-04:00</published><updated>2016-10-04T23:43:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/04/RC-day-51</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/04/RC-day-51.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-06T02:35:51-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 52</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/06/RC-day-52.html" rel="alternate" type="text/html" title="RC - dzień 52" /><published>2016-10-06T02:05:31-04:00</published><updated>2016-10-06T02:05:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/06/RC-day-52</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/06/RC-day-52.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;naprawiłam lokalną instację Zulipa&lt;/li&gt;
+  &lt;li&gt;nauczyłam się więcej o Vagrancie&lt;/li&gt;
+  &lt;li&gt;check-out&lt;/li&gt;
+  &lt;li&gt;pouczyłam się o algorytmach i efektywnym myśleniu&lt;/li&gt;
+  &lt;li&gt;zgłosiłam się do prowadzenia próbnych rozmów kwalifikacyjnych&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Skupiając się dzisiaj głównie na aplikacji do Outreachy, udało mi się lepiej zrozumieć Vagranta i naprawić lokalną instancję Zulipa przy wsparciu Cihana. Przez “naprawić” rozumiem “rozwiązać problem, którego nie było”, bo wynikał on z niezaktualizowania mojego kodu w stosunku do głównej aplikacji i problemu w ogóle nie powinno było tam być. Udało nam się też połączyć funkcjonalność Michaela z główną aplikacją. Przez “połączyć” mam na myśli “nadal działa główna aplikacja, ale nie nowa funkcjonalność”.&lt;/p&gt;
+
+&lt;p&gt;W trakcie check-outu mówiłam głównie o ulepszeniu mojego profilu zawodowego w RC (na wewnętrznym portalu do rekrutacji) i problemach z Vagrantem. Porównując to do pracy Briana i Jonathana nad ich aplikacjami oraz tym, jak wiele Deniz nauczyła się na temat d3.js, czuję, że dość łatwo udało mi się spełnić warunek pokazania czegoś, co zrobiłam, i wywinąć się nieco z odpowiedzialności.&lt;/p&gt;
+
+&lt;p&gt;Poza próbami naprawienia rzeczy, które działają, czytania o nowych firmach, które dołączyły do Outreachy, i przygotowania do prowadzenia próbnych rozmów kwalifikacyjnych (bo to przecież oczywiste, że nie czuję się jeszcze wystarczająco dobrym programistą, żeby testować innych z ich umiejętności), pouczyłam się nieco na temat algorytmów i efektywnego myślenia. Jako wstęp do potencjalnych dalszych rozmyślań na ten temat, poniżej pięć elementów efektywnego myślenia (które brzmią nieco jak kroki do nauczenia się czegokolwiek):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;zrozum dokładnie&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Nie próbuj od razu zrozumieć dużych problemów - najpierw zrozum proste koncepty. Bądź ze sobą szczery w tym, czego nie rozumiesz. Znajdź to, czego Ci brakuje i uzupełnij luki. Są różne poziomy zrozumienia i zawsze możesz coś poprawić.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;popełniaj błędy&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Niech Ci się nie udaje. Celowo popełniaj błędy, żeby lepiej zrozumieć. Błędy wskazują nieprzewidzane możliwości i luki w Twoim rozumowaniu.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;zadawaj pytania&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Ciągle zadawaj pytania, żeby dookreślić i poszerzyć swoje zrozumienie.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;podążaj za pomysłami&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Sprawdź, skąd się biorą różne pomysły i gdzie mogą prowadzić.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;zmieniaj się&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Zawsze możesz coś poprawić, rozwinąć i więcej się nauczyć. Zmiana jest niezmienna i pozwala Ci na wyciągnięcie jak najwięcej z nauki.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 51</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/04/RC-day-51.html" rel="alternate" type="text/html" title="RC - dzień 51" /><published>2016-10-04T23:43:31-04:00</published><updated>2016-10-04T23:43:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/04/RC-day-51</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/04/RC-day-51.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;czytałam dokumentację, mapę drogową i rozwijane funkcjonalności Zulipa&lt;/li&gt;
@@ -458,33 +500,4 @@ DataMapper.auto_migrate!
   &lt;li&gt;czy jesteś &lt;a href=&quot;http://nautil.us/issue/40/learning/how-to-tell-if-youre-a-jerk&quot;&gt;palantem&lt;/a&gt;?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Wydaję się bardzo wspaniale i niesamowicie szczęśliwa ostatnio, muszę poszerzyć nieco swój słownik od jutra.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 43</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/09/27/RC-day-43.html" rel="alternate" type="text/html" title="RC - dzień 43" /><published>2016-09-27T01:39:31-04:00</published><updated>2016-09-27T01:39:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/09/27/RC-day-43</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/09/27/RC-day-43.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;poznałam dzisiaj mnóstwo nowych osób&lt;/li&gt;
-  &lt;li&gt;obejrzałam prezentacje&lt;/li&gt;
-  &lt;li&gt;straciłam i odzyskałam znajomego&lt;/li&gt;
-  &lt;li&gt;zorganizowałam sesję wspólnego programowania&lt;/li&gt;
-  &lt;li&gt;obejrzałam ze znajomymi debatę&lt;/li&gt;
-  &lt;li&gt;spędziłam dużo czasu na rozmowach&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Dzisiaj był pierwszy dzień drugiej sesji jesiennej RC. Wspaniale było poznać tyle nowych osób gotowych na ich przygodę w RC. Pokazało nam to też sporo na temat naszego pierwszego dnia przed kilkoma tygodniami - byliśmy tak samo zagubieni i zdezorientowani, jak myśleliśmy. Mam nadzieję, że nasza sesja będzie tak samo pomocna dla nowo przybyłych, jak sesja letnia dla nas.&lt;/p&gt;
-
-&lt;p&gt;Było też dzisiaj duże ryzyko stracenia znajomego - Cihan miał wracać nagle do Turcji i przez większość dnia wydawało się, że rzeczywiście poleci. Nie byłam szczególnie zdziwiona, że tak mnie to poruszyło, w końcu jest jedną z kilku najbliższych mi tutaj osób, a wyjazd był nagły. Spodziewałam się przecież kolejnych 6 tygodni wspólnego programowania i znajomości. Na szczęście, okazało się, że było to tylko ryzyko, które przy okazji było przyczynkiem do rozmawiania z wieloma osobami. Zaskakujące, jak bardzo można się do kogoś zbliżyć w tak krótkim czasie.&lt;/p&gt;
-
-&lt;p&gt;Pomimo smutku, udało mi się poprowadzić całkiem niezłą sesję wspólnego programowania z Sarą, Leą, Jamesem i Chrisem. Zbudowaliśmy w ciągu pół godziny funkcjonalną implementację &lt;a href=&quot;https://gist.github.com/trueskawka/8667b12d4552c4ca46b6f79fb195c78d&quot;&gt;Wisielca&lt;/a&gt;, głównie dzięki umiejętnościom ekspertów od Pythona. Było świetnie, następnym razem moglibyśmy skupić się bardziej na daniu przestrzeni osobom, które pracują w danym momencie nad kodem - programowaliśmy bardzo zbiorowo, otwarcie rozmawiając na temat rozwiązania, co było nieco chaotyczne. Chciałabym więcej nad tym popracować.&lt;/p&gt;
-
-&lt;p&gt;Ten poniedziałek był nieco inny, niż zwykle, również dlatego że mieliśmy prezentacje. Ponieważ było ich tylko pięć, myślę, że nie zaszkodzi wspomnieć o wszystkich:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;V mówił o &lt;a href=&quot;http://vaibhavsagar.com/duffer/&quot;&gt;dufferze&lt;/a&gt; - swojej implementacji gita w Haskellu&lt;/li&gt;
-  &lt;li&gt;Marcio wprowadził nas krótko w swój pakiet &lt;a href=&quot;https://github.com/marciok/SwiftyRuby&quot;&gt;SwiftyRuby&lt;/a&gt;, do używania Ruby’ego w Swifcie&lt;/li&gt;
-  &lt;li&gt;Andy, tak zabawny, jak zawsze, opowiadał o &lt;a href=&quot;http://www.simplyshredded.com/oak-roots-how-arnold-turned-his-biggest-weakness%C2%97-his-calves-into-a-showcase-muscle.html&quot;&gt;łydkach Schwarzeneggera&lt;/a&gt; [EN], w kontekście jego narzędzia do budowania quizów programistycznych&lt;/li&gt;
-  &lt;li&gt;Michelle zaprezentowała ponownie swój &lt;a href=&quot;http://i17on.com/&quot;&gt;silnik intranacjonalizacji&lt;/a&gt; w Markdownie i chciałabym z nią wspólnie popracować nad moją planowaną aplikacją, jak tylko uda mi się najpierw ogarnąć podstawy z Nickiem&lt;/li&gt;
-  &lt;li&gt;Satabdi programowała na żywo &lt;a href=&quot;https://github.com/satabdidas/RC_Notes/blob/65121c40b26e84a77ddc1c980e2829e9e838ad95/notes/quest_of_deep_c/tiny_elf_execs.md&quot;&gt;mini pliki wykonywalne&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Po wszystkich tych rozrywkach, potrzebowaliśmy trochę czasu dla siebie. O 21 obejrzeliśmy wspólnie debatę prezydencką w oddzielnym pokoju, żeby nie zrobić z tego przypadkiem oficjalnego wydarzenia - polityka może nie być zbyt przyjaznym tematem w społeczności. Interesujące było oglądanie reakcji moich znajomych, w szczególności Amerykanów, którzy rozumieją z tego pewnie sporo więcej, niż ja. I tak dość mocno poruszył mnie ten temat i spędziłam sporo czasu na dyskusjach po godzinach (tak, miałam się skupić bardziej na programowaniu, ale dzisiaj był szczególny dzień).&lt;/p&gt;
-
-&lt;p&gt;Jestem całkiem zadowolna z tego, jak przebiegł pierwszy dzień z nową sesją. Cieszę się z nowych i starych znajomych, rozmów i Nutelli. Tak, pojawiło się też trochę mało zdrowych przyjemności.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
+&lt;p&gt;Wydaję się bardzo wspaniale i niesamowicie szczęśliwa ostatnio, muszę poszerzyć nieco swój słownik od jutra.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>

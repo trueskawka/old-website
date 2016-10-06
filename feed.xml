@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-05T01:39:59-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 51</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/04/RC-day-51.html" rel="alternate" type="text/html" title="RC - day 51" /><published>2016-10-04T23:43:31-04:00</published><updated>2016-10-04T23:43:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/04/RC-day-51</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/04/RC-day-51.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-06T02:35:51-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 52</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/06/RC-day-52.html" rel="alternate" type="text/html" title="RC - day 52" /><published>2016-10-06T02:05:31-04:00</published><updated>2016-10-06T02:05:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/06/RC-day-52</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/06/RC-day-52.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;fixed my local Zulip instance&lt;/li&gt;
+  &lt;li&gt;learned more Vagrant&lt;/li&gt;
+  &lt;li&gt;check-out&lt;/li&gt;
+  &lt;li&gt;coursework on algorithms and effective thinking&lt;/li&gt;
+  &lt;li&gt;signed-up to facilitate interview prep&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Focusing on my Outreachy application, I’ve managed to understand Vagrant better and fix my local Zulip instance with Cihan’s help. And when I say fix, I mean solve a problem that didn’t exist, since my codebase has not been updated to the latest version and there were some problems that shouldn’t be there. We’ve also managed to rebase Michael’s branch locally. And by rebasing I mean making it work with his changes while they’re not working.&lt;/p&gt;
+
+&lt;p&gt;During the check-out I’ve talked mostly about redoing my RC jobs profile yesterday and problems with Vagrant. Comparing it to Brian’s and Jonathan’s work on their apps and Deniz’s progress with d3.js, I feel like it was an easy way out of the accountability of check-outs.&lt;/p&gt;
+
+&lt;p&gt;Apart from struggles with making things work, reading up about new companies for Outreachy and preparing to facilitate interview prep (because, obviously, I feel ill-equipped to test other people on their programming skills), I’ve done some progress on the algorithms and effective thinking courses. As a good starting point for ideas to hopefully come, here are the five elements of effective thinking (which sound a lot like steps for learning anything):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;understand deeply&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Don’t face complex issues head-on; first understand simple ideas deeply. Be brutally honest about what you know and don’t know. Then see what’s missing, identify the gaps, and fill them in. There are degrees to understanding and you can always heighten yours.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;make mistakes&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Fail to succeed. Intentionally get it wrong to inevitably get it even more right. Mistakes highlight unforeseen opportunities and holes in your understanding.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;raise questions&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Constantly create questions to clarify and extend your understanding.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;follow ideas&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Look back to see where ideas came from and then look ahead to discover where those ideas may lead. Following the consequences of small ideas can result in big payoffs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;change&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;You can always improve, grow, and extract more out of your education. Change is the universal constant that allows you to get the most out of learning.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 51</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/04/RC-day-51.html" rel="alternate" type="text/html" title="RC - day 51" /><published>2016-10-04T23:43:31-04:00</published><updated>2016-10-04T23:43:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/04/RC-day-51</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/04/RC-day-51.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;read up on Zulip documentation, roadmap and issues&lt;/li&gt;
@@ -456,33 +498,4 @@ DataMapper.auto_migrate!
   &lt;li&gt;are you a &lt;a href=&quot;http://nautil.us/issue/40/learning/how-to-tell-if-youre-a-jerk&quot;&gt;jerk&lt;/a&gt;?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I seem overly amazingly and wonderfully happy recently, I should work on my adjectives starting tomorrow.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 43</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-43.html" rel="alternate" type="text/html" title="RC - day 43" /><published>2016-09-27T01:39:31-04:00</published><updated>2016-09-27T01:39:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-43</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/27/RC-day-43.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;met a ton of new people today&lt;/li&gt;
-  &lt;li&gt;watched community presentations&lt;/li&gt;
-  &lt;li&gt;lost and regained a friend&lt;/li&gt;
-  &lt;li&gt;did a mob coding session&lt;/li&gt;
-  &lt;li&gt;watched presidential debate with friends&lt;/li&gt;
-  &lt;li&gt;had a lot of quality time&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Today was the first day of the Fall 2 2016 batch. It was amazing to meet all those new people, ready for their RC experience. It also told us a lot about our first day - we were as utterly lost and confused as we thought we were. I hope our batch can be as great guides for the newcomers, as Summer 2s were for us.&lt;/p&gt;
-
-&lt;p&gt;I had a friendship scare today - there was a serious risk of Cihan going back home and I actually thought it’s going to happen most of the day. I wasn’t surprised it moved me - after all, he’s one of my best friends here and it was so sudden, I expected to have six more weeks of coding and bonding. Fortunately, it turned out to be ‘only’ a scare, that got me to also bond with a lot of people. It’s surprising how close one can get to a person in such a short time.&lt;/p&gt;
-
-&lt;p&gt;Despite the sadness, I’ve managed to have a pretty cool mob coding session with Sarah, Leah, James and Chris. We build together a working implementation of &lt;a href=&quot;https://gist.github.com/trueskawka/8667b12d4552c4ca46b6f79fb195c78d&quot;&gt;Hangman&lt;/a&gt; in about half an hour (mostly thanks to the mad skills of the Python experts in the group). It was fun, next time we could focus more on actual pairing and not ‘mob coding’ as such - we did a lot of thinking together and it was a bit chaotic. Looking forward to work on that.&lt;/p&gt;
-
-&lt;p&gt;Today was an unusual Monday, because we’ve had some presentations. As there were only five of them, I think it’s just appropriate to mention them all:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;V talked about &lt;a href=&quot;http://vaibhavsagar.com/duffer/&quot;&gt;duffer&lt;/a&gt; - his implementation of git in Haskell&lt;/li&gt;
-  &lt;li&gt;Marcio did a short introduction for his &lt;a href=&quot;https://github.com/marciok/SwiftyRuby&quot;&gt;SwiftyRuby&lt;/a&gt; - a way to use Ruby in Swift&lt;/li&gt;
-  &lt;li&gt;Andy, as hilarious as always, talked about &lt;a href=&quot;http://www.simplyshredded.com/oak-roots-how-arnold-turned-his-biggest-weakness%C2%97-his-calves-into-a-showcase-muscle.html&quot;&gt;Schwarzenegger’s calfs&lt;/a&gt;, in the context of his programming pop-quiz project&lt;/li&gt;
-  &lt;li&gt;Michelle presented her awesome &lt;a href=&quot;http://i17on.com/&quot;&gt;intranationalization engine&lt;/a&gt; in Markdown and I want to pair with her on my app project, right after I pair with Nick&lt;/li&gt;
-  &lt;li&gt;Satabdi live coded &lt;a href=&quot;https://github.com/satabdidas/RC_Notes/blob/65121c40b26e84a77ddc1c980e2829e9e838ad95/notes/quest_of_deep_c/tiny_elf_execs.md&quot;&gt;tiny ELF executables&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;After all the events and talks, we all needed some alone time. At 9pm we watched the presidential debate in a side room, as to not make an official event out of it - after all politics can be a bit overwhelming for the community. It was great to see reactions of my friends, especially American ones, who do understand a lot more of it than I do. I was still very moved by it and spent a lot of time discussing it afterwards (yes, I know it was supposed to be about more pairing, but today was a social day).&lt;/p&gt;
-
-&lt;p&gt;All in all, quality time dominated most of the day and I’m very happy - about new and old friends, discussions, bonding and Nutella. Yes, indulgences were on.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+&lt;p&gt;I seem overly amazingly and wonderfully happy recently, I should work on my adjectives starting tomorrow.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
