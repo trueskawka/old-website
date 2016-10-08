@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-06T02:35:51-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 52</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/06/RC-day-52.html" rel="alternate" type="text/html" title="RC - day 52" /><published>2016-10-06T02:05:31-04:00</published><updated>2016-10-06T02:05:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/06/RC-day-52</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/06/RC-day-52.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-08T00:16:16-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 54</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/07/RC-day-54.html" rel="alternate" type="text/html" title="RC - day 54" /><published>2016-10-07T23:21:31-04:00</published><updated>2016-10-07T23:21:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/07/RC-day-54</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/07/RC-day-54.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;interview prep&lt;/li&gt;
+  &lt;li&gt;worked on the pull request for Zulip&lt;/li&gt;
+  &lt;li&gt;worked on my writing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;News of the day: &lt;strong&gt;Eva’s and Shawn’s daughter was born!&lt;/strong&gt; I’ll be visiting them next week, to flood them with love and take a million photos.&lt;/p&gt;
+
+&lt;p&gt;That being said, nothing much else happened. I’ve lead a session on conversational interview prep and also had an algorithmic one. It always amazes me, how differently people approach the same problem.&lt;/p&gt;
+
+&lt;p&gt;I’ve worked on the pull request for Zulip, by playing with tests and checking what breaks. My writing is not yet ready to share, but some of the long-overdue posts may appear soon (don’t want to put a date on that, since Outreachy currently has priority).&lt;/p&gt;
+
+&lt;p&gt;We’ve also tried the amazing &lt;a href=&quot;http://ny.eater.com/2016/9/26/13060344/taiyaki-nyc-fish-cone-soft-serve&quot;&gt;soft-serve ice cream in fish-shaped cones&lt;/a&gt; (a Japanese treat called &lt;em&gt;taiyaki&lt;/em&gt;). The fish is a waffle filled with egg custard, which I could enjoy even without the ice cream.&lt;/p&gt;
+
+&lt;p&gt;Earlier this week I’ve found a new apartment near Canal St (about 20-minute walk from RC). This resulted in a happy dance on the newly created Victory Dance Platform (thanks to Deniz) - a square of the shared space to do a happy dance publicly. It’s a nice way to share your joy, but I’ll probably never do it again - there were a lot of people in the space and they started clapping the moment I’ve started dancing. Most terrifying experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;click an image to see the gallery&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/d54/d54_main_1.jpg&quot; data-lightbox=&quot;other/d54&quot; data-title=&quot;Trying to describe the ice cream&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/d54/d54_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;d54_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/d54/d54_main_2.jpg&quot; data-lightbox=&quot;other/d54&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/d54/d54_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;d54_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/d54/d54_main_3.jpg&quot; data-lightbox=&quot;other/d54&quot; data-title=&quot;The Victory Dance Platform&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/d54/d54_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;d54_main_3.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 53</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/07/RC-day-53.html" rel="alternate" type="text/html" title="RC - day 53" /><published>2016-10-07T23:13:31-04:00</published><updated>2016-10-07T23:13:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/07/RC-day-53</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/07/RC-day-53.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;weekly check-in with a facilitator&lt;/li&gt;
+  &lt;li&gt;check-out&lt;/li&gt;
+  &lt;li&gt;watched presentations&lt;/li&gt;
+  &lt;li&gt;met with Michael to talk about his feature&lt;/li&gt;
+  &lt;li&gt;coursework&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Because of this week’s experiments at RC, there is a lot happening in terms of accountability and sharing one’s work. I’ve had a long chat with James about my goals and concerns, followed by a check-out. Since I’ve started the day late, there wasn’t much to show apart from the working Zulip instance.&lt;/p&gt;
+
+&lt;p&gt;The community presentations went great, my favourites:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Joe and Cihan showed their app for Recursers for &lt;a href=&quot;https://github.com/rc-locos/rc-locos&quot;&gt;sharing their location&lt;/a&gt; - as it’s using RC authorization, I’m only sharing the repository here&lt;/li&gt;
+  &lt;li&gt;Satabdi talked about debuggers and how to set breaking points&lt;/li&gt;
+  &lt;li&gt;Lyn presented a cute little app for learning statistical testing, using cute animated cubes, and talked about the implementation in Unity, using initial creature projects made in Blender&lt;/li&gt;
+  &lt;li&gt;Michelle had a hilarious talk about &lt;a href=&quot;https://github.com/Yuffster/toykb&quot;&gt;knowledge bases to support intrigue&lt;/a&gt;, using Hamlet (the play) as an example&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After presentations I’ve had a fruitful chat with Michael about his Zulip feature. We’ve rebased his branch and talked about next steps for fixing some tests and adjusting behaviours. I hope to open my own pull request by the end of the weekend and have some time to focus on my second contribution.&lt;/p&gt;
+
+&lt;p&gt;I’ve also done some relaxing algorithms coursework and will try to manage it in a repository by the end of this week.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 52</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/06/RC-day-52.html" rel="alternate" type="text/html" title="RC - day 52" /><published>2016-10-06T02:05:31-04:00</published><updated>2016-10-06T02:05:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/06/RC-day-52</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/06/RC-day-52.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;fixed my local Zulip instance&lt;/li&gt;
@@ -438,64 +501,4 @@ DataMapper.auto_migrate!
   &lt;li&gt;the OpenWeatherMap.org has a secure API as a premium feature - after reading up about possible solutions (e.g. getting data from other sources, &lt;a href=&quot;http://freegeoip.net/json/&quot;&gt;IP-based&lt;/a&gt;), I’ve decided to simply use &lt;a href=&quot;https://crossorigin.me/&quot;&gt;crossorigin.me&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I also wanted to learn something new and decided &lt;a href=&quot;https://css-tricks.com/animating-svg-css/&quot;&gt;animating SVG&lt;/a&gt; sounds fun enough. All in all, with a few more projects to refactor, I feel pretty comfortable with tackling them over the next week or so.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 45</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/29/RC-day-45.html" rel="alternate" type="text/html" title="RC - day 45" /><published>2016-09-29T02:20:31-04:00</published><updated>2016-09-29T02:20:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/29/RC-day-45</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/29/RC-day-45.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;got comfortable with Outreachy application process and narrowed down my choices to three companies&lt;/li&gt;
-  &lt;li&gt;got a working Zulip development environment&lt;/li&gt;
-  &lt;li&gt;productively procrastinated on a presentation&lt;/li&gt;
-  &lt;li&gt;went for a feelings check-in&lt;/li&gt;
-  &lt;li&gt;visited Eva and Shawn&lt;/li&gt;
-  &lt;li&gt;signed up for a blog club and interview prep&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I feel I’ve finally read enough about the &lt;a href=&quot;https://wiki.gnome.org/Outreachy&quot;&gt;Outreachy&lt;/a&gt; application process to feel comfortable with applying. I’ve reached out on Zulip to Sumana (experienced Outreachy mentor) and the thread helped me tremendously, especially when Alice shared her application experiences. I’ll focus on trying out the projects I’m interested in locally (or reading up about the ones that are not strictly technical), maybe even make small contributions over the weekend.&lt;/p&gt;
-
-&lt;p&gt;Instead of simply procrastinating, I’ve managed to focus on science behind making decisions and quitting, inspired by an &lt;a href=&quot;https://medium.com/galleys/optimal-stopping-45c54da6d8d0#.txu450qhe&quot;&gt;article on optimal stopping&lt;/a&gt;. I have some slides for tomorrow, but I’m not yet sure if I’m going to present - it’s not entirely a technical topic. Though knowing when to quit a project seems like a useful skill for Recursers.&lt;/p&gt;
-
-&lt;p&gt;The feelings check-in was a blast. It’s interesting how hearing about insecurities of others helps with my own struggles.&lt;/p&gt;
-
-&lt;p&gt;I visited the always warm and welcoming Eva and Shawn. The baby is going to be born soon, can’t wait! Also, I might give back to my American family and help out with some web development in exchange for dinner and cheesecake.&lt;/p&gt;
-
-&lt;p&gt;Friday is going to be a busy day:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;interview prep - I’ve been a bit late for prep signups, so instead of algorithms I’m just going to do regular interview questions&lt;/li&gt;
-  &lt;li&gt;watercolours - I’ll spend some time with Nayley on the pure pleasure of playing with paints&lt;/li&gt;
-  &lt;li&gt;blog club - we’re starting a new group at RC, encouraging each other to write more and/or better blog posts&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 44</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/28/RC-day-44.html" rel="alternate" type="text/html" title="RC - day 44" /><published>2016-09-28T00:00:31-04:00</published><updated>2016-09-28T00:00:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/28/RC-day-44</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/28/RC-day-44.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;stopped forcing myself to be a morning person&lt;/li&gt;
-  &lt;li&gt;warm-up in Python&lt;/li&gt;
-  &lt;li&gt;took a few steps to build my Markdown app&lt;/li&gt;
-  &lt;li&gt;improved my Gmail experience&lt;/li&gt;
-  &lt;li&gt;paired on code dojo problem with Cihan&lt;/li&gt;
-  &lt;li&gt;took part in the improv night, a fun and amazing experience (all thanks to Sarah!)&lt;/li&gt;
-  &lt;li&gt;had a wonderful evening with RC friends&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I think it was high time to stop kidding myself - I am not nor will I ever be a morning person. Starting the day slowly and getting to RC just in time for my breakfast and 1pm check-in was the perfect solution to my motivation problems. Firstly, I got so much sleep I woke up without an alarm and wasn’t stressed about being late. Coming in during the day, seeing all those people working away on their laptops, focused, calm and going forward with their plans was my driving force for today.&lt;/p&gt;
-
-&lt;p&gt;Thanks to Mike, warmups are alive and well again, and I’ve had a nice half hour playing with a simple problem in Python.&lt;/p&gt;
-
-&lt;p&gt;I then proceeded to plan my Markdown app - the features I want to include, people to ask for help and pair with, general look and feel of it. I’ve asked Marcio for some help on getting started and will hopefully pair soon with Nick (macOS development), Andy (macOS development and Markdown) and Michelle (Markdown filtering). Can’t wait!&lt;/p&gt;
-
-&lt;p&gt;As for minor tweaks, I’ve spent a productive half-hour learning all the Gmail shortcuts. I have so many messages coming in every day, it’s surprising I’ve never done that before.&lt;/p&gt;
-
-&lt;p&gt;Cihan made it in time for code dojo and we’ve created together a working simple solution in Python and then struggled to reimplement it in Elm. About an hour after the dojo ended, a simplistic approach got &lt;a href=&quot;https://gist.github.com/trueskawka/ba9f5dae3fd89a30b30a353b30ffee74&quot;&gt;implemented&lt;/a&gt;. I want to work more on my functional programming, since doing even the simplest things is such a struggle. It’s like &lt;a href=&quot;https://www.youtube.com/watch?v=MFzDaBzBlL0&quot;&gt;relearning to ride a bike&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The improvisation night was so amazing it’s hard to describe. Sarah is such a wonderful teacher! We’ve had a lot of group and individual exercises, all of them focused on supporting each other no matter what. Improv is really about saying “yes and” to everything, I want to do more of that in programming. And a lot more improv. It could’ve also been the group - it’s not often you come up with a new theory for global warming: flying unicorns pooping ice-cream into the atmosphere (that was a very inside joke, no worries if it wasn’t clear).&lt;/p&gt;
-
-&lt;p&gt;After the improv I went for great (and very cheap!) vegetarian food with some of my RC friends. It was firstly about bidding farewell to Naomi, but mostly it was simply an amazing evening.&lt;/p&gt;
-
-&lt;p&gt;Lastly, some food for thought:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-coffeelicious/%EF%B8%8F-write-it-anyway-f31f3ebed5e4#.f4oxuing1&quot;&gt;write it&lt;/a&gt; anyway&lt;/li&gt;
-  &lt;li&gt;how to &lt;a href=&quot;https://www.themuse.com/advice/5-polite-ways-to-deal-with-people-who-notsopolitely-keep-interrupting-you&quot;&gt;politely deal with interruptions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;why smart people are expected to &lt;a href=&quot;https://aeon.co/essays/you-don-t-have-to-be-stupid-to-work-here-but-it-helps&quot;&gt;be stupid at work&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;are you a &lt;a href=&quot;http://nautil.us/issue/40/learning/how-to-tell-if-youre-a-jerk&quot;&gt;jerk&lt;/a&gt;?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I seem overly amazingly and wonderfully happy recently, I should work on my adjectives starting tomorrow.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+&lt;p&gt;I also wanted to learn something new and decided &lt;a href=&quot;https://css-tricks.com/animating-svg-css/&quot;&gt;animating SVG&lt;/a&gt; sounds fun enough. All in all, with a few more projects to refactor, I feel pretty comfortable with tackling them over the next week or so.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
