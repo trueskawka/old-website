@@ -1,4 +1,69 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-08T00:16:16-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 54</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/07/RC-day-54.html" rel="alternate" type="text/html" title="RC - day 54" /><published>2016-10-07T23:21:31-04:00</published><updated>2016-10-07T23:21:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/07/RC-day-54</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/07/RC-day-54.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-10T02:19:25-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 56</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/10/RC-day-56.html" rel="alternate" type="text/html" title="RC - day 56" /><published>2016-10-10T01:47:31-04:00</published><updated>2016-10-10T01:47:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/10/RC-day-56</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/10/RC-day-56.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;improv class&lt;/li&gt;
+  &lt;li&gt;pairing with Cihan on merge sort&lt;/li&gt;
+  &lt;li&gt;learning how to properly use a profiler&lt;/li&gt;
+  &lt;li&gt;half-watching the debate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The NYC subway is sometimes an exercise in patience - what should take 45 minutes ends up sucking up 1.5h and there is no way to avoid it. Thankfully, as I don’t have that much time to read books at RC, I usually have a pretty good time catching up on my reading.&lt;/p&gt;
+
+&lt;p&gt;I went for a free improv class at the &lt;a href=&quot;http://www.magnettheater.com/&quot;&gt;Magnet Theater&lt;/a&gt; and it was an amazing experience. The “yes and” attitude is something everyone needs in their life. It’s all about being aware of other people and building on what they’ve created, while constantly having fun and laughs. I’ve read a lot about it today and am thinking about getting some more improv once I’m back home. I might write something more on the topic, but since it’s so hard to put in words at the moment (also - Outreachy deadline is approaching), here is an &lt;a href=&quot;http://www.humorthatworks.com/learning/10-life-tips-from-improv-class/&quot;&gt;appetizer&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve tried to watch the whole debate, but it was so repetitive and similar to everything I’ve already seen on the media, working on algorithms seemed like a better use of my time. Cihan was kind enough to pair with me on the &lt;a href=&quot;https://www.wikiwand.com/en/Merge_sort&quot;&gt;merge sort&lt;/a&gt; problem for my algorithms course and I went through explaining the approach, implementing a quick solution with a horrible runtime of 35 seconds and improving it by using profiling to &lt;a href=&quot;https://gist.github.com/trueskawka/a4eab263a12cbec381ef8412b56b2d9a&quot;&gt;less than 2 seconds&lt;/a&gt;. I still want to skim through the debate, just to know what people are talking about, but it’s thankfully not among my priorities.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 55</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/09/RC-day-55.html" rel="alternate" type="text/html" title="RC - day 55" /><published>2016-10-09T23:57:31-04:00</published><updated>2016-10-09T23:57:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/09/RC-day-55</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/09/RC-day-55.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;entrepreneurship workshop&lt;/li&gt;
+  &lt;li&gt;playing with algorithms&lt;/li&gt;
+  &lt;li&gt;dinner at a Polish Karczma&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Paul’s entrepreneurship workshop took up most of the day - it ran from 10:30am to about 5:30pm, though I did move on to practice algorithms around 4:30pm, as I felt I’ve done nothing most of the day. Some small exercises and brain teasers helped me stay on the programming track.&lt;/p&gt;
+
+&lt;p&gt;In the evening Cihan, Joe and me went for dinner at a Polish restaurant in Greenpoint. It was nice to finally be the guide and I was pleasantly surprised by how much they both liked the food, especially the lard. After the long night of stuffing ourselves to the point of being barely able to move, I went to the apartment and slept for 10 hours straight.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;click an image to see the gallery&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_1.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;A picture of Joe taking a picture of food&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_2.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;Lard and pickles&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_3.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;Happy Cihan&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_3.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_4.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;This was supposed to be for 3 people&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_4.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_5.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;Boxes of food signed by Cihan&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_5.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_6.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;Carroll St station&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_6.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 54</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/07/RC-day-54.html" rel="alternate" type="text/html" title="RC - day 54" /><published>2016-10-07T23:21:31-04:00</published><updated>2016-10-07T23:21:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/07/RC-day-54</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/07/RC-day-54.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;interview prep&lt;/li&gt;
@@ -430,75 +495,4 @@
 
 &lt;p&gt;Poza ściągnięciem 12 nowych narzędzi Markdownowych i pobawienia się nimi, zaczęłam się uczyć Emacsa (edytor dla ‘prawdziwych programistów’) i postanowiłam przez kolejny tydzień pisać kod tylko przy jego pomocy, żeby sprawdzić, czemu wszyscy tak go chwalą. Pod koniec tygodnia będę miała wypracowane świadome zdanie na ten temat i poczuję się lepiej, niezależnie od tego, na co się ostatecznie zdecyduję.&lt;/p&gt;
 
-&lt;p&gt;Przerobiłam też kilka tutoriali do Sinatry dla potwierdzania tożsamości użytkowników, chociaż nadal nie czuję, że dobrze je rozumiem i potrafię używać.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - day 47</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/01/RC-day-47.html" rel="alternate" type="text/html" title="RC - day 47" /><published>2016-10-01T03:34:31-04:00</published><updated>2016-10-01T03:34:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/01/RC-day-47</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/01/RC-day-47.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;took part in Wireshark workshop&lt;/li&gt;
-  &lt;li&gt;signed up for entrepreneurship workshop&lt;/li&gt;
-  &lt;li&gt;learned to communicate with RC API&lt;/li&gt;
-  &lt;li&gt;planned an app for the community&lt;/li&gt;
-  &lt;li&gt;learned to build apps in Sinatra and deploy them to Heroku&lt;/li&gt;
-  &lt;li&gt;build a to-do list app&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I didn’t suspect that becoming a full-time night-owl can be so satisfying and at the same time so completely out of sync with everyone. I sleep and rest better, but anything happening before noon is out of my reach.&lt;/p&gt;
-
-&lt;p&gt;The RC part of the day started late, with some much needed personal errands that took priority over interview prep, watercolours and blog meeting. Thankfully, at least I’ve made it to Mike’s second Wireshark workshop and was able to sign-up for Paul’s intense workshop on entrepreneurship next Saturday.&lt;/p&gt;
-
-&lt;p&gt;I wanted to simply refactor one of my old projects, but got inspired to come up with an app for RC community - a pop quiz to help learn fellow Recursers’ names. In order to do that with a minimum setup, I’ve decided to use Ruby and Sinatra, which I first had to learn.&lt;/p&gt;
-
-&lt;p&gt;A few hours, one &lt;a href=&quot;https://www.sitepoint.com/just-do-it-learn-sinatra-i/&quot;&gt;pretty good tutorial&lt;/a&gt; and some hundred Google queries later, I’ve created and deployed a &lt;a href=&quot;https://initialist.herokuapp.com/&quot;&gt;simple to-do list&lt;/a&gt; app on Heroku. At the moment there are no users, so I’m not taking responsibility for any content that may or may not be added by any third parties. Over the weekend I’ll add some users and authorisation, probably using the RC OAuth, just to practice before the bigger project.&lt;/p&gt;
-
-&lt;p&gt;In case anyone wants to try the tutorial (the app is 95% the tutorial verbatim with some CSS flavours on top), it took me some time to figure out how to deploy it to Heroku. Most helpful tips:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;an empty postgresql database must be initiated:&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;heroku addons:add heroku-postgresql
-&lt;/code&gt;&lt;/pre&gt;
-    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;migratons happen in heroku console:&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;heroku run console
-require 'sinatra'
-require 'slim'
-require 'data_mapper'
-require './main'
-DataMapper.setup(:default, ENV['DATABASE_URL'] ||
- &quot;sqlite3://#{Dir.pwd}/development.db&quot;)  
-DataMapper.auto_migrate!
-&lt;/code&gt;&lt;/pre&gt;
-    &lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 46</title><link href="https://trueskawka.github.io/usa/rc/log/2016/09/30/RC-day-46.html" rel="alternate" type="text/html" title="RC - day 46" /><published>2016-09-30T01:34:31-04:00</published><updated>2016-09-30T01:34:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/09/30/RC-day-46</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/09/30/RC-day-46.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;had a presentation about quitting&lt;/li&gt;
-  &lt;li&gt;seen community presentations&lt;/li&gt;
-  &lt;li&gt;took part in game night&lt;/li&gt;
-  &lt;li&gt;refactored an old project&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We officially outdid ourselves - got so lost in work, at some point we’ve realized that it’s already 6am and we should get some breakfast. My first time at a diner consisted of three huge French toasts with syrup, something to keep one full for the next 10 hours. After a quick trip to the apartment, I got back to RC to work on my Outreachy application and presentation. I’ll try to write a longer post on the latter, as soon as I figure out what’s the best way of rendering mathematical formulas in HTML.&lt;/p&gt;
-
-&lt;p&gt;The community presentations today were fun, some highlights:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fenimore’s &lt;a href=&quot;https://github.com/polypmer/barnacle&quot;&gt;Music Server&lt;/a&gt; for streaming albums over local network (also, his music preferences seem interesting enough to dig into it just for the sake of listening to something new)&lt;/li&gt;
-  &lt;li&gt;Harold’s &lt;a href=&quot;https://epub.press/&quot;&gt;EpubPress&lt;/a&gt; Chrome extension for turning web content into ebooks&lt;/li&gt;
-  &lt;li&gt;Noah’s &lt;a href=&quot;https://twitter.com/TinyDungeons&quot;&gt;Tiny Dungeon Twitter Bot&lt;/a&gt; and what’s even more amazing - someone was inspired to create a &lt;a href=&quot;http://tdp.andrewfaraday.com/&quot;&gt;Dungeon Player&lt;/a&gt; out of the tweets&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The game night was pretty intense - there were so many new people, including a lot of alumni, that after playing a short game of Codenames and my first Go game ever (thank you Danielle!), I grabbed a pizza slice and beer to work quietly in a side room. This week has been a bit overwhelming and I felt like working on refactoring some old projects.&lt;/p&gt;
-
-&lt;p&gt;I’ve managed to work mostly on one of them, a tiny weather app. I first fixed the &lt;a href=&quot;https://codepen.io/trueskawka/pen/pgdvdY&quot;&gt;old implementation&lt;/a&gt; and went on to work on the &lt;a href=&quot;https://trueskawka.github.io/weather&quot;&gt;new one&lt;/a&gt; for about two hours. I’ve encountered some little bugs, two that might be useful for future reference:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Chrome doesn’t accept anymore geolocation over insecure connections - easily fixed with &lt;code class=&quot;highlighter-rouge&quot;&gt;https&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;the OpenWeatherMap.org has a secure API as a premium feature - after reading up about possible solutions (e.g. getting data from other sources, &lt;a href=&quot;http://freegeoip.net/json/&quot;&gt;IP-based&lt;/a&gt;), I’ve decided to simply use &lt;a href=&quot;https://crossorigin.me/&quot;&gt;crossorigin.me&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I also wanted to learn something new and decided &lt;a href=&quot;https://css-tricks.com/animating-svg-css/&quot;&gt;animating SVG&lt;/a&gt; sounds fun enough. All in all, with a few more projects to refactor, I feel pretty comfortable with tackling them over the next week or so.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+&lt;p&gt;Przerobiłam też kilka tutoriali do Sinatry dla potwierdzania tożsamości użytkowników, chociaż nadal nie czuję, że dobrze je rozumiem i potrafię używać.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
