@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-10T02:19:26-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 56</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/10/RC-day-56.html" rel="alternate" type="text/html" title="RC - dzień 56" /><published>2016-10-10T01:47:31-04:00</published><updated>2016-10-10T01:47:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/10/RC-day-56</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/10/RC-day-56.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-12T19:40:09-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 57</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/12/RC-day-58.html" rel="alternate" type="text/html" title="RC - dzień 57" /><published>2016-10-12T19:01:31-04:00</published><updated>2016-10-12T19:01:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/12/RC-day-58</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/12/RC-day-58.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;opublikowałam moją propozycję funkcjonalności do Zulipa&lt;/li&gt;
+  &lt;li&gt;przetestowałam dwie amerykańskie jadłodajnie&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Wyszliśmy dzisiaj z RC o 10 rano, po całej nocy programowania i uczenia się. Wydaje mi się, że mój zegar biologiczny zupełnie się rozregulował, tak samo zresztą jak umiejętność do zaśnięcia w każdym momencie, niezależnie od otoczenia - nigdy nie doceniałam jej wystarczająco. Zamiast odpowiednio odpocząć, próbowałam i zrezygnowałam z oglądaia drugiej debaty prezydenckiej. Spędziłam większość pierwszej połowy dnia pół śpiąc, pół czytając różne przypadkowe artykuły w Internecie (z których co najmniej część może być w przyszłości przydatna).&lt;/p&gt;
+
+&lt;p&gt;Ostatnie dwa dni zlały się mieszaninę programowania i uczenia się, kontrapunktowaną co jakiś czas drzemkami, spędzoną z minimalną ilością ludzkiego kontaktu. Zamiast wybrać się do RC po południu, spotkałam się Cihanem w jadłodajni niedaleko mojego obecnego mieszkania. Popchnął mnie do skończenia mojej funkcjonalności w obecnej formie, bez zamartwiania się perfekcjonizmem. Lepiej wcześnie i niedoskonale, niż idealnie i po terminie.&lt;/p&gt;
+
+&lt;p&gt;Oczywiście, nie posłuchałam go całkowicie i byłam tak przerażona myślą, że testy mogą nie przechodzić, przypadkiem odkryłam potencjalny błąd w testach w kodzie produkcyjnym Zulipa, który z jakiegoś powodu występuje tylko na mojej lokalnej instancji. Na szczęście okazało się to niezależne od moich zmian i spędziłąm kilka godzin próbując dojść do tego, gdzie leży problem, i przekazać odpowiednie informacje zespołowu Zulipa, co było dobrą okazją do nauki.&lt;/p&gt;
+
+&lt;p&gt;W końcu opublikowałam moją &lt;a href=&quot;https://github.com/zulip/zulip/pull/1983&quot;&gt;propozycję funkcjonalności&lt;/a&gt; w okolicach 4 rano, po sprawdzeniu i cyzelowaniu kodu oraz wyja≥śnień. Mam nadzieję, że z czasem będę bardziej pewna siebie przy pracowaniu nad otwartym oprogramowaniem, i znacznie mniej czasu będę spędzała na byciu przerażoną, że zmarnuję czyjś czas, a znaczenie więcej na jakości kontrybucji. Myślę, że wymaga to otworzenia jeszcze co najmniej kilku pull requestów.&lt;/p&gt;
+
+&lt;p&gt;W ciągu ostatniej doby udało mi się też zajść do dwóch różnych jadłodajni - jednej bardzo stylowej (i odpowiednio drogiej) oraz jednej jak z amerykańskich filmów. Obie były interesujące i czułam się nieco jak bohaterka hollywoodzkiej produkcji (albo chociaż drugo-/trzecio-/czwartoplanowa postać wspierająca w Pulp Fiction). Koktajle mleczne. Potrzebuję więcej koktajli mlecznych w złe dni (co zostanie zrównoważone w mojej diecie zmniejszoną liczbą złych dni w wyniku zwiększenia w niej udziału koktajli mlecznych).&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 57</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/12/RC-day-57.html" rel="alternate" type="text/html" title="RC - dzień 57" /><published>2016-10-12T17:31:31-04:00</published><updated>2016-10-12T17:31:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/12/RC-day-57</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/12/RC-day-57.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;wygrzebanie się z epizodu syndromu oszusta&lt;/li&gt;
+  &lt;li&gt;nauczenie się wiele na temat kodu Zulipa&lt;/li&gt;
+  &lt;li&gt;nauczenie się jeszcze więcej o procesie deweloperskim&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bardzo trudno było mi dzisiaj zacząć pracę nad moją aplikacją do Outreachy. Proces uczenia się, jak działa Zulip, gdzie wpasowuje się w niego mój wkład i jak w ogóle mogę przyczynic się do ulepszenia dużego projektu, z którego korzysta wiele osób, zajął sporo czasu i był trudny. W którymś momencie poczułam, że i tak niewiele osiągnę, więc powinnam przestać udawać i dać szansę innym, bardziej pracowitym, utalentowanym i mądrzejszym ode mnie.&lt;/p&gt;
+
+&lt;p&gt;Zorientowałam się, że dopadł mnie ciężki przypadek &lt;a href=&quot;https://www.wikiwand.com/pl/Syndrom_oszusta&quot;&gt;syndromu oszusta&lt;/a&gt; i było to dla mnie dość zaskakujące. Dostałam się do RC - programistycznej Nibylandii, gdzie wszystko jest możliwe a porażki są sposobem na uczenie się. Gdzie ludzie są zmotywowani i budują środowisko do rozwoju, które jest otwarte dla wszystkich i zapraszające. Mimo to udało mi się samą siebie podświadomie przekonać, że tutaj nie pasuję. Że zmarnowałam tyle czasu przez ostatnie kilka lat (szczególnie czasu innych) i cały mój potencjał i wysiłki idą na marne.&lt;/p&gt;
+
+&lt;p&gt;Znacznie łatwiej jest rozmawiać o i dzielić się tym, czego jestem pewna. Moje programowanie idzie w dobrym kierunku, ale zajmie jeszcze kilka lat, zanim zacznę się czuć w nim tak pewnie jak w pisaniu czy okołobiznesowych tematach. A może to nawet nigdy nie nastąpić, ponieważ otoczenie ciągle się zmienia i wysiłek potrzebny do uczenia się ciągle nowych rzeczy, żeby móc pozostać wartościowym członkiem społeczności, jest nieporównywalny z wieloma innymi zawodami.&lt;/p&gt;
+
+&lt;p&gt;Żeby się rozwijać, trzeba mieć wsparcie. Jestem szczęściarą, bo mam wielu przyjaciół i znajomych, którym na mnie zależy i wiedzą, kiedy popchnąć mnie w odpowiednim kierunku. Cihan po raz kolejny zmotywował mnie do pracy i programowaliśmy razem całą noc. Nie skończyłam jeszcze mojej funkcjonalności, ale nauczyłam się sporo po drodze i zaczęłam znowu czuć się pewna siebie.&lt;/p&gt;
+
+&lt;p&gt;Jedynym ryzykiem jest teraz przesadny perfekcjonizm, jak niedorzecznie by to nie brzmiało. Nie chciałabym marnować czyjegoś czasu na niegotową funkcjonalność, więc będę nad nią więcej pracować i spróbuję się zmusić do opublikowania jej do końca środy.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 56</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/10/RC-day-56.html" rel="alternate" type="text/html" title="RC - dzień 56" /><published>2016-10-10T01:47:31-04:00</published><updated>2016-10-10T01:47:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/10/RC-day-56</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/10/RC-day-56.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;zajęcia z improwizacji teatralnej&lt;/li&gt;
@@ -227,274 +258,4 @@
 
 &lt;p&gt;Poza zwiedzaniem muzeum i zmianą adresu na kolejne dwa tygodnie, spędziłam trochę przyjemnego czasu ze znajomymi z RC i udało mi się pobawić z kilkoma narzędziami Markdownowymi, żeby lepiej zrozumieć, jaką chcę zbudować aplikację. Przeczytałam też kolejną książkę o Sinatrze, ale nadal potrzebuję wsparcia od kogoś bardziej doświadczonego, żeby prawidłowo postawić aplikację.&lt;/p&gt;
 
-&lt;p&gt;Nowy tydzień, jeszcze lepsze wyzwania!&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>Muzeum historii naturalnej</title><link href="https://trueskawka.github.io/pl/usa/nyc/trips/2016/10/02/natural-history.html" rel="alternate" type="text/html" title="Muzeum historii naturalnej" /><published>2016-10-02T23:15:31-04:00</published><updated>2016-10-02T23:15:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/nyc/trips/2016/10/02/natural-history</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/nyc/trips/2016/10/02/natural-history.html">&lt;p&gt;Muzeum historii naturalnej jest przeogromne. Poszliśmy na wspólną wycieczkę i po ponad trzech godzinach nie widziałam nawet połowy. Na pewno chcę tam jeszcze wrócić.&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_1.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_1.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_2.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_2.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_3.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_3.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_4.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_4.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_5.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_5.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_6.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;Zastanawiam się, co on zobaczył&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_6.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_7.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;Odlewanie z wosku&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_7.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_7.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_8.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;Llama - przed i po&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_8.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_8.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_9.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_9.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_9.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_10.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_10.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_10.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_11.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_11.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_11.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_12.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_12.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_12.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_13.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_13.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_13.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_14.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_14.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_14.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_15.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_15.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_15.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_16.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_16.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_16.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_17.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_17.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_17.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_18.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_18.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_18.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_19.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_19.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_19.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_20.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_20.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_20.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_21.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_21.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_21.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_22.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_22.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_22.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_23.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_23.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_23.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_24.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_24.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_24.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_25.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_25.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_25.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_26.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_26.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_26.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_27.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_27.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_27.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_28.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_28.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_28.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_29.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_29.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_29.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_30.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_30.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_30.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_31.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_31.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_31.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_32.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_32.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_32.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_33.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_33.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_33.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_34.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_34.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_34.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_35.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;Cień giantycznego dinozaura - ludzie dla odniesienia&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_35.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_35.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_36.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_36.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_36.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_37.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_37.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_37.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_38.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;Zdjęcie zrobione pomiędzy dwiema żądnymi selfie grupami&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_38.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_38.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_39.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_39.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_39.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_40.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_40.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_40.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_41.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;Hej, tu wieloryb&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_41.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_41.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_main_42.jpg&quot; data-lightbox=&quot;trips/history&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/trips/history/history_thumb_42.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;history_main_42.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Muzeum historii naturalnej jest przeogromne. Poszliśmy na wspólną wycieczkę i po ponad trzech godzinach nie widziałam nawet połowy. Na pewno chcę tam jeszcze wrócić.</summary></entry><entry><title>RC - dzień 48</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/02/RC-day-48.html" rel="alternate" type="text/html" title="RC - dzień 48" /><published>2016-10-02T22:43:31-04:00</published><updated>2016-10-02T22:43:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/02/RC-day-48</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/02/RC-day-48.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;talked with Andy on ideas and features for my Markdown app&lt;/li&gt;
-  &lt;li&gt;started learning Emacs&lt;/li&gt;
-  &lt;li&gt;done some Sinatra tutorials&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Today was mostly about planning my Markdown app and looking for inspirations. A long chat with Andy helped with defining the core features and nice-haves, along with dozens of other great ideas. We also came to a conclusion that there is a special kind of feeling - “I love you in the spirit of RC” - for the platonic love and happiness that working and thinking together brings.&lt;/p&gt;
-
-&lt;p&gt;Other than downloading 12 new Markdown tools and playing with them, I’ve started learning Emacs and am setting up a challenge for the next week - starting Monday I will only code in Emacs, to see what is it all about. By the end of the week I can have an informed opinion and feel great about it, no matter what I decide.&lt;/p&gt;
-
-&lt;p&gt;I’ve also done some Sinatra tutorials for user authentication, but don’t feel I can grasp and use them properly just yet.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+&lt;p&gt;Nowy tydzień, jeszcze lepsze wyzwania!&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
