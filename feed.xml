@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-12T20:08:14-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 58</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/12/RC-day-58.html" rel="alternate" type="text/html" title="RC - day 58" /><published>2016-10-12T19:01:31-04:00</published><updated>2016-10-12T19:01:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/12/RC-day-58</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/12/RC-day-58.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-13T04:52:59-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 59</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/13/RC-day-59.html" rel="alternate" type="text/html" title="RC - day 59" /><published>2016-10-13T04:34:31-04:00</published><updated>2016-10-13T04:34:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/13/RC-day-59</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/13/RC-day-59.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;deciding on next Zulip contributions&lt;/li&gt;
+  &lt;li&gt;drafting the application for Outreachy at Zulip&lt;/li&gt;
+  &lt;li&gt;drafting a presentation for non-technical talks&lt;/li&gt;
+  &lt;li&gt;signed-up for algorithm prep&lt;/li&gt;
+  &lt;li&gt;revamped my resume&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After having some much needed rest, I’ve focused on planning and drafting my application for Outreachy. I’ve also created a short presentation on consolidated systems of preference relations for Tuesday’s non-technical talks, which may sound intimidating, but I hope to present it in a light and fun way.&lt;/p&gt;
+
+&lt;p&gt;Other than that, I’ve been working on my resume and expectations for next week’s job fairs. Since Outreachy deadline for applications is the upcoming Monday, I might just restrain from any other work. Especially since so much is happening at RC in the upcoming days - a meet-up at Etsy, interview prep, jobs profile building workshop, blog club, improv night and a &lt;a href=&quot;https://www.wikiwand.com/en/Contra_dance&quot;&gt;contra dance&lt;/a&gt; evening.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 58</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/12/RC-day-58.html" rel="alternate" type="text/html" title="RC - day 58" /><published>2016-10-12T19:01:31-04:00</published><updated>2016-10-12T19:01:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/12/RC-day-58</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/12/RC-day-58.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;submitted my pull request to Zulip&lt;/li&gt;
@@ -243,17 +255,4 @@
 
 &lt;p&gt;That being said, I’ve not worked much on Zulip today, as I paired with Michelle on Sinatra user authentication and managed to implement users in the to-do app, as a next step for learning how to build the main app. I’ve also learned how to solve the &lt;a href=&quot;https://leetcode.com/problems/edit-distance/&quot;&gt;edit distance&lt;/a&gt; problem from Joe, though I haven’t implemented it myself yet, so that could be a good exercise sometime soon.&lt;/p&gt;
 
-&lt;p&gt;I’ve also had my first check-out, best described as a check-in at the end of the day, but not as casual. Together with Deniz, Brian and Noah we discussed what we’ve done today and showed the actual code, which is the first time I’ve done it apart from pairing in a long time. Tomorrow we meet again at 6pm to review our progress, which is very motivating, considering how much they’ve all managed to do today.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 49</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/02/RC-day-49.html" rel="alternate" type="text/html" title="RC - day 49" /><published>2016-10-02T23:24:31-04:00</published><updated>2016-10-02T23:24:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/02/RC-day-49</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/02/RC-day-49.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;went to the Museum of the National History&lt;/li&gt;
-  &lt;li&gt;moved to a new place&lt;/li&gt;
-  &lt;li&gt;tested out a few Markdown tools&lt;/li&gt;
-  &lt;li&gt;read another book on Sinatra&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In order not to be so out of sync I’ve decided to pull another all-nighter. My reasoning was to get so tired, I’ll have to go to sleep at a reasonable hour to get up early on Monday. And I won’t be late for the Museum of Natural History trip. It all went great most of the day, but now I’m too tired to go to the new apartment and sleep.&lt;/p&gt;
-
-&lt;p&gt;Apart from the trip and switching apartment for the next two weeks, I’ve had some quality time with RC friends and managed to play with a few Markdown tools, to get a better feeling for my app. I also read another book on Sinatra, but still require some pairing from a more experienced developer to set it up right.&lt;/p&gt;
-
-&lt;p&gt;New week, greater challenges!&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+&lt;p&gt;I’ve also had my first check-out, best described as a check-in at the end of the day, but not as casual. Together with Deniz, Brian and Noah we discussed what we’ve done today and showed the actual code, which is the first time I’ve done it apart from pairing in a long time. Tomorrow we meet again at 6pm to review our progress, which is very motivating, considering how much they’ve all managed to do today.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
