@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-13T04:52:59-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 59</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/13/RC-day-59.html" rel="alternate" type="text/html" title="RC - dzień 59" /><published>2016-10-13T04:34:31-04:00</published><updated>2016-10-13T04:34:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/13/RC-day-59</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/13/RC-day-59.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-16T07:21:53-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 61</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/16/RC-day-61.html" rel="alternate" type="text/html" title="RC - dzień 61" /><published>2016-10-16T06:25:31-04:00</published><updated>2016-10-16T06:25:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/16/RC-day-61</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/16/RC-day-61.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;próbne algorytmiczne rozmowy kwalifikacyjne&lt;/li&gt;
+  &lt;li&gt;check-in z Jamesem&lt;/li&gt;
+  &lt;li&gt;gry improwizacji teatralnej&lt;/li&gt;
+  &lt;li&gt;rozwiązanie problemu z nieskończoną macierzą&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Po kolejnej nieprzespanej nocy powinnam po prostu przyzwyczaić się do nowego rozkładu dnia, skoro nie wygląda na to, żebym była w stanie zasnąć o normalnej godzinie. Dotarłam do mieszkania rano, przespałam się kilka godzin i wróciłam do RC idealnie na próbne rozmowy kwalifikacyjne, które są świetną rozrywką. Dałam Danowi interesujące zadanie, które lubię przerabiać z różnymi osobami, a potem dostałam jeszcze lepsze od Chrisa.&lt;/p&gt;
+
+&lt;p&gt;Check-in z Jamesem był bardzo pomocny, bo przy luźnej strukturze w RC czasami trudno jest pamiętać o swoich priorytetach i celach. Po owocnej rozmowie, naładowałam się pozytywną energią podczas gier improwizacyjnych z Sarą i grupą niesamowitych Recurserów.&lt;/p&gt;
+
+&lt;p&gt;Kolejną noc spędziłam na uczeniu się, rozmawianiu i programowaniu, główną atrakcją której była łamigłówka o nieskończonej macierzy, która zajęła sporo czasu Andyemu i mnie. Definicja problemu:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Nieskończona dwuwymiarowa macierz A składa się z kolejnych
+    liczb 1, 2, 3, ..., rozwijających się w sekwencji przedstawionej
+    poniżej. Algorytm powinien zwrócić wartość macierzy dla elementu
+    a_ij dla zadanego wiersza i oraz kolumny j.
+
+    1    3    4    10   11   21   22   36   37   55
+    2    5    9    12   20   23   35   38   54   57
+    6    8    13   19   24   34   39   53   58   76
+    7    14   18   25   33   40   52   59   75   82
+    15   17   26   32   41   51   60   74   83  101
+    16   27   31   42   50   61   73   84  100  111
+    28   30   43   49   62   72   85   99  112  130
+    29   44   48   63   71   86   98  113  129  144
+    45   47   64   70   87   97  114  128  145  163
+    46   65   69   88   96  115  127  146  162  181
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Zadanie rozwiązane &lt;a href=&quot;https://gist.github.com/aglee/65fa7f29bd6cccf4d4fdf2462a7c1f07&quot;&gt;w jednej linijce w Swifcie przez Andy’ego&lt;/a&gt; i &lt;a href=&quot;https://gist.github.com/trueskawka/cc22b1fa5311ff56da8c7bba41888843&quot;&gt;przeze mnie w Pythonie&lt;/a&gt;.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 60</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/16/RC-day-60.html" rel="alternate" type="text/html" title="RC - dzień 60" /><published>2016-10-16T06:11:31-04:00</published><updated>2016-10-16T06:11:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/16/RC-day-60</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/16/RC-day-60.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;obejrzałam prezentacje w RC&lt;/li&gt;
+  &lt;li&gt;wzięłam udział w spotkaniu Etsy &lt;em&gt;Code as Craft&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jak przyjemne by nie było spędzanie całych nocy w RC, bardzo trudne staje się bycie produktywną w dni z prezentacjami. Po przespaniu kilku godzin w mieszkaniu, wróciłam do RC o 15:15, idealnie na przekąski przed prezentacjami.&lt;/p&gt;
+
+&lt;p&gt;Najlepsze wystąpienia dzisiaj w mojej ocenie:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Marko miał świetną prezentację na temat wywoływania halucynacji w sieciach neuronowych, a dokładniej &lt;a href=&quot;https://github.com/markostam/audio-deepdream-tf&quot;&gt;głębokiego śnienia opartego na spektogramach audio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Andrea zaprezentował swój &lt;a href=&quot;https://github.com/AndreaOrru/LaiNES&quot;&gt;emulator NES&lt;/a&gt;, co przypomniało mi o &lt;a href=&quot;https://www.wikiwand.com/en/Kirby%27s_Dream_Land&quot;&gt;Kirby&lt;/a&gt; - jednej z moich ulubionych gier na Game Boya&lt;/li&gt;
+  &lt;li&gt;Tara opowiedziała o &lt;a href=&quot;https://github.com/taravancil/talks/blob/master/serverless-lightning.org&quot;&gt;architecturze bezserwerowej&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Po prezentacjach wybraliśmy się na spotkanie w Etsy, które polegało głównie na networkingu, świetnym jedzeniu i prezentacjach:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Leah zaprezentowała &lt;a href=&quot;http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html&quot;&gt;wektorowy format ikon w Haiku OS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Keyur opowiedział o zmianach w strukturze danych w Etsy&lt;/li&gt;
+  &lt;li&gt;Emily zabrała nas w podróż po kreatywnym programowaniu&lt;/li&gt;
+  &lt;li&gt;Stefanie skupiła się na &lt;a href=&quot;https://codeascraft.com/2016/09/06/api-first-transformation-at-etsy-concurrency/&quot;&gt;infrastrukturze API-first w Etsy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jedną z najlepszych atrakcji wieczoru była foto budka, którą intensywnie i grupowo użytkowaliśmy. Mam nadzieję wrzucić więcej zdjęć później, na razie można podziwiać jedynie Michelle i mnie.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_main_1.jpg&quot; data-lightbox=&quot;bonding/etsy&quot; data-title=&quot;Ja + aparat = szaleństwo&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;etsy_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_main_2.jpg&quot; data-lightbox=&quot;bonding/etsy&quot; data-title=&quot;Z Michelle&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;etsy_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 59</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/13/RC-day-59.html" rel="alternate" type="text/html" title="RC - dzień 59" /><published>2016-10-13T04:34:31-04:00</published><updated>2016-10-13T04:34:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/13/RC-day-59</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/13/RC-day-59.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;zdecydowałam jakie dalsze funkcjonalności będę rozwijać dla Zulipa&lt;/li&gt;
@@ -211,50 +288,4 @@
 
     &lt;p&gt;Zawsze możesz coś poprawić, rozwinąć i więcej się nauczyć. Zmiana jest niezmienna i pozwala Ci na wyciągnięcie jak najwięcej z nauki.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 51</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/04/RC-day-51.html" rel="alternate" type="text/html" title="RC - dzień 51" /><published>2016-10-04T23:43:31-04:00</published><updated>2016-10-04T23:43:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/04/RC-day-51</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/04/RC-day-51.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;czytałam dokumentację, mapę drogową i rozwijane funkcjonalności Zulipa&lt;/li&gt;
-  &lt;li&gt;miałam owocną rozmowę z Sumaną na temat Outreachy&lt;/li&gt;
-  &lt;li&gt;umówiłam spotkanie z Michaelem na temat jego funkcjonalności Zulipa&lt;/li&gt;
-  &lt;li&gt;zaplanowałam kolejne kroki&lt;/li&gt;
-  &lt;li&gt;check-out&lt;/li&gt;
-  &lt;li&gt;zaczęłam kurs efektywnego myślenia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Pracując nad aplikacją do Outreachy, czuję się coraz bardziej komfortowo myśląc o pracy nad dużymi projektami i pracowaniem nad nimi w małych kawałkach. Doczytałam sporo dokumentacji Zulipa, przestudiowałam mapę drogową i obecnie rozwijane funkcjonlaności, próbując zdecydować, gdzie najlepiej zainwestować moje umiejętności i oczekiwania.&lt;/p&gt;
-
-&lt;p&gt;Sumana jest mądrą, utalentowaną, niesamowitą osobą. Spędziłam z nią dzisiaj tylko półtorej godziny i nie tylko pomogła mi z moimi pomysłami i priorytetami dla Outreachy, wskazując obszary, w które moje umiejętności najlepiej się wpisują, ale zainspirowała mnie też do dalszego rozwoju. Dodatkowe bodźce znalazłam dzisiaj w postaci [EN]:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.harihareswara.net/sumana&quot;&gt;bloga Sumany&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://ballingt.com/&quot;&gt;pracy Toma&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://moriel.smarterthanthat.com/tips/the-language-double-take-dealing-with-bidirectional-text-or-wait-tahw/&quot;&gt;artykule Moriel o wsparciu języków RTL&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Myślę też, że, biorąc pod uwagę moje doświadczenie i umiejętności, budowanie funkcjonalności wspierających języki pisane od prawej do lewej (eng. &lt;em&gt;right-to-left&lt;/em&gt;, RTL) i innych aspektów internacjonalizacji (tłumaczenia) aplikacji brzmi jak dobry projekt na początek. Pamiętając jednak jednocześnie, że chcę pracować nad więcej niż jednym obszarem, bo wiele celów może bardziej pomóc mi w rozwoju.&lt;/p&gt;
-
-&lt;p&gt;Michael, alumn RC, stworzył funkcjonalność do filtrowania tematów w Zulipie i umówiliśmy się na czwartek, żeby wyjaśnił mi jej działanie. Będę mogła na tej podstawie zacząć nad nią pracować i spróbować ją połączyć z głównym projektem. Jest też dość interesująca funkcjonalność do zliczania użytkowników w danym temacie i chcę się jej bliżej przyjrzeć jutro, żeby zobaczyć, z czym potrzebuję pomocy.&lt;/p&gt;
-
-&lt;p&gt;Jednym z kolejnych kroków w procesie aplikacji jest odpowiednie nauczenie się Vagranta (oprogramowanie do tworzenia wirtualnych środowisk) - obecnie głównie używam komend, które nie do końca rozumiem, co nie pomaga przy rozwiązywaniu problemów.&lt;/p&gt;
-
-&lt;p&gt;Drugi dzień check-outów był odpowiednio motywujący. Grupa trochę urosła - przy obecnym formacie wzrost o 25% jest jednak całkiem spory i wydaje mi się, że 5 osób jest na granicy sensowności, jeśli ma to służyć jako metoda do poprawy rozliczalności z zadań. Im więcej osób w grupie, tym mniej są zaangażowani w poszczególne projekty, a wydaje mi się, że zaangażowanie jest kluczowe. Tak samo, jak wczoraj, pozostali zrobili tak dużo, że zmotywowali mnie do zrobienia więcej na jutrzejsze spotkanie.&lt;/p&gt;
-
-&lt;p&gt;Jako rozrywkę, przy której nie czuję, że marnuję czas, zaczęłam kurs &lt;a href=&quot;https://courses.edx.org/courses/course-v1:UTAustinX+UT.9.10x+3T2016/&quot;&gt;efektywnego myślenia przez matematykę&lt;/a&gt;. Rozwijanie umiejętności analitycznych zawsze się przyda, a potrzebuję przerwy od czasu do czasu.&lt;/p&gt;
-
-&lt;p&gt;Najlepszy cytat, jaki dzisiaj przeczytałam, dzięki &lt;a href=&quot;http://rose.github.io/posts/measured-in-wats/&quot;&gt;Rose&lt;/a&gt;: &lt;em&gt;knowledge is power - it’s measured in watts&lt;/em&gt; (pl. wiedza to potęga - mierzy się ją w watach)&lt;/p&gt;
-
-&lt;p&gt;[angielski &lt;em&gt;watt&lt;/em&gt; brzmi podobnie do &lt;em&gt;what&lt;/em&gt; (pl. co, jaki) - często zaczyna się tak pytania]&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 50</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/03/RC-day-50.html" rel="alternate" type="text/html" title="RC - dzień 50" /><published>2016-10-03T23:57:31-04:00</published><updated>2016-10-03T23:57:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/03/RC-day-50</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/03/RC-day-50.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;miałam dłuższą rozmowę na temat Outreachy&lt;/li&gt;
-  &lt;li&gt;wprowadziłam użytkowników do aplikacji&lt;/li&gt;
-  &lt;li&gt;dowiedziałam się czegoś o problemie odległości między słowami&lt;/li&gt;
-  &lt;li&gt;miałam pierwszy check-out&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Nowe mieszkanie jest świetne, ale nie zaplanowałam odpowiednio podróży do RC. Spóźniłam się na check-in i otwarte godziny w Zulipie na rozmowy o Outreachy. Na szczęście udało mi się zadać pytania, na które chciałam dostać odpowiedzi, i zdecydować, od czego zacząć.&lt;/p&gt;
-
-&lt;p&gt;Nie pracowałam dzisiaj jednak zbyt wiele nad Zulipem, ponieważ głównie programowałam wspólnie z Michelle nad Sinatrą, przede wszystkim autentykacją użytkowników. Udało mi się zaimplementować użytkowników w aplikacji do list zadań, jako następny krok do zbudowania głównej aplikacji. Nauczyłam się też od Joego, jak rozwiązuje się problem &lt;a href=&quot;https://leetcode.com/problems/edit-distance/&quot;&gt;odległości między słowami&lt;/a&gt;, chociaż sama go jeszcze nie zaimplementowałam, co może być dobrym ćwiczeniem na przyszłość.&lt;/p&gt;
-
-&lt;p&gt;Miałam też swój pierwszy check-out - wieczorny check-in, ale nie tak swobodny. Razem z Deniz, Brianem i Noah rozmawialiśmy o tym, co udało nam się dzisiaj zdziałać i pokazaliśmy sobie nawzajem nasz kod, co robiłam po raz pierwszy od dawna (pomijając wspólne programowanie). Jutro spotykamy się znowu o 18, żeby omówić nasze postępy, co jest bardzo motywujące, biorąc pod uwagę, jak dużo zrobili dzisiaj wszyscy poza mną.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>

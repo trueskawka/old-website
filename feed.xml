@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-13T04:52:59-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 59</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/13/RC-day-59.html" rel="alternate" type="text/html" title="RC - day 59" /><published>2016-10-13T04:34:31-04:00</published><updated>2016-10-13T04:34:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/13/RC-day-59</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/13/RC-day-59.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-16T07:21:53-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 61</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/16/RC-day-61.html" rel="alternate" type="text/html" title="RC - day 61" /><published>2016-10-16T06:25:31-04:00</published><updated>2016-10-16T06:25:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/16/RC-day-61</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/16/RC-day-61.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;algorithmic interview prep&lt;/li&gt;
+  &lt;li&gt;one-on-one with James&lt;/li&gt;
+  &lt;li&gt;improv games&lt;/li&gt;
+  &lt;li&gt;solving an infinite matrix problem&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After another all-nighter I should just start calling them ‘nights’, since I can’t seem to be able to fall asleep. Got to the apartment in the morning, slept a few hours, got back to RC and went to interview prep, which was loads of fun. I’ve asked Dan a fun brain-teaser questions I love to ask people and got one from Chris that was very satisfying.&lt;/p&gt;
+
+&lt;p&gt;A one-on-one with James was very helpful, since with the open format of RC it’s sometimes challenging to keep your priorities and goals in mind. After a fruitful chat, I got a ton of positive energy from improv games with Sarah and a group of wonderful Recursers.&lt;/p&gt;
+
+&lt;p&gt;Another night full of learning, talking and coding followed, with the brain-teaser on an infinite matrix taking a lot of Andy’s and my time. If you want to try it, here is the problem statement:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Imagine an infinite 2-dimensional matrix containing the
+    numbers 1, 2, 3, ... arranged in a diagonally winding order
+    as below. Write an algorithm that returns the matrix element
+    at row i and column j.
+
+    1    3    4    10   11   21   22   36   37   55
+    2    5    9    12   20   23   35   38   54   57
+    6    8    13   19   24   34   39   53   58   76
+    7    14   18   25   33   40   52   59   75   82
+    15   17   26   32   41   51   60   74   83  101
+    16   27   31   42   50   61   73   84  100  111
+    28   30   43   49   62   72   85   99  112  130
+    29   44   48   63   71   86   98  113  129  144
+    45   47   64   70   87   97  114  128  145  163
+    46   65   69   88   96  115  127  146  162  181
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;And if you’d like to check out solutions - here’s &lt;a href=&quot;https://gist.github.com/aglee/65fa7f29bd6cccf4d4fdf2462a7c1f07&quot;&gt;Andy’s one-liner in Swift&lt;/a&gt; and &lt;a href=&quot;https://gist.github.com/trueskawka/cc22b1fa5311ff56da8c7bba41888843&quot;&gt;my solution in Python&lt;/a&gt;.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 60</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/16/RC-day-60.html" rel="alternate" type="text/html" title="RC - day 60" /><published>2016-10-16T06:11:31-04:00</published><updated>2016-10-16T06:11:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/16/RC-day-60</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/16/RC-day-60.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;watched community presentations&lt;/li&gt;
+  &lt;li&gt;went for the Etsy &lt;em&gt;Code as Craft&lt;/em&gt; meet-up&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As much fun as all-nighters are, they make it very challenging to be productive on presentation days. After getting some sleep at the apartment, I got to RC at 3:15pm, which was in perfect sync with snacks before presentations.&lt;/p&gt;
+
+&lt;p&gt;Some of the highlights:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Marko had a great presentation about inducing hallucinations in neural networks, mainly &lt;a href=&quot;https://github.com/markostam/audio-deepdream-tf&quot;&gt;deep dreaming on audio spectrograms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Andrea presented his &lt;a href=&quot;https://github.com/AndreaOrru/LaiNES&quot;&gt;NES emulator&lt;/a&gt; and reminded me of &lt;a href=&quot;https://www.wikiwand.com/en/Kirby%27s_Dream_Land&quot;&gt;Kirby&lt;/a&gt; - one of my favourite childhood games for Game Boy&lt;/li&gt;
+  &lt;li&gt;Tara talked about &lt;a href=&quot;https://github.com/taravancil/talks/blob/master/serverless-lightning.org&quot;&gt;serverless architecture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After presentations we went for a meet-up at Etsy, which was about mingling, great food and more presentations:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Leah presented the &lt;a href=&quot;http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html&quot;&gt;Haiku OS Vector Icon Format&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Keyur talked about the data structures transformations at Etsy&lt;/li&gt;
+  &lt;li&gt;Emily unveiled her personal journey to creative coding, approached with a tinkering mindset&lt;/li&gt;
+  &lt;li&gt;Stefanie focused on &lt;a href=&quot;https://codeascraft.com/2016/09/06/api-first-transformation-at-etsy-concurrency/&quot;&gt;API-first infrastructure at Etsy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;One of the best things about the night was a photo booth, which we used extensively for group photos. I hope to get some more of them posted soon, for now you may enjoy a few shots of Michelle and me.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;click an image to see the gallery&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_main_1.jpg&quot; data-lightbox=&quot;bonding/etsy&quot; data-title=&quot;When I find a camera, crazy things happen&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;etsy_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_main_2.jpg&quot; data-lightbox=&quot;bonding/etsy&quot; data-title=&quot;Bonding with Michelle&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;etsy_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 59</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/13/RC-day-59.html" rel="alternate" type="text/html" title="RC - day 59" /><published>2016-10-13T04:34:31-04:00</published><updated>2016-10-13T04:34:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/13/RC-day-59</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/13/RC-day-59.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;deciding on next Zulip contributions&lt;/li&gt;
@@ -211,48 +288,4 @@
 
     &lt;p&gt;You can always improve, grow, and extract more out of your education. Change is the universal constant that allows you to get the most out of learning.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 51</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/04/RC-day-51.html" rel="alternate" type="text/html" title="RC - day 51" /><published>2016-10-04T23:43:31-04:00</published><updated>2016-10-04T23:43:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/04/RC-day-51</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/04/RC-day-51.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;read up on Zulip documentation, roadmap and issues&lt;/li&gt;
-  &lt;li&gt;had a fruitful conversation with Sumana on Outreachy&lt;/li&gt;
-  &lt;li&gt;set up a meeting with Michael on his Zulip feature&lt;/li&gt;
-  &lt;li&gt;planned next steps&lt;/li&gt;
-  &lt;li&gt;check-out&lt;/li&gt;
-  &lt;li&gt;started a course in effective thinking&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As I work towards the Outreachy internship, I get more and more comfortable with thinking about the big projects and tackling them in small chunks. I’ve reread a big part of Zulip documentation, studied the roadmap and current issues, trying to figure out where my skills and expectations would fit best.&lt;/p&gt;
-
-&lt;p&gt;Sumana is a knowledgable, skillful and amazing person. I’ve spent with her only 1.5 hours today and not only did she help me with my Outreachy ideas and priorities, pointing out some areas my skills could be best used for, but also gave a ton of inspiration on how to grow. I’ve been getting more and more inspired thanks to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.harihareswara.net/sumana&quot;&gt;Sumana’s blog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://ballingt.com/&quot;&gt;Tom’s work&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://moriel.smarterthanthat.com/tips/the-language-double-take-dealing-with-bidirectional-text-or-wait-tahw/&quot;&gt;Moriel’s take on RTL language support&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I also think that, given my experience and skills, building features for right-to-left language support and other internationalization aspects of apps sounds like a good project to focus on, while also remembering that I want to work on more than one area, since multiple goals are more likely to help me grow.&lt;/p&gt;
-
-&lt;p&gt;Michael, an RC alumnus, build a stream filtering feature for Zulip and I’m meeting with him on Thursday to understand it better and be able to work on it, as to merge it with the codebase. There is also an interesting feature for counting users following a stream and I’ll look into it tomorrow, to see what I’ll need help with.&lt;/p&gt;
-
-&lt;p&gt;One of the next steps in the application process is to learn how to use Vagrant properly - at the moment I’m mostly running commands I don’t fully understand, which doesn’t help with troubleshooting.&lt;/p&gt;
-
-&lt;p&gt;Second day of check-outs worked well. The group got a little big bigger, though considering the format a 25% increase is pretty substantial and I’d say 5 people is really the limit if it’s going to work as a method for improving accountability. The more people in the group, the less engaged they are and I think engagement is the key. Same as yesterday, others have done so much I’m motivated to do more for tomorrow’s meeting.&lt;/p&gt;
-
-&lt;p&gt;Just to have some entertainment that doesn’t feel like wasting much time, I’ve started a course on &lt;a href=&quot;https://courses.edx.org/courses/course-v1:UTAustinX+UT.9.10x+3T2016/&quot;&gt;Effective Thinking through Mathematics&lt;/a&gt;. Improving analytical skills is always useful and I need a break from time to time.&lt;/p&gt;
-
-&lt;p&gt;Also, the best quote I’ve stumbled upon today, thanks to &lt;a href=&quot;http://rose.github.io/posts/measured-in-wats/&quot;&gt;Rose&lt;/a&gt;: &lt;em&gt;knowledge is power - it’s measured in wats&lt;/em&gt;.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 50</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/03/RC-day-50.html" rel="alternate" type="text/html" title="RC - day 50" /><published>2016-10-03T23:57:31-04:00</published><updated>2016-10-03T23:57:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/03/RC-day-50</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/03/RC-day-50.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;had a chat about Outreachy&lt;/li&gt;
-  &lt;li&gt;implemented users in the Sinatra app&lt;/li&gt;
-  &lt;li&gt;learned something about the edit distance problem&lt;/li&gt;
-  &lt;li&gt;first check-out&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The new apartment is great, but I didn’t anticipate how long it would take to get to RC in the morning. I was late for my check-in and office hours for Outreachy at Zulip. Thankfully, I’ve managed to ask the questions I’ve needed answers for and decided what contribution to start with.&lt;/p&gt;
-
-&lt;p&gt;That being said, I’ve not worked much on Zulip today, as I paired with Michelle on Sinatra user authentication and managed to implement users in the to-do app, as a next step for learning how to build the main app. I’ve also learned how to solve the &lt;a href=&quot;https://leetcode.com/problems/edit-distance/&quot;&gt;edit distance&lt;/a&gt; problem from Joe, though I haven’t implemented it myself yet, so that could be a good exercise sometime soon.&lt;/p&gt;
-
-&lt;p&gt;I’ve also had my first check-out, best described as a check-in at the end of the day, but not as casual. Together with Deniz, Brian and Noah we discussed what we’ve done today and showed the actual code, which is the first time I’ve done it apart from pairing in a long time. Tomorrow we meet again at 6pm to review our progress, which is very motivating, considering how much they’ve all managed to do today.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
