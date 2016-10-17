@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-16T07:21:53-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 61</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/16/RC-day-61.html" rel="alternate" type="text/html" title="RC - dzień 61" /><published>2016-10-16T06:25:31-04:00</published><updated>2016-10-16T06:25:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/16/RC-day-61</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/16/RC-day-61.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-17T07:11:09-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 63</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/17/RC-day-63.html" rel="alternate" type="text/html" title="RC - dzień 63" /><published>2016-10-17T06:42:31-04:00</published><updated>2016-10-17T06:42:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/17/RC-day-63</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/17/RC-day-63.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;moja propozycja funkcjonalności została wdrożona do Zulipa&lt;/li&gt;
+  &lt;li&gt;skończyłam pisać wstępną propozycję projektów na Outreachy&lt;/li&gt;
+  &lt;li&gt;usprawniłam swój tryb pracy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nareszcie wdrożona została do Zulipa moja propozycja funkcjonalności filtrowania na stronie z substrykpcjami!&lt;/p&gt;
+
+&lt;p&gt;To był ostatni weekend przed terminem składania aplikacji na Outreachy i udało mi się skończyć moją &lt;a href=&quot;https://paper.dropbox.com/doc/Outreachy-proposal-QfwrTnnGBDBd9hBGCyUjT#:h2=Outreachy-proposal&quot;&gt;wstępną propozycję&lt;/a&gt; [EN] i złożyć ją o czasie. Myślę, że sporo się ona zmieni w nadchodzących tygodniach, ponieważ mam ewidentnie sporo pomysłów i jestem świadoma różnorodnych potrzeb, ale muszę oprzeć je na lepiej określonych i kwantyfikowalnych celach dla wprowadzania nowych funkcjonalności.&lt;/p&gt;
+
+&lt;p&gt;Mając trochę wolnego czasu, poprawiłam nieco swój sposób pracy, po zainspirowaniu się:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;postem Rodrigo &lt;a href=&quot;https://rz.github.io/articles/2016/oct/time-on-your-side.html&quot;&gt;o zarządzaniu czasem&lt;/a&gt; [EN]&lt;/li&gt;
+  &lt;li&gt;starym artykule z FreeCodeCamp o &lt;a href=&quot;https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2#.qvb564jid&quot;&gt;znajdywaniu czasu na rozwjanie się jako programista&lt;/a&gt; [EN]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Miałam też sporo inspiracji czytając listę &lt;a href=&quot;http://danluu.com/programming-books/&quot;&gt;książek prograistycznych, które może rozważysz przeczytać&lt;/a&gt; stworzoną przez Dana, lub, jak ja bym to nazwała, &lt;em&gt;listę książek programistycznych, którą być może będziesz miał ochotę przejrzeć mając nieco, ale nie przesadnie dużo, wolnego czasu, jeżeli tylko mógłbyś być na tyle zainteresowany, żeby w ogóle się nią przejmować&lt;/em&gt;.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 62</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/17/RC-day-62.html" rel="alternate" type="text/html" title="RC - dzień 62" /><published>2016-10-17T06:37:31-04:00</published><updated>2016-10-17T06:37:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/17/RC-day-62</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/17/RC-day-62.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ulepszyłam testy funcjonalności dla Zulipa&lt;/li&gt;
+  &lt;li&gt;zaimplementowałam sugerowane zmiany&lt;/li&gt;
+  &lt;li&gt;nauczyłam się lepszego git flow&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dzisiaj skupiłam się przede wszystkim na ulepszaniu mojej funkcjonalności dla filtrowania Zulipa, żeby upewnić się, że zostaną one wdrożone do projektu na czas. W którymś momencie moje testy przestały przechodzić przez Travis CI i trochę czasu zajęło mi zorientowanie się, że aplikacja nie zachowywała się identycznie jak przy manualnych testach - oczekiwany stan nie był spójny pomiędzy kolejnymi podobnymi testami. Atomizacja i indywidualne ustawianie stanu pozwoliły rozwiązać problem.&lt;/p&gt;
+
+&lt;p&gt;Nauczyłam się też sporo na temat interaktywnego edytowania commitów, żeby odpowiednio zarządzać propozycją funkcjinalności. Jak zazwyczaj, nie mogłoby się to obyć bez nieocenionej pomocy i wsparcia ze strony Cihana.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 61</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/16/RC-day-61.html" rel="alternate" type="text/html" title="RC - dzień 61" /><published>2016-10-16T06:25:31-04:00</published><updated>2016-10-16T06:25:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/16/RC-day-61</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/16/RC-day-61.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;próbne algorytmiczne rozmowy kwalifikacyjne&lt;/li&gt;
@@ -223,69 +252,4 @@
   &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 53</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/07/RC-day-53.html" rel="alternate" type="text/html" title="RC - dzień 53" /><published>2016-10-07T23:13:31-04:00</published><updated>2016-10-07T23:13:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/07/RC-day-53</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/07/RC-day-53.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;cotygodniowy check-in z opiekunem&lt;/li&gt;
-  &lt;li&gt;check-out&lt;/li&gt;
-  &lt;li&gt;prezentacje&lt;/li&gt;
-  &lt;li&gt;spotkanie z Michaelem na temat jego funkcjonalności&lt;/li&gt;
-  &lt;li&gt;kursy online&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ze względu na nowe eksperymenty w RC w tym tygodniu, wiele się dzieje w zakresie odpowiedzialności i dzielenia się swoimi osiągnięciami. Miałam długą rozmowę z Jamesem (opiekunem) na temat moich celów i obaw, po której od razu odbył się check-out. Ponieważ dość późno zaczęłam dzień, nie było zbyt wiele do pokazania poza działającą lokalnie instancją Zulipa.&lt;/p&gt;
-
-&lt;p&gt;Prezentacje poszły świetnie, moi ulubieńcy:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Joe i Cihan pokazali aplikację dla Recurserów do &lt;a href=&quot;https://github.com/rc-locos/rc-locos&quot;&gt;dzielenia się lokalizacją&lt;/a&gt; - ponieważ aplikacja używa autoryzacji RC, mogę podlinkować tylko otwarte repozytorium&lt;/li&gt;
-  &lt;li&gt;Satabdi opowiedziała przystępnie o debuggerach i procesie debuggowania programów&lt;/li&gt;
-  &lt;li&gt;Lyn przedstawiła aplikację do uczenia się testowania statystycznego za pomocą uroczych prostopadłościennych stworków i opowiedziała o implementacji w Unity, przy użyciu projektów wcześniej stworzonych w Blenderze&lt;/li&gt;
-  &lt;li&gt;Michelle miała przezabawną prezentację o &lt;a href=&quot;https://github.com/Yuffster/toykb&quot;&gt;tworzeniu baz wiedzy do wsparcia intryg&lt;/a&gt;, używając Hamleta (sztuki) jako przykładu (chodziło przede wszystkim o przekazywanie wiedzy pomiędzy różnymi postaciami przy użyciu trójwartościowej logiki)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Po prezentacjach przysiadłam z Michaelem nad jego funkcjonalnością do Zulipa i mieliśmy owocną rozmowę. Udało nam się skonsolidować jego kod z obecną wersją aplikacji i porozmawiać o następnych krokach, jakie muszę wykonać - poprawieniu testów i poprawieniu zachowania funkcjonalności. Mam nadzieję podzielić się moim rozwiązaniem do końca weekendu, żeby móc się póżniej skupić na kolejnych kontrybucjach.&lt;/p&gt;
-
-&lt;p&gt;Relaksowałam się też dzisiaj przy kursie o algorytmach i mam nadzieję zorganizować naukę w repozytorium do końca tygodnia.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 52</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/06/RC-day-52.html" rel="alternate" type="text/html" title="RC - dzień 52" /><published>2016-10-06T02:05:31-04:00</published><updated>2016-10-06T02:05:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/06/RC-day-52</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/06/RC-day-52.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;naprawiłam lokalną instację Zulipa&lt;/li&gt;
-  &lt;li&gt;nauczyłam się więcej o Vagrancie&lt;/li&gt;
-  &lt;li&gt;check-out&lt;/li&gt;
-  &lt;li&gt;pouczyłam się o algorytmach i efektywnym myśleniu&lt;/li&gt;
-  &lt;li&gt;zgłosiłam się do prowadzenia próbnych rozmów kwalifikacyjnych&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Skupiając się dzisiaj głównie na aplikacji do Outreachy, udało mi się lepiej zrozumieć Vagranta i naprawić lokalną instancję Zulipa przy wsparciu Cihana. Przez “naprawić” rozumiem “rozwiązać problem, którego nie było”, bo wynikał on z niezaktualizowania mojego kodu w stosunku do głównej aplikacji i problemu w ogóle nie powinno było tam być. Udało nam się też połączyć funkcjonalność Michaela z główną aplikacją. Przez “połączyć” mam na myśli “nadal działa główna aplikacja, ale nie nowa funkcjonalność”.&lt;/p&gt;
-
-&lt;p&gt;W trakcie check-outu mówiłam głównie o ulepszeniu mojego profilu zawodowego w RC (na wewnętrznym portalu do rekrutacji) i problemach z Vagrantem. Porównując to do pracy Briana i Jonathana nad ich aplikacjami oraz tym, jak wiele Deniz nauczyła się na temat d3.js, czuję, że dość łatwo udało mi się spełnić warunek pokazania czegoś, co zrobiłam, i wywinąć się nieco z odpowiedzialności.&lt;/p&gt;
-
-&lt;p&gt;Poza próbami naprawienia rzeczy, które działają, czytania o nowych firmach, które dołączyły do Outreachy, i przygotowania do prowadzenia próbnych rozmów kwalifikacyjnych (bo to przecież oczywiste, że nie czuję się jeszcze wystarczająco dobrym programistą, żeby testować innych z ich umiejętności), pouczyłam się nieco na temat algorytmów i efektywnego myślenia. Jako wstęp do potencjalnych dalszych rozmyślań na ten temat, poniżej pięć elementów efektywnego myślenia (które brzmią nieco jak kroki do nauczenia się czegokolwiek):&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;zrozum dokładnie&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;Nie próbuj od razu zrozumieć dużych problemów - najpierw zrozum proste koncepty. Bądź ze sobą szczery w tym, czego nie rozumiesz. Znajdź to, czego Ci brakuje i uzupełnij luki. Są różne poziomy zrozumienia i zawsze możesz coś poprawić.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;popełniaj błędy&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;Niech Ci się nie udaje. Celowo popełniaj błędy, żeby lepiej zrozumieć. Błędy wskazują nieprzewidzane możliwości i luki w Twoim rozumowaniu.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;zadawaj pytania&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;Ciągle zadawaj pytania, żeby dookreślić i poszerzyć swoje zrozumienie.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;podążaj za pomysłami&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;Sprawdź, skąd się biorą różne pomysły i gdzie mogą prowadzić.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;zmieniaj się&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;Zawsze możesz coś poprawić, rozwinąć i więcej się nauczyć. Zmiana jest niezmienna i pozwala Ci na wyciągnięcie jak najwięcej z nauki.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
