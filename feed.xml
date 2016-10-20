@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-20T16:30:49-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>Learning by observing</title><link href="https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing.html" rel="alternate" type="text/html" title="Learning by observing" /><published>2016-10-20T15:48:00-04:00</published><updated>2016-10-20T15:48:00-04:00</updated><id>https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing</id><content type="html" xml:base="https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing.html">&lt;p&gt;Recently I’ve had the pleasure of seeing &lt;a href=&quot;https://www.harihareswara.net/&quot;&gt;Sumana Harihareswara&lt;/a&gt; live documenting &lt;a href=&quot;https://zulip.tabbott.net/#narrow/stream/test.20suites/topic/watch.20over.20my.20shoulder.20as.20I.20improve.20the.20linter&quot;&gt;a coding adventure&lt;/a&gt; on Zulip. As I wanted to learn even more from this experience, I’ve reread it and tried to break it into high level activities.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-20T17:07:47-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>Learning by observing</title><link href="https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing.html" rel="alternate" type="text/html" title="Learning by observing" /><published>2016-10-20T15:48:00-04:00</published><updated>2016-10-20T15:48:00-04:00</updated><id>https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing</id><content type="html" xml:base="https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing.html">&lt;p&gt;Recently I’ve had the pleasure of seeing &lt;a href=&quot;https://www.harihareswara.net/&quot;&gt;Sumana Harihareswara&lt;/a&gt; live documenting &lt;a href=&quot;https://zulip.tabbott.net/#narrow/stream/test.20suites/topic/watch.20over.20my.20shoulder.20as.20I.20improve.20the.20linter&quot;&gt;a coding adventure&lt;/a&gt; on Zulip. As I wanted to learn even more from this experience, I’ve reread it and tried to break it into high level activities.&lt;/p&gt;
 
 &lt;h4 id=&quot;disclaimer&quot;&gt;Disclaimer&lt;/h4&gt;
 &lt;p&gt;The following text is a rephrasing of a live-coding session. If you find any smart, hilarious and generally great quotes - those are Sumana’s words when not directly attributed and Steve’s or Tim’s words for the appropriate dramatis persona.&lt;/p&gt;
@@ -614,71 +614,7 @@ Date:   Thu Apr 14 10:48:30 2016 -0700
   &lt;li&gt;
     &lt;p&gt;Coding is an adventure. It’s demanding, requires a lot of patience and perseverance, but it’s a most rewarding endeavor.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>alicja</name></author><summary>Recently I’ve had the pleasure of seeing Sumana Harihareswara live documenting a coding adventure on Zulip. As I wanted to learn even more from this experience, I’ve reread it and tried to break it into high level activities.</summary></entry><entry><title>RC - day 65</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-65.html" rel="alternate" type="text/html" title="RC - day 65" /><published>2016-10-20T07:30:31-04:00</published><updated>2016-10-20T07:30:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-65</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-65.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;p&gt;*&lt;/p&gt;
-
-&lt;p&gt;V	              A brief, incomplete, and mostly wrong history of disco
-positive, gay; saturday night fever; having fun?&lt;/p&gt;
-
-&lt;p&gt;Lushi Li	      Kungfu and You
-an umbrella term for chinese martial arts
-deliberate practice expert skills over a long period of time
-Doctrine of the Mean
-in martial arts the punch is like hello world&lt;/p&gt;
-
-&lt;p&gt;Brian Lee	      Fractional Changes
-quickly doing approximations, understanding
-Newton’s approximation of square root&lt;/p&gt;
-
-&lt;p&gt;Mike Heaton	    Oh Shit Brexit
-comedy break&lt;/p&gt;
-
-&lt;p&gt;Andrea Heyman	  Knot theory
-Reidemeister moves&lt;/p&gt;
-
-&lt;p&gt;Satabdi	        Why I love open
-Arjuna&lt;/p&gt;
-
-&lt;p&gt;Sofia-Jeanne	  Cognitive Psychology / MBTI
-a path for decision-making
-more introverted and intuitive
-RC as Refuge
-common mindsets&lt;/p&gt;
-
-&lt;p&gt;Harold Treen	  Non-violent communication
-needs and inspire to help
-when observation, i feel feelings, because i need (positive way), requests (concrete and doable)
-talking to yourself
-appreciate others&lt;/p&gt;
-
-&lt;p&gt;Alicja	        Preference, indifference, incomparability - consolidated systems of preference relations&lt;/p&gt;
-
-&lt;p&gt;Andy Lee	      Nerding out on judo
-I’m more nerdy about it than good
-not fighting - playing like tennis
-throw people&lt;/p&gt;
-
-&lt;p&gt;Andrew Yoon	    Counterpoint and the 40 Voice Motet
-counterpoint
-add up to have something that’s more than just sum of parts
-spem in alium nunqam habuqi Tallis&lt;/p&gt;
-
-&lt;p&gt;Jeni Gooley	    NormCore&lt;/p&gt;
-
-&lt;p&gt;Julia Yu	      Fundamental ideas
-fundamental ideas are ideas that keep getting discovered
-analogies between fields
-tinyurl.com/fundamentalideas&lt;/p&gt;
-
-&lt;p&gt;Rodrigo Guzman	Put time on your side
-we can not solve our problems with the same level of thinking that created them
-cognitive load sucks, but to-do list don’t work
-discipline is doing the things you want to want to do&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 64</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-64.html" rel="alternate" type="text/html" title="RC - day 64" /><published>2016-10-20T07:12:31-04:00</published><updated>2016-10-20T07:12:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-64</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-64.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;p&gt;*&lt;/p&gt;
-
-&lt;p&gt;inspirational quotes&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 63</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/17/RC-day-63.html" rel="alternate" type="text/html" title="RC - day 63" /><published>2016-10-17T06:42:31-04:00</published><updated>2016-10-17T06:42:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/17/RC-day-63</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/17/RC-day-63.html">&lt;p&gt;Achievements:&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>alicja</name></author><summary>Recently I’ve had the pleasure of seeing Sumana Harihareswara live documenting a coding adventure on Zulip. As I wanted to learn even more from this experience, I’ve reread it and tried to break it into high level activities.</summary></entry><entry><title>RC - day 63</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/17/RC-day-63.html" rel="alternate" type="text/html" title="RC - day 63" /><published>2016-10-17T06:42:31-04:00</published><updated>2016-10-17T06:42:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/17/RC-day-63</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/17/RC-day-63.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;my pull request for Zulip was merged&lt;/li&gt;
@@ -827,4 +763,69 @@ discipline is doing the things you want to want to do&lt;/p&gt;</content><author
 
 &lt;p&gt;It takes a village to grow. I am lucky enough to have friends that care about me and know when I need a nudge in the right direction. Cihan was there again to intimidate me into working and we’ve work together all night. I didn’t finish the pull request, but I’ve learned a lot on the way and started feeling confident again.&lt;/p&gt;
 
-&lt;p&gt;Now I think am at risk of being too much of a perfectionist, as ridiculous as it may sounds. I’m afraid of wasting someone’s time on a feature that’s not completely finished, so I’ll work on it more and try to push myself to share it by the end of the day on Wednesday.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+&lt;p&gt;Now I think am at risk of being too much of a perfectionist, as ridiculous as it may sounds. I’m afraid of wasting someone’s time on a feature that’s not completely finished, so I’ll work on it more and try to push myself to share it by the end of the day on Wednesday.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 56</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/10/RC-day-56.html" rel="alternate" type="text/html" title="RC - day 56" /><published>2016-10-10T01:47:31-04:00</published><updated>2016-10-10T01:47:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/10/RC-day-56</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/10/RC-day-56.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;improv class&lt;/li&gt;
+  &lt;li&gt;pairing with Cihan on merge sort&lt;/li&gt;
+  &lt;li&gt;learning how to properly use a profiler&lt;/li&gt;
+  &lt;li&gt;half-watching the debate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The NYC subway is sometimes an exercise in patience - what should take 45 minutes ends up sucking up 1.5h and there is no way to avoid it. Thankfully, as I don’t have that much time to read books at RC, I usually have a pretty good time catching up on my reading.&lt;/p&gt;
+
+&lt;p&gt;I went for a free improv class at the &lt;a href=&quot;http://www.magnettheater.com/&quot;&gt;Magnet Theater&lt;/a&gt; and it was an amazing experience. The “yes and” attitude is something everyone needs in their life. It’s all about being aware of other people and building on what they’ve created, while constantly having fun and laughs. I’ve read a lot about it today and am thinking about getting some more improv once I’m back home. I might write something more on the topic, but since it’s so hard to put in words at the moment (also - Outreachy deadline is approaching), here is an &lt;a href=&quot;http://www.humorthatworks.com/learning/10-life-tips-from-improv-class/&quot;&gt;appetizer&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve tried to watch the whole debate, but it was so repetitive and similar to everything I’ve already seen on the media, working on algorithms seemed like a better use of my time. Cihan was kind enough to pair with me on the &lt;a href=&quot;https://www.wikiwand.com/en/Merge_sort&quot;&gt;merge sort&lt;/a&gt; problem for my algorithms course and I went through explaining the approach, implementing a quick solution with a horrible runtime of 35 seconds and improving it by using profiling to &lt;a href=&quot;https://gist.github.com/trueskawka/a4eab263a12cbec381ef8412b56b2d9a&quot;&gt;less than 2 seconds&lt;/a&gt;. I still want to skim through the debate, just to know what people are talking about, but it’s thankfully not among my priorities.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 55</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/09/RC-day-55.html" rel="alternate" type="text/html" title="RC - day 55" /><published>2016-10-09T23:57:31-04:00</published><updated>2016-10-09T23:57:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/09/RC-day-55</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/09/RC-day-55.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;entrepreneurship workshop&lt;/li&gt;
+  &lt;li&gt;playing with algorithms&lt;/li&gt;
+  &lt;li&gt;dinner at a Polish Karczma&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Paul’s entrepreneurship workshop took up most of the day - it ran from 10:30am to about 5:30pm, though I did move on to practice algorithms around 4:30pm, as I felt I’ve done nothing most of the day. Some small exercises and brain teasers helped me stay on the programming track.&lt;/p&gt;
+
+&lt;p&gt;In the evening Cihan, Joe and me went for dinner at a Polish restaurant in Greenpoint. It was nice to finally be the guide and I was pleasantly surprised by how much they both liked the food, especially the lard. After the long night of stuffing ourselves to the point of being barely able to move, I went to the apartment and slept for 10 hours straight.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;click an image to see the gallery&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_1.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;A picture of Joe taking a picture of food&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_2.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;Lard and pickles&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_3.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;Happy Cihan&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_3.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_4.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;This was supposed to be for 3 people&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_4.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_5.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;Boxes of food signed by Cihan&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_5.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_6.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;Carroll St station&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_6.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
