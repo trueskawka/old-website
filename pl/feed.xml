@@ -1,4 +1,164 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-22T00:51:14-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 63</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/17/RC-day-63.html" rel="alternate" type="text/html" title="RC - dzień 63" /><published>2016-10-17T06:42:31-04:00</published><updated>2016-10-17T06:42:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/17/RC-day-63</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/17/RC-day-63.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-22T01:51:47-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 68</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-68.html" rel="alternate" type="text/html" title="RC - dzień 68" /><published>2016-10-22T00:33:31-04:00</published><updated>2016-10-22T00:33:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-68</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-68.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;zadania algorytmiczne&lt;/li&gt;
+  &lt;li&gt;przeczytanie kilku esejów w &lt;em&gt;Making Software&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;nauczenie się sporo o atakach DDoS&lt;/li&gt;
+  &lt;li&gt;pracowanie nad funkcjonalnościami Zulipa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Chciałam być dzisiaj bardziej produktywna, ale mój sprytny plan naprawienia rytmu dobowego nie zadziałał i zamiast tego byłam przede wszystkim bardziej zmęczona. Mimo to udało mi się mieć całkiem dobrą sesję algortymiczną z Andrew i Deniz, od których nauczyłam się sporo w zakresie rozwiązywania problemów, do czego swoje trzy grosze dołożył też Noah.&lt;/p&gt;
+
+&lt;p&gt;Internet nie działał, a przynajmniej tak się wydawało. Serwis DNS Dyn odpierał dzisiaj masywny atak &lt;a href=&quot;https://www.wikiwand.com/pl/DoS&quot;&gt;DDoS&lt;/a&gt; on a DNS service Dyn, co spowodowało spore zamieszanie i było dobrą wymówką do odpoczynku. Dan uratował sytuację (całkowicie rujnując moje plany na prokrastynachę) i zasugerował skorzystanie z &lt;a href=&quot;https://support.opendns.com/hc/en-us/articles/227987767-Dynamic-IP-Addresses-Technical-Detail-and-FAQ&quot;&gt;OpenDNS&lt;/a&gt;. Poczytałam sporo na temat ataków DDoS, w szczególności potencjalnej roli różnych urządzeń podłączonych do &lt;a href=&quot;https://www.wikiwand.com/pl/Internet_rzeczy&quot;&gt;Internetu rzeczy&lt;/a&gt; w tego typu atakach.&lt;/p&gt;
+
+&lt;p&gt;Poza tym przeczytałam kilka esejów w książce, którą poleciła mi Sumana - &lt;a href=&quot;http://shop.oreilly.com/product/9780596808303.do&quot;&gt;Making Software&lt;/a&gt; - i spędziłam trochę czasu pastwiąc się nad kodem Zulipa. Chciałabym co najmniej jedną funkcjonalność skończyć do końca weekendu.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - day 67</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-67.html" rel="alternate" type="text/html" title="RC - day 67" /><published>2016-10-22T00:05:31-04:00</published><updated>2016-10-22T00:05:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-67</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-67.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;skończyłam posta na temat sesji programowania na żywo&lt;/li&gt;
+  &lt;li&gt;wzięłam udział w Abstract Salad Factory&lt;/li&gt;
+  &lt;li&gt;rozmowa z Jamesem&lt;/li&gt;
+  &lt;li&gt;wzięłam udział w zabawie programistycznej&lt;/li&gt;
+  &lt;li&gt;i targach pracy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Próbując naprawić mój rytm dobowy nie spałam dzisiaj całą noc i spędziłam ją rozdłubując szkice na różne tematy. Skończyłam w końcu mojego posta na temat &lt;a href=&quot;https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing.html&quot;&gt;sesji programowania na żywo Sumany&lt;/a&gt; [EN], który opublikowałam w drugiej połowie dnia po zaakceptowaniu przez wszystkich uczestników rozmowy. Polskie tłumaczenie postaram się zrobić w miarę niedługo, ale post jest na tyle długi, że zajmie to sporo czasu.&lt;/p&gt;
+
+&lt;p&gt;Udało mi się zdążyć na Abstrakcyjną Fabrykę Sałatek, która jest zdrowym i bardzo integrującym sposobem na lunch. Miałam też przyjemną rozmowę z Jamesem na temach moich ostatnich osiągnięć i jestem całkiem zadowolona z tego, co udało mi się zdziałać, chociaż nieco zwolniłam przez ostatnie kilka dni.&lt;/p&gt;
+
+&lt;p&gt;Zamiast prezentacji, mieliśmy dzisiaj świetną zabawę grając w &lt;a href=&quot;https://gist.github.com/brilee/debf54541f419e1aacfad9e7a341b7f3&quot;&gt;programistyczne spelling bee&lt;/a&gt;, zaproponowane przez Briana. Programowaliśmy w parach, stojąc plecami do kodu - każde z nas mówiło po jednym znaku i musieliśmy cały czas utrzymywać w pamięci to, jak wygląda kod. Przypominało to improwizację teatralną, ponieważ musieliśmy reagować “tak, i” na to, co powiedziała druga osoba, i próbować zrozumieć, co mieli na myśli. Programowałam z Alicią, która jest moim programistycznym (i trochę też życiowym) superbohaterem.&lt;/p&gt;
+
+&lt;p&gt;Po zabawie mieliśmy targi pracy w RC, co było odmienne od moich wcześniejszych doświadczeń z takimi imprezami. Polegało to głównie na luźnej rozmowie z firmami w niestresującym otoczeniu. Było nieco zbyt głośno, ale udało mi się porozmawiać z:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.harrys.com/&quot;&gt;Harry’s&lt;/a&gt; - firmą produkującą i sprzedającą golarki, z wieloma złożonymi problemami wynikającymi z wertykalnego modelu biznesowego&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.khanacademy.org/&quot;&gt;Khan Academy&lt;/a&gt; - źródłem darmowych kursów online w różnych tematach i obszarach, której głównym celem jest darmowa edukacja dla każdego&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.themuse.com/&quot;&gt;The Muse&lt;/a&gt; - źródłem informacji dotyczących kariery zawodowej i ofert pracy, wspierające poszukujących w znalezieniu a pracodawców w oferowaniu, z wieloma możliwościami rozwoju analizy danych&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.twosigma.com/&quot;&gt;Two Sigma&lt;/a&gt; - zajmująca się zarządzaniem portfolio inwestycyjnym, oparta na researchu i technologii&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reaktor.com/&quot;&gt;Reaktor&lt;/a&gt; - zwinny konsulting technologiczny, usprawniający procesy i wytwarzający oprogramowanie dla klientów&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.uplevelsecurity.com/&quot;&gt;UpLevel&lt;/a&gt; - mała firma zajmująca się bezpieczeństwem cybernetycznym&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ponieważ interesuje mnie przede wszystkim praca zdalna, Khan Academy i Reaktor najbardziej by mi odpowiadały, chociaż większość firm, z którymi rozmawiałam, podziela moje wartości.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 66</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-66.html" rel="alternate" type="text/html" title="RC - dzień 66" /><published>2016-10-22T00:05:31-04:00</published><updated>2016-10-22T00:05:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-66</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-66.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;obejrzałam teoretyczną część warsztatu Jamesa o grafach&lt;/li&gt;
+  &lt;li&gt;poprawiałam szkic posta o programowaniu na żywo&lt;/li&gt;
+  &lt;li&gt;uporządkowałam kreatywne działania i zaplanowałam pisanie&lt;/li&gt;
+  &lt;li&gt;check-out o północy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;James miał kolejny fantastyczny warsztat, tym razem o grafach. Wykręciłam się z ćwiczeń grupowych, ale przynajmniej obejrzałam część teoretyczną i poczytałam o algorytmach przeszukiwania grafów.&lt;/p&gt;
+
+&lt;p&gt;Post na temat sesji kodowania na żywo zajmuje jeszcze więcej czasu, niż oczekiwałam, ponieważ chcę jednocześnie zachować jak najwięcej z pierwotnej esencji i jednocześnie wprowadzić trochę komentarzy z mojej strony. Po kilku godzinach pracowania nad nim, zdecydowałam się uporządkować nieco moje kreatywne działania, przeglądając dotychczasową pisaninę i planując na czym się skupić dalej. Był to też główny temat mojego check-outa o północy, co w porównaniu z tym, ile zrobili Andy, Andrea i Andrew (nie dobraliśmy się w grupie tylko z powodu imion) nie było zbyt imponujące. Niektóre dni nie muszą być tak bardzo produktywne.&lt;/p&gt;
+
+&lt;p&gt;Koty w nowym mieszkaniu są bardzo wymagające. Mam ich aż trzy:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ogromnego, grubaśnego rudzielca, który święcie wierzy, że jest malutkim i uroczym koteczkiem, którego powinnam ciągle głaskać&lt;/li&gt;
+  &lt;li&gt;malutką, rozbrykaną i bardzo ciekawską dziewczynkę w prążki&lt;/li&gt;
+  &lt;li&gt;nieco nieśmiałego czarnulka, który chowa się często pod stołem&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Większość nocy śpię co najmniej w jakiś stopniu pod kotami. Jest to najlepsze mieszkanie, w jakim dotychczas przebywałam w Nowym Jorku, chociaż w powodu alergii rano moje oczy są czerwone jak u królika-albinosa.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_1.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;Jestem słodka i wiem o tym&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_2.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_3.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_3.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_4.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;Siedzenie pod stołem jest najlepszą strategią&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_4.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_5.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;Ogromny rudzielec&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_5.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_6.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_6.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_7.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;Człowiek, gdzie moje jedzenie?&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_7.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_7.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_8.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;Moje!&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_8.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_8.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_9.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;Wkrótce&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_9.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_9.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_10.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;Jestem malutkim kociątkiem&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_10.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_10.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 65</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-65.html" rel="alternate" type="text/html" title="RC - dzień 65" /><published>2016-10-22T00:02:31-04:00</published><updated>2016-10-22T00:02:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-65</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-65.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;pracowałam nad opisaniem na blogu sesji programowania na żywo&lt;/li&gt;
+  &lt;li&gt;poczytałam sporo dokumentacji Zulipa i przejrzałam zgłoszenia poprawek&lt;/li&gt;
+  &lt;li&gt;obejrzałam nietechniczne prezentacje&lt;/li&gt;
+  &lt;li&gt;zaprezentowałam preferencje ekonomiczne przy użyciu emoji&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Wczoraj zgłosiłam się do opisania w formie posta na bloga sesji programowania na żywo, którą Sumana przeprowadziła na Zulipe. Wydawało się to dość prostym zadaniem, ale okazało się dość wymagające. Musiałam się upewnić, że rozumiem jej rozumowanie i kod, żeby móc cokolwiek opisać, choć wydawało mi się oczywiste po pierwszym przeczytaniu, że rozumiem. Nie napisałam tak wiele jak oczekiwałam i jestem daleka od skończenia.&lt;/p&gt;
+
+&lt;p&gt;Aby znowu się nie zniechęcić i czuć, że faktycznie nad czymś popracowałam, poczytałam sporo dokumentacji Zulipa i przejrzałam zgłoszenia poprawek, szukając inspiracji.&lt;/p&gt;
+
+&lt;p&gt;Nietechniczne prezentacje były ciekawe, z moich ulubieńców na dziś:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lushi opowiadała o kungfu, które często jest używane jako ogólny termin na opisywanie chińskich sztuk walki, ale tak naprawdę znaczy celowe praktykowanie umiejętności w długim okresie&lt;/li&gt;
+  &lt;li&gt;Mike przedstawił pół-skecz, pół-prezentację na temat Brexitu&lt;/li&gt;
+  &lt;li&gt;Andrea opowiadała o matematycznej teorii węzłów, co okazało się znacznie bardziej interesujące niż podejrzewałam&lt;/li&gt;
+  &lt;li&gt;Andrew opowiadał o kontrapunkcie w muzyce, podając za przykład niesamowicie złożony i majestatyczny &lt;a href=&quot;https://www.youtube.com/watch?v=iT-ZAAi4UQQ&quot;&gt;Spem in Alium&lt;/a&gt; na 40 głosów, Thomasa Tallisa&lt;/li&gt;
+  &lt;li&gt;Julia opowiadała o &lt;a href=&quot;http://www.tinyurl.com/fundamentalideas&quot;&gt;fundamentalnych konceptach&lt;/a&gt; [EN] i ich znaczeniu dla szybkiego uczenia się&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Moja prezentacja została nagrana i może za jakiś czas znaleźć się publicznie w Internecie.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 64</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-64.html" rel="alternate" type="text/html" title="RC - dzień 64" /><published>2016-10-22T00:01:31-04:00</published><updated>2016-10-22T00:01:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-64</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-64.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;poprawiłam draft mojego zgłoszenia projektów na Outreachy&lt;/li&gt;
+  &lt;li&gt;przeczytałam zgłoszenia wszystkich innych aplikujących do Zulipa&lt;/li&gt;
+  &lt;li&gt;nauczyłam się conta dance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Po intensywnej pracy w weekend, dzisiaj spędziłam czas głównie na poznawaniu pozostałych osób aplikujących do Outreachy w Zulipie i poprawiłam moją wstępną porpozycję projektu kilkakrotnie. Dostałam sporo pozytywnego feedbacku, ale nadal muszę dopracować detale.&lt;/p&gt;
+
+&lt;p&gt;Wieczorem spróbowałam po raz pierwszy &lt;a href=&quot;https://www.wikiwand.com/en/Contra_dance&quot;&gt;contra dance&lt;/a&gt; - amerykańskiego tańca synchronicznego w parach. Było to zaskakująco intensywne i męczące doświadczenie, ale bawiłam się świetnie.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 63</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/17/RC-day-63.html" rel="alternate" type="text/html" title="RC - dzień 63" /><published>2016-10-17T06:42:31-04:00</published><updated>2016-10-17T06:42:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/17/RC-day-63</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/17/RC-day-63.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;moja propozycja funkcjonalności została wdrożona do Zulipa&lt;/li&gt;
@@ -86,7 +246,7 @@
   &lt;li&gt;Stefanie skupiła się na &lt;a href=&quot;https://codeascraft.com/2016/09/06/api-first-transformation-at-etsy-concurrency/&quot;&gt;infrastrukturze API-first w Etsy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Jedną z najlepszych atrakcji wieczoru była foto budka, którą intensywnie i grupowo użytkowaliśmy. Mam nadzieję wrzucić więcej zdjęć później, na razie można podziwiać jedynie Michelle i mnie.&lt;/p&gt;
+&lt;p&gt;Jedną z najlepszych atrakcji wieczoru była foto budka, którą intensywnie i grupowo użytkowaliśmy.&lt;/p&gt;
 
 &lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
 
@@ -104,6 +264,48 @@
   &lt;/a&gt;
 &lt;/div&gt;
 
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_main_3.jpg&quot; data-lightbox=&quot;bonding/etsy&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;etsy_main_3.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_main_4.jpg&quot; data-lightbox=&quot;bonding/etsy&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;etsy_main_4.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_main_5.jpg&quot; data-lightbox=&quot;bonding/etsy&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;etsy_main_5.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_main_6.jpg&quot; data-lightbox=&quot;bonding/etsy&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;etsy_main_6.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_main_7.jpg&quot; data-lightbox=&quot;bonding/etsy&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_thumb_7.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;etsy_main_7.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_main_8.jpg&quot; data-lightbox=&quot;bonding/etsy&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_thumb_8.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;etsy_main_8.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_main_9.jpg&quot; data-lightbox=&quot;bonding/etsy&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/etsy/etsy_thumb_9.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;etsy_main_9.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
 &lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 59</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/13/RC-day-59.html" rel="alternate" type="text/html" title="RC - dzień 59" /><published>2016-10-13T04:34:31-04:00</published><updated>2016-10-13T04:34:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/13/RC-day-59</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/13/RC-day-59.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -116,140 +318,4 @@
 
 &lt;p&gt;Po odpowiednio długim odpoczynku, skupiłam się dzisiaj na planowaniu i szkicowaniu mojej aplikacji do Outreachy. Przygotowałam też krótką prezentację na temat skonsolidowanych systemów relacji preferencji na wtorkowy nietechniczny wieczór, co może brzmieć nieco onieśmielająco, ale postaram się przedstawić w lekki i zabawny sposób.&lt;/p&gt;
 
-&lt;p&gt;Poza tym ulepszałam moje CV i zastanawiałam się nad moimi oczekiwaniami wobec potencjalnych pracodawców na przyszłotygodniowe targi pracy. Ponieważ termin składania aplikacji na Outreachy jest w nadchodzący poniedziałek, raczej nie będę nad niczym innym pracować. Szczególnie, kiedy tak wiele dzieje się w RC w ciągu kilku kolejnych dni - jutro spotkanie w Etsy, w piątek przygotowanie do rozmów kwalifikacyjnych, tworzenie profilu zawodowego na wewnętrznym portalu RC, klub bloggerów i wieczór improwizacji teatralnej, a w poniedziałek uczymy się &lt;a href=&quot;https://www.wikiwand.com/en/Contra_dance&quot;&gt;kontredansu&lt;/a&gt; [EN].&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 58</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/12/RC-day-58.html" rel="alternate" type="text/html" title="RC - dzień 58" /><published>2016-10-12T19:01:31-04:00</published><updated>2016-10-12T19:01:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/12/RC-day-58</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/12/RC-day-58.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;opublikowałam moją propozycję funkcjonalności do Zulipa&lt;/li&gt;
-  &lt;li&gt;przetestowałam dwie amerykańskie jadłodajnie&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Wyszliśmy dzisiaj z RC o 10 rano, po całej nocy programowania i uczenia się. Wydaje mi się, że mój zegar biologiczny zupełnie się rozregulował, tak samo zresztą jak umiejętność zaśnięcia w każdym momencie, niezależnie od otoczenia - nigdy nie doceniałam jej wystarczająco. Zamiast odpowiednio odpocząć, próbowałam i zrezygnowałam z obejrzenia drugiej debaty prezydenckiej. Spędziłam większość pierwszej połowy dnia pół śpiąc, pół czytając różne przypadkowe artykuły w Internecie (z których co najmniej część może być w przyszłości przydatna).&lt;/p&gt;
-
-&lt;p&gt;Ostatnie dwa dni zlały się mieszaninę programowania i uczenia się, kontrapunktowaną co jakiś czas drzemkami, spędzoną z minimalną ilością ludzkiego kontaktu. Zamiast wybrać się do RC po południu, spotkałam się Cihanem w jadłodajni niedaleko mojego obecnego mieszkania. Popchnął mnie do skończenia mojej funkcjonalności w obecnej formie, bez zamartwiania się perfekcjonizmem. Lepiej wcześnie i niedoskonale, niż idealnie i po terminie.&lt;/p&gt;
-
-&lt;p&gt;Oczywiście, nie posłuchałam go całkowicie i byłam tak przerażona myślą, że testy mogą nie przechodzić, że przypadkiem odkryłam potencjalny błąd w testach w kodzie produkcyjnym Zulipa, który z jakiegoś powodu występuje tylko na mojej lokalnej instancji. Na szczęście okazało się to niezależne od moich zmian i spędziłam kilka godzin próbując dojść do tego, gdzie leży problem, i przekazać odpowiednie informacje zespołowi Zulipa, co było dobrą okazją do nauki.&lt;/p&gt;
-
-&lt;p&gt;W końcu opublikowałam moją &lt;a href=&quot;https://github.com/zulip/zulip/pull/1983&quot;&gt;propozycję funkcjonalności&lt;/a&gt; w okolicach 4 rano, po sprawdzeniu i cyzelowaniu kodu oraz wyjaśnień. Mam nadzieję, że z czasem będę bardziej pewna siebie przy pracowaniu nad otwartym oprogramowaniem i znacznie mniej czasu będę spędzała na byciu przerażoną, że zmarnuję czyjś czas, a znaczenie więcej na jakości kontrybucji. Myślę, że wymaga to otworzenia jeszcze co najmniej kilku pull requestów.&lt;/p&gt;
-
-&lt;p&gt;W ciągu ostatniej doby udało mi się też zajść do dwóch różnych jadłodajni - jednej bardzo stylowej (i odpowiednio drogiej) oraz jednej jak z amerykańskich filmów. Obie były interesujące i czułam się nieco jak bohaterka hollywoodzkiej produkcji (albo chociaż drugo-/trzecio-/czwartoplanowa postać wspierająca w Pulp Fiction). Koktajle mleczne. Potrzebuję więcej koktajli mlecznych w złe dni (co zostanie zrównoważone w mojej diecie zmniejszoną liczbą złych dni w wyniku zwiększenia w niej udziału koktajli mlecznych).&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 57</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/12/RC-day-57.html" rel="alternate" type="text/html" title="RC - dzień 57" /><published>2016-10-12T17:31:31-04:00</published><updated>2016-10-12T17:31:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/12/RC-day-57</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/12/RC-day-57.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;wygrzebanie się z epizodu syndromu oszusta&lt;/li&gt;
-  &lt;li&gt;nauczenie się wiele na temat kodu Zulipa&lt;/li&gt;
-  &lt;li&gt;nauczenie się jeszcze więcej o procesie deweloperskim&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Bardzo trudno było mi dzisiaj zacząć pracę nad moją aplikacją do Outreachy. Proces uczenia się, jak działa Zulip, gdzie wpasowuje się w niego mój wkład i jak w ogóle mogę przyczynić się do ulepszenia dużego projektu, z którego korzysta wiele osób, zajął sporo czasu i był trudny. W którymś momencie poczułam, że i tak niewiele osiągnę, więc powinnam przestać udawać i dać szansę innym, bardziej pracowitym, utalentowanym i mądrzejszym ode mnie.&lt;/p&gt;
-
-&lt;p&gt;Zorientowałam się, że dopadł mnie ciężki przypadek &lt;a href=&quot;https://www.wikiwand.com/pl/Syndrom_oszusta&quot;&gt;syndromu oszusta&lt;/a&gt; i było to dla mnie dość zaskakujące. Dostałam się do RC - programistycznej Nibylandii, gdzie wszystko jest możliwe a porażki są sposobem na uczenie się. Gdzie ludzie są zmotywowani i budują środowisko do rozwoju, które jest otwarte dla wszystkich i zapraszające. Mimo to udało mi się samą siebie podświadomie przekonać, że tutaj nie pasuję. Że zmarnowałam dużo czasu przez ostatnie kilka lat (szczególnie czasu innych) i cały mój potencjał i wysiłki idą na marne.&lt;/p&gt;
-
-&lt;p&gt;Znacznie łatwiej jest rozmawiać o i dzielić się tym, czego jestem pewna. Moje programowanie idzie w dobrym kierunku, ale zajmie jeszcze kilka lat, zanim zacznę się czuć w nim tak pewnie jak w pisaniu czy okołobiznesowych tematach. A może to nawet nigdy nie nastąpić, ponieważ otoczenie stale się zmienia i wysiłek potrzebny do uczenia się ciągle nowych rzeczy, żeby móc pozostać wartościowym członkiem społeczności, jest nieporównywalny z wieloma innymi zawodami.&lt;/p&gt;
-
-&lt;p&gt;Żeby się rozwijać, trzeba mieć wsparcie. Jestem szczęściarą, bo mam wielu przyjaciół i znajomych, którym na mnie zależy i wiedzą, kiedy popchnąć mnie w odpowiednim kierunku. Cihan po raz kolejny zmotywował mnie do pracy i programowaliśmy razem całą noc. Nie skończyłam jeszcze mojej funkcjonalności, ale nauczyłam się sporo po drodze i zaczęłam znowu czuć się pewna siebie.&lt;/p&gt;
-
-&lt;p&gt;Jedynym ryzykiem jest teraz przesadny perfekcjonizm, jak niedorzecznie by to nie brzmiało. Nie chciałabym marnować czyjegoś czasu na niegotową funkcjonalność, więc będę nad nią więcej pracować i spróbuję się zmusić do opublikowania jej do końca środy.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 56</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/10/RC-day-56.html" rel="alternate" type="text/html" title="RC - dzień 56" /><published>2016-10-10T01:47:31-04:00</published><updated>2016-10-10T01:47:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/10/RC-day-56</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/10/RC-day-56.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;zajęcia z improwizacji teatralnej&lt;/li&gt;
-  &lt;li&gt;wspólne programowanie z Cihanem&lt;/li&gt;
-  &lt;li&gt;nauczenie się, jak poprawnie używać profilera&lt;/li&gt;
-  &lt;li&gt;częściowe oglądanie debaty&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Nowojorskie metro to czasem ćwiczenie cierpliwości - dojazd, który powinien zająć 45 minut, potrafi wyssać półtorej godziny z życia i nie ma przed tym ucieczki. Na szczęście, ponieważ nie mam zbyt wiele czasu na czytanie w RC, najczęściej spędzam czas całkiem przyjemnie nadrabiając czytelnicze zaległości.&lt;/p&gt;
-
-&lt;p&gt;Poszłam na darmowe zajęcia z improwizacji teatralnej do &lt;a href=&quot;http://www.magnettheater.com/&quot;&gt;Magnet Theater&lt;/a&gt;, co było wspaniałym doświadczeniem. Nastawienie “tak i” jest czymś, czego każdy potrzebuje doświadczyć. Chodzi przede wszystkim o świadomą komunikację z innymi i budowanie na podstawie tego, co oni stworzyli, jednocześnie świetnie się bawiąc. Poczytałam dzisiaj sporo na ten temat i zastanawiam się nad znalezieniem podobnych doświadczeń już po powrocie do domu. Być może napiszę więcej na ten temat, ale ponieważ trudno ubrać to w słowa (i termin aplikacji na Outreachy zbliża się wielkimi krokami), tutaj jest &lt;a href=&quot;http://www.humorthatworks.com/learning/10-life-tips-from-improv-class/&quot;&gt;przedsmak&lt;/a&gt; [EN].&lt;/p&gt;
-
-&lt;p&gt;Próbowałam obejrzeć całą debatę kandydatów na prezydenta USA, ale ponieważ była dość powtarzalna i podobna do tego, czego już się naczytałam i naooglądałam w mediach, skupienie się na algorytmach brzmiało jak pożyteczniejsze spędzenie mojego czasu. Cihan pomógł mi i wspólnie zaprogramowaliśmy algorytm &lt;a href=&quot;https://www.wikiwand.com/pl/Sortowanie_przez_scalanie&quot;&gt;sortowania przez scalanie&lt;/a&gt; na potrzeby mojego kursu. Przeszłam przez etap wyjaśniania podejścia, pierwszej szybkiej implementacji z czasem przebiegu 35 sekund i poprawienia go przy wsparciu profilera do &lt;a href=&quot;https://gist.github.com/trueskawka/a4eab263a12cbec381ef8412b56b2d9a&quot;&gt;mniej niż 2 sekund&lt;/a&gt;. Nadal chcę przejrzeć debatę, żeby zrozumieć, o czym rozmawiają wszyscy wokół, ale na całe szczęście nie jest to na mojej liście priorytetów.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 55</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/09/RC-day-55.html" rel="alternate" type="text/html" title="RC - dzień 55" /><published>2016-10-09T23:57:31-04:00</published><updated>2016-10-09T23:57:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/09/RC-day-55</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/09/RC-day-55.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;warsztat przedsiębiorczości&lt;/li&gt;
-  &lt;li&gt;zabawa z algorytmami&lt;/li&gt;
-  &lt;li&gt;kolacja w karczmie&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Warsztat przedsiębiorczości Paula zajął większość dnia, od 10:30 do 17:30, chociaż zrejterowałam już w okolicach 16:30, żeby popracować nad algorytmami. Czułam, że nie zrobiłam zbyt wiele przez większość dnia, więc trochę ćwiczeń i łamigłówek pomogło mi w byciu nieco lepszym programistą.&lt;/p&gt;
-
-&lt;p&gt;Wieczorem Cihan, Joe i ja wybraliśmy się na kolację do polskiej restauracji na Greenpoincie. Było miło wreszcie być przewodnikiem po mojej kulturze i miło mnie zaskoczyło, jak bardzo im wszystko smakowało, szczególnie chleb ze smalcem. Po długim wieczorze zajadania się niemal do przesady, pojechałam do mieszkania i przespałam ponad 10 godzin.&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_1.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;Zdjęcie Joe robiącego zdjęcie jedzeniu&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_1.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_2.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;Smalec i ogórki kiszone&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_2.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_3.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;Zadowolony Cihan&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_3.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_4.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;To miała być porcja dla trzech osób&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_4.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_5.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;Resztki popakowane w pudełka podpisane przez Cihana&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_5.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_main_6.jpg&quot; data-lightbox=&quot;bonding/polish&quot; data-title=&quot;Carroll Street - stacja metra&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/polish/polish_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;polish_main_6.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 54</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/07/RC-day-54.html" rel="alternate" type="text/html" title="RC - dzień 54" /><published>2016-10-07T23:21:31-04:00</published><updated>2016-10-07T23:21:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/07/RC-day-54</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/07/RC-day-54.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;próbne rozmnowy kwalifikacyjne&lt;/li&gt;
-  &lt;li&gt;praca nad kontrybucją do Zulipa&lt;/li&gt;
-  &lt;li&gt;pisanie&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Wiadomość dnia: &lt;strong&gt;córeczka Evy i Shawna się urodziła!&lt;/strong&gt; Odwiedzę ich w przyszłym tygodniu, żeby zalać ich ciepłem i zrobić milion zdjęć.&lt;/p&gt;
-
-&lt;p&gt;Poza tym nie działo się nic istotnego. Poprowadziłam sesję próbnych behawioralnych rozmów kwalifikacyjnych i algorytmiczną. Zawsze mnie zadziwia, na jak różne sposoby różne osoby podchodzą do tych samych problemów.&lt;/p&gt;
-
-&lt;p&gt;Pracowałam nad kontrybucją do Zulipa, bawiąc się testami i sprawdzając, co nie działa. Dzisiejsza pisanina nie jest jeszcze gotowa do opublikowania, ale trochę długo oczekiwanych postów ma swoje pierwsze szkice i może się niedługo pojawić na blogu (nie chcę określać terminu, bo Outreachy ma obecnie priorytet).&lt;/p&gt;
-
-&lt;p&gt;Spróbowaliśmy też dzisiaj &lt;a href=&quot;http://ny.eater.com/2016/9/26/13060344/taiyaki-nyc-fish-cone-soft-serve&quot;&gt;lodów w rybkowym rożku&lt;/a&gt; (japoński przysmak &lt;em&gt;taiyaki&lt;/em&gt;). Rybka to gofr wypełniony słodkim kremem jajecznym i mogłabym ją zjeść ze smakiem nawet bez lodów.&lt;/p&gt;
-
-&lt;p&gt;Jakiś czas temu znalazłam nowe mieszkanie przy Canal Street (ok. 20 minut spacerkiem od RC), co poskutkowało użyciem nowej Platformy Tańca Zwycięstwa (stworzonej przez Deniz) - wydzielonego kawałka podłogi do tańczenia z radości. Jest to dość miły sposób na dzielenie się zadowoleniem, ale najprawdopodobniej nigdy więcej tego nie zrobię - w przestrzeni było wiele osób i zaczęli klaskać, jak tylko zaczęłam tańczyć. Przerażające doświadczenie.&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/d54/d54_main_1.jpg&quot; data-lightbox=&quot;other/d54&quot; data-title=&quot;Próbując opisać lody&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/d54/d54_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;d54_main_1.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/d54/d54_main_2.jpg&quot; data-lightbox=&quot;other/d54&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/d54/d54_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;d54_main_2.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/d54/d54_main_3.jpg&quot; data-lightbox=&quot;other/d54&quot; data-title=&quot;Platforma Tańca Zwycięstwa&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/d54/d54_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;d54_main_3.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
+&lt;p&gt;Poza tym ulepszałam moje CV i zastanawiałam się nad moimi oczekiwaniami wobec potencjalnych pracodawców na przyszłotygodniowe targi pracy. Ponieważ termin składania aplikacji na Outreachy jest w nadchodzący poniedziałek, raczej nie będę nad niczym innym pracować. Szczególnie, kiedy tak wiele dzieje się w RC w ciągu kilku kolejnych dni - jutro spotkanie w Etsy, w piątek przygotowanie do rozmów kwalifikacyjnych, tworzenie profilu zawodowego na wewnętrznym portalu RC, klub bloggerów i wieczór improwizacji teatralnej, a w poniedziałek uczymy się &lt;a href=&quot;https://www.wikiwand.com/en/Contra_dance&quot;&gt;kontredansu&lt;/a&gt; [EN].&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
