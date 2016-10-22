@@ -1,44 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-22T00:32:17-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 67</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-67.html" rel="alternate" type="text/html" title="RC - day 67" /><published>2016-10-22T00:21:31-04:00</published><updated>2016-10-22T00:21:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-67</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-67.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;algorithm prep&lt;/li&gt;
-  &lt;li&gt;reading a few essays in Making Software&lt;/li&gt;
-  &lt;li&gt;learning a lot about DDoS attacks&lt;/li&gt;
-  &lt;li&gt;working on some Zulip features&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I wanted to be more productive today, but my cunning plan for fixing the sleep schedule didn’t work and I’ve been more tired than usual. That being said, I’ve managed to have a good algorithm prep session with Andrew and Deniz, learning a lot from their problem solving skills and great feedback from Noah.&lt;/p&gt;
-
-&lt;p&gt;The Internet was down, or at least it seemed so. There was a massive &lt;a href=&quot;https://www.wikiwand.com/en/Denial-of-service_attack&quot;&gt;Distributed Denial of Service attack&lt;/a&gt; on a DNS service Dyn, which caused a lot of confusion and seemed like a good reason to have a snow day. Dan saved the day (ruining my procrastination plans) by suggesting using &lt;a href=&quot;https://support.opendns.com/hc/en-us/articles/227987767-Dynamic-IP-Addresses-Technical-Detail-and-FAQ&quot;&gt;OpenDNS&lt;/a&gt;. I’ve ended up reading a lot about DDoS attacks and especially the potential role of the Internet of Things in the recent incident.&lt;/p&gt;
-
-&lt;p&gt;Other than that, I’ve read a few essays from a book Sumana recommended - &lt;a href=&quot;http://shop.oreilly.com/product/9780596808303.do&quot;&gt;Making Software&lt;/a&gt; - and spent some time playing with Zulip features, at least one of which I want to finish by the end of the weekend.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 66</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-66.html" rel="alternate" type="text/html" title="RC - day 66" /><published>2016-10-22T00:05:31-04:00</published><updated>2016-10-22T00:05:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-66</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-66.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;wrote a blog post on the live coding session&lt;/li&gt;
-  &lt;li&gt;Abstract Salad Factory&lt;/li&gt;
-  &lt;li&gt;one-on-one with James&lt;/li&gt;
-  &lt;li&gt;took part in spelling bee&lt;/li&gt;
-  &lt;li&gt;job fair&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In an attempt to fix my sleep schedule, I haven’t slept all night and spent in writing drafts on various topics. I’ve finally finished my blog post on Sumana’s &lt;a href=&quot;https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing.html&quot;&gt;live coding session&lt;/a&gt;, which I posted later in the day after approval from all parties involved.&lt;/p&gt;
-
-&lt;p&gt;I’ve made it on time for the Abstract Salad Factory, which is a healthy and social way to get  lunch. I’ve also had a good chat with James on my recent endeavors and am generally very happy with my recent results, although I’ve slowed down a bit in the last few days.&lt;/p&gt;
-
-&lt;p&gt;Instead of community presentations, we’ve had great fun with &lt;a href=&quot;https://gist.github.com/brilee/debf54541f419e1aacfad9e7a341b7f3&quot;&gt;programming spelling bee&lt;/a&gt; proposed by Brian. We coded in pairs, with our backs to the code and ping-ponging the program while saying a single character at a time. It was a lot like improv, since we’ve had to “yes, and” whatever the other person was saying and understanding what the other person meant was sometimes challenging. I’ve paired with Alicia, who is one of my superheroes.&lt;/p&gt;
-
-&lt;p&gt;After the spelling bee, we’ve had a job fair in the space, which was very different from my previous experience with such events. It was all about chatting with the companies in a non-stressful way. The space got a bit loud, but I’ve managed to talk to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.harrys.com/&quot;&gt;Harry’s&lt;/a&gt; - a razor manufacturer and retailer, with a lot of big and furry problems coming with the vertical business model&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.khanacademy.org/&quot;&gt;Khan Academy&lt;/a&gt; - a source of free online courses on multiple topics and areas, with the goal of providing free education to anyone, anytime&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.themuse.com/&quot;&gt;The Muse&lt;/a&gt; - an online career resource, fostering job opportunities and career advice, with a lot of interesting data science opportunities&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.twosigma.com/&quot;&gt;Two Sigma&lt;/a&gt; - an investment management company heavily grounded in research and technology&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reaktor.com/&quot;&gt;Reaktor&lt;/a&gt; - an agile tech consultancy, improving processes and building technology for their clients&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.uplevelsecurity.com/&quot;&gt;UpLevel&lt;/a&gt; - a small cybersecurity start-up&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As I’m mostly interested in remote opportunities, Khan Academy and Reaktor seemed like the best options for me, although most of the companies I’ve talked to seem to be a pretty good cultural fit.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>Learning by observing</title><link href="https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing.html" rel="alternate" type="text/html" title="Learning by observing" /><published>2016-10-20T15:48:00-04:00</published><updated>2016-10-20T15:48:00-04:00</updated><id>https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing</id><content type="html" xml:base="https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing.html">&lt;p&gt;Recently I’ve had the pleasure of seeing &lt;a href=&quot;https://www.harihareswara.net/&quot;&gt;Sumana Harihareswara&lt;/a&gt; live documenting &lt;a href=&quot;https://zulip.tabbott.net/#narrow/stream/test.20suites/topic/watch.20over.20my.20shoulder.20as.20I.20improve.20the.20linter&quot;&gt;a coding adventure&lt;/a&gt; on Zulip. As I wanted to learn even more from this experience, I’ve reread it and tried to break it into high level activities.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-22T00:32:50-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>Learning by observing</title><link href="https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing.html" rel="alternate" type="text/html" title="Learning by observing" /><published>2016-10-20T15:48:00-04:00</published><updated>2016-10-20T15:48:00-04:00</updated><id>https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing</id><content type="html" xml:base="https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing.html">&lt;p&gt;Recently I’ve had the pleasure of seeing &lt;a href=&quot;https://www.harihareswara.net/&quot;&gt;Sumana Harihareswara&lt;/a&gt; live documenting &lt;a href=&quot;https://zulip.tabbott.net/#narrow/stream/test.20suites/topic/watch.20over.20my.20shoulder.20as.20I.20improve.20the.20linter&quot;&gt;a coding adventure&lt;/a&gt; on Zulip. As I wanted to learn even more from this experience, I’ve reread it and tried to break it into high level activities.&lt;/p&gt;
 
 &lt;h4 id=&quot;disclaimer&quot;&gt;Disclaimer&lt;/h4&gt;
 &lt;p&gt;The following text is a rephrasing of a live-coding session. If you find any smart, hilarious and generally great quotes - those are Sumana’s words when not directly attributed and Steve’s or Tim’s words for the appropriate dramatis persona.&lt;/p&gt;
@@ -805,4 +765,35 @@ Date:   Thu Apr 14 10:48:30 2016 -0700
 
 &lt;p&gt;After having some much needed rest, I’ve focused on planning and drafting my application for Outreachy. I’ve also created a short presentation on consolidated systems of preference relations for Tuesday’s non-technical talks, which may sound intimidating, but I hope to present it in a light and fun way.&lt;/p&gt;
 
-&lt;p&gt;Other than that, I’ve been working on my resume and expectations for next week’s job fairs. Since Outreachy deadline for applications is the upcoming Monday, I might just restrain from any other work. Especially since so much is happening at RC in the upcoming days - a meet-up at Etsy, interview prep, jobs profile building workshop, blog club, improv night and a &lt;a href=&quot;https://www.wikiwand.com/en/Contra_dance&quot;&gt;contra dance&lt;/a&gt; evening.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+&lt;p&gt;Other than that, I’ve been working on my resume and expectations for next week’s job fairs. Since Outreachy deadline for applications is the upcoming Monday, I might just restrain from any other work. Especially since so much is happening at RC in the upcoming days - a meet-up at Etsy, interview prep, jobs profile building workshop, blog club, improv night and a &lt;a href=&quot;https://www.wikiwand.com/en/Contra_dance&quot;&gt;contra dance&lt;/a&gt; evening.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 58</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/12/RC-day-58.html" rel="alternate" type="text/html" title="RC - day 58" /><published>2016-10-12T19:01:31-04:00</published><updated>2016-10-12T19:01:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/12/RC-day-58</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/12/RC-day-58.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;submitted my pull request to Zulip&lt;/li&gt;
+  &lt;li&gt;had two different American diner experiences&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We left RC at 10am today, after all night of coding and learning. I think my internal clock is completely broken by now and so is my ability to fall asleep in an instant, I’ve never cherished enough over the years. Instead of getting some much needed rest, I’ve tried and failed to watch the presidential debate and spent most of the first half of day napping between periods of reading random stuff on the Internet (some of which may be potentially useful in the future).&lt;/p&gt;
+
+&lt;p&gt;The last two days blurred into one long nap-counterpointed misc of programming and learning, with barely any socializing. Instead of going to RC in the afternoon, I met up with Cihan in a diner in Astoria. He pushed me into finishing my PR as-is, without worrying too much about it being perfect. Better early and flawed than perfect and late.&lt;/p&gt;
+
+&lt;p&gt;Of course, I didn’t listen to him enough and was so paranoid about all tests passing all the time, I might’ve discovered a minor bug in the test suite, that made my local version of Zulip not pass the tests randomly. It turned out to be an issue unrelated to any of my changes and I’ve spend a few hours trying to figure it out and communicate the problem to Zulip team, which was a good learning experience.&lt;/p&gt;
+
+&lt;p&gt;Finally, I’ve submitted &lt;a href=&quot;https://github.com/zulip/zulip/pull/1983&quot;&gt;my PR&lt;/a&gt; around 4am, after checking and re-checking the code and accompanying messages for about three hours. I hope the more confident I get with open source, the less time I’ll spend on being terrified of wasting others’ time and more focused on the code quality, but I think the next few contributions are going to still be stressful.&lt;/p&gt;
+
+&lt;p&gt;In the past 24 hours I’ve tried two different American diners - one very stylish (priced accordingly) and one very American-movieish. Both were fun and I felt a bit like a movie-star (or at least a supporting character/innocent bystander in Pulp Fiction). Also, milkshakes. A girl needs to have more of those on bad days (which will be evened out in my diet by less and less bad days over time due to more milkshakes).&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 57</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/12/RC-day-57.html" rel="alternate" type="text/html" title="RC - day 57" /><published>2016-10-12T17:31:31-04:00</published><updated>2016-10-12T17:31:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/12/RC-day-57</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/12/RC-day-57.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;snapped out of an impostor syndrome episode&lt;/li&gt;
+  &lt;li&gt;learned a lot about the codebase of Zulip&lt;/li&gt;
+  &lt;li&gt;learned even more about the development process&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It was very hard to start working on my Outreachy application on Tuesday. The process of learning how Zulip works, where my PR fits in the codebase and how am I to contribute something meaningful to a big project a lot of people use, was time-consuming and a bit intimidating. At some point I felt I’m not going to achieve much and should just stop pretending, giving a way in for other, more focused, talented and generally smarter people.&lt;/p&gt;
+
+&lt;p&gt;I’ve realised I have a severe case of the &lt;a href=&quot;https://www.wikiwand.com/en/Impostor_syndrome&quot;&gt;impostor syndrome&lt;/a&gt; and it was surprising for me. I got into RC - the programming Neverland, where everything is possible and failing is learning. Where people are self-motivated and curate a growth environment, that’s welcoming and non-intimidating. Even so, I’ve managed to convince myself subconsciously I don’t belong here. That I’ve wasted so much time over the years (especially other people’s time) and all my potential and learning is going to waste.&lt;/p&gt;
+
+&lt;p&gt;It’s much easier to talk and share things I feel confident about. My programming is going in the right direction, but it will take years for me to feel as confident as I am with my writing or business skills. And it might never even come to that, since the environment is constantly changing and the amount of learning required to stay on the top of my ability might be incomparable to most other settings.&lt;/p&gt;
+
+&lt;p&gt;It takes a village to grow. I am lucky enough to have friends that care about me and know when I need a nudge in the right direction. Cihan was there again to intimidate me into working and we’ve work together all night. I didn’t finish the pull request, but I’ve learned a lot on the way and started feeling confident again.&lt;/p&gt;
+
+&lt;p&gt;Now I think am at risk of being too much of a perfectionist, as ridiculous as it may sounds. I’m afraid of wasting someone’s time on a feature that’s not completely finished, so I’ll work on it more and try to push myself to share it by the end of the day on Wednesday.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
