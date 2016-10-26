@@ -1,4 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-25T02:54:50-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 70</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/25/RC-day-70.html" rel="alternate" type="text/html" title="RC - dzień 70" /><published>2016-10-25T02:21:31-04:00</published><updated>2016-10-25T02:21:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/25/RC-day-70</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/25/RC-day-70.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-26T03:54:30-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 72</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/26/RC-day-72.html" rel="alternate" type="text/html" title="RC - dzień 72" /><published>2016-10-26T03:23:31-04:00</published><updated>2016-10-26T03:23:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/26/RC-day-72</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/26/RC-day-72.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;spotkałam maleństwo po raz pierwszy!&lt;/li&gt;
+  &lt;li&gt;miałam miłą rozmowę z Nancy&lt;/li&gt;
+  &lt;li&gt;miałam produktywną rozmowę z Leah&lt;/li&gt;
+  &lt;li&gt;moje kolejne zmiany do Zulipa zostały wdrożone&lt;/li&gt;
+  &lt;li&gt;zaczęłam bawić się nieco interaktywną fikcją&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Wydarzenie dnia - spotkałam dzisiaj najmłodszego członka rodziny. Spokojnie mnie obserwowała, wygodnie umościwszy się w moich ramionach. Zapomniałam już, jak tycie są takie maluszki.&lt;/p&gt;
+
+&lt;p&gt;Prawie udało mi się dzisiaj wygrzebać z problemów ze snem, ale alergie zatrzymały mnie niestety na dłużej w mieszkaniu. Dzień zaczęłam więc dość późno i obawiałam się, że nie wykonam większości zaplanowanych działań, ale na szczęście udało się wszystko zrobić - z &lt;a href=&quot;https://www.youtube.com/watch?v=0_7OZNUVyec&quot;&gt;pomocą dobrych znajomych&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Miałam przyjemną rozmowę z Nancy o kolejnych krokach w mojej karierze i zgodziła się ze mną, że Outreachy jest dobrym sposobem na zdobycie programistycznego i zdalnego doświadczenia, którego potrzebuję. Mogę się też skupić na pomaganiu innym w trakcie czwartkowych targów pracy, bo żadna z firm, które się zgłosiły, nie ma raczej propozycji dla zdalnych pracowników. Myślę o tym, żeby zadawać te pytania, na które nikt nigdy nie ma ochoty, bo nie zaszkodzi mi to w żaden sposób w oczach potencjalnych pracodawców.&lt;/p&gt;
+
+&lt;p&gt;Leah bardzo mi pomogła w przemyśleniu mojej aplikacji na Outreachy i zasugerowała bardzo sensowne zmiany do sposobu prowadzenia narracji. Jej uwagi były inspirujące i chcę je wprowadzić przez weekend, żebym miała jeszcze chwilę na poprawki przed ostatecznym terminem.&lt;/p&gt;
+
+&lt;p&gt;Chciałam wprowadzić nieco więcej zmian do Zulipa na raz, ale Tim zasugerował, że powinnam się najpierw skupić na tej części, która jest potrzebna do pracy nad zmianą wyglądu aplikacji w najbliższym czasie. Moje mini zmiany zostały już wdrożone, więc do końca tygodnia mam nadzieję wprowadzić ich jeszcze trochę, żeby zapewnić pełną atomizację CSSa w aplikacji. Pozwoli to na pracowanie nad różnymi częściami jej wyglądu bez ryzyka zmiany w nieodpowiednich miejscach.&lt;/p&gt;
+
+&lt;p&gt;Zaczęłam też korzystać z książki, którą wczoraj kupiłam, i bawiłam się z interaktywną fikcją przez dwie godziny. Nie sądziłam, że będzie to tak przyjemne, a jednocześnie z dużą dawką czarnego humoru. To może być idealny sposób dla mnie do pisania dłuższych form, bo od kilku lat nie napisałam nic dłuższego niż opowiadanie. Jedyny problem, jaki teraz widzę, to tłumaczenia, ale ponieważ będę się uczyć coraz więcej o narzędziach i samym procesie, na pewno wymyślę odpowiedni sposób ułatwienia sobie życia i w tym zakresie.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 71</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/26/RC-day-71.html" rel="alternate" type="text/html" title="RC - dzień 71" /><published>2016-10-26T03:15:31-04:00</published><updated>2016-10-26T03:15:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/26/RC-day-71</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/26/RC-day-71.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;kupiłam książkę o interaktywnej fikcji&lt;/li&gt;
+  &lt;li&gt;pracowałam nad powiadomieniem do Zulipa&lt;/li&gt;
+  &lt;li&gt;przeczytałam dyskusję innych Recurserów na temat niepoddawania się&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dzisiaj byłam nieco rozkojarzona, bo powolny weekend nie pomógł wystarczająco z niewyspaniem połączonym z alergiami, więc skupiłam się na utrzymaniu się na dobrej drodze. Popracowałam nieco nad Zulipem, głównie czytając dokumentację i tworząc podstawy do powiadomienia o wyciszonych wątkach, ale nie udało mi się niczego skończyć. Wieczorem poszłam na długi spacer do Barnes &amp;amp; Noble, bo nie mogłam przestać myśleć o książce na temat interaktywnej fikcji - &lt;a href=&quot;https://www.amazon.com/Writing-Interactive-Fiction-Twine-Melissa/dp/0789756641&quot;&gt;Writing Interactive Fiction with Twine&lt;/a&gt; - którą koniec końców sobie kupiłam.&lt;/p&gt;
+
+&lt;p&gt;Poza tym dostałam sporą dawkę inspiracji od Recurserów omawiających ich próby dostania się do RC po odmowie - czasem więcej, niż jednej. Są tutaj więc nie tylko niesamowicie zdolni i inteligentni ludzie, ale także bardzo wytrwali i skupieni na rozwoju. Ktoś zasugerował, żeby napisali na ten temat serię postów na bloga i jest to coś, co na pewno chętnie przeczytam.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 70</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/25/RC-day-70.html" rel="alternate" type="text/html" title="RC - dzień 70" /><published>2016-10-25T02:21:31-04:00</published><updated>2016-10-25T02:21:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/25/RC-day-70</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/25/RC-day-70.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;obejrzałam nowy sezon Black Mirror&lt;/li&gt;
@@ -295,47 +325,4 @@
   &lt;li&gt;starym artykule z FreeCodeCamp o &lt;a href=&quot;https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2#.qvb564jid&quot;&gt;znajdywaniu czasu na rozwjanie się jako programista&lt;/a&gt; [EN]&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Miałam też sporo inspiracji czytając listę &lt;a href=&quot;http://danluu.com/programming-books/&quot;&gt;książek prograistycznych, które może rozważysz przeczytać&lt;/a&gt; stworzoną przez Dana, lub, jak ja bym to nazwała, &lt;em&gt;listę książek programistycznych, którą być może będziesz miał ochotę przejrzeć mając nieco, ale nie przesadnie dużo, wolnego czasu, jeżeli tylko mógłbyś być na tyle zainteresowany, żeby w ogóle się nią przejmować&lt;/em&gt;.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 62</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/17/RC-day-62.html" rel="alternate" type="text/html" title="RC - dzień 62" /><published>2016-10-17T06:37:31-04:00</published><updated>2016-10-17T06:37:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/17/RC-day-62</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/17/RC-day-62.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ulepszyłam testy funcjonalności dla Zulipa&lt;/li&gt;
-  &lt;li&gt;zaimplementowałam sugerowane zmiany&lt;/li&gt;
-  &lt;li&gt;nauczyłam się lepszego git flow&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Dzisiaj skupiłam się przede wszystkim na ulepszaniu mojej funkcjonalności dla filtrowania Zulipa, żeby upewnić się, że zostaną one wdrożone do projektu na czas. W którymś momencie moje testy przestały przechodzić przez Travis CI i trochę czasu zajęło mi zorientowanie się, że aplikacja nie zachowywała się identycznie jak przy manualnych testach - oczekiwany stan nie był spójny pomiędzy kolejnymi podobnymi testami. Atomizacja i indywidualne ustawianie stanu pozwoliły rozwiązać problem.&lt;/p&gt;
-
-&lt;p&gt;Nauczyłam się też sporo na temat interaktywnego edytowania commitów, żeby odpowiednio zarządzać propozycją funkcjinalności. Jak zazwyczaj, nie mogłoby się to obyć bez nieocenionej pomocy i wsparcia ze strony Cihana.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 61</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/16/RC-day-61.html" rel="alternate" type="text/html" title="RC - dzień 61" /><published>2016-10-16T06:25:31-04:00</published><updated>2016-10-16T06:25:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/16/RC-day-61</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/16/RC-day-61.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;próbne algorytmiczne rozmowy kwalifikacyjne&lt;/li&gt;
-  &lt;li&gt;check-in z Jamesem&lt;/li&gt;
-  &lt;li&gt;gry improwizacji teatralnej&lt;/li&gt;
-  &lt;li&gt;rozwiązanie problemu z nieskończoną macierzą&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Po kolejnej nieprzespanej nocy powinnam po prostu przyzwyczaić się do nowego rozkładu dnia, skoro nie wygląda na to, żebym była w stanie zasnąć o normalnej godzinie. Dotarłam do mieszkania rano, przespałam się kilka godzin i wróciłam do RC idealnie na próbne rozmowy kwalifikacyjne, które są świetną rozrywką. Dałam Danowi interesujące zadanie, które lubię przerabiać z różnymi osobami, a potem dostałam jeszcze lepsze od Chrisa.&lt;/p&gt;
-
-&lt;p&gt;Check-in z Jamesem był bardzo pomocny, bo przy luźnej strukturze w RC czasami trudno jest pamiętać o swoich priorytetach i celach. Po owocnej rozmowie, naładowałam się pozytywną energią podczas gier improwizacyjnych z Sarą i grupą niesamowitych Recurserów.&lt;/p&gt;
-
-&lt;p&gt;Kolejną noc spędziłam na uczeniu się, rozmawianiu i programowaniu, główną atrakcją której była łamigłówka o nieskończonej macierzy, która zajęła sporo czasu Andyemu i mnie. Definicja problemu:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Nieskończona dwuwymiarowa macierz A składa się z kolejnych
-    liczb 1, 2, 3, ..., rozwijających się w sekwencji przedstawionej
-    poniżej. Algorytm powinien zwrócić wartość macierzy dla elementu
-    a_ij dla zadanego wiersza i oraz kolumny j.
-
-    1    3    4    10   11   21   22   36   37   55
-    2    5    9    12   20   23   35   38   54   57
-    6    8    13   19   24   34   39   53   58   76
-    7    14   18   25   33   40   52   59   75   82
-    15   17   26   32   41   51   60   74   83  101
-    16   27   31   42   50   61   73   84  100  111
-    28   30   43   49   62   72   85   99  112  130
-    29   44   48   63   71   86   98  113  129  144
-    45   47   64   70   87   97  114  128  145  163
-    46   65   69   88   96  115  127  146  162  181
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Zadanie rozwiązane &lt;a href=&quot;https://gist.github.com/aglee/65fa7f29bd6cccf4d4fdf2462a7c1f07&quot;&gt;w jednej linijce w Swifcie przez Andy’ego&lt;/a&gt; i &lt;a href=&quot;https://gist.github.com/trueskawka/cc22b1fa5311ff56da8c7bba41888843&quot;&gt;przeze mnie w Pythonie&lt;/a&gt;.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
+&lt;p&gt;Miałam też sporo inspiracji czytając listę &lt;a href=&quot;http://danluu.com/programming-books/&quot;&gt;książek prograistycznych, które może rozważysz przeczytać&lt;/a&gt; stworzoną przez Dana, lub, jak ja bym to nazwała, &lt;em&gt;listę książek programistycznych, którą być może będziesz miał ochotę przejrzeć mając nieco, ale nie przesadnie dużo, wolnego czasu, jeżeli tylko mógłbyś być na tyle zainteresowany, żeby w ogóle się nią przejmować&lt;/em&gt;.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>

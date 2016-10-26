@@ -1,4 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-25T02:54:50-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 70</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70.html" rel="alternate" type="text/html" title="RC - day 70" /><published>2016-10-25T02:21:31-04:00</published><updated>2016-10-25T02:21:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-26T03:54:30-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 72</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-72.html" rel="alternate" type="text/html" title="RC - day 72" /><published>2016-10-26T03:23:31-04:00</published><updated>2016-10-26T03:23:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-72</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-72.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;met the baby for the first time!&lt;/li&gt;
+  &lt;li&gt;had a great chat with Nancy&lt;/li&gt;
+  &lt;li&gt;had a fruitful talk with Leah&lt;/li&gt;
+  &lt;li&gt;had another Zulip pull request merged&lt;/li&gt;
+  &lt;li&gt;started playing with interactive fiction&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;First and foremost - I met my wonderful newest member of the family today! She was as observing me calmly and happily. I forgot how tiny little babies are.&lt;/p&gt;
+
+&lt;p&gt;I nearly got out of my sleep rut today, but the allergies kept me entertained most of the morning. The day started really late and I was worried I won’t achieve most of my goals for today, but, amazingly, I did - &lt;a href=&quot;https://www.youtube.com/watch?v=0_7OZNUVyec&quot;&gt;with a little help from my friends&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve had a great chat with Nancy about next steps in my career and she agreed that Outreachy is a good way of getting the remote and full-time developer experience I need. I can also focus on helping other Recursers during the job fair on Thursday, since none of the companies that RSVPed have remote opportunities. I was thinking about asking all the hard questions nobody wants to ask a recruiter, since it won’t be a risk for me.&lt;/p&gt;
+
+&lt;p&gt;Leah helped me a lot with rethinking my Outreachy application and suggested sensible changes to the narrative. Her insights were inspiring and I hope to introduce them over the weekend, to refactor it a little bit more before the final deadline.&lt;/p&gt;
+
+&lt;p&gt;I wanted to open a pull request that covers a lot of CSS atomization at once, but Tim suggested I should focus first on the parts that will be used in the upcoming redesigns of the app and merged my smaller PR today. I hope to finish all the other refactoring this week, so the files will be atomized enough to work on different parts of UI separately without worrying about changing (or breaking) other parts of the application.&lt;/p&gt;
+
+&lt;p&gt;I’ve also started on the book I bought yesterday and played with interactive fiction for two hours. I didn’t think it would be so much fun, with a lot of dark humor involved. This might be the perfect start to longer forms for me, since I haven’t written anything more than a short story in a few years. The only possible problem I see is translation, but as I will learn more about the tools and the process, I’ll surely come up with a good way of dealing with that.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 71</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-71.html" rel="alternate" type="text/html" title="RC - day 71" /><published>2016-10-26T03:15:31-04:00</published><updated>2016-10-26T03:15:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-71</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-71.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;bought a book on interactive fiction&lt;/li&gt;
+  &lt;li&gt;worked on a prompt for muted streams in Zulip&lt;/li&gt;
+  &lt;li&gt;read awesome stories from other Recursers on reapplying&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Today I was a bit scattered, since the slow weekend didn’t help enough with drowsiness and allergies, so I focused on keeping the momentum going. I’ve worked on Zulip, mainly the prompt for muted streams and reading different parts of the documentation, but I didn’t finish anything. In the evening I went for a long walk to Barnes &amp;amp; Noble, because I couldn’t get the &lt;a href=&quot;https://www.amazon.com/Writing-Interactive-Fiction-Twine-Melissa/dp/0789756641&quot;&gt;Writing Interactive Fiction with Twine&lt;/a&gt; book out of my head and I bought it.&lt;/p&gt;
+
+&lt;p&gt;Other than that, I got a lot of inspiration from other Recursers discussing their process of reapplying to RC after being rejected at first (sometimes more than once). It shows that these awesome people are not only smart and talented, but also have a lot of perseverance and a mindset for growing. Someone suggested writing blog posts on that and that’s a series I’d very much like to read.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 70</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70.html" rel="alternate" type="text/html" title="RC - day 70" /><published>2016-10-25T02:21:31-04:00</published><updated>2016-10-25T02:21:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;binge-watched Black Mirror&lt;/li&gt;
@@ -892,33 +922,4 @@ Date:   Thu Apr 14 10:48:30 2016 -0700
 
 &lt;p&gt;After a lot of working over the weekend, today I’ve spent a lot of time getting to know other applicants for Outreachy at Zulip and refactored my initial project proposal a few times. I got some positive feedback, but I still need to flesh out the details.&lt;/p&gt;
 
-&lt;p&gt;In the evening, I’ve tried contra dancing for the very first time. It was surprisingly intense and exhausting, but at the same time very much fun with a lot of bonding.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 63</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/17/RC-day-63.html" rel="alternate" type="text/html" title="RC - day 63" /><published>2016-10-17T06:42:31-04:00</published><updated>2016-10-17T06:42:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/17/RC-day-63</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/17/RC-day-63.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;my pull request for Zulip was merged&lt;/li&gt;
-  &lt;li&gt;finished writing initial Outreachy proposal for Zulip&lt;/li&gt;
-  &lt;li&gt;refactored my workflow&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;My pull request for Zulip stream filtering in subscriptions page was merged today!&lt;/p&gt;
-
-&lt;p&gt;It was the last weekend before Outreachy application deadline and I’ve managed to finish my &lt;a href=&quot;https://paper.dropbox.com/doc/Outreachy-proposal-QfwrTnnGBDBd9hBGCyUjT#:h2=Outreachy-proposal&quot;&gt;initial proposal&lt;/a&gt; and submit the application on time. I think it will change a lot over the next three weeks, since I seem to have a lot of ideas and awareness of various needs, but need to construct smarter and more tangible goals for introducing new features.&lt;/p&gt;
-
-&lt;p&gt;With some alone time on my hands, I’ve tweaked and refactored my workflow, after reading:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Rodrigo’s post on &lt;a href=&quot;https://rz.github.io/articles/2016/oct/time-on-your-side.html&quot;&gt;having time on your side&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;an old FreeCodeCamp article on &lt;a href=&quot;https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2#.qvb564jid&quot;&gt;finding time to become a better developer&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Furthermore I’ve found a lot of inspiration while reading Dan’s list of &lt;a href=&quot;http://danluu.com/programming-books/&quot;&gt;programming books you might consider reading&lt;/a&gt;, or, as I would call it, &lt;em&gt;a list of programming books you might be so inclined as to potentially try to find a little bit, but not too much, time for, if and, only if, you are so inclined to do&lt;/em&gt;.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 62</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/17/RC-day-62.html" rel="alternate" type="text/html" title="RC - day 62" /><published>2016-10-17T06:37:31-04:00</published><updated>2016-10-17T06:37:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/17/RC-day-62</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/17/RC-day-62.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;improved testing for the Zulip feature&lt;/li&gt;
-  &lt;li&gt;implemented suggested changes from the pull request&lt;/li&gt;
-  &lt;li&gt;learned better git flow&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Today I was mostly focusing on improving my Zulip pull request for stream filtering, as to make sure it gets merged into the project on time. At some point my tests started failing with Travis CI and it took some time to realize the application was not acting identically as with manual testing - the expected state was not consistent between similar tests. Atomized tests with individual set-up solved the problem.&lt;/p&gt;
-
-&lt;p&gt;I’ve also learned a lot about interactive rebasing and amending commits, as to properly manage my pull request. As usual, it couldn’t have been done without Cihan’s help and support.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+&lt;p&gt;In the evening, I’ve tried contra dancing for the very first time. It was surprisingly intense and exhausting, but at the same time very much fun with a lot of bonding.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
