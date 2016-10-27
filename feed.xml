@@ -1,925 +1,635 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-26T03:54:30-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 72</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-72.html" rel="alternate" type="text/html" title="RC - day 72" /><published>2016-10-26T03:23:31-04:00</published><updated>2016-10-26T03:23:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-72</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-72.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;met the baby for the first time!&lt;/li&gt;
-  &lt;li&gt;had a great chat with Nancy&lt;/li&gt;
-  &lt;li&gt;had a fruitful talk with Leah&lt;/li&gt;
-  &lt;li&gt;had another Zulip pull request merged&lt;/li&gt;
-  &lt;li&gt;started playing with interactive fiction&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;First and foremost - I met my wonderful newest member of the family today! She was as observing me calmly and happily. I forgot how tiny little babies are.&lt;/p&gt;
-
-&lt;p&gt;I nearly got out of my sleep rut today, but the allergies kept me entertained most of the morning. The day started really late and I was worried I won’t achieve most of my goals for today, but, amazingly, I did - &lt;a href=&quot;https://www.youtube.com/watch?v=0_7OZNUVyec&quot;&gt;with a little help from my friends&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I’ve had a great chat with Nancy about next steps in my career and she agreed that Outreachy is a good way of getting the remote and full-time developer experience I need. I can also focus on helping other Recursers during the job fair on Thursday, since none of the companies that RSVPed have remote opportunities. I was thinking about asking all the hard questions nobody wants to ask a recruiter, since it won’t be a risk for me.&lt;/p&gt;
-
-&lt;p&gt;Leah helped me a lot with rethinking my Outreachy application and suggested sensible changes to the narrative. Her insights were inspiring and I hope to introduce them over the weekend, to refactor it a little bit more before the final deadline.&lt;/p&gt;
-
-&lt;p&gt;I wanted to open a pull request that covers a lot of CSS atomization at once, but Tim suggested I should focus first on the parts that will be used in the upcoming redesigns of the app and merged my smaller PR today. I hope to finish all the other refactoring this week, so the files will be atomized enough to work on different parts of UI separately without worrying about changing (or breaking) other parts of the application.&lt;/p&gt;
-
-&lt;p&gt;I’ve also started on the book I bought yesterday and played with interactive fiction for two hours. I didn’t think it would be so much fun, with a lot of dark humor involved. This might be the perfect start to longer forms for me, since I haven’t written anything more than a short story in a few years. The only possible problem I see is translation, but as I will learn more about the tools and the process, I’ll surely come up with a good way of dealing with that.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 71</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-71.html" rel="alternate" type="text/html" title="RC - day 71" /><published>2016-10-26T03:15:31-04:00</published><updated>2016-10-26T03:15:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-71</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-71.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;bought a book on interactive fiction&lt;/li&gt;
-  &lt;li&gt;worked on a prompt for muted streams in Zulip&lt;/li&gt;
-  &lt;li&gt;read awesome stories from other Recursers on reapplying&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Today I was a bit scattered, since the slow weekend didn’t help enough with drowsiness and allergies, so I focused on keeping the momentum going. I’ve worked on Zulip, mainly the prompt for muted streams and reading different parts of the documentation, but I didn’t finish anything. In the evening I went for a long walk to Barnes &amp;amp; Noble, because I couldn’t get the &lt;a href=&quot;https://www.amazon.com/Writing-Interactive-Fiction-Twine-Melissa/dp/0789756641&quot;&gt;Writing Interactive Fiction with Twine&lt;/a&gt; book out of my head and I bought it.&lt;/p&gt;
-
-&lt;p&gt;Other than that, I got a lot of inspiration from other Recursers discussing their process of reapplying to RC after being rejected at first (sometimes more than once). It shows that these awesome people are not only smart and talented, but also have a lot of perseverance and a mindset for growing. Someone suggested writing blog posts on that and that’s a series I’d very much like to read.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 70</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70.html" rel="alternate" type="text/html" title="RC - day 70" /><published>2016-10-25T02:21:31-04:00</published><updated>2016-10-25T02:21:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;binge-watched Black Mirror&lt;/li&gt;
-  &lt;li&gt;went on a wild run through Barnes &amp;amp; Noble&lt;/li&gt;
-  &lt;li&gt;read up about interactive fiction for NaNoWriMo&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.wikiwand.com/en/Black_Mirror&quot;&gt;Black Mirror&lt;/a&gt; season 3 was released and with another allergy attack I figured the best way to spend Sunday night and morning was to binge watch it. If you’ve never seen it, it’s a very dark series about dystopian futures - highly recommended, but requires a lot of mental stamina to go through.&lt;/p&gt;
-
-&lt;p&gt;I went to Barnes &amp;amp; Noble, just because looking through books and knick-knocks I’m not going to buy puts me in a great mood. I’ve found a book on writing &lt;a href=&quot;https://www.wikiwand.com/en/Interactive_fiction&quot;&gt;interactive fiction&lt;/a&gt; with &lt;a href=&quot;https://twinery.org/&quot;&gt;Twine&lt;/a&gt; and it seems like a pretty good idea for this year’s &lt;a href=&quot;http://nanowrimo.org/&quot;&gt;NaNoWriMo&lt;/a&gt;. I’ve never managed to actually complete the challenge before and an RPG setting might just convince me to do it properly this time.&lt;/p&gt;
-
-&lt;p&gt;Some fresh and long-overdue photos below.&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;click an image to see the gallery&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_1.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_1.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_2.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_2.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_3.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_3.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_4.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_4.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_5.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_5.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_6.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;You know you're in the US when...&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_6.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_7.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;Apparently he does&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_7.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_7.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_8.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;One World Observatory from afar&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_8.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_8.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_9.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_9.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_9.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_10.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_10.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_10.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_11.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_11.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_11.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-10-26T22:04:18-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 72</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-72.html" rel="alternate" type="text/html" title="RC - day 72" /><published>2016-10-26T03:23:31-04:00</published><updated>2016-10-26T03:23:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-72</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-72.html">Achievements:
 
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_12.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;Children's corner at Barnes &amp;amp; Noble&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_12.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_12.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+* met the baby for the first time!
+* had a great chat with Nancy
+* had a fruitful talk with Leah
+* had another Zulip pull request merged
+* started playing with interactive fiction
 
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_13.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;Tech and Ancient Mysteries&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_13.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_13.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_14.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;Cat vs. paper bag&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_14.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_14.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_15.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;Cat vs. suitcase&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_15.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_15.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 69</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-69.html" rel="alternate" type="text/html" title="RC - day 69" /><published>2016-10-25T02:14:31-04:00</published><updated>2016-10-25T02:14:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-69</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-69.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;watched Rocky Horror Picture Show&lt;/li&gt;
-  &lt;li&gt;learned how webhooks work&lt;/li&gt;
-  &lt;li&gt;read up on Zulip and Beeminder APIs&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I wanted to watch the new version of the classic &lt;a href=&quot;http://www.rockyhorror.com/&quot;&gt;Rocky Horror Picture Show&lt;/a&gt; with &lt;a href=&quot;http://www.lavernecox.com/&quot;&gt;Laverne Cox&lt;/a&gt; since I’ve heard about it and we’ve managed to have a movie night with some Recursers. It was wonderful, especially with live-singing by the more talented of us.&lt;/p&gt;
-
-&lt;p&gt;The day was cut short by my sleeping problems paired with a mild allergy attack, which meant I’ve only managed to learn something about webhooks and read up about Zulip and Beeminder APIs, for a possible integration. My work on some issues I wanted to finish soon didn’t bring much in terms of results.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 68</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-68.html" rel="alternate" type="text/html" title="RC - day 68" /><published>2016-10-22T00:33:31-04:00</published><updated>2016-10-22T00:33:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-68</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-68.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;algorithm prep&lt;/li&gt;
-  &lt;li&gt;reading a few essays in &lt;em&gt;Making Software&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;learning a lot about DDoS attacks&lt;/li&gt;
-  &lt;li&gt;working on some Zulip features&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I wanted to be more productive today, but my cunning plan for fixing the sleep schedule didn’t work and I’ve been more tired than usual. That being said, I’ve managed to have a good algorithm prep session with Andrew and Deniz, learning a lot from their problem solving skills and great feedback from Noah.&lt;/p&gt;
-
-&lt;p&gt;The Internet was down, or at least it seemed so. There was a massive &lt;a href=&quot;https://www.wikiwand.com/en/Denial-of-service_attack&quot;&gt;Distributed Denial of Service attack&lt;/a&gt; on a DNS service Dyn, which caused a lot of confusion and seemed like a good reason to have a snow day. Dan saved the day (ruining my procrastination plans) by suggesting using &lt;a href=&quot;https://support.opendns.com/hc/en-us/articles/227987767-Dynamic-IP-Addresses-Technical-Detail-and-FAQ&quot;&gt;OpenDNS&lt;/a&gt;. I’ve ended up reading a lot about DDoS attacks and especially the role of the Internet of Things in the recent incident.&lt;/p&gt;
-
-&lt;p&gt;Other than that, I’ve read a few essays from a book Sumana recommended - &lt;a href=&quot;http://shop.oreilly.com/product/9780596808303.do&quot;&gt;Making Software&lt;/a&gt; - and spent some time playing with Zulip features, at least one of which I want to finish by the end of the weekend.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 67</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-67.html" rel="alternate" type="text/html" title="RC - day 67" /><published>2016-10-22T00:05:31-04:00</published><updated>2016-10-22T00:05:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-67</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-67.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;finished the blog post on the live coding session&lt;/li&gt;
-  &lt;li&gt;Abstract Salad Factory&lt;/li&gt;
-  &lt;li&gt;one-on-one with James&lt;/li&gt;
-  &lt;li&gt;took part in spelling bee&lt;/li&gt;
-  &lt;li&gt;job fair&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In an attempt to fix my sleep schedule, I haven’t slept all night and spent in writing drafts on various topics. I’ve finally finished my blog post on Sumana’s &lt;a href=&quot;https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing.html&quot;&gt;live coding session&lt;/a&gt;, which I posted later in the day after approval from all parties involved.&lt;/p&gt;
-
-&lt;p&gt;I’ve made it on time for the Abstract Salad Factory, which is a healthy and social way to get  lunch. I’ve also had a good chat with James on my recent endeavors and am generally very happy with my recent results, although I’ve slowed down a bit in the last few days.&lt;/p&gt;
-
-&lt;p&gt;Instead of community presentations, we’ve had great fun with &lt;a href=&quot;https://gist.github.com/brilee/debf54541f419e1aacfad9e7a341b7f3&quot;&gt;programming spelling bee&lt;/a&gt; proposed by Brian. We coded in pairs, with our backs to the code and ping-ponging the program while saying a single character at a time. It was a lot like improv, since we’ve had to “yes, and” whatever the other person was saying and understanding what the other person meant was sometimes challenging. I’ve paired with Alicia, who is one of my superheroes.&lt;/p&gt;
-
-&lt;p&gt;After the spelling bee, we’ve had a job fair in the space, which was very different from my previous experience with such events. It was all about chatting with the companies in a non-stressful way. The space got a bit loud, but I’ve managed to talk to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.harrys.com/&quot;&gt;Harry’s&lt;/a&gt; - a razor manufacturer and retailer, with a lot of big and furry problems coming with the vertical business model&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.khanacademy.org/&quot;&gt;Khan Academy&lt;/a&gt; - a source of free online courses on multiple topics and areas, with the goal of providing free education to anyone, anytime&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.themuse.com/&quot;&gt;The Muse&lt;/a&gt; - an online career resource, fostering job opportunities and career advice, with a lot of interesting data science opportunities&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.twosigma.com/&quot;&gt;Two Sigma&lt;/a&gt; - an investment management company heavily grounded in research and technology&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reaktor.com/&quot;&gt;Reaktor&lt;/a&gt; - an agile tech consultancy, improving processes and building technology for their clients&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.uplevelsecurity.com/&quot;&gt;UpLevel&lt;/a&gt; - a small cybersecurity start-up&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As I’m mostly interested in remote opportunities, Khan Academy and Reaktor seemed like the best options for me, although most of the companies I’ve talked to seem to be a pretty good cultural fit.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 66</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-66.html" rel="alternate" type="text/html" title="RC - day 66" /><published>2016-10-22T00:05:31-04:00</published><updated>2016-10-22T00:05:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-66</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-66.html">&lt;p&gt;Achievements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;watched the theoretical part of James’s graph workshop&lt;/li&gt;
-  &lt;li&gt;worked on the live coding blog post&lt;/li&gt;
-  &lt;li&gt;planned my writing and did some creative housekeeping&lt;/li&gt;
-  &lt;li&gt;midnight check-out&lt;/li&gt;
-&lt;/ul&gt;
+First and foremost - I met my wonderful newest member of the family today! She was as observing me calmly and happily. I forgot how tiny little babies are.
 
-&lt;p&gt;James had another great workshop, this time on graphs. I chickened out of the exercises, but at least watched the theoretical part and read up about graph search algorithms.&lt;/p&gt;
+I nearly got out of my sleep rut today, but the allergies kept me entertained most of the morning. The day started really late and I was worried I won't achieve most of my goals for today, but, amazingly, I did - [with a little help from my friends](https://www.youtube.com/watch?v=0_7OZNUVyec).
 
-&lt;p&gt;The live coding blog post is taking more time than I expected, as I want to both keep as much of the spirit of the chat and introduce some non-intrusive remarks of my own. After a few hours of working on it, I’ve decided to do some creative housekeeping, by looking through my old writing and planning what to focus on next. It was also the main theme of my midnight checkout, which compared to the awesome work of Andy, Andrea and Andrew (no, we did not start the group because of the names only) wasn’t much. Some days are not about big progress.&lt;/p&gt;
+I've had a great chat with Nancy about next steps in my career and she agreed that Outreachy is a good way of getting the remote and full-time developer experience I need. I can also focus on helping other Recursers during the job fair on Thursday, since none of the companies that RSVPed have remote opportunities. I was thinking about asking all the hard questions nobody wants to ask a recruiter, since it won't be a risk for me.
 
-&lt;p&gt;The cats at the new apartment are very demanding. There are three of them:&lt;/p&gt;
+Leah helped me a lot with rethinking my Outreachy application and suggested sensible changes to the narrative. Her insights were inspiring and I hope to introduce them over the weekend, to refactor it a little bit more before the final deadline.
 
-&lt;ul&gt;
-  &lt;li&gt;a huge, fat ginger one who believes himself to be a tiny cute kitten I should pet all the time&lt;/li&gt;
-  &lt;li&gt;a tiny, constantly running around and very curious little girl&lt;/li&gt;
-  &lt;li&gt;a somewhat shy and very sweet black boy who hides under the table&lt;/li&gt;
-&lt;/ul&gt;
+I wanted to open a pull request that covers a lot of CSS atomization at once, but Tim suggested I should focus first on the parts that will be used in the upcoming redesigns of the app and merged my smaller PR today. I hope to finish all the other refactoring this week, so the files will be atomized enough to work on different parts of UI separately without worrying about changing (or breaking) other parts of the application.
 
-&lt;p&gt;Most of the nights I sleep at least partially covered with cats. It’s definitely the best Airbnb experience so far, though due to my allergies my eyes are red like an albino rabbit’s in the mornings.&lt;/p&gt;
+I've also started on the book I bought yesterday and played with interactive fiction for two hours. I didn't think it would be so much fun, with a lot of dark humor involved. This might be the perfect start to longer forms for me, since I haven't written anything more than a short story in a few years. The only possible problem I see is translation, but as I will learn more about the tools and the process, I'll surely come up with a good way of dealing with that.</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 71</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-71.html" rel="alternate" type="text/html" title="RC - day 71" /><published>2016-10-26T03:15:31-04:00</published><updated>2016-10-26T03:15:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-71</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-71.html">Achievements:
 
-&lt;p&gt;&lt;i&gt;click an image to see the gallery&lt;/i&gt;&lt;/p&gt;
+* bought a book on interactive fiction
+* worked on a prompt for muted streams in Zulip
+* read awesome stories from other Recursers on reapplying
 
-&lt;p&gt;
+Today I was a bit scattered, since the slow weekend didn't help enough with drowsiness and allergies, so I focused on keeping the momentum going. I've worked on Zulip, mainly the prompt for muted streams and reading different parts of the documentation, but I didn't finish anything. In the evening I went for a long walk to Barnes &amp; Noble, because I couldn't get the [Writing Interactive Fiction with Twine](https://www.amazon.com/Writing-Interactive-Fiction-Twine-Melissa/dp/0789756641) book out of my head and I bought it.
 
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_1.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;I'm cute and I know it&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_1.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+Other than that, I got a lot of inspiration from other Recursers discussing their process of reapplying to RC after being rejected at first (sometimes more than once). It shows that these awesome people are not only smart and talented, but also have a lot of perseverance and a mindset for growing. Someone suggested writing blog posts on that and that's a series I'd very much like to read.</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 70</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70.html" rel="alternate" type="text/html" title="RC - day 70" /><published>2016-10-25T02:21:31-04:00</published><updated>2016-10-25T02:21:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70.html">Achievements:
 
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_2.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_2.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+* binge-watched Black Mirror
+* went on a wild run through Barnes &amp; Noble
+* read up about interactive fiction for NaNoWriMo
 
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_3.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_3.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+[Black Mirror](https://www.wikiwand.com/en/Black_Mirror) season 3 was released and with another allergy attack I figured the best way to spend Sunday night and morning was to binge watch it. If you've never seen it, it's a very dark series about dystopian futures - highly recommended, but requires a lot of mental stamina to go through.
 
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_4.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;The table is a safe space&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_4.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+I went to Barnes &amp; Noble, just because looking through books and knick-knocks I'm not going to buy puts me in a great mood. I've found a book on writing [interactive fiction](https://www.wikiwand.com/en/Interactive_fiction) with [Twine](https://twinery.org/) and it seems like a pretty good idea for this year's [NaNoWriMo](http://nanowrimo.org/). I've never managed to actually complete the challenge before and an RPG setting might just convince me to do it properly this time.
 
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_5.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;The huge ginger cat&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_5.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+Some fresh and long-overdue photos below.
 
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_6.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_6.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+{% include gallery.html %}</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 69</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-69.html" rel="alternate" type="text/html" title="RC - day 69" /><published>2016-10-25T02:14:31-04:00</published><updated>2016-10-25T02:14:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-69</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-69.html">Achievements:
 
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_7.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;Where is my food hooman?&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_7.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_7.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+* watched Rocky Horror Picture Show
+* learned how webhooks work
+* read up on Zulip and Beeminder APIs
 
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_8.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;Is mine!&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_8.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_8.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+I wanted to watch the new version of the classic [Rocky Horror Picture Show](http://www.rockyhorror.com/) with [Laverne Cox](http://www.lavernecox.com/) since I've heard about it and we've managed to have a movie night with some Recursers. It was wonderful, especially with live-singing by the more talented of us.
 
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_9.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;Sooon&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_9.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_9.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+The day was cut short by my sleeping problems paired with a mild allergy attack, which meant I've only managed to learn something about webhooks and read up about Zulip and Beeminder APIs, for a possible integration. My work on some issues I wanted to finish soon didn't bring much in terms of results.</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 68</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-68.html" rel="alternate" type="text/html" title="RC - day 68" /><published>2016-10-22T00:33:31-04:00</published><updated>2016-10-22T00:33:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-68</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-68.html">Achievements:
 
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_main_10.jpg&quot; data-lightbox=&quot;other/airbnb&quot; data-title=&quot;I'm a tiny tiny kitten&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/airbnb/airbnb_thumb_10.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;airbnb_main_10.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+* algorithm prep
+* reading a few essays in *Making Software*
+* learning a lot about DDoS attacks
+* working on some Zulip features
 
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>Learning by observing</title><link href="https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing.html" rel="alternate" type="text/html" title="Learning by observing" /><published>2016-10-20T15:48:00-04:00</published><updated>2016-10-20T15:48:00-04:00</updated><id>https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing</id><content type="html" xml:base="https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing.html">&lt;p&gt;Recently I’ve had the pleasure of seeing &lt;a href=&quot;https://www.harihareswara.net/&quot;&gt;Sumana Harihareswara&lt;/a&gt; live documenting &lt;a href=&quot;https://zulip.tabbott.net/#narrow/stream/test.20suites/topic/watch.20over.20my.20shoulder.20as.20I.20improve.20the.20linter&quot;&gt;a coding adventure&lt;/a&gt; on Zulip. As I wanted to learn even more from this experience, I’ve reread it and tried to break it into high level activities.&lt;/p&gt;
+I wanted to be more productive today, but my cunning plan for fixing the sleep schedule didn't work and I've been more tired than usual. That being said, I've managed to have a good algorithm prep session with Andrew and Deniz, learning a lot from their problem solving skills and great feedback from Noah.
 
-&lt;h4 id=&quot;disclaimer&quot;&gt;Disclaimer&lt;/h4&gt;
-&lt;p&gt;The following text is a rephrasing of a live-coding session. If you find any smart, hilarious and generally great quotes - those are Sumana’s words when not directly attributed and Steve’s or Tim’s words for the appropriate dramatis persona.&lt;/p&gt;
+The Internet was down, or at least it seemed so. There was a massive [Distributed Denial of Service attack](https://www.wikiwand.com/en/Denial-of-service_attack) on a DNS service Dyn, which caused a lot of confusion and seemed like a good reason to have a snow day. Dan saved the day (ruining my procrastination plans) by suggesting using [OpenDNS](https://support.opendns.com/hc/en-us/articles/227987767-Dynamic-IP-Addresses-Technical-Detail-and-FAQ). I've ended up reading a lot about DDoS attacks and especially the role of the Internet of Things in the recent incident.
 
-&lt;h2 id=&quot;updating-the-linter&quot;&gt;Updating the Linter&lt;/h2&gt;
+Other than that, I've read a few essays from a book Sumana recommended - [Making Software](http://shop.oreilly.com/product/9780596808303.do) - and spent some time playing with Zulip features, at least one of which I want to finish by the end of the weekend.</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 67</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-67.html" rel="alternate" type="text/html" title="RC - day 67" /><published>2016-10-22T00:05:31-04:00</published><updated>2016-10-22T00:05:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-67</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-67.html">Achievements:
 
-&lt;h3 id=&quot;an-adventure-in-eight-and-some-acts&quot;&gt;an Adventure in Eight and Some Acts&lt;/h3&gt;
+* finished the blog post on the live coding session
+* Abstract Salad Factory
+* one-on-one with James
+* took part in spelling bee
+* job fair
 
-&lt;h4 id=&quot;dramatis-personae&quot;&gt;Dramatis personae&lt;/h4&gt;
-&lt;p&gt;The Developer - Sumana Harihareswara&lt;/p&gt;
+In an attempt to fix my sleep schedule, I haven't slept all night and spent in writing drafts on various topics. I've finally finished my blog post on Sumana's [live coding session](https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing.html), which I posted later in the day after approval from all parties involved.
 
-&lt;p&gt;The Counselor - Steve Howell&lt;/p&gt;
+I've made it on time for the Abstract Salad Factory, which is a healthy and social way to get  lunch. I've also had a good chat with James on my recent endeavors and am generally very happy with my recent results, although I've slowed down a bit in the last few days.
 
-&lt;p&gt;The Backstage Voice - Tim Abbott&lt;/p&gt;
+Instead of community presentations, we've had great fun with [programming spelling bee](https://gist.github.com/brilee/debf54541f419e1aacfad9e7a341b7f3) proposed by Brian. We coded in pairs, with our backs to the code and ping-ponging the program while saying a single character at a time. It was a lot like improv, since we've had to &quot;yes, and&quot; whatever the other person was saying and understanding what the other person meant was sometimes challenging. I've paired with Alicia, who is one of my superheroes.
 
-&lt;h3 id=&quot;acts-1---finding-an-adventure&quot;&gt;Acts[-1] - Finding an Adventure&lt;/h3&gt;
+After the spelling bee, we've had a job fair in the space, which was very different from my previous experience with such events. It was all about chatting with the companies in a non-stressful way. The space got a bit loud, but I've managed to talk to:
 
-&lt;p&gt;The Developer noticed a disturbing string in one of the &lt;a href=&quot;https://github.com/zulip/zulip/commit/ca1789892dca27f8acdb57344f12d571ee5649ca&quot;&gt;recent commits to Zulip&lt;/a&gt;.
-An existing linter rule for assuring proper capitalization of &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; seems not to be working. It should find any unwanted occurrences of &lt;code class=&quot;highlighter-rouge&quot;&gt;javascript&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;Javascript&lt;/code&gt; during testing and suggest a change in code.&lt;/p&gt;
+* [Harry's](https://www.harrys.com/) - a razor manufacturer and retailer, with a lot of big and furry problems coming with the vertical business model
+* [Khan Academy](https://www.khanacademy.org/) - a source of free online courses on multiple topics and areas, with the goal of providing free education to anyone, anytime
+* [The Muse](https://www.themuse.com/) - an online career resource, fostering job opportunities and career advice, with a lot of interesting data science opportunities
+* [Two Sigma](https://www.twosigma.com/) - an investment management company heavily grounded in research and technology
+* [Reaktor](https://www.reaktor.com/) - an agile tech consultancy, improving processes and building technology for their clients
+* [UpLevel](https://www.uplevelsecurity.com/) - a small cybersecurity start-up
 
-&lt;h3 id=&quot;whats-a-linter&quot;&gt;&lt;em&gt;What’s a linter?&lt;/em&gt;&lt;/h3&gt;
+As I'm mostly interested in remote opportunities, Khan Academy and Reaktor seemed like the best options for me, although most of the companies I've talked to seem to be a pretty good cultural fit.</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 66</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-66.html" rel="alternate" type="text/html" title="RC - day 66" /><published>2016-10-22T00:05:31-04:00</published><updated>2016-10-22T00:05:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-66</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/22/RC-day-66.html">Achievements:
 
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Lint_(software)&quot;&gt;source: Wikipedia&lt;/a&gt;&lt;/p&gt;
+* watched the theoretical part of James's graph workshop
+* worked on the live coding blog post
+* planned my writing and did some creative housekeeping
+* midnight check-out
 
-&lt;p&gt;A linter (or lint) is a tool that flags suspicious usage in any computer language. Lint-like tools generally perform static analysis of source code. Linters are used for finding common errors in code, e.g. syntactic discrepancies in the code - mainly code that doesn’t correspond to style guidelines or doesn’t follow specific rules.&lt;/p&gt;
+James had another great workshop, this time on graphs. I chickened out of the exercises, but at least watched the theoretical part and read up about graph search algorithms.
 
-&lt;p&gt;&lt;em&gt;I’ve had an example of that in my own code - Zulip linter tests were failing, because I didn’t use the 4-space indentation in JavaScript, as defined in the style guideline.&lt;/em&gt;&lt;/p&gt;
+The live coding blog post is taking more time than I expected, as I want to both keep as much of the spirit of the chat and introduce some non-intrusive remarks of my own. After a few hours of working on it, I've decided to do some creative housekeeping, by looking through my old writing and planning what to focus on next. It was also the main theme of my midnight checkout, which compared to the awesome work of Andy, Andrea and Andrew (no, we did not start the group because of the names only) wasn't much. Some days are not about big progress.
 
-&lt;h3 id=&quot;acts0---gearing-up-for-the-adventure&quot;&gt;Acts[0] - Gearing up for the Adventure&lt;/h3&gt;
+The cats at the new apartment are very demanding. There are three of them:
 
-&lt;p&gt;Before the adventure, the Developer updates her local repository with a shell script, as to assure it’s up to date and any possible bugs are not caused by outdated code.&lt;/p&gt;
+* a huge, fat ginger one who believes himself to be a tiny cute kitten I should pet all the time
+* a tiny, constantly running around and very curious little girl
+* a somewhat shy and very sweet black boy who hides under the table
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;#!/bin/bash&lt;/span&gt;
+Most of the nights I sleep at least partially covered with cats. It's definitely the best Airbnb experience so far, though due to my allergies my eyes are red like an albino rabbit's in the mornings.
 
-&lt;span class=&quot;c&quot;&gt;# update a bunch of Zulip git repositories&lt;/span&gt;
+{% include gallery.html %}</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>Learning by observing</title><link href="https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing.html" rel="alternate" type="text/html" title="Learning by observing" /><published>2016-10-20T15:48:00-04:00</published><updated>2016-10-20T15:48:00-04:00</updated><id>https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing</id><content type="html" xml:base="https://trueskawka.github.io/blog/programming/2016/10/20/learning-by-observing.html">Recently I’ve had the pleasure of seeing [Sumana Harihareswara](https://www.harihareswara.net/) live documenting [a coding adventure](https://zulip.tabbott.net/#narrow/stream/test.20suites/topic/watch.20over.20my.20shoulder.20as.20I.20improve.20the.20linter) on Zulip. As I wanted to learn even more from this experience, I’ve reread it and tried to break it into high level activities.
 
-checkout_repo&lt;span class=&quot;o&quot;&gt;(){&lt;/span&gt;
-    git checkout master
-    git pull upstream master
-    git push origin master
-    git checkout -
-&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;repo &lt;span class=&quot;k&quot;&gt;in &lt;/span&gt;zulip zulip-android zulip-electron zulip.github.io
-&lt;span class=&quot;k&quot;&gt;do
-    &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;pushd&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;repo&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;
-    checkout_repo
-    &lt;span class=&quot;nb&quot;&gt;popd
-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;done&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+#### Disclaimer
+The following text is a rephrasing of a live-coding session. If you find any smart, hilarious and generally great quotes - those are Sumana's words when not directly attributed and Steve's or Tim's words for the appropriate dramatis persona.
 
-&lt;h3 id=&quot;acts1---in-search-of-code&quot;&gt;Acts[1] - In Search of Code&lt;/h3&gt;
+## Updating the Linter
 
-&lt;p&gt;The Developer remembers she was facing a similar problem earlier and so she uses a &lt;code class=&quot;highlighter-rouge&quot;&gt;git log --grep=&quot;JavaScript&quot;&lt;/code&gt; command to find an appropriate commit, with which she finds:&lt;/p&gt;
+### an Adventure in Eight and Some Acts
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;commit 2338421c6ddf8c520f2ebbb5b3c040aebc1ad197
-Author: Tim Abbott &amp;lt;tabbott@mit.edu&amp;gt;
-Date:   Tue Jul 12 19:22:21 2016 -0700
+#### Dramatis personae
+The Developer - Sumana Harihareswara
 
-    lint: Add documentation lint check for JavaScript spelling.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+The Counselor - Steve Howell
 
-&lt;p&gt;She then copies the commit hash and runs &lt;code class=&quot;highlighter-rouge&quot;&gt;git show 2338421c6ddf8c520f2ebbb5b3c040aebc1ad197&lt;/code&gt;, to see changes introduced in that commit. She has identified a change to &lt;code class=&quot;highlighter-rouge&quot;&gt;tools/lint-all&lt;/code&gt; that has a pattern having to do with the word &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt;:&lt;/p&gt;
+The Backstage Voice - Tim Abbott
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;-markdown_rules = markdown_whitespace_rules
-+markdown_rules = markdown_whitespace_rules + [
-+    {'pattern': ' [jJ]avascript',
-+     'exclude': set(['README.dev.md']), # temporary exclusion to avoid merge conflicts
-+     'description': &quot;javascript should be spelled JavaScript&quot;},
-+]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+### Acts[-1] - Finding an Adventure
 
-&lt;p&gt;She realizes that the solution is going to involve a regular expression (“regex”).&lt;/p&gt;
+The Developer noticed a disturbing string in one of the [recent commits to Zulip](https://github.com/zulip/zulip/commit/ca1789892dca27f8acdb57344f12d571ee5649ca).
+An existing linter rule for assuring proper capitalization of `JavaScript` seems not to be working. It should find any unwanted occurrences of `javascript` or `Javascript` during testing and suggest a change in code.
 
-&lt;p&gt;To make sure that the appropriate file to edit is &lt;code class=&quot;highlighter-rouge&quot;&gt;tools/lint-all&lt;/code&gt;, the Developer turns to the &lt;a href=&quot;https://zulip.readthedocs.io/en/latest/testing.html&quot;&gt;testing documentation&lt;/a&gt;. It has a link to the &lt;a href=&quot;https://zulip.readthedocs.io/en/latest/linters.html&quot;&gt;linter(s)&lt;/a&gt; and she finds reassurance in the quote:&lt;/p&gt;
+### *What’s a linter?*
 
-&lt;blockquote&gt;
-  &lt;p&gt;Most of our lint checks get performed by &lt;code class=&quot;highlighter-rouge&quot;&gt;./tools/lint-all&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+[source: Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))
 
-&lt;p&gt;The Developer finds the relevant code on line &lt;code class=&quot;highlighter-rouge&quot;&gt;333&lt;/code&gt;:&lt;/p&gt;
+A linter (or lint) is a tool that flags suspicious usage in any computer language. Lint-like tools generally perform static analysis of source code. Linters are used for finding common errors in code, e.g. syntactic discrepancies in the code - mainly code that doesn’t correspond to style guidelines or doesn’t follow specific rules.
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;markdown_rules = markdown_whitespace_rules + [
-    {'pattern': ' [jJ]avascript',
-     'exclude': set(['README.dev.md']), # temporary exclusion to avoid merge conflicts
-     'description': &quot;javascript should be spelled JavaScript&quot;},
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+*I’ve had an example of that in my own code - Zulip linter tests were failing, because I didn’t use the 4-space indentation in JavaScript, as defined in the style guideline.*
 
-&lt;p&gt;and she wonders if she should remove the temporary exclusion of &lt;code class=&quot;highlighter-rouge&quot;&gt;README.dev.md&lt;/code&gt; - is it a thing of the past?&lt;/p&gt;
 
-&lt;p&gt;In her terminal she goes to &lt;code class=&quot;highlighter-rouge&quot;&gt;docs&lt;/code&gt;, starts doing &lt;code class=&quot;highlighter-rouge&quot;&gt;ls RE&lt;/code&gt; and hits tab to see what completes - there’s only &lt;code class=&quot;highlighter-rouge&quot;&gt;README.md&lt;/code&gt;. But she wants to be sure:&lt;/p&gt;
+### Acts[0] - Gearing up for the Adventure
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ find . -iname &quot;*.dev.md&quot;
-$ find . -iname &quot;README.md&quot;
-./README.md
-$ find . -iname &quot;*README.md&quot;
-./README.md
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+Before the adventure, the Developer updates her local repository with a shell script, as to assure it’s up to date and any possible bugs are not caused by outdated code.
 
-&lt;p&gt;and it means there are &lt;em&gt;no&lt;/em&gt; results when she searches case-insensitively for the files that end with &lt;code class=&quot;highlighter-rouge&quot;&gt;.dev.md&lt;/code&gt;. Just to be sure that her syntax was right, the Developer searched for something that she knew was there, and it worked.&lt;/p&gt;
+    #!/bin/bash
 
-&lt;h3 id=&quot;acts2---branching&quot;&gt;Acts[2] - Branching&lt;/h3&gt;
+    # update a bunch of Zulip git repositories
 
-&lt;p&gt;The Developer decides it’s time to make a change, which means it’s time to switch to a new branch in git!&lt;/p&gt;
+    checkout_repo(){
+        git checkout master
+        git pull upstream master
+        git push origin master
+        git checkout -
+    }
+    for repo in zulip zulip-android zulip-electron zulip.github.io
+    do
+        pushd ${repo}
+        checkout_repo
+        popd
+    done
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git checkout -b JavaScript-linter
-Switched to a new branch 'JavaScript-linter'
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+### Acts[1] - In Search of Code
 
-&lt;p&gt;She quickly deletes the exclusion line and saves the file.&lt;/p&gt;
+The Developer remembers she was facing a similar problem earlier and so she uses a `git log --grep=&quot;JavaScript&quot;` command to find an appropriate commit, with which she finds:
 
-&lt;p&gt;Now there is time for the real adventure to begin - why is the current rule, that searches for &lt;code class=&quot;highlighter-rouge&quot;&gt;[jJ]avascript&lt;/code&gt;, not working with the commit in question (&lt;code class=&quot;highlighter-rouge&quot;&gt;ca1789892dca27f8acdb57344f12d571ee5649ca&lt;/code&gt;)? That regular expression should catch the lower-case &lt;code class=&quot;highlighter-rouge&quot;&gt;s&lt;/code&gt;.&lt;/p&gt;
+    commit 2338421c6ddf8c520f2ebbb5b3c040aebc1ad197
+    Author: Tim Abbott &lt;tabbott@mit.edu&gt;
+    Date:   Tue Jul 12 19:22:21 2016 -0700
 
-&lt;p&gt;Ah but wait! The actual line says:&lt;/p&gt;
+        lint: Add documentation lint check for JavaScript spelling.
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;'pattern': ' [jJ]avascript'
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+She then copies the commit hash and runs `git show 2338421c6ddf8c520f2ebbb5b3c040aebc1ad197`, to see changes introduced in that commit. She has identified a change to `tools/lint-all` that has a pattern having to do with the word `JavaScript`:
 
-&lt;p&gt;There’s a space before the bracket! Maybe - yes, the commit that just came through has the following:&lt;/p&gt;
+    -markdown_rules = markdown_whitespace_rules
+    +markdown_rules = markdown_whitespace_rules + [
+    +    {'pattern': ' [jJ]avascript',
+    +     'exclude': set(['README.dev.md']), # temporary exclusion to avoid merge conflicts
+    +     'description': &quot;javascript should be spelled JavaScript&quot;},
+    +]
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;a href=&quot;https://github.com/zulip/zulip-js&quot;&amp;gt;Javascript library&amp;lt;/a&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+She realizes that the solution is going to involve a regular expression (&quot;regex&quot;).
 
-&lt;p&gt;Which means there’s no space before the initial J! So maybe deleting the space will allow the linter to catch this problem.&lt;/p&gt;
+To make sure that the appropriate file to edit is `tools/lint-all`, the Developer turns to the [testing documentation](https://zulip.readthedocs.io/en/latest/testing.html). It has a link to the [linter(s)](https://zulip.readthedocs.io/en/latest/linters.html) and she finds reassurance in the quote:
 
-&lt;p&gt;The Developer decides to do just that and run the linter - she deletes the space and saves the file.&lt;/p&gt;
+&gt;Most of our lint checks get performed by `./tools/lint-all`
 
-&lt;h3 id=&quot;acts3---testing-the-null-hypothesis&quot;&gt;Acts[3] - Testing the Null Hypothesis&lt;/h3&gt;
-&lt;p&gt;The Developer wants to run the linter. She wants to save some time and decides not to run Vagrant - in a bold move she just starts up her &lt;code class=&quot;highlighter-rouge&quot;&gt;virtualenv&lt;/code&gt; that has the right packages installed:&lt;/p&gt;
+The Developer finds the relevant code on line `333`:
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ workon zulip
-$ cd ..
-$ ./tools/lint-all
-ImportError: No module named typing
-You need to run the Zulip linters inside a Zulip dev environment.
-If you are using Vagrant, you can `vagrant ssh` to enter the Vagrant guest.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+    markdown_rules = markdown_whitespace_rules + [
+        {'pattern': ' [jJ]avascript',
+         'exclude': set(['README.dev.md']), # temporary exclusion to avoid merge conflicts
+         'description': &quot;javascript should be spelled JavaScript&quot;},
 
-&lt;p&gt;As this approach fails her, she decides to reprovision Vagrant:&lt;/p&gt;
+and she wonders if she should remove the temporary exclusion of `README.dev.md` - is it a thing of the past?
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ vagrant up
-$ vagrant ssh
-$ cd /srv/zulip
-$ python tools/provision.py
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+In her terminal she goes to `docs`, starts doing `ls RE` and hits tab to see what completes - there's only `README.md`. But she wants to be sure:
 
-&lt;p&gt;&lt;em&gt;The Developer goes in search for refreshments and conquers her email, as reprovisioning takes some time&lt;/em&gt;&lt;/p&gt;
+    $ find . -iname &quot;*.dev.md&quot;
+    $ find . -iname &quot;README.md&quot;
+    ./README.md
+    $ find . -iname &quot;*README.md&quot;
+    ./README.md
 
-&lt;p&gt;After the reprovisioning is done, the Developer runs the linter:&lt;/p&gt;
+and it means there are *no* results when she searches case-insensitively for the files that end with `.dev.md`. Just to be sure that her syntax was right, the Developer searched for something that she knew was there, and it worked.
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;(zulip-venv)vagrant@vagrant-base-trusty-amd64:/srv/zulip$ ./tools/lint-all
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+### Acts[2] - Branching
 
-&lt;p&gt;And she encounters a different result:&lt;/p&gt;
+The Developer decides it's time to make a change, which means it's time to switch to a new branch in git!
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;javascript should be spelled JavaScript at docs/code-style.md line 140:
-[[1]](http://stackoverflow.com/questions/500504/javascript-for-in-with-arrays),
+    $ git checkout -b JavaScript-linter
+    Switched to a new branch 'JavaScript-linter'
 
-javascript should be spelled JavaScript at docs/code-style.md line 141:
-[[2]](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml#for-in_loop),
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+She quickly deletes the exclusion line and saves the file.
 
-&lt;p&gt;The Developer quickly realizes the space in the regex was there to avoid the situation when a lowercased &lt;code class=&quot;highlighter-rouge&quot;&gt;javascript&lt;/code&gt; in a URL would cause a linter problem. Additionally, the file because of which the adventure began (&lt;code class=&quot;highlighter-rouge&quot;&gt;templates/zerver/api.html&lt;/code&gt;) is not causing the linter to complain, which may mean it’s a word boundary issue.&lt;/p&gt;
+Now there is time for the real adventure to begin - why is the current rule, that searches for `[jJ]avascript`, not working with the commit in question (`ca1789892dca27f8acdb57344f12d571ee5649ca`)? That regular expression should catch the lower-case `s`.
 
-&lt;p&gt;Time to use new battle gear - the Developer decides to fire up a regex tool &lt;a href=&quot;http://regexr.com/&quot;&gt;RegExr&lt;/a&gt;!&lt;/p&gt;
+Ah but wait! The actual line says:
 
-&lt;h3 id=&quot;acts4---in-the-land-of-regex&quot;&gt;Acts[4] - In the Land of Regex&lt;/h3&gt;
+    'pattern': ' [jJ]avascript'
 
-&lt;p&gt;RegExr makes it easy to say &lt;em&gt;help me write a regular expression that catches THIS case but not THAT case&lt;/em&gt;. The Developer copies and pastes the lines the linter is complaining about &lt;em&gt;now&lt;/em&gt; and the line from &lt;code class=&quot;highlighter-rouge&quot;&gt;templates/zerver/api.html&lt;/code&gt; that she wants the regex to complain about, into RegExr’s web interface:&lt;/p&gt;
+There's a space before the bracket! Maybe - yes, the commit that just came through has the following:
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;p&amp;gt;We have a &amp;lt;a href=&quot;/api/endpoints&quot;&amp;gt;well-documented API&amp;lt;/a&amp;gt; that allows you to build custom integrations, in addition to our &amp;lt;a href=&quot;/integrations&quot;&amp;gt;existing integrations&amp;lt;/a&amp;gt;. For ease-of-use, we've created a Python module that you can drop in to a project to start interacting with our API. There is also a &amp;lt;a href=&quot;https://github.com/zulip/zulip-js&quot;&amp;gt;Javascript library&amp;lt;/a&amp;gt; that can be used either in the browser or in Node.js.&amp;lt;/p&amp;gt;
-[[1]](http://stackoverflow.com/questions/500504/javascript-for-in-with-arrays),
-[[2]](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml#for-in_loop)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+    &lt;a href=&quot;https://github.com/zulip/zulip-js&quot;&gt;Javascript library&lt;/a&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/regexr.png&quot; data-lightbox=&quot;regexr&quot; data-title=&quot;&quot;&gt;
-  &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/regexr.png&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+Which means there's no space before the initial J! So maybe deleting the space will allow the linter to catch this problem.
 
-&lt;p&gt;She is going to try to find a regex that only matches what she wants to match and chooses the current &lt;code class=&quot;highlighter-rouge&quot;&gt;'[jJ]avascript'&lt;/code&gt; rule as her starting point. Before she starts the regex struggle, she skims the code of &lt;code class=&quot;highlighter-rouge&quot;&gt;lint-all&lt;/code&gt;, to make sure no comments require anything particularly special in the syntax of regular expressions. She notices a few things:&lt;/p&gt;
+The Developer decides to do just that and run the linter - she deletes the space and saves the file.
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;the line she’s editing is within the &lt;code class=&quot;highlighter-rouge&quot;&gt;markdown_rules&lt;/code&gt; definition, which is within the &lt;code class=&quot;highlighter-rouge&quot;&gt;build_custom_checkers&lt;/code&gt; function&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;later, in another function (&lt;code class=&quot;highlighter-rouge&quot;&gt;check_custom_checks_nonpy&lt;/code&gt; within the &lt;code class=&quot;highlighter-rouge&quot;&gt;build_custom_checkers&lt;/code&gt; function), there’s:&lt;/p&gt;
+### Acts[3] - Testing the Null Hypothesis
+The Developer wants to run the linter. She wants to save some time and decides not to run Vagrant - in a bold move she just starts up her `virtualenv` that has the right packages installed:
 
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;      for fn in by_lang['md']:
-          if custom_check_file(fn, markdown_rules):
-&lt;/code&gt;&lt;/pre&gt;
-    &lt;/div&gt;
+    $ workon zulip
+    $ cd ..
+    $ ./tools/lint-all
+    ImportError: No module named typing
+    You need to run the Zulip linters inside a Zulip dev environment.
+    If you are using Vagrant, you can `vagrant ssh` to enter the Vagrant guest.
 
-    &lt;p&gt;So &lt;code class=&quot;highlighter-rouge&quot;&gt;build_custom_checkers&lt;/code&gt; is a higher-order function that has other functions within it. But the main thing is, the rule she’s editing is one that only gets applied to Markdown files (filenames ending in &lt;code class=&quot;highlighter-rouge&quot;&gt;.md&lt;/code&gt;).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;the top of the file includes &lt;code class=&quot;highlighter-rouge&quot;&gt;import re&lt;/code&gt; which is the part of the standard library that does regular expression parsing - she thinks that implies she can use regular regexes and there’s nothing special about the syntax the linter will use&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+As this approach fails her, she decides to reprovision Vagrant:
 
-&lt;p&gt;The view of the numerous rules fills her heart with joy -  it’s great that these rules save us from bugs!&lt;/p&gt;
+    $ vagrant up
+    $ vagrant ssh
+    $ cd /srv/zulip
+    $ python tools/provision.py
 
-&lt;p&gt;The Developer turns back to RegExr and she is confused - the initial rule &lt;code class=&quot;highlighter-rouge&quot;&gt;[jJ]avascript&lt;/code&gt; matches everything, so why doesn’t the linter catch the first issue? She remembers that it is in an HTML page, not a Markdown page!&lt;/p&gt;
+*The Developer goes in search for refreshments and conquers her email, as reprovisioning takes some time*
 
-&lt;p&gt;In conclusion, she now has two problems:&lt;/p&gt;
+After the reprovisioning is done, the Developer runs the linter:
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;how to deal with the possibility that the word might have or not have a space in front of it (but exclude URLs)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;how to get this check to happen in HTML pages as well as Markdown pages&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+    (zulip-venv)vagrant@vagrant-base-trusty-amd64:/srv/zulip$ ./tools/lint-all
 
-&lt;p&gt;She wonders if she could build on others’ work to say “if this is in a URL then don’t bother with it”? She looks in the existing &lt;code class=&quot;highlighter-rouge&quot;&gt;lint-all&lt;/code&gt; code and searches for “url”, “http” with no luck.&lt;/p&gt;
+And she encounters a different result:
 
-&lt;p&gt;There’s a common saying in software, the Developer believes initially spoken by Jamie Zawinski:
-&amp;gt; You had a problem. You decided to use regular expressions. Now you have two problems.&lt;/p&gt;
+    javascript should be spelled JavaScript at docs/code-style.md line 140:
+    [[1]](http://stackoverflow.com/questions/500504/javascript-for-in-with-arrays),
 
-&lt;p&gt;Regexes are legendarily headache-inducing.&lt;/p&gt;
+    javascript should be spelled JavaScript at docs/code-style.md line 141:
+    [[2]](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml#for-in_loop),
 
-&lt;p&gt;Facing this adventure, she can’t think of a better solution. She thinks of turning to the world-renowned Stack Overflow, a source of answers to numerous questions bothering developers, but she first decides to look through RegExr - they may have a library of solutions to common problems like this. She finds the “Community” section and finds &lt;a href=&quot;http://regexr.com/2rj36&quot;&gt;a rule that matches URLs&lt;/a&gt;:&lt;/p&gt;
+The Developer quickly realizes the space in the regex was there to avoid the situation when a lowercased `javascript` in a URL would cause a linter problem. Additionally, the file because of which the adventure began (`templates/zerver/api.html`) is not causing the linter to complain, which may mean it's a word boundary issue.
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/[-a-zA-Z0-9@:%_\+.~#?&amp;amp;//=]{2,256}\.[a-z]{2,4}\b(\/[-a-zA-Z0-9@:%_\+.~#?&amp;amp;//=]*)?/gi
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+Time to use new battle gear - the Developer decides to fire up a regex tool [RegExr](http://regexr.com/)!
 
-&lt;p&gt;which seems like a very long and complicated regex. Does it really need to be that complicated? Won’t URLs start with HTTP? She realizes it’s not always true, as sometimes there will be hyperlinks to references elsewhere in the documentation.&lt;/p&gt;
+### Acts[4] - In the Land of Regex
 
-&lt;p&gt;She checks if there are currently any docs that have &lt;code class=&quot;highlighter-rouge&quot;&gt;javascript&lt;/code&gt; in their filenames:&lt;/p&gt;
+RegExr makes it easy to say *help me write a regular expression that catches THIS case but not THAT case*. The Developer copies and pastes the lines the linter is complaining about *now* and the line from `templates/zerver/api.html` that she wants the regex to complain about, into RegExr's web interface:
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ find . -iname &quot;*javascript*&quot;
-./.git/logs/refs/heads/JavaScript-linter
-./.git/refs/heads/JavaScript-linter
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+    &lt;p&gt;We have a &lt;a href=&quot;/api/endpoints&quot;&gt;well-documented API&lt;/a&gt; that allows you to build custom integrations, in addition to our &lt;a href=&quot;/integrations&quot;&gt;existing integrations&lt;/a&gt;. For ease-of-use, we've created a Python module that you can drop in to a project to start interacting with our API. There is also a &lt;a href=&quot;https://github.com/zulip/zulip-js&quot;&gt;Javascript library&lt;/a&gt; that can be used either in the browser or in Node.js.&lt;/p&gt;
+    [[1]](http://stackoverflow.com/questions/500504/javascript-for-in-with-arrays),
+    [[2]](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml#for-in_loop)
 
-&lt;p&gt;and she finds none, but that’s not to say they will never exist.&lt;/p&gt;
+&lt;a href=&quot;{{ site.cdn_path }}/other/regexr.png&quot; data-lightbox=&quot;regexr&quot; data-title=&quot;{{ img[1].desc }}&quot;&gt;
+  &lt;img src=&quot;{{ site.cdn_path }}/other/regexr.png&quot; /&gt;
+&lt;/a&gt;
 
-&lt;p&gt;She also realizes this RegExr example is clearly also matching email addresses. And there may come a day when in code there will be an address similar to javascript@facebook.com.&lt;/p&gt;
+She is going to try to find a regex that only matches what she wants to match and chooses the current `'[jJ]avascript'` rule as her starting point. Before she starts the regex struggle, she skims the code of `lint-all`, to make sure no comments require anything particularly special in the syntax of regular expressions. She notices a few things:
 
-&lt;h3 id=&quot;acts5---enter-the-counselor&quot;&gt;Acts[5] - Enter the Counselor&lt;/h3&gt;
+- the line she's editing is within the `markdown_rules` definition, which is within the `build_custom_checkers` function
 
-&lt;p&gt;Facing so many doubts, she decides to trust that other engineers will review her pull request and tell her whether there was a better way to do this. The best way she now sees fit to face the problem is to use the regex to exclude URLs, while also including HTML as well as MD files when the linter runs this rule.&lt;/p&gt;
+- later, in another function (`check_custom_checks_nonpy` within the `build_custom_checkers` function), there's:
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: For the proximal problem I’d consider just exempting any case of &lt;code class=&quot;highlighter-rouge&quot;&gt;/javascript&lt;/code&gt; and avoid the nasty URL regex. (But now that you’re looking at the URL regex, maybe make a note of that as something we can additionally clean up. If a simpler URL regex suffices for us, the code will be easier on the eyes and maybe it will run a bit faster too.)&lt;/p&gt;
+            for fn in by_lang['md']:
+                if custom_check_file(fn, markdown_rules):
 
-&lt;p&gt;The Developer fiddles with this regex in RegExr to combine it with the JavaScript check. She comes to a fork on the road - in the alternate universe where she got no advice from the Counselor, she would simply use the RegExr interface to figure out how to say &lt;em&gt;match &lt;code class=&quot;highlighter-rouge&quot;&gt;javascript&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Javascript&lt;/code&gt; &lt;strong&gt;except&lt;/strong&gt; within URLs&lt;/em&gt;. But no! She is in this universe, so she follows the Counselor’s suggestion and just excludes &lt;code class=&quot;highlighter-rouge&quot;&gt;/javascript&lt;/code&gt; for now.&lt;/p&gt;
+  So `build_custom_checkers` is a higher-order function that has other functions within it. But the main thing is, the rule she's editing is one that only gets applied to Markdown files (filenames ending in `.md`).
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: I think it’s a valid strategy to say we make the regex very broad and then exempt only &lt;code class=&quot;highlighter-rouge&quot;&gt;/javascript&lt;/code&gt; cases for now. This mostly errors on the side of fixing things. There’s some risk that somebody will have another legitimate use of wrongly-cased javascript someday like &lt;code class=&quot;highlighter-rouge&quot;&gt;http://learn-javascript.com&lt;/code&gt;, but we can deal with that reactively.&lt;/p&gt;
+- the top of the file includes `import re` which is the part of the standard library that does regular expression parsing - she thinks that implies she can use regular regexes and there's nothing special about the syntax the linter will use
 
-&lt;p&gt;The Developer goes to RegExr to learn how to do the exclusion she wants to do. She does a LOT of iterations while looking at the “Cheatsheet” in the lefthand sidebar of RegExr, and comes up with:&lt;/p&gt;
+The view of the numerous rules fills her heart with joy -  it's great that these rules save us from bugs!
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[^\/-]([jJ]avascript)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+The Developer turns back to RegExr and she is confused - the initial rule `[jJ]avascript` matches everything, so why doesn't the linter catch the first issue? She remembers that it is in an HTML page, not a Markdown page!
 
-&lt;p&gt;Which catches the bit of that HTML page she wants - &lt;code class=&quot;highlighter-rouge&quot;&gt;zulip-js&quot;&amp;gt;Javascript&lt;/code&gt; - but none of:&lt;/p&gt;
+In conclusion, she now has two problems:
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[[1]](http://stackoverflow.com/questions/500504/javascript-for-in-with-arrays),
-[[2]](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml#for-in_loop),
-http://my-javascript-guide.com
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+- how to deal with the possibility that the word might have or not have a space in front of it (but exclude URLs)
 
-&lt;p&gt;(she just came up with that last one because the preceding hyphen strikes her as a plausible potential case)&lt;/p&gt;
+- how to get this check to happen in HTML pages as well as Markdown pages
 
-&lt;p&gt;The Developer is now going to figure out how to get this check into the HTML rule(s) as well. Maybe there’s some way to abstract things, so it’s defined in one place and run both by the HTML checker and the MD checker.&lt;/p&gt;
+She wonders if she could build on others' work to say &quot;if this is in a URL then don't bother with it&quot;? She looks in the existing `lint-all` code and searches for &quot;url&quot;, &quot;http&quot; with no luck.
 
-&lt;p&gt;The structure of the linter seems to be that developers set up rules/rulesets, and then reuse them elsewhere. The Developer decides to define this rule within the ruleset of &lt;em&gt;capitalization of proper nouns in prose rules&lt;/em&gt;. She sets up a new ruleset, just before the current definition of &lt;code class=&quot;highlighter-rouge&quot;&gt;html_rules&lt;/code&gt;, and simply copies the formatting of the other rules.&lt;/p&gt;
+There's a common saying in software, the Developer believes initially spoken by Jamie Zawinski:
+&gt; You had a problem. You decided to use regular expressions. Now you have two problems.
 
-&lt;p&gt;To make sure she is right about how this structure works, she made a change and commits it. This will run the linter, to see whether it breaks. She saves the file and runs &lt;code class=&quot;highlighter-rouge&quot;&gt;git diff&lt;/code&gt; in the terminal:&lt;/p&gt;
+Regexes are legendarily headache-inducing.
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;+    prose_style_rules = [
-+        {'pattern': '[^\/-]([jJ]avascript)',
-+         'description': &quot;javascript should be spelled JavaScript&quot;},
-+    ] # type: RuleList
-     html_rules = whitespace_rules + [
-         {'pattern': 'placeholder=&quot;[^{]',
-          'description': &quot;`placeholder` value should be translatable.&quot;},
-@@ -327,11 +331,7 @@ def build_custom_checkers(by_lang):
-          'description': &quot;`placeholder` value should be translatable.&quot;},
-         ] # type: RuleList
-     json_rules = [] # type: RuleList # just fix newlines at ends of files
--    markdown_rules = markdown_whitespace_rules + [
--        {'pattern': ' [jJ]avascript',
--         'exclude': set(['README.dev.md']), # temporary exclusion to avoid merg
--         'description': &quot;javascript should be spelled JavaScript&quot;},
--    ] # type: RuleList
-+    markdown_rules = markdown_whitespace_rules + prose_style_rules
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+Facing this adventure, she can't think of a better solution. She thinks of turning to the world-renowned Stack Overflow, a source of answers to numerous questions bothering developers, but she first decides to look through RegExr - they may have a library of solutions to common problems like this. She finds the &quot;Community&quot; section and finds [a rule that matches URLs](http://regexr.com/2rj36):
 
-&lt;p&gt;The Developer decides to test one thing at a time - - change the rule &lt;em&gt;or&lt;/em&gt; the structure of the rule-calling. She goes for the rule-calling structure and changes the pattern for &lt;code class=&quot;highlighter-rouge&quot;&gt;prose_style_rules&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;'pattern': '[jJ]avascript',&lt;/code&gt;. Saves. Runs:&lt;/p&gt;
+    /[-a-zA-Z0-9@:%_\+.~#?&amp;//=]{2,256}\.[a-z]{2,4}\b(\/[-a-zA-Z0-9@:%_\+.~#?&amp;//=]*)?/gi
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ./tools/lint-all
-javascript should be spelled JavaScript at docs/code-style.md line 140:
-[[1]](http://stackoverflow.com/questions/500504/javascript-for-in-with-arrays),
+which seems like a very long and complicated regex. Does it really need to be that complicated? Won't URLs start with HTTP? She realizes it's not always true, as sometimes there will be hyperlinks to references elsewhere in the documentation.
 
-javascript should be spelled JavaScript at docs/code-style.md line 141:
-[[2]](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml#for-in_loop),
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+She checks if there are currently any docs that have `javascript` in their filenames:
 
-&lt;p&gt;At first surprised, she quickly realizes she took out the space from the pattern - she adds the space in and runs again - it works!&lt;/p&gt;
+    $ find . -iname &quot;*javascript*&quot;
+    ./.git/logs/refs/heads/JavaScript-linter
+    ./.git/refs/heads/JavaScript-linter
 
-&lt;p&gt;The Developer is now going to try changing the regex. She changes it to &lt;code class=&quot;highlighter-rouge&quot;&gt;'pattern': '[^\/-]([jJ]avascript)'&lt;/code&gt; and runs the linter, which seems to work.&lt;/p&gt;
+and she finds none, but that's not to say they will never exist.
 
-&lt;p&gt;Next she’s going to try &lt;code class=&quot;highlighter-rouge&quot;&gt;test-all&lt;/code&gt; which is more formidable and which she probably should have run earlier in this set of iterative changes.&lt;/p&gt;
+She also realizes this RegExr example is clearly also matching email addresses. And there may come a day when in code there will be an address similar to javascript@facebook.com.
 
-&lt;p&gt;&lt;em&gt;The Developer checks email and Zulip traffic, while waiting for the tests to finish&lt;/em&gt;&lt;/p&gt;
+### Acts[5] - Enter the Counselor
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: Although not related to your fix, take a look at &lt;code class=&quot;highlighter-rouge&quot;&gt;json_rules&lt;/code&gt; in your diff. :)&lt;/p&gt;
+Facing so many doubts, she decides to trust that other engineers will review her pull request and tell her whether there was a better way to do this. The best way she now sees fit to face the problem is to use the regex to exclude URLs, while also including HTML as well as MD files when the linter runs this rule.
 
-&lt;p&gt;While she’s waiting for that to run - tests seem to be passing - she wants to see what she would do to add… FAILED. The failing tests are Casper timeouts that some other developers are also getting, as they have mentioned reporting on their adventures. The Developer decides to ignore them.&lt;/p&gt;
+*The Counselor*: For the proximal problem I'd consider just exempting any case of `/javascript` and avoid the nasty URL regex. (But now that you're looking at the URL regex, maybe make a note of that as something we can additionally clean up. If a simpler URL regex suffices for us, the code will be easier on the eyes and maybe it will run a bit faster too.)
 
-&lt;p&gt;She does a fresh diff and notices &lt;code class=&quot;highlighter-rouge&quot;&gt;json_rules&lt;/code&gt; is completely empty, which may require further investigation in the future, to see whether it’s worth blowing away or filling.&lt;/p&gt;
+The Developer fiddles with this regex in RegExr to combine it with the JavaScript check. She comes to a fork on the road - in the alternate universe where she got no advice from the Counselor, she would simply use the RegExr interface to figure out how to say *match `javascript` and `Javascript` **except** within URLs*. But no! She is in this universe, so she follows the Counselor's suggestion and just excludes `/javascript` for now.
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: For the json thing, my two cents is that we should blow it away now. It’s clearly empty and just clutter at this point, and it wouldn’t be hard to restore the json section in the event that we come up with new json rules in the future.&lt;/p&gt;
+*The Counselor*: I think it's a valid strategy to say we make the regex very broad and then exempt only `/javascript` cases for now. This mostly errors on the side of fixing things. There's some risk that somebody will have another legitimate use of wrongly-cased javascript someday like `http://learn-javascript.com`, but we can deal with that reactively.
 
-&lt;p&gt;&lt;em&gt;The Developer notes that and focuses on the regex for the time being.&lt;/em&gt;&lt;/p&gt;
+The Developer goes to RegExr to learn how to do the exclusion she wants to do. She does a LOT of iterations while looking at the &quot;Cheatsheet&quot; in the lefthand sidebar of RegExr, and comes up with:
 
-&lt;h3 id=&quot;acts6---the-battle-of-debugging&quot;&gt;Acts[6] - The Battle of Debugging&lt;/h3&gt;
+    [^\/-]([jJ]avascript)
 
-&lt;p&gt;The Developer’s current hypothesis is that the new regex works, and the new placement works, and the next step is to get the HTML checker to use it.&lt;/p&gt;
+Which catches the bit of that HTML page she wants - `zulip-js&quot;&gt;Javascript` - but none of:
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;html_rules = whitespace_rules + prose_style_rules + [
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+    [[1]](http://stackoverflow.com/questions/500504/javascript-for-in-with-arrays),
+    [[2]](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml#for-in_loop),
+    http://my-javascript-guide.com
 
-&lt;p&gt;But wait! There are some failures! Some of these seem to imply a need to fix prose, some imply a need to fix the rule.&lt;/p&gt;
+(she just came up with that last one because the preceding hyphen strikes her as a plausible potential case)
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ./tools/lint-all
-javascript should be spelled JavaScript at templates/zerver/api.html line 8:
-    &amp;lt;p&amp;gt;We have a &amp;lt;a href=&quot;/api/endpoints&quot;&amp;gt;well-documented API&amp;lt;/a&amp;gt; that allows you to build custom integrations, in addition to our &amp;lt;a href=&quot;/integrations&quot;&amp;gt;existing integrations&amp;lt;/a&amp;gt;. For ease-of-use, we've created a Python module that you can drop in to a project to start interacting with our API. There is also a &amp;lt;a href=&quot;https://github.com/zulip/zulip-js&quot;&amp;gt;Javascript library&amp;lt;/a&amp;gt; that can be used either in the browser or in Node.js.&amp;lt;/p&amp;gt;
+The Developer is now going to figure out how to get this check into the HTML rule(s) as well. Maybe there's some way to abstract things, so it's defined in one place and run both by the HTML checker and the MD checker.
 
-javascript should be spelled JavaScript at templates/zerver/api.html line 29:
-    &amp;lt;h4&amp;gt;Javascript&amp;lt;/h4&amp;gt;
+The structure of the linter seems to be that developers set up rules/rulesets, and then reuse them elsewhere. The Developer decides to define this rule within the ruleset of *capitalization of proper nouns in prose rules*. She sets up a new ruleset, just before the current definition of `html_rules`, and simply copies the formatting of the other rules.
 
-javascript should be spelled JavaScript at templates/zerver/api.html line 39:
-      &amp;lt;li&amp;gt;&amp;lt;a href=&quot;#javascript&quot; data-toggle=&quot;tab&quot;&amp;gt;Javascript&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+To make sure she is right about how this structure works, she made a change and commits it. This will run the linter, to see whether it breaks. She saves the file and runs `git diff` in the terminal:
 
-javascript should be spelled JavaScript at templates/zerver/api.html line 136:
-&amp;lt;div class=&quot;tab-pane&quot; id=&quot;javascript&quot;&amp;gt;
+    +    prose_style_rules = [
+    +        {'pattern': '[^\/-]([jJ]avascript)',
+    +         'description': &quot;javascript should be spelled JavaScript&quot;},
+    +    ] # type: RuleList
+         html_rules = whitespace_rules + [
+             {'pattern': 'placeholder=&quot;[^{]',
+              'description': &quot;`placeholder` value should be translatable.&quot;},
+    @@ -327,11 +331,7 @@ def build_custom_checkers(by_lang):
+              'description': &quot;`placeholder` value should be translatable.&quot;},
+             ] # type: RuleList
+         json_rules = [] # type: RuleList # just fix newlines at ends of files
+    -    markdown_rules = markdown_whitespace_rules + [
+    -        {'pattern': ' [jJ]avascript',
+    -         'exclude': set(['README.dev.md']), # temporary exclusion to avoid merg
+    -         'description': &quot;javascript should be spelled JavaScript&quot;},
+    -    ] # type: RuleList
+    +    markdown_rules = markdown_whitespace_rules + prose_style_rules
 
-javascript should be spelled JavaScript at templates/zerver/index.html line 54:
-    &amp;lt;p&amp;gt;{ trans }If this message does not go away, please wait a couple seconds and &amp;lt;a href=&quot;javascript:location.reload(true)&quot;&amp;gt;reload&amp;lt;/a&amp;gt; the page.{ endtrans }&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+The Developer decides to test one thing at a time - - change the rule *or* the structure of the rule-calling. She goes for the rule-calling structure and changes the pattern for `prose_style_rules` to `'pattern': '[jJ]avascript',`. Saves. Runs:
 
-&lt;p&gt;There are five incongruities:&lt;/p&gt;
+    $ ./tools/lint-all
+    javascript should be spelled JavaScript at docs/code-style.md line 140:
+    [[1]](http://stackoverflow.com/questions/500504/javascript-for-in-with-arrays),
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Is the one the Developer wanted to find, yay!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Is similar to 1&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The hash should be excluded, but there is also some English to fix&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Is to be excluded (id in an HTML tag)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Is to be excluded (href in an HTML tag)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+    javascript should be spelled JavaScript at docs/code-style.md line 141:
+    [[2]](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml#for-in_loop),
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: Nice work!&lt;/p&gt;
+At first surprised, she quickly realizes she took out the space from the pattern - she adds the space in and runs again - it works!
 
-&lt;p&gt;She fixes the English bits and starts to wonder how to include a hash. She believes it needs special escaping, because she tried just including it using &lt;code class=&quot;highlighter-rouge&quot;&gt;'[^\/-#]([jJ]avascript)'&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;'[^\/-\#]([jJ]avascript)'&lt;/code&gt; - running &lt;code class=&quot;highlighter-rouge&quot;&gt;lint-all&lt;/code&gt; gave a lot of failures. She turns to RegExr, using her new knowledge gained from the five linter failures.&lt;/p&gt;
+The Developer is now going to try changing the regex. She changes it to `'pattern': '[^\/-]([jJ]avascript)'` and runs the linter, which seems to work.
 
-&lt;p&gt;She finds some help in the “Community” examples - looking for the word hash it turns out that &lt;code class=&quot;highlighter-rouge&quot;&gt;\#&lt;/code&gt; does indeed search for a hash. She tries to copy and paste the regex from her editor to RegExr, which responds with some errors about the ordering. She then switches the order to put the hash before the hyphen:&lt;/p&gt;
+Next she's going to try `test-all` which is more formidable and which she probably should have run earlier in this set of iterative changes.
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[^\/\#-]([jJ]avascript)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+*The Developer checks email and Zulip traffic, while waiting for the tests to finish*
 
-&lt;p&gt;And now it matches what she wants it to match! Also, it catches the quotation marks which she thought she’d have to manually check for.&lt;/p&gt;
+*The Counselor*: Although not related to your fix, take a look at `json_rules` in your diff. :)
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: haha, do you know what it’s doing there? [&lt;em&gt;meaning the ordering error&lt;/em&gt;]&lt;/p&gt;
+While she's waiting for that to run - tests seem to be passing - she wants to see what she would do to add... FAILED. The failing tests are Casper timeouts that some other developers are also getting, as they have mentioned reporting on their adventures. The Developer decides to ignore them.
 
-&lt;p&gt;&lt;em&gt;The Developer notes that she has a guess about it - something about a range of characters in ASCII - but she is going to try running it to see whether now it catches anything she doesn’t want it to&lt;/em&gt;&lt;/p&gt;
+She does a fresh diff and notices `json_rules` is completely empty, which may require further investigation in the future, to see whether it's worth blowing away or filling.
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ./tools/lint-all
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+*The Counselor*: For the json thing, my two cents is that we should blow it away now. It's clearly empty and just clutter at this point, and it wouldn't be hard to restore the json section in the event that we come up with new json rules in the future.
 
-&lt;p&gt;Hmm. Wait. She realizes she does &lt;strong&gt;not&lt;/strong&gt; want to catch the quotation marks. She adds &lt;code class=&quot;highlighter-rouge&quot;&gt;\&quot;&lt;/code&gt; to that set.&lt;/p&gt;
+*The Developer notes that and focuses on the regex for the time being.*
 
-&lt;p&gt;Adding it to the end causes &lt;code class=&quot;highlighter-rouge&quot;&gt;lint-all&lt;/code&gt; to go back into &lt;em&gt;everything is failing&lt;/em&gt; mode.&lt;/p&gt;
+### Acts[6] - The Battle of Debugging
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: This is a good case to step back. You got a cryptic red flag on the hyphen, and you made a change that you don’t completely understand, although it sounds like you have a hypothesis. What function does “-“ serve in regexes?&lt;/p&gt;
+The Developer's current hypothesis is that the new regex works, and the new placement works, and the next step is to get the HTML checker to use it.
 
-&lt;p&gt;The Developer thinks out loud:&lt;/p&gt;
+    html_rules = whitespace_rules + prose_style_rules + [
 
-&lt;p&gt;&lt;em&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;-&lt;/code&gt; gives you a range&lt;/em&gt;&lt;/p&gt;
+But wait! There are some failures! Some of these seem to imply a need to fix prose, some imply a need to fix the rule.
 
-&lt;p&gt;&lt;em&gt;so if it’s at the start of a sequence….&lt;/em&gt;&lt;/p&gt;
+    $ ./tools/lint-all
+    javascript should be spelled JavaScript at templates/zerver/api.html line 8:
+        &lt;p&gt;We have a &lt;a href=&quot;/api/endpoints&quot;&gt;well-documented API&lt;/a&gt; that allows you to build custom integrations, in addition to our &lt;a href=&quot;/integrations&quot;&gt;existing integrations&lt;/a&gt;. For ease-of-use, we've created a Python module that you can drop in to a project to start interacting with our API. There is also a &lt;a href=&quot;https://github.com/zulip/zulip-js&quot;&gt;Javascript library&lt;/a&gt; that can be used either in the browser or in Node.js.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;or rather, in the middle….&lt;/em&gt;&lt;/p&gt;
+    javascript should be spelled JavaScript at templates/zerver/api.html line 29:
+        &lt;h4&gt;Javascript&lt;/h4&gt;
 
-&lt;p&gt;&lt;em&gt;it’ll cause the regex to think “you mean everything between [char to the left] and [char to the right]”&lt;/em&gt;&lt;/p&gt;
+    javascript should be spelled JavaScript at templates/zerver/api.html line 39:
+          &lt;li&gt;&lt;a href=&quot;#javascript&quot; data-toggle=&quot;tab&quot;&gt;Javascript&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: you probably want to escape that dash for future readability &lt;em&gt;alone&lt;/em&gt;&lt;/p&gt;
+    javascript should be spelled JavaScript at templates/zerver/api.html line 136:
+    &lt;div class=&quot;tab-pane&quot; id=&quot;javascript&quot;&gt;
 
-&lt;p&gt;And it turns out that is not the only reason! The Developer is now escaping it:&lt;/p&gt;
+    javascript should be spelled JavaScript at templates/zerver/index.html line 54:
+        &lt;p&gt;{ trans }If this message does not go away, please wait a couple seconds and &lt;a href=&quot;javascript:location.reload(true)&quot;&gt;reload&lt;/a&gt; the page.{ endtrans }&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;'pattern': '[^\/\#\-\&quot;]([jJ]avascript)'
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+There are five incongruities:
 
-&lt;p&gt;And, since she’s fixed the prose problems, &lt;code class=&quot;highlighter-rouge&quot;&gt;lint-all&lt;/code&gt; gives her zero results. Yay!&lt;/p&gt;
+1. Is the one the Developer wanted to find, yay!
 
-&lt;h3 id=&quot;acts7---creating-a-pull-request&quot;&gt;Acts[7] - Creating a Pull Request&lt;/h3&gt;
+2. Is similar to 1
 
-&lt;p&gt;It’s time for the Developer to add a code comment explaining the cryptic regex:&lt;/p&gt;
+3. The hash should be excluded, but there is also some English to fix
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;'pattern':&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;'[^\/\#\-\&quot;]([jJ]avascript)',&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;#&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;exclude&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;usage&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;hrefs/divs&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+4. Is to be excluded (id in an HTML tag)
 
-&lt;p&gt;She wants to have a fine-grained control over what she’s adding in this commit, so she types outside of Vagrant (unsure if she should maybe do it in Vagrant):&lt;/p&gt;
+5. Is to be excluded (href in an HTML tag)
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git add -p
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+*The Counselor*: Nice work!
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: You should always do git stuff outside of Vagrant, unless you just enjoy pain. :)&lt;/p&gt;
+She fixes the English bits and starts to wonder how to include a hash. She believes it needs special escaping, because she tried just including it using `'[^\/-#]([jJ]avascript)'` or `'[^\/-\#]([jJ]avascript)'` - running `lint-all` gave a lot of failures. She turns to RegExr, using her new knowledge gained from the five linter failures.
 
-&lt;p&gt;She reviews all the changes:&lt;/p&gt;
+She finds some help in the &quot;Community&quot; examples - looking for the word hash it turns out that `\#` does indeed search for a hash. She tries to copy and paste the regex from her editor to RegExr, which responds with some errors about the ordering. She then switches the order to put the hash before the hyphen:
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;she made prose fixes&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;she changed the rule for finding the incorrect spellings of &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; and moved it to a new ruleset&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;she removed the temporary &lt;code class=&quot;highlighter-rouge&quot;&gt;README.dev.md&lt;/code&gt; exclusion, since that file doesn’t exist anymore&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+    [^\/\#-]([jJ]avascript)
 
-&lt;p&gt;The Developer makes the judgment call that all this is one logical change and decides to put it in one commit.&lt;/p&gt;
+And now it matches what she wants it to match! Also, it catches the quotation marks which she thought she'd have to manually check for.
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git commit
-Running lint-all using vagrant...
-[sudo] password for sumanah:
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+*The Counselor*: haha, do you know what it's doing there? [*meaning the ordering error*]
 
-&lt;p&gt;Which pops up her editor to write a commit message. The Backstage Voice’s commit message from July was &lt;code class=&quot;highlighter-rouge&quot;&gt;lint: Add documentation lint check for JavaScript spelling.&lt;/code&gt; - she can’t go wrong by copying its format.&lt;/p&gt;
+*The Developer notes that she has a guess about it - something about a range of characters in ASCII - but she is going to try running it to see whether now it catches anything she doesn't want it to*
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: This is a pretty borderline call, but I’ll make the argument that you should actually split the commit–doc changes and lint changes.&lt;/p&gt;
+    $ ./tools/lint-all
 
-&lt;p&gt;The Developer argues that The Backstage Voice did a similar fix all in one go (prose + linter), so she’s ok with doing the same right now.&lt;/p&gt;
+Hmm. Wait. She realizes she does **not** want to catch the quotation marks. She adds `\&quot;` to that set.
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: If there was some subtle bug in the regex (not likely at this point, but just suppose the possibility), then it would be nice to roll back the lint changes without regressing the docs. But one commit is realistically fine here.&lt;/p&gt;
+Adding it to the end causes `lint-all` to go back into *everything is failing* mode.
 
-&lt;p&gt;The Developer agrees she’s not not necessarily following the absolute most pristine best practices here.&lt;/p&gt;
+*The Counselor*: This is a good case to step back. You got a cryptic red flag on the hyphen, and you made a change that you don't completely understand, although it sounds like you have a hypothesis. What function does &quot;-&quot; serve in regexes?
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: There are occasions where we need to combine the commits because without the lint change, the code fixups will actually break. But sometimes we’re just lazy, too, haha. :)&lt;/p&gt;
+The Developer thinks out loud:
 
-&lt;p&gt;The Developer made a commit and is now making the change to remove the empty JSON ruleset, to add in a different commit. She thought she could just snip out that one line, but then when she tried to commit, the linter complained, because guess what, the linter actually calls &lt;code class=&quot;highlighter-rouge&quot;&gt;json_rules&lt;/code&gt; elsewhere!&lt;/p&gt;
+*`-` gives you a range*
 
-&lt;p&gt;When she looks for &lt;code class=&quot;highlighter-rouge&quot;&gt;json&lt;/code&gt; in this file she sees a lot of things she is not going to change during this adventure. She is going to file an issue for someone else to look at it. She gets back to the state she wanted to be in, where she has not touched the JSON-related code.&lt;/p&gt;
+*so if it's at the start of a sequence....*
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git reset HEAD
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+*or rather, in the middle....*
 
-&lt;p&gt;It is now the time for a pull request with a single commit.&lt;/p&gt;
+*it'll cause the regex to think &quot;you mean everything between [char to the left] and [char to the right]&quot;*
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git status
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+*The Counselor*: you probably want to escape that dash for future readability *alone*
 
-&lt;p&gt;It shows a lot of untracked files, but the Developer knows that the modifications she wants to push are in the tracked ones.&lt;/p&gt;
+And it turns out that is not the only reason! The Developer is now escaping it:
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git push origin JavaScript-linter
-Counting objects: 54, done.
-Delta compression using up to 4 threads.
-Compressing objects: 100% (7/7), done.
-Writing objects: 100% (7/7), 944 bytes | 0 bytes/s, done.
-Total 7 (delta 6), reused 0 (delta 0)
-remote: Resolving deltas: 100% (6/6), completed with 6 local objects.
-To git@github.com:brainwane/zulip.git
- * [new branch]      JavaScript-linter -&amp;gt; JavaScript-linter
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+    'pattern': '[^\/\#\-\&quot;]([jJ]avascript)'
 
-&lt;p&gt;She opens a new tab in her browser and GitHub agrees she has just pushed a new branch. She wants to start her pull request, but suddenly realizes she forgot to mention in her commit message why she was removing that exclusion for the nonexistent page.&lt;/p&gt;
+And, since she's fixed the prose problems, `lint-all` gives her zero results. Yay!
 
-&lt;p&gt;The Developer goes back to fix it:&lt;/p&gt;
+### Acts[7] - Creating a Pull Request
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git commit --amend
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+It's time for the Developer to add a code comment explaining the cryptic regex:
 
-&lt;p&gt;After updating the commit message she runs:&lt;/p&gt;
+    {'pattern': '[^\/\#\-\&quot;]([jJ]avascript)', # exclude usage in hrefs/divs
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git push -f origin JavaScript-linter
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+She wants to have a fine-grained control over what she's adding in this commit, so she types outside of Vagrant (unsure if she should maybe do it in Vagrant):
 
-&lt;p&gt;and reloads GitHub. Control-R on the pull request doesn’t quite work - the new commit message shows up as the page is loading, but when it finishes loading, it has the old one. Cache issue? She goes to the &lt;code class=&quot;highlighter-rouge&quot;&gt;zulip/zulip&lt;/code&gt; GitHub repo and then to &lt;code class=&quot;highlighter-rouge&quot;&gt;brainwane/zulip&lt;/code&gt; and she tries clicking “Pull requests” and manually constructing one from her branch, and now the &lt;a href=&quot;https://github.com/zulip/zulip/pull/2029&quot;&gt;pull request&lt;/a&gt; is there.&lt;/p&gt;
+    $ git add -p
 
-&lt;p&gt;The Developer waits for Travis CI to decide if it’s going to complain when running the test suite.&lt;/p&gt;
+*The Counselor*: You should always do git stuff outside of Vagrant, unless you just enjoy pain. :)
 
-&lt;h3 id=&quot;acts8---aftermath&quot;&gt;Acts[8] - Aftermath&lt;/h3&gt;
+She reviews all the changes:
 
-&lt;p&gt;The Developer is surprised how much time it took her to fix the linter issue.&lt;/p&gt;
+- she made prose fixes
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: Even seemingly small changes like this can be time-consuming when you’re thorough. :) The good news is that the fix is broader than the original problem–we’re looking not just for markdown, but also HTML, and we removed some obsolete temporary shim code. Also, the new code is cleaner is terms of separating out the rules. (Also, regexes are always tricky and time-consuming.)&lt;/p&gt;
+- she changed the rule for finding the incorrect spellings of `JavaScript` and moved it to a new ruleset
 
-&lt;p&gt;&lt;em&gt;Travis CI concludes the Developer’s code failed the tests.&lt;/em&gt;&lt;/p&gt;
+- she removed the temporary `README.dev.md` exclusion, since that file doesn't exist anymore
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: @The Backstage Voice the pull request seems to be breaking due to a provisioning thing unrelated to the Developer’s fix.&lt;/p&gt;
+The Developer makes the judgment call that all this is one logical change and decides to put it in one commit.
 
-&lt;p&gt;The Developer remembers to create an issue for the &lt;code class=&quot;highlighter-rouge&quot;&gt;json_rule&lt;/code&gt;. She runs &lt;code class=&quot;highlighter-rouge&quot;&gt;git blame&lt;/code&gt; to see who added the &lt;code class=&quot;highlighter-rouge&quot;&gt;json_rule&lt;/code&gt; and sees it was last touched by The Counselor in 3c401571. She runs &lt;code class=&quot;highlighter-rouge&quot;&gt;git show 3c401571&lt;/code&gt; and sees it was a refactor.&lt;/p&gt;
+    $ git commit
+    Running lint-all using vagrant...
+    [sudo] password for sumanah:
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: Yep, my change was just moving code around. I’m about to investigate where the rules were actually emptied out.&lt;/p&gt;
+Which pops up her editor to write a commit message. The Backstage Voice's commit message from July was `lint: Add documentation lint check for JavaScript spelling.` - she can't go wrong by copying its format.
 
-&lt;p&gt;The Developer has filed &lt;a href=&quot;https://github.com/zulip/zulip/issues/2030&quot;&gt;an issue&lt;/a&gt; and asks the Counselor to teach her more about the investigative skill he intends to use. She is particularly interested in the specifics of how to find deleted code.&lt;/p&gt;
+*The Counselor*: This is a pretty borderline call, but I'll make the argument that you should actually split the commit--doc changes and lint changes.
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: First, I want to get the latest copy of master, so I do this:&lt;/p&gt;
+The Developer argues that The Backstage Voice did a similar fix all in one go (prose + linter), so she's ok with doing the same right now.
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  $ git checkout master
-  $ git fetch upstream
-  $ git rebase upstream/master
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+*The Counselor*: If there was some subtle bug in the regex (not likely at this point, but just suppose the possibility), then it would be nice to roll back the lint changes without regressing the docs. But one commit is realistically fine here.
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: I then do &lt;code class=&quot;highlighter-rouge&quot;&gt;git log -S json_rules&lt;/code&gt; to find changes that might have touched &lt;code class=&quot;highlighter-rouge&quot;&gt;json_rules&lt;/code&gt;, and I find this change: &lt;code class=&quot;highlighter-rouge&quot;&gt;e71d8bb4b6b1e90f4b6c0fb9ab93cd9929c9d87e&lt;/code&gt;&lt;/p&gt;
+The Developer agrees she's not not necessarily following the absolute most pristine best practices here.
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git show e71d8bb4b6b1e90f4b6c0fb9ab93cd9929c9d87e
-commit e71d8bb4b6b1e90f4b6c0fb9ab93cd9929c9d87e
-Author: Tim Abbott &amp;lt;tabbott@mit.edu&amp;gt;
-Date:   Thu Apr 14 10:48:30 2016 -0700
+*The Counselor*: There are occasions where we need to combine the commits because without the lint change, the code fixups will actually break. But sometimes we're just lazy, too, haha. :)
 
-    lint-all: Require newlines at end of JSON files.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+The Developer made a commit and is now making the change to remove the empty JSON ruleset, to add in a different commit. She thought she could just snip out that one line, but then when she tried to commit, the linter complained, because guess what, the linter actually calls `json_rules` elsewhere!
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: So, this is a bit messy, but it turns out that when you call &lt;code class=&quot;highlighter-rouge&quot;&gt;custom_check_file&lt;/code&gt; on a file, even if the &lt;code class=&quot;highlighter-rouge&quot;&gt;rules&lt;/code&gt; parameter is an empty list, it still does a check for trailing newlines. So the current code’s behavior is correct, although there might be a way to refactor the code to improve clarity. Checking for whitespace issues is decidedly non-custom, so the name of the function is misleading to the extent that it does non-custom checks.&lt;/p&gt;
+When she looks for `json` in this file she sees a lot of things she is not going to change during this adventure. She is going to file an issue for someone else to look at it. She gets back to the state she wanted to be in, where she has not touched the JSON-related code.
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: It’s a little bit of a performance hack that we try to sweep a file all in one pass, both for custom regex things and generic things. If we separated out those concerns, which would be cleaner for somebody reading the code, then we’d introduce a small performance penalty in that we’d have to open every file twice.&lt;/p&gt;
+    $ git reset HEAD
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: We could go down a huge rabbit hole trying to clean this up, but I think for now the simple fix is to clarify the comment. Something like:&lt;/p&gt;
+It is now the time for a pull request with a single commit.
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# It is okay that json_rules is empty, because we will
-# still check JSON files for whitespace
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+    $ git status
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: The current comment is &lt;code class=&quot;highlighter-rouge&quot;&gt;# just fix newlines at ends of files&lt;/code&gt;, which sort of implies that, but I think we can be more explicit.&lt;/p&gt;
+It shows a lot of untracked files, but the Developer knows that the modifications she wants to push are in the tracked ones.
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: It might be worth making that quick fix, so that as a side effect, your re-push will kick off a new Travis build. I’m curious if the Travis errors you got are permanent or just a one-time flakiness thing.&lt;/p&gt;
+    $ git push origin JavaScript-linter
+    Counting objects: 54, done.
+    Delta compression using up to 4 threads.
+    Compressing objects: 100% (7/7), done.
+    Writing objects: 100% (7/7), 944 bytes | 0 bytes/s, done.
+    Total 7 (delta 6), reused 0 (delta 0)
+    remote: Resolving deltas: 100% (6/6), completed with 6 local objects.
+    To git@github.com:brainwane/zulip.git
+     * [new branch]      JavaScript-linter -&gt; JavaScript-linter
 
-&lt;p&gt;The Developer makes the quick fix for the newly filed issue in a new commit and re-pushes her code.&lt;/p&gt;
+She opens a new tab in her browser and GitHub agrees she has just pushed a new branch. She wants to start her pull request, but suddenly realizes she forgot to mention in her commit message why she was removing that exclusion for the nonexistent page.
 
-&lt;p&gt;&lt;em&gt;The Counselor&lt;/em&gt;: Indeed! Incidentally, your build passed, so I think the prior failure was just some sort of flakiness in the Travis infrastructure.&lt;/p&gt;
+The Developer goes back to fix it:
 
-&lt;p&gt;Phew!&lt;/p&gt;
+    $ git commit --amend
 
-&lt;p&gt;&lt;em&gt;The Backstage Voice&lt;/em&gt;: Yeah, if you ever see an error about being unable to download a URL on the public internet, that’s almost certainly caused by internal networking infrastructure problems with Travis CI.&lt;/p&gt;
+After updating the commit message she runs:
 
-&lt;p&gt;The Developer wonders if it’s a durable enough prediction that it should go in our testing docs?&lt;/p&gt;
+    $ git push -f origin JavaScript-linter
 
-&lt;p&gt;&lt;em&gt;The Backstage Voice&lt;/em&gt;: I think it might be better to add some retry logic around the network-intensive parts of our testing system (e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;apt-get&lt;/code&gt; commands). It’s probably about as much work as writing good docs for this, and has the advantage that it might actually solve the problem.&lt;/p&gt;
+and reloads GitHub. Control-R on the pull request doesn't quite work - the new commit message shows up as the page is loading, but when it finishes loading, it has the old one. Cache issue? She goes to the `zulip/zulip` GitHub repo and then to `brainwane/zulip` and she tries clicking &quot;Pull requests&quot; and manually constructing one from her branch, and now the [pull request](https://github.com/zulip/zulip/pull/2029) is there.
 
-&lt;p&gt;The Developer files &lt;a href=&quot;https://github.com/zulip/zulip/issues/2034&quot;&gt;another issue&lt;/a&gt;.&lt;/p&gt;
+The Developer waits for Travis CI to decide if it's going to complain when running the test suite.
 
-&lt;p&gt;THE END&lt;/p&gt;
+### Acts[8] - Aftermath
 
-&lt;h2 id=&quot;lessons-learned&quot;&gt;Lessons Learned&lt;/h2&gt;
+The Developer is surprised how much time it took her to fix the linter issue.
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;The developer’s journey requires a methodic and mindful approach. They have to first understand the problem and identify the probable causes. They should not be afraid of making mistakes and testing hypotheses.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Reading the documentation while looking for answers to specific questions seems to work well while trying to solve a problem. Initial familiarity with the documentation helps with finding the relevant documents.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Asking for help after trying and looking is the logical next step. There is no point in getting lost in a jungle of bugs.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Good understanding of what’s exactly happening in code is crucial. Sometimes developers look over small discrepancies, but they may become causes of bigger problems.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Even seemingly small changes can be time-consuming when one is thorough. While solving one problem a developer may encounter many other problems on many levels.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;It is often wise for a developer to be cautious about believing they know the truth. When approaching a problem it is important to have some history of the project that gives a sense of how risky the change is. It is also helpful to approach it with the scientific method and creating hypotheses about what could fail if they make a change.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Coding is an adventure. It’s demanding, requires a lot of patience and perseverance, but it’s a most rewarding endeavor.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>alicja</name></author><summary>Recently I’ve had the pleasure of seeing Sumana Harihareswara live documenting a coding adventure on Zulip. As I wanted to learn even more from this experience, I’ve reread it and tried to break it into high level activities.</summary></entry><entry><title>RC - day 65</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-65.html" rel="alternate" type="text/html" title="RC - day 65" /><published>2016-10-20T07:30:31-04:00</published><updated>2016-10-20T07:30:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-65</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-65.html">&lt;p&gt;Achievements:&lt;/p&gt;
+*The Counselor*: Even seemingly small changes like this can be time-consuming when you're thorough. :) The good news is that the fix is broader than the original problem--we're looking not just for markdown, but also HTML, and we removed some obsolete temporary shim code. Also, the new code is cleaner is terms of separating out the rules. (Also, regexes are always tricky and time-consuming.)
 
-&lt;ul&gt;
-  &lt;li&gt;worked on rewriting a live coding session into a blog post&lt;/li&gt;
-  &lt;li&gt;read up Zulip documentation and looked through current issues&lt;/li&gt;
-  &lt;li&gt;community non-technical lightning talks&lt;/li&gt;
-  &lt;li&gt;talked about preferences with emoji&lt;/li&gt;
-&lt;/ul&gt;
+*Travis CI concludes the Developer's code failed the tests.*
 
-&lt;p&gt;Yesterday I volunteered to reread Sumana’s live coding session on Zulip and rewrite it into a blog post. It seemed like a simple enough task, yet turned out to be quite challenging. First I had to make sure I understand her reasoning and code - which I thought I did after the first reading - and then write about it. I didn’t write as much as I expected, much less finished it in one evening as I expected.&lt;/p&gt;
+*The Counselor*: @The Backstage Voice the pull request seems to be breaking due to a provisioning thing unrelated to the Developer's fix.
 
-&lt;p&gt;To not discourage myself again and feel like I’ve done some actual work, I’ve read up some Zulip documentation and looked through current issues for inspiration.&lt;/p&gt;
+The Developer remembers to create an issue for the `json_rule`. She runs `git blame` to see who added the `json_rule` and sees it was last touched by The Counselor in 3c401571. She runs `git show 3c401571` and sees it was a refactor.
 
-&lt;p&gt;The community non-technical lightning talks today were great, some of my favourites:&lt;/p&gt;
+*The Counselor*: Yep, my change was just moving code around. I'm about to investigate where the rules were actually emptied out.
 
-&lt;ul&gt;
-  &lt;li&gt;Lushi talked about kungfu, which is often used as an umbrella term for Chinese martial arts, but actually means a deliberate practice of expert skills over a long period of time&lt;/li&gt;
-  &lt;li&gt;Mike had a half-sketch, half-serious and worrying talk on Brexit&lt;/li&gt;
-  &lt;li&gt;Andrea talked about knot theory in mathematics, which turned out to be more exciting than I thought&lt;/li&gt;
-  &lt;li&gt;Andrew presented the concept of counterpoint in music with an amazing &lt;a href=&quot;https://www.youtube.com/watch?v=iT-ZAAi4UQQ&quot;&gt;Spem in Alium&lt;/a&gt; by Thomas Tallis, written for 40 voices&lt;/li&gt;
-  &lt;li&gt;Julia picked our brains with &lt;a href=&quot;http://www.tinyurl.com/fundamentalideas&quot;&gt;fundamental ideas&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+The Developer has filed [an issue](https://github.com/zulip/zulip/issues/2030) and asks the Counselor to teach her more about the investigative skill he intends to use. She is particularly interested in the specifics of how to find deleted code.
 
-&lt;p&gt;My presentation has been recorded and may end up being publicly available some time soon.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 64</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-64.html" rel="alternate" type="text/html" title="RC - day 64" /><published>2016-10-20T07:12:31-04:00</published><updated>2016-10-20T07:12:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-64</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-64.html">&lt;p&gt;Achievements:&lt;/p&gt;
+*The Counselor*: First, I want to get the latest copy of master, so I do this:
 
-&lt;ul&gt;
-  &lt;li&gt;refactored my proposal and application for Outreachy&lt;/li&gt;
-  &lt;li&gt;read all the other applications for Outreachy at Zulip&lt;/li&gt;
-  &lt;li&gt;contra danced!&lt;/li&gt;
-&lt;/ul&gt;
+      $ git checkout master
+      $ git fetch upstream
+      $ git rebase upstream/master
 
-&lt;p&gt;After a lot of working over the weekend, today I’ve spent a lot of time getting to know other applicants for Outreachy at Zulip and refactored my initial project proposal a few times. I got some positive feedback, but I still need to flesh out the details.&lt;/p&gt;
+*The Counselor*: I then do `git log -S json_rules` to find changes that might have touched `json_rules`, and I find this change: `e71d8bb4b6b1e90f4b6c0fb9ab93cd9929c9d87e`
 
-&lt;p&gt;In the evening, I’ve tried contra dancing for the very first time. It was surprisingly intense and exhausting, but at the same time very much fun with a lot of bonding.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+    $ git show e71d8bb4b6b1e90f4b6c0fb9ab93cd9929c9d87e
+    commit e71d8bb4b6b1e90f4b6c0fb9ab93cd9929c9d87e
+    Author: Tim Abbott &lt;tabbott@mit.edu&gt;
+    Date:   Thu Apr 14 10:48:30 2016 -0700
+
+        lint-all: Require newlines at end of JSON files.
+
+*The Counselor*: So, this is a bit messy, but it turns out that when you call `custom_check_file` on a file, even if the `rules` parameter is an empty list, it still does a check for trailing newlines. So the current code's behavior is correct, although there might be a way to refactor the code to improve clarity. Checking for whitespace issues is decidedly non-custom, so the name of the function is misleading to the extent that it does non-custom checks.
+
+*The Counselor*: It's a little bit of a performance hack that we try to sweep a file all in one pass, both for custom regex things and generic things. If we separated out those concerns, which would be cleaner for somebody reading the code, then we'd introduce a small performance penalty in that we'd have to open every file twice.
+
+*The Counselor*: We could go down a huge rabbit hole trying to clean this up, but I think for now the simple fix is to clarify the comment. Something like:
+
+    # It is okay that json_rules is empty, because we will
+    # still check JSON files for whitespace
+
+*The Counselor*: The current comment is `# just fix newlines at ends of files`, which sort of implies that, but I think we can be more explicit.
+
+*The Counselor*: It might be worth making that quick fix, so that as a side effect, your re-push will kick off a new Travis build. I'm curious if the Travis errors you got are permanent or just a one-time flakiness thing.
+
+The Developer makes the quick fix for the newly filed issue in a new commit and re-pushes her code.
+
+*The Counselor*: Indeed! Incidentally, your build passed, so I think the prior failure was just some sort of flakiness in the Travis infrastructure.
+
+Phew!
+
+*The Backstage Voice*: Yeah, if you ever see an error about being unable to download a URL on the public internet, that's almost certainly caused by internal networking infrastructure problems with Travis CI.
+
+The Developer wonders if it's a durable enough prediction that it should go in our testing docs?
+
+*The Backstage Voice*: I think it might be better to add some retry logic around the network-intensive parts of our testing system (e.g. `apt-get` commands). It's probably about as much work as writing good docs for this, and has the advantage that it might actually solve the problem.
+
+The Developer files [another issue](https://github.com/zulip/zulip/issues/2034).
+
+THE END
+
+## Lessons Learned
+
+1. The developer's journey requires a methodic and mindful approach. They have to first understand the problem and identify the probable causes. They should not be afraid of making mistakes and testing hypotheses.
+
+2. Reading the documentation while looking for answers to specific questions seems to work well while trying to solve a problem. Initial familiarity with the documentation helps with finding the relevant documents.
+
+3. Asking for help after trying and looking is the logical next step. There is no point in getting lost in a jungle of bugs.
+
+4. Good understanding of what's exactly happening in code is crucial. Sometimes developers look over small discrepancies, but they may become causes of bigger problems.
+
+5. Even seemingly small changes can be time-consuming when one is thorough. While solving one problem a developer may encounter many other problems on many levels.
+
+6. It is often wise for a developer to be cautious about believing they know the truth. When approaching a problem it is important to have some history of the project that gives a sense of how risky the change is. It is also helpful to approach it with the scientific method and creating hypotheses about what could fail if they make a change.
+
+7. Coding is an adventure. It's demanding, requires a lot of patience and perseverance, but it's a most rewarding endeavor.</content><author><name>alicja</name></author><summary>Recently I’ve had the pleasure of seeing Sumana Harihareswara live documenting a coding adventure on Zulip. As I wanted to learn even more from this experience, I’ve reread it and tried to break it into high level activities.</summary></entry><entry><title>RC - day 65</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-65.html" rel="alternate" type="text/html" title="RC - day 65" /><published>2016-10-20T07:30:31-04:00</published><updated>2016-10-20T07:30:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-65</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-65.html">Achievements:
+
+* worked on rewriting a live coding session into a blog post
+* read up Zulip documentation and looked through current issues
+* community non-technical lightning talks
+* talked about preferences with emoji
+
+Yesterday I volunteered to reread Sumana's live coding session on Zulip and rewrite it into a blog post. It seemed like a simple enough task, yet turned out to be quite challenging. First I had to make sure I understand her reasoning and code - which I thought I did after the first reading - and then write about it. I didn't write as much as I expected, much less finished it in one evening as I expected.
+
+To not discourage myself again and feel like I've done some actual work, I've read up some Zulip documentation and looked through current issues for inspiration.
+
+The community non-technical lightning talks today were great, some of my favourites:
+
+* Lushi talked about kungfu, which is often used as an umbrella term for Chinese martial arts, but actually means a deliberate practice of expert skills over a long period of time
+* Mike had a half-sketch, half-serious and worrying talk on Brexit
+* Andrea talked about knot theory in mathematics, which turned out to be more exciting than I thought
+* Andrew presented the concept of counterpoint in music with an amazing [Spem in Alium](https://www.youtube.com/watch?v=iT-ZAAi4UQQ) by Thomas Tallis, written for 40 voices
+* Julia picked our brains with [fundamental ideas](http://www.tinyurl.com/fundamentalideas)
+
+My presentation has been recorded and may end up being publicly available some time soon.</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 64</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-64.html" rel="alternate" type="text/html" title="RC - day 64" /><published>2016-10-20T07:12:31-04:00</published><updated>2016-10-20T07:12:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-64</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/20/RC-day-64.html">Achievements:
+
+* refactored my proposal and application for Outreachy
+* read all the other applications for Outreachy at Zulip
+* contra danced!
+
+After a lot of working over the weekend, today I've spent a lot of time getting to know other applicants for Outreachy at Zulip and refactored my initial project proposal a few times. I got some positive feedback, but I still need to flesh out the details.
+
+In the evening, I've tried contra dancing for the very first time. It was surprisingly intense and exhausting, but at the same time very much fun with a lot of bonding.</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
