@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-27T03:12:23-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>I can’t get no motivation</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/27/I-cant-get-no-motivation.html" rel="alternate" type="text/html" title="I can't get no motivation" /><published>2016-10-27T02:58:31-04:00</published><updated>2016-10-27T02:58:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/27/I-cant-get-no-motivation</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/27/I-cant-get-no-motivation.html">&lt;p&gt;Od jakiegoś czasu zalegają w moim folderze “motywacyjnym” i niezbyt często je przeglądam, ale może zmotywują kogoś innego.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-28T04:54:21-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 74</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/28/RC-day-74.html" rel="alternate" type="text/html" title="RC - dzień 74" /><published>2016-10-28T04:30:31-04:00</published><updated>2016-10-28T04:30:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/28/RC-day-74</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/28/RC-day-74.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;rozmowy z Jennifer i Jamesem&lt;/li&gt;
+  &lt;li&gt;wspólna prezentacja z Chrisem&lt;/li&gt;
+  &lt;li&gt;targi pracy&lt;/li&gt;
+  &lt;li&gt;kolejny przyczynek do Zulipa&lt;/li&gt;
+  &lt;li&gt;zabawa z Twine&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Zaczęłam dzień rozmową z Jennifer w ramach nowego eksperymentu w RC - codziennie wybieramy się na spacer czy kawę z inną osobą, żeby nieco lepiej się poznać. Podziwiam jej skupienie na celu, a jednocześnie nadal mnie zadziwia, jak wiele Recurserzy mają wspólnego w podejściu do rozwijania się i uczenia się trudnych rzeczy.&lt;/p&gt;
+
+&lt;p&gt;Vaibhav miał świetny pomysł organizowania wspólnych prezentacji, żeby ośmielić tych z nas, który jeszcze nie mieli okazji zaprezentować swoich projektów. Miałam okazję współpracować z Chrisem nad jeko aplikacją do &lt;a href=&quot;http://chrissebesta.com/2016-10-19-citibikeroutingapp/&quot;&gt;znajdowania drogi do celu&lt;/a&gt;, przede wszystkim używając rowerów miejskich. Była to dla niego dobra okazja do nauczenia się więcej Angulara 2 i API map Google’a. Rozmawialiśmy też o możliwych nowych funkcjonalnościach, które mógłby rozwijać przez wspólne programowanie w RC. Tak żarliwie opowiadał o koncepcji “mid-endu” (back-endu na front-endzie), że może spróbuję kolejnego podejścia do Angulara.&lt;/p&gt;
+
+&lt;p&gt;Pozostałe prezentacje dzisiaj:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Harol pomógł Andrei zaprezentować jej &lt;a href=&quot;https://github.com/aheyman11/style-transfer-playground&quot;&gt;aplikację do przenikania stylów w obrazach i zdjęciach&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Michelle opowiedziała o &lt;a href=&quot;https://github.com/ajyoon/blur&quot;&gt;narzędziach do ułatwienia algorytmicznej sztuki&lt;/a&gt; zbudowanych przez Andrew&lt;/li&gt;
+  &lt;li&gt;Mike wyjaśnił, jak działają sieci neuronowe, po szybkim kursie od Deniz&lt;/li&gt;
+  &lt;li&gt;Trey &lt;a href=&quot;https://github.com/TreyLawrence/slackersnooze&quot;&gt;spersonalizował Hacker News&lt;/a&gt;, co pomógł mu pokazać Vaibhav&lt;/li&gt;
+  &lt;li&gt;Isabel i Isla użyły &lt;a href=&quot;http://bokeh.pydata.org/en/latest/docs/gallery/image.html&quot;&gt;Bokeh&lt;/a&gt; do wizualizacji danych genomowych&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mieliśmy też wieczorem targi pracy. Nie byłam szczególnie zainteresowana żadną z firm, bo nie miały one propozycji dla zdalnych pracowników, więc chciałam wesprzeć innych Recurserów. Nie było jednak zbyt wielkiej potrzeby pomocy, bo większość świetnie sobie radziła bez dodatkowych zachęt, więc pół networkingowałam, pół cieszyłam się luźną atmosferą.&lt;/p&gt;
+
+&lt;p&gt;Robię się coraz lepsza w rozdzielaniu CSSa Zulipa na poszczególne elementy. Przesunęłam spory kawałek kodu i mogę teraz zaplanować więcej niż kilka korków na raz, bo lepiej rozumiem, jak będzie trzeba przeprowadzić refaktoryzację i jakie mogą być potrzebne dodatkowe zmiany. Zaczęło się to jako dość mozolne, choć bardzo potrzebne, zadanie i przekształciło się w dobrą okazję do nauki. Poza tym wspieram też w ten sposób innych członków zespolu, więc czuję się pomocna nawet wtedy, kiedy dopiero się uczę aplikacji i procesów.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>I can’t get no motivation</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/27/I-cant-get-no-motivation.html" rel="alternate" type="text/html" title="I can't get no motivation" /><published>2016-10-27T02:58:31-04:00</published><updated>2016-10-27T02:58:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/27/I-cant-get-no-motivation</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/27/I-cant-get-no-motivation.html">&lt;p&gt;Od jakiegoś czasu zalegają w moim folderze “motywacyjnym” i niezbyt często je przeglądam, ale może zmotywują kogoś innego.&lt;/p&gt;
 
 &lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
 
@@ -340,27 +366,4 @@
   &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 65</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-65.html" rel="alternate" type="text/html" title="RC - dzień 65" /><published>2016-10-22T00:02:31-04:00</published><updated>2016-10-22T00:02:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-65</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-65.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;pracowałam nad opisaniem na blogu sesji programowania na żywo&lt;/li&gt;
-  &lt;li&gt;poczytałam sporo dokumentacji Zulipa i przejrzałam zgłoszenia poprawek&lt;/li&gt;
-  &lt;li&gt;obejrzałam nietechniczne prezentacje&lt;/li&gt;
-  &lt;li&gt;zaprezentowałam preferencje ekonomiczne przy użyciu emoji&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Wczoraj zgłosiłam się do opisania w formie posta na bloga sesji programowania na żywo, którą Sumana przeprowadziła na Zulipe. Wydawało się to dość prostym zadaniem, ale okazało się dość wymagające. Musiałam się upewnić, że rozumiem jej rozumowanie i kod, żeby móc cokolwiek opisać, choć wydawało mi się oczywiste po pierwszym przeczytaniu, że rozumiem. Nie napisałam tak wiele jak oczekiwałam i jestem daleka od skończenia.&lt;/p&gt;
-
-&lt;p&gt;Aby znowu się nie zniechęcić i czuć, że faktycznie nad czymś popracowałam, poczytałam sporo dokumentacji Zulipa i przejrzałam zgłoszenia poprawek, szukając inspiracji.&lt;/p&gt;
-
-&lt;p&gt;Nietechniczne prezentacje były ciekawe, z moich ulubieńców na dziś:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Lushi opowiadała o kungfu, które często jest używane jako ogólny termin na opisywanie chińskich sztuk walki, ale tak naprawdę znaczy celowe praktykowanie umiejętności w długim okresie&lt;/li&gt;
-  &lt;li&gt;Mike przedstawił pół-skecz, pół-prezentację na temat Brexitu&lt;/li&gt;
-  &lt;li&gt;Andrea opowiadała o matematycznej teorii węzłów, co okazało się znacznie bardziej interesujące niż podejrzewałam&lt;/li&gt;
-  &lt;li&gt;Andrew opowiadał o kontrapunkcie w muzyce, podając za przykład niesamowicie złożony i majestatyczny &lt;a href=&quot;https://www.youtube.com/watch?v=iT-ZAAi4UQQ&quot;&gt;Spem in Alium&lt;/a&gt; na 40 głosów, Thomasa Tallisa&lt;/li&gt;
-  &lt;li&gt;Julia opowiadała o &lt;a href=&quot;http://www.tinyurl.com/fundamentalideas&quot;&gt;fundamentalnych konceptach&lt;/a&gt; [EN] i ich znaczeniu dla szybkiego uczenia się&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Moja prezentacja została nagrana i może za jakiś czas znaleźć się publicznie w Internecie.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
