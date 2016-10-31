@@ -1179,39 +1179,50 @@
     
 
     <div class="post-content">
-      Achievements:
+      <p>Achievements:</p>
 
-* took part in Wireshark workshop
-* signed up for entrepreneurship workshop
-* learned to communicate with RC API
-* planned an app for the community
-* learned to build apps in Sinatra and deploy them to Heroku
-* build a to-do list app
+<ul>
+  <li>took part in Wireshark workshop</li>
+  <li>signed up for entrepreneurship workshop</li>
+  <li>learned to communicate with RC API</li>
+  <li>planned an app for the community</li>
+  <li>learned to build apps in Sinatra and deploy them to Heroku</li>
+  <li>build a to-do list app</li>
+</ul>
 
-I didn't suspect that becoming a full-time night-owl can be so satisfying and at the same time so completely out of sync with everyone. I sleep and rest better, but anything happening before noon is out of my reach.
+<p>I didn’t suspect that becoming a full-time night-owl can be so satisfying and at the same time so completely out of sync with everyone. I sleep and rest better, but anything happening before noon is out of my reach.</p>
 
-The RC part of the day started late, with some much needed personal errands that took priority over interview prep, watercolours and blog meeting. Thankfully, at least I've made it to Mike's second Wireshark workshop and was able to sign-up for Paul's intense workshop on entrepreneurship next Saturday.
+<p>The RC part of the day started late, with some much needed personal errands that took priority over interview prep, watercolours and blog meeting. Thankfully, at least I’ve made it to Mike’s second Wireshark workshop and was able to sign-up for Paul’s intense workshop on entrepreneurship next Saturday.</p>
 
-I wanted to simply refactor one of my old projects, but got inspired to come up with an app for RC community - a pop quiz to help learn fellow Recursers' names. In order to do that with a minimum setup, I've decided to use Ruby and Sinatra, which I first had to learn.
+<p>I wanted to simply refactor one of my old projects, but got inspired to come up with an app for RC community - a pop quiz to help learn fellow Recursers’ names. In order to do that with a minimum setup, I’ve decided to use Ruby and Sinatra, which I first had to learn.</p>
 
-A few hours, one [pretty good tutorial](https://www.sitepoint.com/just-do-it-learn-sinatra-i/) and some hundred Google queries later, I've created and deployed a [simple to-do list](https://initialist.herokuapp.com/) app on Heroku. At the moment there are no users, so I'm not taking responsibility for any content that may or may not be added by any third parties. Over the weekend I'll add some users and authorisation, probably using the RC OAuth, just to practice before the bigger project.
+<p>A few hours, one <a href="https://www.sitepoint.com/just-do-it-learn-sinatra-i/">pretty good tutorial</a> and some hundred Google queries later, I’ve created and deployed a <a href="https://initialist.herokuapp.com/">simple to-do list</a> app on Heroku. At the moment there are no users, so I’m not taking responsibility for any content that may or may not be added by any third parties. Over the weekend I’ll add some users and authorisation, probably using the RC OAuth, just to practice before the bigger project.</p>
 
-In case anyone wants to try the tutorial (the app is 95% the tutorial verbatim with some CSS flavours on top), it took me some time to figure out how to deploy it to Heroku. Most helpful tips:
+<p>In case anyone wants to try the tutorial (the app is 95% the tutorial verbatim with some CSS flavours on top), it took me some time to figure out how to deploy it to Heroku. Most helpful tips:</p>
 
-* an empty postgresql database must be initiated:
+<ul>
+  <li>
+    <p>an empty postgresql database must be initiated:</p>
 
-      heroku addons:add heroku-postgresql
+    <div class="highlighter-rouge"><pre class="highlight"><code>heroku addons:add heroku-postgresql
+</code></pre>
+    </div>
+  </li>
+  <li>
+    <p>migratons happen in heroku console:</p>
 
-* migratons happen in heroku console:
-
-      heroku run console
-      require 'sinatra'
-      require 'slim'
-      require 'data_mapper'
-      require './main'
-      DataMapper.setup(:default, ENV['DATABASE_URL'] ||
-       "sqlite3://#{Dir.pwd}/development.db")  
-      DataMapper.auto_migrate!
+    <div class="highlighter-rouge"><pre class="highlight"><code>heroku run console
+require 'sinatra'
+require 'slim'
+require 'data_mapper'
+require './main'
+DataMapper.setup(:default, ENV['DATABASE_URL'] ||
+ "sqlite3://#{Dir.pwd}/development.db")  
+DataMapper.auto_migrate!
+</code></pre>
+    </div>
+  </li>
+</ul>
 
     </div>
   </div>
