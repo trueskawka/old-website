@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-10-30T23:46:14-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 76</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/30/RC-day-76.html" rel="alternate" type="text/html" title="RC - dzień 76" /><published>2016-10-30T22:31:31-04:00</published><updated>2016-10-30T22:31:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/30/RC-day-76</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/30/RC-day-76.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-11-01T04:07:40-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 78</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/11/01/RC-day-78.html" rel="alternate" type="text/html" title="RC - dzień 78" /><published>2016-11-01T03:31:31-04:00</published><updated>2016-11-01T03:31:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/11/01/RC-day-78</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/11/01/RC-day-78.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;wzięłam udział w warsztacie na temat aplikacji mobilnej Zulipa&lt;/li&gt;
+  &lt;li&gt;sczytałam tutorial Michelle na temat wiersza poleceń&lt;/li&gt;
+  &lt;li&gt;ulepszyłam moje skróty w wierszu poleceń&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Neeraj poprowadził dzisiaj warsztat na temat aplikacji mobilnej Zulipa w React Native. Najpierw upewnił się, że wszyscy rozumieją, co się dzieje, wyjaśniając komponenty aplikacji i odpowiadając na wszystkie nasze pytania. Potem przypisał każdemu z nas małe problemy do naprawienia. W ciągu warsztatu pojawiło się trochę funkcjonalności i sporo jest też do zrobienia.&lt;/p&gt;
+
+&lt;p&gt;Moja funkcjonalność okazała się nieco bardziej skomplikowana niż oczekiwaliśmy, ponieważ podobne części aplikacji w różnych miejscach zostały nieco inaczej zaimplementowane i pracuję nad ich uspójnieniem. Jednym z wyzwań jest zrozumienie, jak działa kod napisany przez różnych deweloperów, i przepisanie jednej z implementacji, żeby dopasować ją do podejścia, które uzgodniliśmy w trakcie spotkania, biorąc pod uwagę możliwe dalsze potrzeby i funkcjonalności.&lt;/p&gt;
+
+&lt;p&gt;Michelle pisze tutorial na temat wiersza poleceń i sczytywałam go dzisiaj, jednocześnie przez niego przechodząc. Dobrze się przy tym bawiłam i mam nadzieję, że będę mogła dalej pomagać jej w tworzeniu. Ma niezwykłą umiejętność przekazywania informacji w przystępny i przyjazny sposób - zupełnie, jakby się z nią rozmawiało.&lt;/p&gt;
+
+&lt;p&gt;Sczytywanie zainspirowało mnie do przeanalizowania i ulepszenia moich skrótów w wierszu poleceń, w szczególności tych, których używam przy pracy nad Zulipem. Myślę, że zaangażowałam się już w ten projekt na tyle, że potencjalna oszczędność czasu uzasadnia pracę włożoną w ich opracowywanie.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - day 77</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/11/01/RC-day-77.html" rel="alternate" type="text/html" title="RC - day 77" /><published>2016-11-01T03:13:31-04:00</published><updated>2016-11-01T03:13:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/11/01/RC-day-77</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/11/01/RC-day-77.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;pouczyłam się trochę algorytmów&lt;/li&gt;
+  &lt;li&gt;bawiłam się z Twine&lt;/li&gt;
+  &lt;li&gt;poprawiłam niewielkie błędy na stronie i mój profil na Linkedin&lt;/li&gt;
+  &lt;li&gt;popracowałam nad problemem z Zulipem&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dzisiaj lało w Nowym Jorku, więc najlepszą częścią wieczoru była gorąca chai latte pod kocem, w bezpiecznym schronieniu przed deszczem. Wszystkie trzy koty zgodnie mruczały i wysypiały się tuż obok mnie na łóżku, próbując mnie przekonać do zintensyfikowania głaskania.&lt;/p&gt;
+
+&lt;p&gt;Kolejny dzień w mieszkaniu był relaksujący, szczególnie w połączeniu z uczeniem się algorytmów i pisaniem. Poprawiłam nieco problemów ze stroną, przepracowałam swój profil na Linkedin i uznałam, że popracuję nad aplikacją do Outreachy jutro, kiedy będę miała świeże spojrzenie.&lt;/p&gt;
+
+&lt;p&gt;W Zulipie występuje problem, który najprawodpodobniej wynika ze zmian w CSS i dzielnia plików. Przestudiowałam kod i wdrożone zmiany, mam kilka pomysłów na to, co dokładnie może być nie tak. Jestem całkiem pewna, że ma to związek z ładowaniem CSSa w odpowiedniej kolejności, ale nie znalazłam jeszcze definitywnej odpowiedzi.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 76</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/30/RC-day-76.html" rel="alternate" type="text/html" title="RC - dzień 76" /><published>2016-10-30T22:31:31-04:00</published><updated>2016-10-30T22:31:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/30/RC-day-76</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/30/RC-day-76.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;kupiłam trochę drobiazgów dla znajomych i rodziny&lt;/li&gt;
@@ -273,27 +300,4 @@
   &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 69</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/25/RC-day-69.html" rel="alternate" type="text/html" title="RC - dzień 69" /><published>2016-10-25T02:14:31-04:00</published><updated>2016-10-25T02:14:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/25/RC-day-69</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/25/RC-day-69.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;obejrzałam Rocky Horror Picture Show&lt;/li&gt;
-  &lt;li&gt;nauczyłam się, jak działają webhooki&lt;/li&gt;
-  &lt;li&gt;poczytałam o API Zulipa i Beemindera&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Odkąd usłyszałam o nowej wersji klasyka gatunku &lt;a href=&quot;http://www.rockyhorror.com/&quot;&gt;Rocky Horror Picture Show&lt;/a&gt; z &lt;a href=&quot;http://www.lavernecox.com/&quot;&gt;Laverne Cox&lt;/a&gt;, chciałam ją koniecznie obejrzeć i udało się to dzisiaj z kilkoma innymi Recurserami. Było to przemiłe doświadczenie, szczególnie ze śpiewaniem na żywo przez co zdolniejszych z nas.&lt;/p&gt;
-
-&lt;p&gt;Mój dzień był dość krótki ze względu na poziom niewyspania i atak alergii, więc udało mi się jedynie nauczyć sporo na temat webhooków i poczytać o API Zulipa i Beemindera, żeby zastanowić się nad ich integracją. Nie udało mi się skończyć wcześniej zaplanowanych funkcjonalności, mam nadzieję niedługo to nadrobić.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 68</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-68.html" rel="alternate" type="text/html" title="RC - dzień 68" /><published>2016-10-22T00:33:31-04:00</published><updated>2016-10-22T00:33:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-68</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/22/RC-day-68.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;zadania algorytmiczne&lt;/li&gt;
-  &lt;li&gt;przeczytanie kilku esejów w &lt;em&gt;Making Software&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;nauczenie się sporo o atakach DDoS&lt;/li&gt;
-  &lt;li&gt;pracowanie nad funkcjonalnościami Zulipa&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Chciałam być dzisiaj bardziej produktywna, ale mój sprytny plan naprawienia rytmu dobowego nie zadziałał i zamiast tego byłam przede wszystkim bardziej zmęczona. Mimo to udało mi się mieć całkiem dobrą sesję algortymiczną z Andrew i Deniz, od których nauczyłam się sporo w zakresie rozwiązywania problemów, do czego swoje trzy grosze dołożył też Noah.&lt;/p&gt;
-
-&lt;p&gt;Internet nie działał, a przynajmniej tak się wydawało. Serwis DNS Dyn odpierał dzisiaj masywny atak &lt;a href=&quot;https://www.wikiwand.com/pl/DoS&quot;&gt;DDoS&lt;/a&gt; on a DNS service Dyn, co spowodowało spore zamieszanie i było dobrą wymówką do odpoczynku. Dan uratował sytuację (całkowicie rujnując moje plany na prokrastynachę) i zasugerował skorzystanie z &lt;a href=&quot;https://support.opendns.com/hc/en-us/articles/227987767-Dynamic-IP-Addresses-Technical-Detail-and-FAQ&quot;&gt;OpenDNS&lt;/a&gt;. Poczytałam sporo na temat ataków DDoS, w szczególności potencjalnej roli różnych urządzeń podłączonych do &lt;a href=&quot;https://www.wikiwand.com/pl/Internet_rzeczy&quot;&gt;Internetu rzeczy&lt;/a&gt; w tego typu atakach.&lt;/p&gt;
-
-&lt;p&gt;Poza tym przeczytałam kilka esejów w książce, którą poleciła mi Sumana - &lt;a href=&quot;http://shop.oreilly.com/product/9780596808303.do&quot;&gt;Making Software&lt;/a&gt; - i spędziłam trochę czasu pastwiąc się nad kodem Zulipa. Chciałabym co najmniej jedną funkcjonalność skończyć do końca weekendu.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry></feed>
