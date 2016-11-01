@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-11-01T04:37:01-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 78</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/11/01/RC-day-78.html" rel="alternate" type="text/html" title="RC - dzień 78" /><published>2016-11-01T03:31:31-04:00</published><updated>2016-11-01T03:31:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/11/01/RC-day-78</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/11/01/RC-day-78.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" /><updated>2016-11-01T04:40:49-04:00</updated><id>https://trueskawka.github.io/pl/</id><title>Alicja Raszkowska</title><entry><title>RC - dzień 78</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/11/01/RC-day-78.html" rel="alternate" type="text/html" title="RC - dzień 78" /><published>2016-11-01T03:31:31-04:00</published><updated>2016-11-01T03:31:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/11/01/RC-day-78</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/11/01/RC-day-78.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;wzięłam udział w warsztacie na temat aplikacji mobilnej Zulipa&lt;/li&gt;
@@ -25,7 +25,19 @@
 
 &lt;p&gt;Kolejny dzień w mieszkaniu był relaksujący, szczególnie w połączeniu z uczeniem się algorytmów i pisaniem. Poprawiłam nieco problemów ze stroną, przepracowałam swój profil na Linkedin i uznałam, że popracuję nad aplikacją do Outreachy jutro, kiedy będę miała świeże spojrzenie.&lt;/p&gt;
 
-&lt;p&gt;W Zulipie występuje problem, który najprawodpodobniej wynika ze zmian w CSS i dzielnia plików. Przestudiowałam kod i wdrożone zmiany, mam kilka pomysłów na to, co dokładnie może być nie tak. Jestem całkiem pewna, że ma to związek z ładowaniem CSSa w odpowiedniej kolejności, ale nie znalazłam jeszcze definitywnej odpowiedzi.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 76</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/30/RC-day-76.html" rel="alternate" type="text/html" title="RC - dzień 76" /><published>2016-10-30T22:31:31-04:00</published><updated>2016-10-30T22:31:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/30/RC-day-76</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/30/RC-day-76.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
+&lt;p&gt;W Zulipie występuje problem, który najprawodpodobniej wynika ze zmian w CSS i dzielnia plików. Przestudiowałam kod i wdrożone zmiany, mam kilka pomysłów na to, co dokładnie może być nie tak. Jestem całkiem pewna, że ma to związek z ładowaniem CSSa w odpowiedniej kolejności, ale nie znalazłam jeszcze definitywnej odpowiedzi.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/writing/writing_main_1.jpg&quot; data-lightbox=&quot;other/writing&quot; data-title=&quot;wszyscy byli bardzo zainteresowani&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/writing/writing_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;writing_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Osiągnięcia:</summary></entry><entry><title>RC - dzień 76</title><link href="https://trueskawka.github.io/pl/usa/rc/log/2016/10/30/RC-day-76.html" rel="alternate" type="text/html" title="RC - dzień 76" /><published>2016-10-30T22:31:31-04:00</published><updated>2016-10-30T22:31:31-04:00</updated><id>https://trueskawka.github.io/pl/usa/rc/log/2016/10/30/RC-day-76</id><content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/10/30/RC-day-76.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;kupiłam trochę drobiazgów dla znajomych i rodziny&lt;/li&gt;
