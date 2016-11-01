@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-11-01T04:40:49-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 78</title><link href="https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-78.html" rel="alternate" type="text/html" title="RC - day 78" /><published>2016-11-01T03:31:31-04:00</published><updated>2016-11-01T03:31:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-78</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-78.html">Achievements:
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-11-01T04:41:53-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 78</title><link href="https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-78.html" rel="alternate" type="text/html" title="RC - day 78" /><published>2016-11-01T03:31:31-04:00</published><updated>2016-11-01T03:31:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-78</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-78.html">Achievements:
 
 * took part in a great workshop on Zulip React Native app
 * proofread Michelle's command line tutorial
@@ -10,32 +10,20 @@ My feature turned out to be a bit more complicated than expected, as sidebars in
 
 Michelle is writing a command line tutorial and I've been proofreading it today. It was great fun and I hope to work on it some more. She has an amazing ability to convey ideas in a non-intimidating way - it's just like having a conversation.
 
-The proofreading inspired me to rearrange and add some bash aliases, especially used for Zulip development. I think I've invested enough in this project to have shortcuts and save some time.</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 77</title><link href="https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-77.html" rel="alternate" type="text/html" title="RC - day 77" /><published>2016-11-01T03:13:31-04:00</published><updated>2016-11-01T03:13:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-77</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-77.html">&lt;p&gt;Achievements:&lt;/p&gt;
+The proofreading inspired me to rearrange and add some bash aliases, especially used for Zulip development. I think I've invested enough in this project to have shortcuts and save some time.</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 77</title><link href="https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-77.html" rel="alternate" type="text/html" title="RC - day 77" /><published>2016-11-01T03:13:31-04:00</published><updated>2016-11-01T03:13:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-77</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-77.html">Achievements:
 
-&lt;ul&gt;
-  &lt;li&gt;done some algorithms coursework&lt;/li&gt;
-  &lt;li&gt;played with Twine&lt;/li&gt;
-  &lt;li&gt;fixed minor website issues and refactored my Linkedin profile&lt;/li&gt;
-  &lt;li&gt;worked on debugging an issue in Zulip&lt;/li&gt;
-&lt;/ul&gt;
+* done some algorithms coursework
+* played with Twine
+* fixed minor website issues and refactored my Linkedin profile
+* worked on debugging an issue in Zulip
 
-&lt;p&gt;It was pouring today in New York. The best part of my evening was seeping a hot chai latte under a blanket, safely hidden from the rain. The cats agreed with me, as they purred in unison on the bed, trying to get my attention and demanding cuddles.&lt;/p&gt;
+It was pouring today in New York. The best part of my evening was seeping a hot chai latte under a blanket, safely hidden from the rain. The cats agreed with me, as they purred in unison on the bed, trying to get my attention and demanding cuddles.
 
-&lt;p&gt;Another stay-in day was relaxing, especially while learning some algorithms and working on my writing. I’ve done some little tweaks on the website, refactored my Linkedin profile a bit and decided to work on my Outreachy application tomorrow, with less sleepy brain and a fresh approach.&lt;/p&gt;
+Another stay-in day was relaxing, especially while learning some algorithms and working on my writing. I've done some little tweaks on the website, refactored my Linkedin profile a bit and decided to work on my Outreachy application tomorrow, with less sleepy brain and a fresh approach.
 
-&lt;p&gt;There is a Zulip issue possibly connected to the CSS splitting and I’ve been carefully looking through changes and trying out some ideas on how to fix it. I’m pretty sure it’s something connected to proper CSS loading, but I haven’t found a definite answer yet.&lt;/p&gt;
+There is a Zulip issue possibly connected to the CSS splitting and I've been carefully looking through changes and trying out some ideas on how to fix it. I'm pretty sure it's something connected to proper CSS loading, but I haven't found a definite answer yet.
 
-&lt;p&gt;&lt;i&gt;click an image to see the gallery&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/writing/writing_main_1.jpg&quot; data-lightbox=&quot;other/writing&quot; data-title=&quot;everyone was very interested&quot;&gt;
-    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/writing/writing_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;writing_main_1.jpg&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 76</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-76.html" rel="alternate" type="text/html" title="RC - day 76" /><published>2016-10-30T22:31:31-04:00</published><updated>2016-10-30T22:31:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-76</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-76.html">Achievements:
+{% include gallery.html %}</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 76</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-76.html" rel="alternate" type="text/html" title="RC - day 76" /><published>2016-10-30T22:31:31-04:00</published><updated>2016-10-30T22:31:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-76</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-76.html">Achievements:
 
 * bought some gifts for friends and family
 * went for Korean BBQ
