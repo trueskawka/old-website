@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-11-01T04:07:40-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 78</title><link href="https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-78.html" rel="alternate" type="text/html" title="RC - day 78" /><published>2016-11-01T03:31:31-04:00</published><updated>2016-11-01T03:31:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-78</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-78.html">&lt;p&gt;Achievements:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2016-11-01T04:37:00-04:00</updated><id>https://trueskawka.github.io/</id><title>Alicja Raszkowska</title><entry><title>RC - day 78</title><link href="https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-78.html" rel="alternate" type="text/html" title="RC - day 78" /><published>2016-11-01T03:31:31-04:00</published><updated>2016-11-01T03:31:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-78</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/11/01/RC-day-78.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;took part in a great workshop on Zulip React Native app&lt;/li&gt;
@@ -25,95 +25,279 @@
 
 &lt;p&gt;Another stay-in day was relaxing, especially while learning some algorithms and working on my writing. I’ve done some little tweaks on the website, refactored my Linkedin profile a bit and decided to work on my Outreachy application tomorrow, with less sleepy brain and a fresh approach.&lt;/p&gt;
 
-&lt;p&gt;There is a Zulip issue possibly connected to the CSS splitting and I’ve been carefully looking through changes and trying out some ideas on how to fix it. I’m pretty sure it’s something connected to proper CSS loading, but I haven’t found a definite answer yet.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 76</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-76.html" rel="alternate" type="text/html" title="RC - day 76" /><published>2016-10-30T22:31:31-04:00</published><updated>2016-10-30T22:31:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-76</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-76.html">Achievements:
+&lt;p&gt;There is a Zulip issue possibly connected to the CSS splitting and I’ve been carefully looking through changes and trying out some ideas on how to fix it. I’m pretty sure it’s something connected to proper CSS loading, but I haven’t found a definite answer yet.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 76</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-76.html" rel="alternate" type="text/html" title="RC - day 76" /><published>2016-10-30T22:31:31-04:00</published><updated>2016-10-30T22:31:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-76</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-76.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
-* bought some gifts for friends and family
-* went for Korean BBQ
-* had a nice, long chat with Luna
+&lt;ul&gt;
+  &lt;li&gt;bought some gifts for friends and family&lt;/li&gt;
+  &lt;li&gt;went for Korean BBQ&lt;/li&gt;
+  &lt;li&gt;had a nice, long chat with Luna&lt;/li&gt;
+&lt;/ul&gt;
 
-I've finally bought some gifts - I've been here for so long, I completely forgot it's time to fly to Atlanta soon and I haven't done the shopping yet. I usually avoid walking up Broadway and lurking into the shops, but this time it was a blessing. I've checked nearly half of my list.
+&lt;p&gt;I’ve finally bought some gifts - I’ve been here for so long, I completely forgot it’s time to fly to Atlanta soon and I haven’t done the shopping yet. I usually avoid walking up Broadway and lurking into the shops, but this time it was a blessing. I’ve checked nearly half of my list.&lt;/p&gt;
 
-Afterwards we went for a great Korean BBQ evening with Cihan, Joe and Miguel. This time I was wise enough to not drink soju, as it is a sneaky beverage. One honey ice cream dessert later I headed back to RC to do some work.
+&lt;p&gt;Afterwards we went for a great Korean BBQ evening with Cihan, Joe and Miguel. This time I was wise enough to not drink soju, as it is a sneaky beverage. One honey ice cream dessert later I headed back to RC to do some work.&lt;/p&gt;
 
-I've also had a lovely chat with Luna, one of the friends I'll miss most when leaving New York. We tend to have long conversations that run for hours and we've only noticed it was time to go home around 5.30am. That's what RC does to people.
+&lt;p&gt;I’ve also had a lovely chat with Luna, one of the friends I’ll miss most when leaving New York. We tend to have long conversations that run for hours and we’ve only noticed it was time to go home around 5.30am. That’s what RC does to people.&lt;/p&gt;
 
-{% include gallery.html %}</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 75</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-75.html" rel="alternate" type="text/html" title="RC - day 75" /><published>2016-10-30T22:22:31-04:00</published><updated>2016-10-30T22:22:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-75</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-75.html">Achievements:
+&lt;p&gt;&lt;i&gt;click an image to see the gallery&lt;/i&gt;&lt;/p&gt;
 
-* watched &quot;American Pastoral&quot;
+&lt;p&gt;
 
-I wanted to go to the Halloween party, but then there was the job fair on Thursday. The event drained me socially and I've decided to have a nice day at the apartment, reading and relaxing. This often comes as a surprise, but I'd much rather spend some time alone with a book than go to any kind of party, even though I often act extraverted. And two big social events in one week I could only do for work, as much as I love the RC community.
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/2/bbq2_main_1.jpg&quot; data-lightbox=&quot;bonding/bbq/2&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/2/bbq2_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;bbq2_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-At some point during the evening, I've met up with Cihan and we went to the cinema in the spur of the moment. For some now unexplainable reason, we've decided to watch &quot;American Pastoral&quot; - a long, very historically grounded and uneasy movie based on the [1997 novel](https://www.wikiwand.com/en/American_Pastoral). I think I'd have to know much more about contemporary American history to understand the nuance, as I have not even read the book. I expected more from it, by the end I was a bit disappointed and lost, but so were many of the critics.</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 74</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/28/RC-day-74.html" rel="alternate" type="text/html" title="RC - day 74" /><published>2016-10-28T04:30:31-04:00</published><updated>2016-10-28T04:30:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/28/RC-day-74</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/28/RC-day-74.html">Achievements:
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/2/bbq2_main_2.jpg&quot; data-lightbox=&quot;bonding/bbq/2&quot; data-title=&quot;Cihan and Miguel&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/2/bbq2_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;bbq2_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-* one-on-ones with Jennifer and James
-* pair presentation with Chris
-* job fair
-* extracted another part of Zulip CSS
-* played with Twine
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/2/bbq2_main_3.jpg&quot; data-lightbox=&quot;bonding/bbq/2&quot; data-title=&quot;very happy for food&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/bonding/bbq/2/bbq2_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;bbq2_main_3.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-I've started the day just right by having a wonderful one-on-one chat with Jennifer - a new experiment at RC that helps us get to know each other better. I admire her sense of direction and focus, and also love how Recursers share the need for growing and learning hard things.
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 75</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-75.html" rel="alternate" type="text/html" title="RC - day 75" /><published>2016-10-30T22:22:31-04:00</published><updated>2016-10-30T22:22:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-75</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/30/RC-day-75.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
-V came up with a great idea of having pair presentations to talk about awesome projects some Recursers haven't presented yet. I've had a chance to pair with Chris on his [Citibike Routing App](http://chrissebesta.com/2016-10-19-citibikeroutingapp/) - a learning exercise in Angular 2 and Google Maps APIs. We've also discussed some possible tweaks and pairing opportunities based on the app. He was so passionate while explaining the &quot;mid-end&quot; concept of a backend on the front-end that I might just give Angular 2 another try.
+&lt;ul&gt;
+  &lt;li&gt;watched “American Pastoral”&lt;/li&gt;
+&lt;/ul&gt;
 
-Other awesome pairings for today were:
+&lt;p&gt;I wanted to go to the Halloween party, but then there was the job fair on Thursday. The event drained me socially and I’ve decided to have a nice day at the apartment, reading and relaxing. This often comes as a surprise, but I’d much rather spend some time alone with a book than go to any kind of party, even though I often act extraverted. And two big social events in one week I could only do for work, as much as I love the RC community.&lt;/p&gt;
 
-* Harold helped Andrea with presenting her [style transfer app](https://github.com/aheyman11/style-transfer-playground) for images
-* Michelle talked about Andrew's [tools for making algorithmic art easier](https://github.com/ajyoon/blur)
-* Mike explained neural networks after a crash course from Deniz
-* Trey [personalized Hacker News](https://github.com/TreyLawrence/slackersnooze) and presented it with V
-* Isabel and Isla used [Bokeh](http://bokeh.pydata.org/en/latest/docs/gallery/image.html) to visualize genomic data
+&lt;p&gt;At some point during the evening, I’ve met up with Cihan and we went to the cinema in the spur of the moment. For some now unexplainable reason, we’ve decided to watch “American Pastoral” - a long, very historically grounded and uneasy movie based on the &lt;a href=&quot;https://www.wikiwand.com/en/American_Pastoral&quot;&gt;1997 novel&lt;/a&gt;. I think I’d have to know much more about contemporary American history to understand the nuance, as I have not even read the book. I expected more from it, by the end I was a bit disappointed and lost, but so were many of the critics.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 74</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/28/RC-day-74.html" rel="alternate" type="text/html" title="RC - day 74" /><published>2016-10-28T04:30:31-04:00</published><updated>2016-10-28T04:30:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/28/RC-day-74</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/28/RC-day-74.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
-In the evening there was another job fair at RC. I wasn't particularly interested in any of the companies, as they didn't have remote opportunities, so I wanted to focus on helping other Recursers. There was nothing much for me to do, as most of them were engaged in conversations without any encouragement, so I turned to half-mingling, half-enjoying some unfocused time.
+&lt;ul&gt;
+  &lt;li&gt;one-on-ones with Jennifer and James&lt;/li&gt;
+  &lt;li&gt;pair presentation with Chris&lt;/li&gt;
+  &lt;li&gt;job fair&lt;/li&gt;
+  &lt;li&gt;extracted another part of Zulip CSS&lt;/li&gt;
+  &lt;li&gt;played with Twine&lt;/li&gt;
+&lt;/ul&gt;
 
-I am getting good at splitting the Zulip CSS. I've moved yet another large chunk of it to a new file and I can now plan more than a few steps ahead, understanding better how the refactoring could look and what other logical splits would be helpful. What started out as a tedious, but necessary, task became a great learning opportunity. It also supports other developers on the team, so I feel helpful while learning.</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>I can’t get no motivation</title><link href="https://trueskawka.github.io/usa/rc/2016/10/27/I-cant-get-no-motivation.html" rel="alternate" type="text/html" title="I can't get no motivation" /><published>2016-10-27T02:58:31-04:00</published><updated>2016-10-27T02:58:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/2016/10/27/I-cant-get-no-motivation</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/2016/10/27/I-cant-get-no-motivation.html">I've had those stashed in a &quot;motivational&quot; folder for quite some time and never got around to look at them, but maybe they'll motivate someone else.
+&lt;p&gt;I’ve started the day just right by having a wonderful one-on-one chat with Jennifer - a new experiment at RC that helps us get to know each other better. I admire her sense of direction and focus, and also love how Recursers share the need for growing and learning hard things.&lt;/p&gt;
 
-{% include gallery.html %}</content><author><name>alicja</name></author><summary>I’ve had those stashed in a “motivational” folder for quite some time and never got around to look at them, but maybe they’ll motivate someone else.</summary></entry><entry><title>RC - day 73</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/27/RC-day-73.html" rel="alternate" type="text/html" title="RC - day 73" /><published>2016-10-27T02:26:31-04:00</published><updated>2016-10-27T02:26:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/27/RC-day-73</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/27/RC-day-73.html">Achievements:
+&lt;p&gt;V came up with a great idea of having pair presentations to talk about awesome projects some Recursers haven’t presented yet. I’ve had a chance to pair with Chris on his &lt;a href=&quot;http://chrissebesta.com/2016-10-19-citibikeroutingapp/&quot;&gt;Citibike Routing App&lt;/a&gt; - a learning exercise in Angular 2 and Google Maps APIs. We’ve also discussed some possible tweaks and pairing opportunities based on the app. He was so passionate while explaining the “mid-end” concept of a backend on the front-end that I might just give Angular 2 another try.&lt;/p&gt;
 
-* extracted another part of Zulip CSS
-* done some blog and website maintenance
-* planned some fiction ideas
-* played with Twine
+&lt;p&gt;Other awesome pairings for today were:&lt;/p&gt;
 
-Discovering which parts of Zulip CSS belong where is sometimes a mundane task, but it rewards my in better understanding of the app itself. I connect more and more dots every time I decide what part of the code to move, which will be beneficial with developing new features. A few more days and the CSS might be atomized enough to focus more on the refactoring itself.
+&lt;ul&gt;
+  &lt;li&gt;Harold helped Andrea with presenting her &lt;a href=&quot;https://github.com/aheyman11/style-transfer-playground&quot;&gt;style transfer app&lt;/a&gt; for images&lt;/li&gt;
+  &lt;li&gt;Michelle talked about Andrew’s &lt;a href=&quot;https://github.com/ajyoon/blur&quot;&gt;tools for making algorithmic art easier&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Mike explained neural networks after a crash course from Deniz&lt;/li&gt;
+  &lt;li&gt;Trey &lt;a href=&quot;https://github.com/TreyLawrence/slackersnooze&quot;&gt;personalized Hacker News&lt;/a&gt; and presented it with V&lt;/li&gt;
+  &lt;li&gt;Isabel and Isla used &lt;a href=&quot;http://bokeh.pydata.org/en/latest/docs/gallery/image.html&quot;&gt;Bokeh&lt;/a&gt; to visualize genomic data&lt;/li&gt;
+&lt;/ul&gt;
 
-I've also done some blog and website maintenance, mostly improving my workflow - some fresh bash aliases and reorganization of layouts and folders helped me with the growing content. I might need to write some Jekyll plugins to deal with specific tasks that seem repetitive, but at the moment I'm pretty happy with the work I've done so far.
+&lt;p&gt;In the evening there was another job fair at RC. I wasn’t particularly interested in any of the companies, as they didn’t have remote opportunities, so I wanted to focus on helping other Recursers. There was nothing much for me to do, as most of them were engaged in conversations without any encouragement, so I turned to half-mingling, half-enjoying some unfocused time.&lt;/p&gt;
 
-While talking to friends at RC and back home, I came up with some new ideas for writing. I'm getting more and more excited about interactive fiction, since it seems simple enough to use it to build a game. One of my friends suggested Prolog and I might be inclined to go for it, but first I want to get better at writing the stories that are engaging and only then I can think of the implementation. That being said, I've spent some time playing with Twine and writing up some exercises from the book.</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 72</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-72.html" rel="alternate" type="text/html" title="RC - day 72" /><published>2016-10-26T03:23:31-04:00</published><updated>2016-10-26T03:23:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-72</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-72.html">Achievements:
+&lt;p&gt;I am getting good at splitting the Zulip CSS. I’ve moved yet another large chunk of it to a new file and I can now plan more than a few steps ahead, understanding better how the refactoring could look and what other logical splits would be helpful. What started out as a tedious, but necessary, task became a great learning opportunity. It also supports other developers on the team, so I feel helpful while learning.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>I can’t get no motivation</title><link href="https://trueskawka.github.io/usa/rc/2016/10/27/I-cant-get-no-motivation.html" rel="alternate" type="text/html" title="I can't get no motivation" /><published>2016-10-27T02:58:31-04:00</published><updated>2016-10-27T02:58:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/2016/10/27/I-cant-get-no-motivation</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/2016/10/27/I-cant-get-no-motivation.html">&lt;p&gt;I’ve had those stashed in a “motivational” folder for quite some time and never got around to look at them, but maybe they’ll motivate someone else.&lt;/p&gt;
 
-* met the baby for the first time!
-* had a great chat with Nancy
-* had a fruitful talk with Leah
-* had another Zulip pull request merged
-* started playing with interactive fiction
+&lt;p&gt;&lt;i&gt;click an image to see the gallery&lt;/i&gt;&lt;/p&gt;
 
-First and foremost - I met my wonderful newest member of the family today! She was as observing me calmly and happily. I forgot how tiny little babies are.
+&lt;p&gt;
 
-I nearly got out of my sleep rut today, but the allergies kept me entertained most of the morning. The day started really late and I was worried I won't achieve most of my goals for today, but, amazingly, I did - [with a little help from my friends](https://www.youtube.com/watch?v=0_7OZNUVyec).
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/motivation/motivation_main_1.jpg&quot; data-lightbox=&quot;other/motivation&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/motivation/motivation_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;motivation_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-I've had a great chat with Nancy about next steps in my career and she agreed that Outreachy is a good way of getting the remote and full-time developer experience I need. I can also focus on helping other Recursers during the job fair on Thursday, since none of the companies that RSVPed have remote opportunities. I was thinking about asking all the hard questions nobody wants to ask a recruiter, since it won't be a risk for me.
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/motivation/motivation_main_2.jpg&quot; data-lightbox=&quot;other/motivation&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/motivation/motivation_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;motivation_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-Leah helped me a lot with rethinking my Outreachy application and suggested sensible changes to the narrative. Her insights were inspiring and I hope to introduce them over the weekend, to refactor it a little bit more before the final deadline.
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/motivation/motivation_main_3.jpg&quot; data-lightbox=&quot;other/motivation&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/motivation/motivation_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;motivation_main_3.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-I wanted to open a pull request that covers a lot of CSS atomization at once, but Tim suggested I should focus first on the parts that will be used in the upcoming redesigns of the app and merged my smaller PR today. I hope to finish all the other refactoring this week, so the files will be atomized enough to work on different parts of UI separately without worrying about changing (or breaking) other parts of the application.
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/motivation/motivation_main_4.jpg&quot; data-lightbox=&quot;other/motivation&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/motivation/motivation_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;motivation_main_4.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-I've also started on the book I bought yesterday and played with interactive fiction for two hours. I didn't think it would be so much fun, with a lot of dark humor involved. This might be the perfect start to longer forms for me, since I haven't written anything more than a short story in a few years. The only possible problem I see is translation, but as I will learn more about the tools and the process, I'll surely come up with a good way of dealing with that.</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 71</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-71.html" rel="alternate" type="text/html" title="RC - day 71" /><published>2016-10-26T03:15:31-04:00</published><updated>2016-10-26T03:15:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-71</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-71.html">Achievements:
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/motivation/motivation_main_5.jpg&quot; data-lightbox=&quot;other/motivation&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/motivation/motivation_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;motivation_main_5.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-* bought a book on interactive fiction
-* worked on a prompt for muted streams in Zulip
-* read awesome stories from other Recursers on reapplying
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/motivation/motivation_main_6.jpg&quot; data-lightbox=&quot;other/motivation&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/motivation/motivation_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;motivation_main_6.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-Today I was a bit scattered, since the slow weekend didn't help enough with drowsiness and allergies, so I focused on keeping the momentum going. I've worked on Zulip, mainly the prompt for muted streams and reading different parts of the documentation, but I didn't finish anything. In the evening I went for a long walk to Barnes &amp; Noble, because I couldn't get the [Writing Interactive Fiction with Twine](https://www.amazon.com/Writing-Interactive-Fiction-Twine-Melissa/dp/0789756641) book out of my head and I bought it.
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/motivation/motivation_main_7.jpg&quot; data-lightbox=&quot;other/motivation&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/motivation/motivation_thumb_7.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;motivation_main_7.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-Other than that, I got a lot of inspiration from other Recursers discussing their process of reapplying to RC after being rejected at first (sometimes more than once). It shows that these awesome people are not only smart and talented, but also have a lot of perseverance and a mindset for growing. Someone suggested writing blog posts on that and that's a series I'd very much like to read.</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 70</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70.html" rel="alternate" type="text/html" title="RC - day 70" /><published>2016-10-25T02:21:31-04:00</published><updated>2016-10-25T02:21:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70.html">Achievements:
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/motivation/motivation_main_8.jpg&quot; data-lightbox=&quot;other/motivation&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/other/motivation/motivation_thumb_8.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;motivation_main_8.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-* binge-watched Black Mirror
-* went on a wild run through Barnes &amp; Noble
-* read up about interactive fiction for NaNoWriMo
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>I’ve had those stashed in a “motivational” folder for quite some time and never got around to look at them, but maybe they’ll motivate someone else.</summary></entry><entry><title>RC - day 73</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/27/RC-day-73.html" rel="alternate" type="text/html" title="RC - day 73" /><published>2016-10-27T02:26:31-04:00</published><updated>2016-10-27T02:26:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/27/RC-day-73</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/27/RC-day-73.html">&lt;p&gt;Achievements:&lt;/p&gt;
 
-[Black Mirror](https://www.wikiwand.com/en/Black_Mirror) season 3 was released and with another allergy attack I figured the best way to spend Sunday night and morning was to binge watch it. If you've never seen it, it's a very dark series about dystopian futures - highly recommended, but requires a lot of mental stamina to go through.
+&lt;ul&gt;
+  &lt;li&gt;extracted another part of Zulip CSS&lt;/li&gt;
+  &lt;li&gt;done some blog and website maintenance&lt;/li&gt;
+  &lt;li&gt;planned some fiction ideas&lt;/li&gt;
+  &lt;li&gt;played with Twine&lt;/li&gt;
+&lt;/ul&gt;
 
-I went to Barnes &amp; Noble, just because looking through books and knick-knocks I'm not going to buy puts me in a great mood. I've found a book on writing [interactive fiction](https://www.wikiwand.com/en/Interactive_fiction) with [Twine](https://twinery.org/) and it seems like a pretty good idea for this year's [NaNoWriMo](http://nanowrimo.org/). I've never managed to actually complete the challenge before and an RPG setting might just convince me to do it properly this time.
+&lt;p&gt;Discovering which parts of Zulip CSS belong where is sometimes a mundane task, but it rewards my in better understanding of the app itself. I connect more and more dots every time I decide what part of the code to move, which will be beneficial with developing new features. A few more days and the CSS might be atomized enough to focus more on the refactoring itself.&lt;/p&gt;
 
-Some fresh and long-overdue photos below.
+&lt;p&gt;I’ve also done some blog and website maintenance, mostly improving my workflow - some fresh bash aliases and reorganization of layouts and folders helped me with the growing content. I might need to write some Jekyll plugins to deal with specific tasks that seem repetitive, but at the moment I’m pretty happy with the work I’ve done so far.&lt;/p&gt;
 
-{% include gallery.html %}</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
+&lt;p&gt;While talking to friends at RC and back home, I came up with some new ideas for writing. I’m getting more and more excited about interactive fiction, since it seems simple enough to use it to build a game. One of my friends suggested Prolog and I might be inclined to go for it, but first I want to get better at writing the stories that are engaging and only then I can think of the implementation. That being said, I’ve spent some time playing with Twine and writing up some exercises from the book.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 72</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-72.html" rel="alternate" type="text/html" title="RC - day 72" /><published>2016-10-26T03:23:31-04:00</published><updated>2016-10-26T03:23:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-72</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-72.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;met the baby for the first time!&lt;/li&gt;
+  &lt;li&gt;had a great chat with Nancy&lt;/li&gt;
+  &lt;li&gt;had a fruitful talk with Leah&lt;/li&gt;
+  &lt;li&gt;had another Zulip pull request merged&lt;/li&gt;
+  &lt;li&gt;started playing with interactive fiction&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;First and foremost - I met my wonderful newest member of the family today! She was as observing me calmly and happily. I forgot how tiny little babies are.&lt;/p&gt;
+
+&lt;p&gt;I nearly got out of my sleep rut today, but the allergies kept me entertained most of the morning. The day started really late and I was worried I won’t achieve most of my goals for today, but, amazingly, I did - &lt;a href=&quot;https://www.youtube.com/watch?v=0_7OZNUVyec&quot;&gt;with a little help from my friends&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve had a great chat with Nancy about next steps in my career and she agreed that Outreachy is a good way of getting the remote and full-time developer experience I need. I can also focus on helping other Recursers during the job fair on Thursday, since none of the companies that RSVPed have remote opportunities. I was thinking about asking all the hard questions nobody wants to ask a recruiter, since it won’t be a risk for me.&lt;/p&gt;
+
+&lt;p&gt;Leah helped me a lot with rethinking my Outreachy application and suggested sensible changes to the narrative. Her insights were inspiring and I hope to introduce them over the weekend, to refactor it a little bit more before the final deadline.&lt;/p&gt;
+
+&lt;p&gt;I wanted to open a pull request that covers a lot of CSS atomization at once, but Tim suggested I should focus first on the parts that will be used in the upcoming redesigns of the app and merged my smaller PR today. I hope to finish all the other refactoring this week, so the files will be atomized enough to work on different parts of UI separately without worrying about changing (or breaking) other parts of the application.&lt;/p&gt;
+
+&lt;p&gt;I’ve also started on the book I bought yesterday and played with interactive fiction for two hours. I didn’t think it would be so much fun, with a lot of dark humor involved. This might be the perfect start to longer forms for me, since I haven’t written anything more than a short story in a few years. The only possible problem I see is translation, but as I will learn more about the tools and the process, I’ll surely come up with a good way of dealing with that.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 71</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-71.html" rel="alternate" type="text/html" title="RC - day 71" /><published>2016-10-26T03:15:31-04:00</published><updated>2016-10-26T03:15:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-71</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/26/RC-day-71.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;bought a book on interactive fiction&lt;/li&gt;
+  &lt;li&gt;worked on a prompt for muted streams in Zulip&lt;/li&gt;
+  &lt;li&gt;read awesome stories from other Recursers on reapplying&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Today I was a bit scattered, since the slow weekend didn’t help enough with drowsiness and allergies, so I focused on keeping the momentum going. I’ve worked on Zulip, mainly the prompt for muted streams and reading different parts of the documentation, but I didn’t finish anything. In the evening I went for a long walk to Barnes &amp;amp; Noble, because I couldn’t get the &lt;a href=&quot;https://www.amazon.com/Writing-Interactive-Fiction-Twine-Melissa/dp/0789756641&quot;&gt;Writing Interactive Fiction with Twine&lt;/a&gt; book out of my head and I bought it.&lt;/p&gt;
+
+&lt;p&gt;Other than that, I got a lot of inspiration from other Recursers discussing their process of reapplying to RC after being rejected at first (sometimes more than once). It shows that these awesome people are not only smart and talented, but also have a lot of perseverance and a mindset for growing. Someone suggested writing blog posts on that and that’s a series I’d very much like to read.&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry><entry><title>RC - day 70</title><link href="https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70.html" rel="alternate" type="text/html" title="RC - day 70" /><published>2016-10-25T02:21:31-04:00</published><updated>2016-10-25T02:21:31-04:00</updated><id>https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70</id><content type="html" xml:base="https://trueskawka.github.io/usa/rc/log/2016/10/25/RC-day-70.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;binge-watched Black Mirror&lt;/li&gt;
+  &lt;li&gt;went on a wild run through Barnes &amp;amp; Noble&lt;/li&gt;
+  &lt;li&gt;read up about interactive fiction for NaNoWriMo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.wikiwand.com/en/Black_Mirror&quot;&gt;Black Mirror&lt;/a&gt; season 3 was released and with another allergy attack I figured the best way to spend Sunday night and morning was to binge watch it. If you’ve never seen it, it’s a very dark series about dystopian futures - highly recommended, but requires a lot of mental stamina to go through.&lt;/p&gt;
+
+&lt;p&gt;I went to Barnes &amp;amp; Noble, just because looking through books and knick-knocks I’m not going to buy puts me in a great mood. I’ve found a book on writing &lt;a href=&quot;https://www.wikiwand.com/en/Interactive_fiction&quot;&gt;interactive fiction&lt;/a&gt; with &lt;a href=&quot;https://twinery.org/&quot;&gt;Twine&lt;/a&gt; and it seems like a pretty good idea for this year’s &lt;a href=&quot;http://nanowrimo.org/&quot;&gt;NaNoWriMo&lt;/a&gt;. I’ve never managed to actually complete the challenge before and an RPG setting might just convince me to do it properly this time.&lt;/p&gt;
+
+&lt;p&gt;Some fresh and long-overdue photos below.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;click an image to see the gallery&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_1.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_1.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_1.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_2.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_2.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_2.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_3.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_3.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_3.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_4.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_4.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_4.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_5.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_5.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_5.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_6.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;You know you're in the US when...&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_6.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_6.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_7.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;Apparently he does&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_7.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_7.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_8.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;One World Observatory from afar&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_8.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_8.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_9.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_9.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_9.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_10.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_10.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_10.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_11.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_11.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_11.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_12.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;Children's corner at Barnes &amp;amp; Noble&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_12.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_12.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_13.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;Tech and Ancient Mysteries&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_13.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_13.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_14.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;Cat vs. paper bag&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_14.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_14.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;thumb-container&quot;&gt;
+  &lt;a href=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_main_15.jpg&quot; data-lightbox=&quot;nyc/7&quot; data-title=&quot;Cat vs. suitcase&quot;&gt;
+    &lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/nyc/7/nyc_thumb_15.jpg&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_15.jpg&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;</content><author><name>alicja</name></author><summary>Achievements:</summary></entry></feed>
