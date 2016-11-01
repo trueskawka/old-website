@@ -111,7 +111,8 @@ header {
 #categories,
 #contact,
 #lang,
-#categories-main {
+#categories-main,
+#rc {
   margin-top: 50px;
 }
 
@@ -161,7 +162,8 @@ section {
   #calendarView,
   #categories,
   #rss,
-  #signature {
+  #signature,
+  #rc {
     display: none;
   }
 
@@ -233,4 +235,14 @@ pre {
 .col-2 {
   width: 70%;
   display: inline-block;
+}
+
+.rc-scout {
+  height: 80px !important;
+  width: 70px !important;
+}
+
+.rc-text {
+  font-size: 0.8em;
+  margin-top: 10px;
 }
