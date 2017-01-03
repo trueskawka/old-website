@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator>
+  <link href="https://trueskawka.github.io/ajnabi/ajnabi-feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" />
+  <updated>2017-01-03T03:35:49+01:00</updated>
+  <id>https://trueskawka.github.io/</id>
+
+  
+    <title type="html">Alicja Raszkowska</title>
+  
+
+  
+
+  
+
+  
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+            <entry>
+              <title type="html">Arabic - getting started</title>
+
+                <link href="https://trueskawka.github.io/ajnabi/ajnabi_log/2017/01/02/Arabic-getting-started.html" rel="alternate" type="text/html" title="Arabic - getting started" />
+                <published>2017-01-02T23:18:00+01:00</published>
+                <updated>2017-01-02T23:18:00+01:00</updated>
+                <id>https://trueskawka.github.io/ajnabi/ajnabi_log/2017/01/02/Arabic-getting-started</id>
+                <content type="html" xml:base="https://trueskawka.github.io/ajnabi/ajnabi_log/2017/01/02/Arabic-getting-started.html">&lt;p&gt;Achievements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;read articles on TextFugu&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;created my first Anki deck&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;answered motivation questions&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;got excited to learn Arabic&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;started a blog on learning Arabic&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;vocabulary-list&quot;&gt;Vocabulary list&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;programming بَرمَجة&lt;/li&gt;
+  &lt;li&gt;variable الُمتغير&lt;/li&gt;
+  &lt;li&gt;function وظيفة&lt;/li&gt;
+  &lt;li&gt;module وحدة البرمجة&lt;/li&gt;
+  &lt;li&gt;program/software برنامج&lt;/li&gt;
+  &lt;li&gt;programmer مُبَرْمِج&lt;/li&gt;
+  &lt;li&gt;application تَطْبيق / بِرْنامِج&lt;/li&gt;
+  &lt;li&gt;mobile app تطبيقات الجوال&lt;/li&gt;
+  &lt;li&gt;web app التطبيق على شبكة الإنترنت&lt;/li&gt;
+  &lt;li&gt;software development تطوير البرمجيات&lt;/li&gt;
+  &lt;li&gt;user experience تجربة المستخدم&lt;/li&gt;
+  &lt;li&gt;design تَصميم&lt;/li&gt;
+  &lt;li&gt;codebase مصدر برنامج&lt;/li&gt;
+  &lt;li&gt;integration تكامل البرمجيات&lt;/li&gt;
+  &lt;li&gt;operating system نظام التشغيل&lt;/li&gt;
+  &lt;li&gt;keyboard لَوْحة المَفاتيح&lt;/li&gt;
+  &lt;li&gt;laptop/computer جِهاز حاسوب نَقّال/حاسوب / كُمْبيوتر&lt;/li&gt;
+  &lt;li&gt;visualization تصور&lt;/li&gt;
+  &lt;li&gt;data مَعْلومات / بَيانات&lt;/li&gt;
+  &lt;li&gt;database قَاعِدة مَعْلومات / بَيانات&lt;/li&gt;
+  &lt;li&gt;analysis تَحْليل&lt;/li&gt;
+  &lt;li&gt;open-source المصدر المفتوح&lt;/li&gt;
+  &lt;li&gt;Internet الإنْتَرنِت&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;motivation&quot;&gt;Motivation&lt;/h3&gt;
+
+&lt;p&gt;Why am I learning Arabic?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I love the sound of it&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I want to read it&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I want to enjoy the culture&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I want to travel to Arabic speaking countries&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I love writing it&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I’ve studied and failed&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I need my passion back&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;excuses&quot;&gt;Excuses&lt;/h3&gt;
+
+&lt;p&gt;What excuses hold me back?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I’m too busy&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I don’t have the money&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I’ve failed a few times&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I don’t think I can do it&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I don’t have anyone to talk to&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I don’t have a system&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I will fail&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content>
+
+
+              
+              
+              
+              
+              
+
+              
+                <author>
+                    <name>alicja</name>
+                  
+                  
+                </author>
+              
+
+              
+
+              
+
+              
+                <summary type="html">Achievements:</summary>
+              
+
+              
+              
+            </entry>
+          
+        
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+            <entry>
+              <title type="html">A plan is a plan</title>
+
+                <link href="https://trueskawka.github.io/ajnabi/2017/01/02/a-plan-is-a-plan.html" rel="alternate" type="text/html" title="A plan is a plan" />
+                <published>2017-01-02T23:07:00+01:00</published>
+                <updated>2017-01-02T23:07:00+01:00</updated>
+                <id>https://trueskawka.github.io/ajnabi/2017/01/02/a-plan-is-a-plan</id>
+                <content type="html" xml:base="https://trueskawka.github.io/ajnabi/2017/01/02/a-plan-is-a-plan.html">&lt;p&gt;I’ve decided to relearn Arabic this year, as I’ve completely forgotten the
+language and I regret it every day. Since I haven’t done systematic learning in a while, I need to follow some steps and have a plan.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-goal&quot;&gt;The goal&lt;/h3&gt;
+
+&lt;p&gt;To understand intermediate level conversations in Arabic - be able to watch tv series and follow the plot, listen to the news, ask for help.&lt;/p&gt;
+
+&lt;p&gt;To talk about my passions and work.&lt;/p&gt;
+
+&lt;p&gt;To read books in Arabic.&lt;/p&gt;
+
+&lt;p&gt;To communicate with a native speaker.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-ive-done-so-far&quot;&gt;What I’ve done so far&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I read a few articles on TextFugu - a book for Japanese self-learners - mostly on how to get started and motivate myself&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I noted down my reasons and motivations along with my fears&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I created my first Anki deck for software-related terms&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I organized my many Arabic learning books&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I took my Arabic keyboard cover and put it on my laptop&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I’ve created this dedicated blog&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I’ve done some Google searching on Arabic resources, self-learning, motivation and touch-typing&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-plan&quot;&gt;The Plan&lt;/h3&gt;
+
+&lt;h4 id=&quot;minimum&quot;&gt;Minimum&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Learn Arabic every day for 52 minutes:&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;Do one lesson from any of my many resources&lt;/li&gt;
+      &lt;li&gt;Create an Anki deck with the words&lt;/li&gt;
+      &lt;li&gt;Write a blog post for my learning log&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Once a week watch a short video in Arabic&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Once a week listen to a podcast/audiobook in Arabic&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Practice touch-typing an hour a week (can be 10-minute bursts)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go through Anki decks during coding idle time&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;additional-ideas&quot;&gt;Additional ideas&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Read a chapter of a book in Arabic&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Translate a short article/poem to or from Arabic&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Draw a detailed picture with annotations for my own picture dictionary&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Try to speak/write Arabic in a real-life setting&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Translate song lyrics&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Find a new resources&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content>
+
+
+              
+              
+              
+              
+              
+
+              
+                <author>
+                    <name>alicja</name>
+                  
+                  
+                </author>
+              
+
+              
+
+              
+
+              
+                <summary type="html">I’ve decided to relearn Arabic this year, as I’ve completely forgotten the language and I regret it every day. Since I haven’t done systematic learning in a while, I need to follow some steps and have a plan.</summary>
+              
+
+              
+              
+            </entry>
+          
+        
+      
+    
+  
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+  
+</feed>

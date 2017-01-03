@@ -112,6 +112,30 @@
     
       
     
+      
+    
+  
+    
+      
+    
+      
+    
+  
+    
+      
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+      
+    
   
     
       
@@ -1238,107 +1262,121 @@
     
 
     <div class="post-content">
-      Achievements:
+      <p>Achievements:</p>
 
-* self check-in
-* keeping the meditation habit streak
-* warm-up in Ruby
-* building a simple 52/17 timer
-* reading random books
-* staying positive
+<ul>
+  <li>self check-in</li>
+  <li>keeping the meditation habit streak</li>
+  <li>warm-up in Ruby</li>
+  <li>building a simple 52/17 timer</li>
+  <li>reading random books</li>
+  <li>staying positive</li>
+</ul>
 
-Plague prevailed and spread - there was no Internet today neither at RC, nor at the Airbnb. Funny how easy it is to forget how often I use it. And how safe it makes me feel. With the ability to contact my loved ones any time I want, I haven't really felt far from home up till now.
+<p>Plague prevailed and spread - there was no Internet today neither at RC, nor at the Airbnb. Funny how easy it is to forget how often I use it. And how safe it makes me feel. With the ability to contact my loved ones any time I want, I haven’t really felt far from home up till now.</p>
 
-I decided to make an exercise on patience out of it. I've been doing everything I could without Internet, untilI really needed it - mostly to check my email and organise a new apartment.
+<p>I decided to make an exercise on patience out of it. I’ve been doing everything I could without Internet, untilI really needed it - mostly to check my email and organise a new apartment.</p>
 
-Lessons learned:
+<p>Lessons learned:</p>
 
-* share your grapes (literal grapes, when you buy 2+ lbs)
-* pick up random books that look fun
-* add pumpkin spice to your morning coffee before you pour hot water in
-* breathe
-* if someone offers to share their data plan - use it for the sake of your sanity (thank you V!)
-* chocolate soothes all stress
+<ul>
+  <li>share your grapes (literal grapes, when you buy 2+ lbs)</li>
+  <li>pick up random books that look fun</li>
+  <li>add pumpkin spice to your morning coffee before you pour hot water in</li>
+  <li>breathe</li>
+  <li>if someone offers to share their data plan - use it for the sake of your sanity (thank you V!)</li>
+  <li>chocolate soothes all stress</li>
+</ul>
 
-I've created a simple [52/17 timer](https://trueskawka.github.io/timer) (52 minutes for work, 17 minutes playtime), since [Fokasu](http://www.pcgeek.info/fokasu/) has irritating advertisements and it was a good exercise on programming without Internet. Never thought simple JavaScript can take so much time.
+<p>I’ve created a simple <a href="https://trueskawka.github.io/timer">52/17 timer</a> (52 minutes for work, 17 minutes playtime), since <a href="http://www.pcgeek.info/fokasu/">Fokasu</a> has irritating advertisements and it was a good exercise on programming without Internet. Never thought simple JavaScript can take so much time.</p>
 
-I also read two books I randomly picked in the library, based entirely on their covers:
+<p>I also read two books I randomly picked in the library, based entirely on their covers:</p>
 
-* [Happier](http://www.goodreads.com/book/show/302971.Happier) by Tal Ben-Shahar, with a lot of ideas on how to improve your happiness and a few exercises I've added to my productive procrastination list
-* [If Hemingway Wrote JavaScript](http://www.goodreads.com/book/show/21487480-if-hemingway-wrote-javascript) by Angus Croll, a hilarious little book on how different writers would write JavaScript programs - my favourites were:
+<ul>
+  <li><a href="http://www.goodreads.com/book/show/302971.Happier">Happier</a> by Tal Ben-Shahar, with a lot of ideas on how to improve your happiness and a few exercises I’ve added to my productive procrastination list</li>
+  <li>
+    <p><a href="http://www.goodreads.com/book/show/21487480-if-hemingway-wrote-javascript">If Hemingway Wrote JavaScript</a> by Angus Croll, a hilarious little book on how different writers would write JavaScript programs - my favourites were:</p>
 
-    **Ernest Hemigway** on returning the first *n* numbers of the Fibonacci sequence:
+    <p><strong>Ernest Hemigway</strong> on returning the first <em>n</em> numbers of the Fibonacci sequence:</p>
 
-    <code>
+    <p><code></code></p>
 
-      1 function fibonacci(size) {
-      2
-      3 var first = 0, second = 1, next, count = 2,
-        result = [first, second];
-      4
-      5 if (size < 2)
-      6 return "the request was made but it was not good"
-      7
-      8 while (count++ < size) {
-      9 next = first + second;
-      10 first = second;
-      11 second = next;
-      12 result.push(next);
-      13 }
-      14
-      15 return result;
-      16 }
+    <div class="highlighter-rouge"><pre class="highlight"><code>1 function fibonacci(size) {
+2
+3 var first = 0, second = 1, next, count = 2,
+  result = [first, second];
+4
+5 if (size &lt; 2)
+6 return "the request was made but it was not good"
+7
+8 while (count++ &lt; size) {
+9 next = first + second;
+10 first = second;
+11 second = next;
+12 result.push(next);
+13 }
+14
+15 return result;
+16 }
+</code></pre>
+    </div>
 
-    **Jack Kerouac** on returning the factorial of the supplied argument:
+    <p><strong>Jack Kerouac</strong> on returning the factorial of the supplied argument:</p>
 
-    <code>
+    <p><code></code></p>
 
-      1 /*...the only numbers for me are the mad ones,
-        take forty-three like a steam
-        engine with a talky caboose at the end*/ n = 43, /
-        *and that lanky fellow in a cocked fedora*/ r = 1 /
-        *then back to our number, our mad number,
-        mad to become one*/ while (n > 1) /
-        *mad to descend*/ n--, /
-        *mad to multiply*/ r = r * n /
-        *and at the end, you see the blue center-light pop,
-        and everybody goes 1.4050061177528801e+51...*/
-      2 r
+    <div class="highlighter-rouge"><pre class="highlight"><code>1 /*...the only numbers for me are the mad ones,
+  take forty-three like a steam
+  engine with a talky caboose at the end*/ n = 43, /
+  *and that lanky fellow in a cocked fedora*/ r = 1 /
+  *then back to our number, our mad number,
+  mad to become one*/ while (n &gt; 1) /
+  *mad to descend*/ n--, /
+  *mad to multiply*/ r = r * n /
+  *and at the end, you see the blue center-light pop,
+  and everybody goes 1.4050061177528801e+51...*/
+2 r
+</code></pre>
+    </div>
 
-    **Douglas Adams** on returning all the prime numbers up to the supplied argument:
+    <p><strong>Douglas Adams</strong> on returning all the prime numbers up to the supplied argument:</p>
 
-    <code>
+    <p><code></code></p>
 
-      1 //Here I am, brain the size of a planet,
-        and they ask me to write JavaScript...
-      2 function kevinTheNumberMentioner(_){
-      3 l=[]
-      4 /* mostly harmless --> */ with(l) {
-      5
-      6 //Sorry about all this,
-        my babel fish has a headache today...
-      7 for (ll=!+[]+!![];ll<_+(+!![]);ll++) {
-      8 lll=+!![];
-      9 while (ll%++lll);
-      10 //I've got this terrible pain
-        in all the semicolons down my right-hand side.
-      11 (ll==lll)&&push(ll);
-      12 }
-      13 forEach(alert);
-      14
-      15 }
-      16
-      17 //You're really not going to like this...
-      18 return [!+[]+!+[]+!+[]+!+[]]+[!+[]+!+[]];
-      19 }
+    <div class="highlighter-rouge"><pre class="highlight"><code>1 //Here I am, brain the size of a planet,
+  and they ask me to write JavaScript...
+2 function kevinTheNumberMentioner(_){
+3 l=[]
+4 /* mostly harmless --&gt; */ with(l) {
+5
+6 //Sorry about all this,
+  my babel fish has a headache today...
+7 for (ll=!+[]+!![];ll&lt;_+(+!![]);ll++) {
+8 lll=+!![];
+9 while (ll%++lll);
+10 //I've got this terrible pain
+  in all the semicolons down my right-hand side.
+11 (ll==lll)&amp;&amp;push(ll);
+12 }
+13 forEach(alert);
+14
+15 }
+16
+17 //You're really not going to like this...
+18 return [!+[]+!+[]+!+[]+!+[]]+[!+[]+!+[]];
+19 }
+</code></pre>
+    </div>
+  </li>
+</ul>
 
-I wanted to end the day on a positive note, so I got creative on the whiteboard.
+<p>I wanted to end the day on a positive note, so I got creative on the whiteboard.</p>
 
-<a href="{{ site.cdn_path }}/bonding/whiteboard_main.jpg" data-lightbox="nonet">
-  <img src="{{ site.cdn_path }}/bonding/whiteboard_thumb.jpg" />
-</a>
+<p><a href="https://dl.dropboxusercontent.com/u/56085440/photos/bonding/whiteboard_main.jpg" data-lightbox="nonet">
+  <img src="https://dl.dropboxusercontent.com/u/56085440/photos/bonding/whiteboard_thumb.jpg" />
+</a></p>
 
-Thankfully, the Internet works at the apartment, at least for now.
+<p>Thankfully, the Internet works at the apartment, at least for now.</p>
 
     </div>
   </div>
