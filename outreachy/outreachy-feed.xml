@@ -6,7 +6,7 @@
   <link href="https://trueskawka.github.io/outreachy/outreachy-feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" />
   
-  <updated>2017-01-03T03:35:49+01:00</updated>
+  <updated>2017-01-03T03:49:22+01:00</updated>
   
     <id>https://trueskawka.github.io/</id>
   
@@ -29,14 +29,14 @@
         
           
             <entry>
-              <title type="html">To be a mentor</title>
+              <title type="html">To mentor</title>
 
               
-                <link href="https://trueskawka.github.io/zulip/outreachy/gci/2017/01/03/to-mentor.html" rel="alternate" type="text/html" title="To be a mentor" />
+                <link href="https://trueskawka.github.io/zulip/outreachy/gci/blog/2017/01/03/to-mentor.html" rel="alternate" type="text/html" title="To mentor" />
                 <published>2017-01-03T03:27:00+01:00</published>
                 <updated>2017-01-03T03:27:00+01:00</updated>
-                <id>https://trueskawka.github.io/zulip/outreachy/gci/2017/01/03/to-mentor</id>
-                <content type="html" xml:base="https://trueskawka.github.io/zulip/outreachy/gci/2017/01/03/to-mentor.html">&lt;p&gt;When I first heard Zulip is taking part in Google Code-In and was asked to
+                <id>https://trueskawka.github.io/zulip/outreachy/gci/blog/2017/01/03/to-mentor</id>
+                <content type="html" xml:base="https://trueskawka.github.io/zulip/outreachy/gci/blog/2017/01/03/to-mentor.html">&lt;p&gt;When I first heard Zulip is taking part in Google Code-In and was asked to
 become a mentor, I got excited. And scared. The more time passed, the more
 scared I was, feeling inadequate and not experienced enough to review other
 people’s code.&lt;/p&gt;
@@ -177,6 +177,10 @@ process and communication, even going as far as to have &lt;a href=&quot;https:/
           
         
       
+        
+          
+        
+      
     
   
     
@@ -191,11 +195,11 @@ process and communication, even going as far as to have &lt;a href=&quot;https:/
               <title type="html">To be mentored</title>
 
               
-                <link href="https://trueskawka.github.io/zulip/outreachy/2017/01/02/to-be-mentored.html" rel="alternate" type="text/html" title="To be mentored" />
+                <link href="https://trueskawka.github.io/zulip/outreachy/blog/2017/01/02/to-be-mentored.html" rel="alternate" type="text/html" title="To be mentored" />
                 <published>2017-01-02T23:25:00+01:00</published>
                 <updated>2017-01-02T23:25:00+01:00</updated>
-                <id>https://trueskawka.github.io/zulip/outreachy/2017/01/02/to-be-mentored</id>
-                <content type="html" xml:base="https://trueskawka.github.io/zulip/outreachy/2017/01/02/to-be-mentored.html">&lt;p&gt;One of my fellow Recursers is actively researching needs of newbie
+                <id>https://trueskawka.github.io/zulip/outreachy/blog/2017/01/02/to-be-mentored</id>
+                <content type="html" xml:base="https://trueskawka.github.io/zulip/outreachy/blog/2017/01/02/to-be-mentored.html">&lt;p&gt;One of my fellow Recursers is actively researching needs of newbie
 developers and interviewing juniors, mentors and anyone else engaged in hiring programmers who are starting out. Given my experience so far, I more than qualified for an interview as a tech industry newbie.&lt;/p&gt;
 
 &lt;p&gt;At first I thought I wouldn’t have any relevant insights, since my
@@ -296,7 +300,7 @@ go into the nitty-gritty of my code without the comfort of additional research a
 cold if I want to become a better developer, so I welcome mentors who are
 harder to deal with.&lt;/p&gt;
 
-&lt;h3 id=&quot;whats-important-for-the-mentee&quot;&gt;What’s important for the mentee&lt;/h3&gt;
+&lt;h3 id=&quot;whats-important-to-the-mentee&quot;&gt;What’s important to the mentee&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -372,6 +376,10 @@ harder to deal with.&lt;/p&gt;
               
               
             </entry>
+          
+        
+      
+        
           
         
       
