@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator>
+  <link href="https://trueskawka.github.io/code/code-feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" />
+  <updated>2017-01-03T20:30:49+01:00</updated>
+  <id>https://trueskawka.github.io/</id>
+
+  
+    <title type="html">Alicja Raszkowska</title>
+  
+
+  
+
+  
+
+  
+    
+      
+        
+          
+            <entry>
+              <title type="html">#100DaysOfCode - day 000001</title>
+
+                <link href="https://trueskawka.github.io/code/100days/2017/01/03/100days-day-000001.html" rel="alternate" type="text/html" title="#100DaysOfCode - day 000001" />
+                <published>2017-01-03T20:29:00+01:00</published>
+                <updated>2017-01-03T20:29:00+01:00</updated>
+                <id>https://trueskawka.github.io/code/100days/2017/01/03/100days-day-000001</id>
+                <content type="html" xml:base="https://trueskawka.github.io/code/100days/2017/01/03/100days-day-000001.html">&lt;p&gt;&lt;strong&gt;Today’s Progress&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve decided to work on a simple mind mapping web app in JavaScript. The
+project seems interesting for a few reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;it’s an opportunity to play around with visualization libraries&lt;/li&gt;
+  &lt;li&gt;there is some potential to play around with node distribution and
+optimization&lt;/li&gt;
+  &lt;li&gt;doing it in JS allows me to learn more about localStorage and other ways
+of storing session data&lt;/li&gt;
+  &lt;li&gt;it’s a small enough project to have a working solution within a week or so&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’m satisfied with the ratio of effort to results at this point.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thoughts&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Initially I wanted to use p5.js, but after playing around with it for half
+an hour and doing some research I don’t think it’s a good approach. This
+library is more about creating interactive visualizations than structures
+for storing data and the way the objects are drawn on top of each other
+makes it hard to handle moving nodes around and lining them up properly.&lt;/p&gt;
+
+&lt;p&gt;I think tomorrow I’ll try to make an initial visualization in d3.js instead.&lt;/p&gt;</content>
+
+
+              
+              
+              
+              
+              
+
+              
+                <author>
+                    <name>alicja</name>
+                  
+                  
+                </author>
+              
+
+              
+
+              
+
+              
+                <summary type="html">Today’s Progress</summary>
+              
+
+              
+              
+            </entry>
+          
+        
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+            <entry>
+              <title type="html">#100DaysOfCode commitment</title>
+
+                <link href="https://trueskawka.github.io/code/100days/2017/01/03/100days-commitment.html" rel="alternate" type="text/html" title="#100DaysOfCode commitment" />
+                <published>2017-01-03T17:15:00+01:00</published>
+                <updated>2017-01-03T17:15:00+01:00</updated>
+                <id>https://trueskawka.github.io/code/100days/2017/01/03/100days-commitment</id>
+                <content type="html" xml:base="https://trueskawka.github.io/code/100days/2017/01/03/100days-commitment.html">&lt;p&gt;I’ve decided to take on the &lt;a href=&quot;https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b#.urk8h25xk&quot;&gt;#100DaysOfCode&lt;/a&gt; challenge. Here’s my
+commitment:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;I will code for at least an hour every day.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I will tweet my progress every day, with the hashtag &lt;strong&gt;#100DaysOfCode&lt;/strong&gt; and note which day of the challenge I’m on.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I will fork the &lt;strong&gt;#100DaysOfCode&lt;/strong&gt; repository to my GitHub account, then track my progress there [&lt;a href=&quot;https://github.com/trueskawka/100-days-of-code&quot;&gt;link&lt;/a&gt;].&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If I code as part of my job, I will not count that time towards the challenge.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I will only count the days where I spend at least some of my time building projects — not the days where I spend all my coding time working through lessons and tutorials.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I will encourage and support at least two people each day in the &lt;strong&gt;#100DaysOfCode&lt;/strong&gt; challenge on Twitter.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I will only skip a day if something important comes up. And when I resume, I won’t count the day I skipped as one of my 100 days.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content>
+
+
+              
+              
+              
+              
+              
+
+              
+                <author>
+                    <name>alicja</name>
+                  
+                  
+                </author>
+              
+
+              
+
+              
+
+              
+                <summary type="html">I’ve decided to take on the #100DaysOfCode challenge. Here’s my commitment:</summary>
+              
+
+              
+              
+            </entry>
+          
+        
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+  
+</feed>
