@@ -4,7 +4,7 @@
   <generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator>
   <link href="https://trueskawka.github.io/code/code-feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-01-03T20:30:49+01:00</updated>
+  <updated>2017-01-04T02:57:13+01:00</updated>
   <id>https://trueskawka.github.io/</id>
 
   
@@ -21,13 +21,13 @@
         
           
             <entry>
-              <title type="html">#100DaysOfCode - day 000001</title>
+              <title type="html">#100DaysOfCode - day 0000001</title>
 
-                <link href="https://trueskawka.github.io/code/100days/2017/01/03/100days-day-000001.html" rel="alternate" type="text/html" title="#100DaysOfCode - day 000001" />
+                <link href="https://trueskawka.github.io/code/100days/2017/01/03/100days-day-0000001.html" rel="alternate" type="text/html" title="#100DaysOfCode - day 0000001" />
                 <published>2017-01-03T20:29:00+01:00</published>
                 <updated>2017-01-03T20:29:00+01:00</updated>
-                <id>https://trueskawka.github.io/code/100days/2017/01/03/100days-day-000001</id>
-                <content type="html" xml:base="https://trueskawka.github.io/code/100days/2017/01/03/100days-day-000001.html">&lt;p&gt;&lt;strong&gt;Today’s Progress&lt;/strong&gt;&lt;/p&gt;
+                <id>https://trueskawka.github.io/code/100days/2017/01/03/100days-day-0000001</id>
+                <content type="html" xml:base="https://trueskawka.github.io/code/100days/2017/01/03/100days-day-0000001.html">&lt;p&gt;&lt;strong&gt;Today’s Progress&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I’ve decided to work on a simple mind mapping web app in JavaScript. The
 project seems interesting for a few reasons:&lt;/p&gt;
