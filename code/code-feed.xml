@@ -4,7 +4,7 @@
   <generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator>
   <link href="https://trueskawka.github.io/code/code-feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-01-04T02:57:13+01:00</updated>
+  <updated>2017-01-05T03:46:28+01:00</updated>
   <id>https://trueskawka.github.io/</id>
 
   
@@ -15,6 +15,75 @@
 
   
 
+  
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+            <entry>
+              <title type="html">#100DaysOfCode - day 0000010</title>
+
+                <link href="https://trueskawka.github.io/code/100days/2017/01/05/100days-day-0000010.html" rel="alternate" type="text/html" title="#100DaysOfCode - day 0000010" />
+                <published>2017-01-05T03:10:00+01:00</published>
+                <updated>2017-01-05T03:10:00+01:00</updated>
+                <id>https://trueskawka.github.io/code/100days/2017/01/05/100days-day-0000010</id>
+                <content type="html" xml:base="https://trueskawka.github.io/code/100days/2017/01/05/100days-day-0000010.html">&lt;p&gt;&lt;strong&gt;Today’s Progress&lt;/strong&gt;:
+I’ve recreated yesterday’s p5.js simple script in d3.js - it took some time
+since I didn’t know the basics of d3.js.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thoughts&lt;/strong&gt;:
+This looks more promising, as d3.js has an ability to store and update data,
+allowing for elements to move around.&lt;/p&gt;
+
+&lt;p&gt;I hope to start earlier tomorrow - today I’ve been a bit too tired to work
+on this.&lt;/p&gt;</content>
+
+
+              
+              
+              
+              
+              
+
+              
+                <author>
+                    <name>alicja</name>
+                  
+                  
+                </author>
+              
+
+              
+
+              
+
+              
+                <summary type="html">Today’s Progress: I’ve recreated yesterday’s p5.js simple script in d3.js - it took some time since I didn’t know the basics of d3.js.</summary>
+              
+
+              
+              
+            </entry>
+          
+        
+      
+        
+          
+        
+      
+    
   
     
       
@@ -202,26 +271,6 @@ commitment:&lt;/p&gt;
         
           
         
-      
-        
-          
-        
-      
-    
-  
-    
-      
-        
-          
-        
-      
-        
-          
-        
-      
-    
-  
-    
       
         
           
