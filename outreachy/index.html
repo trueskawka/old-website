@@ -126,6 +126,179 @@
           
   <div class="post postContent">
     <div  class="postDate">
+      <time datetime="2017-01-11T23:48:00+01:00" itemprop="datePublished">
+      
+        01/11/2017 23:48
+      
+      </time>
+    </div>
+    <div class="postDay">
+      
+    </div>
+    <br>
+
+    
+      <a class="link-it" href="/zulip/outreachy/gci/blog/2017/01/11/outreachy-first-month-recap.html">
+        <div class="postTitle">
+          <h3>Outreachy - first month recap</h3>
+        </div>
+      </a>
+    
+
+    <div class="post-content">
+      <p>I’ve been asked today to reflect on my first Outreachy month and share
+what I’ve done so far.</p>
+
+<h3 id="initial-proposal">Initial proposal</h3>
+
+<p>I admit I’ve felt queasy about it at first - after
+all, my initial <a href="https://paper.dropbox.com/doc/Outreachy-proposal-QfwrTnnGBDBd9hBGCyUjT">proposal</a>
+was full of ambitious goals that were to be driven by the regular expected
+levels of productivity.</p>
+
+<p>That didn’t happen. I have made mistakes on the way:</p>
+
+<ul>
+  <li>
+    <p>I let my momentum get lost while visiting family for the better part of
+November and it took time to regain it after I got back home.</p>
+  </li>
+  <li>
+    <p>I am still struggling with sharing imperfect code and contributions, even
+though as a mentor I know their value.</p>
+  </li>
+  <li>
+    <p>I got completely involved in the Google Code-In, because after the initial
+stress of being inexperienced and unable to help the students, it became
+easier and easier with every week to focus on it.</p>
+  </li>
+  <li>
+    <p>I got used to my to-do list getting longer and longer, focusing more on
+immediate tasks than long-term goals. It’s easier to tick off “create
+a GCI task” than “implement this big and fuzzy issue”.</p>
+  </li>
+</ul>
+
+<p>What it meant for my proposal - I haven’t worked on most of my planned tasks
+when planned:</p>
+
+<ul>
+  <li>
+    <p>The CSS splitting got behind the Zulip redesign and I was able to split
+only one part since my pre-Outreachy splits, as everything else is in the
+midst of changes and refactoring.</p>
+  </li>
+  <li>
+    <p>Building screenshots and improving Casper tests is still on my to-do list,
+but the only steps I’ve taken so far is reading the Casper docs, tinkering
+a bit with our Casper doc and refactoring the task into more actionable
+steps earlier this week.</p>
+  </li>
+  <li>
+    <p>My work on interactive bots was late, but since it was part of my GCI
+responsibilities, I’ve managed to learn how to create bots and wrote the
+tasks for them. Over the past few weeks I’ve also helped students work
+on the bots and learned a lot from them (more on that later on).</p>
+  </li>
+  <li>
+    <p>I haven’t worked on issues related to stream flow.</p>
+  </li>
+</ul>
+
+<h3 id="what-i-have-been-working-on">What I have been working on</h3>
+
+<p>My contributions concerned mostly GCI improvements and communication, with
+some minor work towards my general goals. I’ve found it much easier to
+write and be social - respond to messages, review pull requests, help
+students with tasks, create documents - than to focus on my own code.</p>
+
+<ul>
+  <li>
+    <p>I have created the <a href="https://github.com/zulip/zulip-gci/blob/master/tasks/interactive-bots.md">interactive bots tasks</a>
+for the GCI students.</p>
+  </li>
+  <li>
+    <p>I have created the <a href="https://github.com/zulip/zulip-gci/blob/master/tasks/translations.md">translation tasks</a> for
+the GCI students and wrote the <a href="https://github.com/zulip/zulip/pull/2439">initial Polish style guide</a>.</p>
+  </li>
+  <li>
+    <p>I have written a doc on <a href="https://github.com/zulip/zulip-gci/blob/master/docs/improving-gci-experience.md">improving the GCI experience</a>
+as a reflection and a shared set of experiences. I have also written an
+internal doc for mentors on encouraging students.</p>
+  </li>
+  <li>
+    <p>I <a href="https://github.com/zulip/zulip/pull/2128">split the right sidebar CSS</a>
+from the main <code class="highlighter-rouge">zulip.css</code> file.</p>
+  </li>
+  <li>
+    <p>I have had 3 GCI shifts a week for reviewing student submissions and
+helping them on Zulip. I’ve also been helping students, posting various
+reflections, and discussing issues and improvements quite a lot.</p>
+  </li>
+</ul>
+
+<p>I also currently have multiple tasks in line:</p>
+
+<ul>
+  <li>
+    <p>I posted a work-in-progress pull request on a <a href="https://github.com/zulip/zulip/pull/2721">muted streams prompt</a> that needs refactoring and
+better testing.</p>
+  </li>
+  <li>
+    <p>I’m working on building CSS linters after a <a href="https://chat.zulip.org/#narrow/stream/test.20suites/topic/linting">fruitful chat with Steve</a> [you
+have to be logged in <a href="https://chat.zulip.org">Zulip</a>]. I am also creating
+a write-up of this discussion for further use.</p>
+  </li>
+  <li>
+    <p>I have a React Native app <a href="https://github.com/zulip/zulip-mobile/issues/181">issue assigned</a> - so far I’ve a working
+environment and I’ve tried to trigger the issue with no luck on my mobile
+device.</p>
+  </li>
+  <li>
+    <p>I have a draft write-up about Casper testing and will be improving the
+existing <a href="https://zulip.readthedocs.io/en/latest/testing-with-casper.html">Zulip Casper doc</a>.</p>
+  </li>
+  <li>
+    <p>I have a few draft posts on mypy, open-source skills and improving as an
+intermediate programmer.</p>
+  </li>
+</ul>
+
+<h3 id="actionable-goals">Actionable goals</h3>
+
+<p>For the next two months of my internship, I want to focus more on my own
+contributions, especially putting my coding skills to good use. Google
+Code-In is ending soon, which will free up my schedule and prevent me from
+focusing entirely on mentoring. Alas, I need some actionable goals, since
+my initial proposal was too vague and I got easily distracted with better
+defined tasks.</p>
+
+<ul>
+  <li>
+    <p>I will refactor each of the tasks currently in line (and any future task)
+and split them into smaller, better defined ones, with more specific
+deadlines.</p>
+  </li>
+  <li>
+    <p>I will check in daily, as it’s much harder to be vague when informing
+others what I’ve been up to.</p>
+  </li>
+  <li>
+    <p>I will set aside time for big picture ideas on possible enhancements and
+creative writing on non-technical aspects of software development and I
+will be focused on the task at hand outside of those intervals.</p>
+  </li>
+  <li>
+    <p>I will follow a more regular schedule instead of working in irregular
+intervals of varied lengths.</p>
+  </li>
+</ul>
+
+    </div>
+  </div>
+
+  <div class="post postContent">
+    <div  class="postDate">
       <time datetime="2017-01-03T03:27:00+01:00" itemprop="datePublished">
       
         01/03/2017 03:27
@@ -426,168 +599,6 @@ harder to deal with.</p>
   before you answer your own questions.</p>
   </li>
 </ul>
-
-    </div>
-  </div>
-
-  <div class="post postContent">
-    <div  class="postDate">
-      <time datetime="2016-12-07T16:45:00+01:00" itemprop="datePublished">
-      
-        12/07/2016 16:45
-      
-      </time>
-    </div>
-    <div class="postDay">
-      
-    </div>
-    <br>
-
-    
-      <a class="link-it" href="/outreachy/blog/2016/12/07/getting-into-outreachy.html">
-        <div class="postTitle">
-          <h3>Getting into Outreachy</h3>
-        </div>
-      </a>
-    
-
-    <div class="post-content">
-      <p>Getting into Outreachy is a long process that requires a lot of effort. In order to have a chance at an internship one has to:</p>
-
-<ul>
-  <li>
-    <p>Look through all the participating organizations.</p>
-  </li>
-  <li>
-    <p>Read up about the projects and find relevant bite-sized contributions.</p>
-  </li>
-  <li>
-    <p>Make a small contributions and communicate with mentors.</p>
-  </li>
-  <li>
-    <p>Write an application and submit it before the deadline.</p>
-  </li>
-  <li>
-    <p>Keep contributing and communicating.</p>
-  </li>
-</ul>
-
-<p>You can find more details about the process on the <a href="https://wiki.gnome.org/Outreachy">GNOME wiki</a> - I’m not going to dive into that. I’d like to reflect on what helped me, as it might be useful for next round’s applicants and tech newbies in general.</p>
-
-<h3 id="fight-the-impostor-syndrome">Fight the impostor syndrome.</h3>
-
-<p>First time I’ve heard about Outreachy, I wasn’t sure it was for me. The application process alone was enough to make me doubt my skills.</p>
-
-<p>A little bit of background here - I’ve had my fair share of programming experience over the past 10 years, but I’ve never worked as a <em>real</em> developer (apart from this one time at a startup, when it didn’t feel real enough). I come from a quant-economical background and I’ve been mostly working analytical and consulting jobs over the course of my career. Around February this year I’ve decided to take a sabbatical and become the developer I’ve always wanted to be.</p>
-
-<p>During my Outreachy application process I’ve been staying in New York, taking part in the most wonderful programming experience as a participant at the <a href="https://www.recurse.com/">Recurse Center</a>. I was immersed in a friendly environment, full of brilliant people who wouldn’t take <em>I’m not good enough</em> for an answer.</p>
-
-<p>The Recurse Center founders tell us we’re a part of the community and they want us there on the very first day of the batch. That alone made me feel more of a programmer. They also tell us about the importance of self-motivation and the risk many smart people face - the <a href="https://www.wikiwand.com/en/Impostor_syndrome">impostor syndrome</a>.</p>
-
-<p>If you are thinking about applying, you are good enough. Challenge yourself and fight your impostor syndrome. We’ve all had to begin somewhere.</p>
-
-<h3 id="find-your-motivation">Find your motivation.</h3>
-
-<p>Why did I want to get into Outreachy in the first place?</p>
-
-<p>What helped me a lot was talking to many people about the idea of applying. I was shy about it, so at first I asked only the people I felt very comfortable with - my closest friends and RC facilitators. While answering their questions, I’ve stated my doubts (and there were a lot of them!) and pointed out the possible benefits of Outreachy, to get myself more and more excited about the idea of applying:</p>
-
-<ul>
-  <li>
-    <p>I was too stressed out to apply for <em>real</em> developer jobs.</p>
-
-    <p>I’ve decided only recently to switch careers and become a full-time developer. I felt that Outreachy would be the next logical step for me, as it seemed like a safe yet challenging environment for a newbie developer.</p>
-  </li>
-  <li>
-    <p>I wanted a remote opportunity, as I was not sure if I’d like to move abroad for a developer job.</p>
-
-    <p>This meant I was looking for something that’d allow me to work from Warsaw and gain enough experience to decide what should my next step be. Also, getting a job as a remote developer requires remote experience, so it would benefit my future career.</p>
-  </li>
-  <li>
-    <p>I’ve always wanted to contribute to open-source projects, but I was too scared to start.</p>
-
-    <p>It seemed that with my mixed experience and only so much time on my hands while working analytical and consulting jobs, I’m not a good fit. Outreachy would be an opportunity to challenge those assumptions.</p>
-  </li>
-  <li>
-    <p>I felt my half-year sabbatical wasn’t enough.</p>
-
-    <p>I’ve started many projects and had so much to learn, it felt like it’s never going to end - which is exciting, but may also be demotivating. A few more months spent in a lightweight environment felt like something I needed.</p>
-  </li>
-</ul>
-
-<p>Gradually, I became confident enough to tell everyone I’m applying. At some point I became confident enough to convince myself this is in my reach. To explain what I’ll be doing as an intern even to people I didn’t know.</p>
-
-<p>Understand why you think applying for Outreachy is what you want to do - it’s a long, self-motivated endeavor that will require a lot from you. In order for this to work, you need to be sure you have motivation behind it. There are many other opportunities if you decide it’s not for you.</p>
-
-<p>If you’re not sure what motivates you or need some help with that impostor syndrome, ask people who care about you. Find a community. Ask stupid questions. When, if not now?</p>
-
-<h3 id="make-sure-its-meaningful">Make sure it’s meaningful.</h3>
-
-<p>As I was interested in working with many organizations, I’ve had to make some tough choices and choose a project. Some names sparked my immediate interest, but many of them felt out of my reach (I still feel that contributing to Linux kernel or FFmpeg requires a lot more than I could muster).</p>
-
-<p>I came up with a set of criteria that worked for me:</p>
-
-<ul>
-  <li>
-    <p>I need to be familiar with the product and use it often enough to be comfortable as a user.</p>
-
-    <p>This meant anything that had to do with Linux couldn’t be my first choice, as I’m unfamiliar with the environment and the problems product users are facing.</p>
-  </li>
-  <li>
-    <p>I need to find the project meaningful, fulfilling specific needs and supporting a community.</p>
-
-    <p>This meant I had to find a community I care about that is using the product and would benefit from a new contributor engaging in the project.</p>
-  </li>
-  <li>
-    <p>I need to feel welcome when contributing to the project.</p>
-
-    <p>This meant I had to be comfortable with making mistakes and learning from the community, asking questions rather than being embarrassed. Other developers had to understand that as a newbie in open-source I need a lot of learning and patience.</p>
-  </li>
-  <li>
-    <p>I need to believe I can actually impact the project significantly and make a meaningful contribution.</p>
-
-    <p>I didn’t want to get engaged in something I’d only be able to do mundane and seemingly unimportant tasks for - although the <em>mundane</em> and <em>seemingly unimportant</em> are often tasks that have been neglected for a while and need a contributor. This meant I had to be comfortable with the codebase and understand what is a meaningful contribution.</p>
-  </li>
-</ul>
-
-<p>There was only one organization that was a clear <em>yes</em> for all of my criteria - Zulip. I’ve been using the product constantly since day one at the Recurse Center, which also meant I’ve had a community I cared about. I’ve felt immediately welcome in the project and believed I know the users’ needs well enough to understand what’s meaningful for them.</p>
-
-<p>Define your own criteria that’ll help you through this process. It’s hard, as there are a lot of interesting choices and you’ll be tempted to try everything. I’m not saying it’s impossible, but I’ve heard from many people more experienced than me that one can’t really have more than 2-3 priority organizations in this process.</p>
-
-<p>I went all in for Zulip and didn’t look back - I haven’t applied for any other organizations, because it seemed to me with the time I had I couldn’t possibly make a meaningful contribution to any other project. This strategy might be ill-advised for many, just like with getting into college - sometimes having a second choice that is good enough makes one feel a little bit more confident and that confidence can make a difference.</p>
-
-<p>Whatever you decide to do, make sure any projects you choose spark joy and will allow you to be motivated for the whole 3 months.</p>
-
-<h3 id="learn-code-repeat">Learn. Code. Repeat.</h3>
-
-<p>The past two months have been a learning fast-track. I’ve made many mistakes, some embarrassing enough that I still need some time to be able to talk about them publicly. What kept me going were the encouragement from the community - as I contributed and got more comfortable, Zulip was becoming more and more <strong>my</strong> community - and seeing my contributions implemented in the project. Slowly a more refined idea of project needs emerged and I started thinking about myself as a contributor, as opposed to the newbie everyone had to help.</p>
-
-<p>I don’t have any easy answers here, as this process is different for everyone. In order to become a contributor, you need to understand the current state of the project and what is the expected state - in a week, a few months and a few years. This is something you learn gradually, through asking questions and coding, engaging in the community and being proactive.</p>
-
-<p>If it feels like home, it probably is.</p>
-
-<hr />
-
-<p>One can never be too grateful. I’d like to thank:</p>
-
-<ul>
-  <li><strong>Cihan Demirci</strong> for all the the all-nighters, patience and our growing friendship</li>
-  <li><strong>Sumana Harihareswara</strong> for her guidance, inspiration and help</li>
-  <li><strong>Tim Abbott</strong> and <strong>Steve Howell</strong> for their patience and introducing the newbie developer to open-source</li>
-  <li><strong>Neeraj Wahi</strong> for his positive attitude and Zulip React Native workshop</li>
-  <li><strong>Michael Cordover</strong> for helping me out with my first contribution</li>
-  <li><strong>Andy Lee</strong>, <strong>Andrew Yoon</strong> and <strong>Andrea Orru</strong> for being the best RC check-out group</li>
-  <li><strong>James Porter</strong> for our weekly one-on-ones and guidance</li>
-  <li><strong>Leah Hanson</strong> for helping me out with refactoring my Outreachy application</li>
-  <li><strong>Satabdi Das</strong> for our conversations on Outreachy and encouragement</li>
-  <li><strong>Alicia Thilani Singham Goodwin</strong> and <strong>Jennifer Gooley</strong> for telling me about this opportunity</li>
-  <li><strong>Nancy Thomas</strong> for support and advice</li>
-  <li><strong>Rachel Vincent</strong>, <strong>Michelle Steigerwalt</strong> and <strong>Lyn Normoyle</strong> for flooding my feed with positivity, inspiration and cats</li>
-  <li><strong>Nick Bergson-Shilcock</strong>, <strong>David Albert</strong> and <strong>Sonali Sridhar</strong> for saying the right words at the right time</li>
-  <li>the <strong>Recurse Center community</strong> as a whole for making me a part of something magical</li>
-</ul>
-
-<p>I’m excited about <a href="https://wiki.gnome.org/Outreachy/2016/DecemberMarch">Outreachy round 13</a>!</p>
 
     </div>
   </div>
