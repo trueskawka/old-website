@@ -6,7 +6,7 @@
   <link href="https://trueskawka.github.io/outreachy/outreachy-feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" />
   
-  <updated>2017-01-12T13:41:57+01:00</updated>
+  <updated>2017-01-25T16:24:41+01:00</updated>
   
     <id>https://trueskawka.github.io/</id>
   
@@ -19,6 +19,34 @@
 
   
 
+  
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+  
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
   
     
       
@@ -637,220 +665,6 @@ process and communication, even going as far as to have &lt;a href=&quot;https:/
             </entry>
           
         
-      
-        
-          
-        
-      
-        
-          
-        
-      
-    
-  
-    
-      
-        
-          
-        
-      
-        
-          
-            <entry>
-              <title type="html">To be mentored</title>
-
-              
-                <link href="https://trueskawka.github.io/zulip/outreachy/blog/2017/01/02/to-be-mentored.html" rel="alternate" type="text/html" title="To be mentored" />
-                <published>2017-01-02T23:25:00+01:00</published>
-                <updated>2017-01-02T23:25:00+01:00</updated>
-                <id>https://trueskawka.github.io/zulip/outreachy/blog/2017/01/02/to-be-mentored</id>
-                <content type="html" xml:base="https://trueskawka.github.io/zulip/outreachy/blog/2017/01/02/to-be-mentored.html">&lt;p&gt;One of my fellow Recursers is actively researching needs of newbie
-developers and interviewing juniors, mentors and anyone else engaged in hiring programmers who are starting out. Given my experience so far, I more than qualified for an interview as a tech industry newbie.&lt;/p&gt;
-
-&lt;p&gt;At first I thought I wouldn’t have any relevant insights, since my
-experience is very fresh and I haven’t encountered any of the serious problems many face in tech. I started talking and only realized about 45 minutes later that our chat is nearly over.&lt;/p&gt;
-
-&lt;h3 id=&quot;first-developer-job---no-mentoring&quot;&gt;First developer job - no mentoring&lt;/h3&gt;
-
-&lt;p&gt;The team I worked with in my first development job was not experienced in software development. They were, just like me, mostly economists who learned to program, without any previous experience in building applications. Even though they’ve done thorough research and managed to build a pretty good product, I was constantly struggling.&lt;/p&gt;
-
-&lt;p&gt;I didn’t have an experienced developer as a mentor, so I felt I was
-learning only through making mistakes. It’s not wrong to make mistakes and fix them, but it can’t be the only learning strategy for effective development. The job was more about quick fixes and tiny new features than important contributions that enhanced the core product. I was barely taken into account when building important features, usually as a person who’d
-work on implementation rather than an equal contributor.&lt;/p&gt;
-
-&lt;p&gt;I didn’t have the words to name most of my concerns. I felt that no one cared about my growth as a developer and an employee, even if that could be beneficial for the company in the long term. Most of the time I wasn’t sure I was doing things right and had serious doubts if I was even working on the right things.&lt;/p&gt;
-
-&lt;p&gt;I felt that I was the only person who had these problems. How
-could I pinpoint such vague ideas like “you are interrupting my learning process” and “I don’t think this solution is something we want to do, since
-it’s not best practice”, especially when I didn’t know how the process
-should look like or what are the best practices?&lt;/p&gt;
-
-&lt;h3 id=&quot;recognizing-bad-mentoring&quot;&gt;Recognizing bad mentoring&lt;/h3&gt;
-
-&lt;p&gt;I was very lucky to spend three months at the Recurse Center, where I was
-encouraged to ask questions and voice my concerns. The concerns were taken
-seriously, even if I felt I’m being overly sensitive. That helped me
-recognize bad mentoring, among other behaviors I couldn’t previously name.&lt;/p&gt;
-
-&lt;p&gt;I’m not saying any of my mentors intended not to help me or were driven by the wrong things. Bad mentoring is not about intent, but the way of approaching a problem. Mentoring should be about helping the mentee with
-their problem at hand, in a way that helps them grow and encourages them to try and learn. It’s a skill to be learned.&lt;/p&gt;
-
-&lt;p&gt;Bad mentors ask questions they already know the answers to and get impatient when they don’t receive the right answer quickly. They sometimes answer their own questions to speed up the process and correct the details before making sure the mentee even understands the problem. They say something is “obvious” or “easy”, which further discourages the mentee from trying.&lt;/p&gt;
-
-&lt;p&gt;Bad mentors answer the problem they see, not the one the mentee asked to be
-helped with. They focus on their comfort and the &lt;em&gt;right&lt;/em&gt; approach instead
-of focusing on the mentee’s learning process. They sometimes don’t even try
-to help with the actual problem, but rephrase the issue to answer
-something that’s more interesting or easier for them to explain.&lt;/p&gt;
-
-&lt;p&gt;Bad mentors don’t give the mentee time to find answers on their own and
-explore. They don’t want to explore with the mentee. They throw resources at the mentee and don’t set up a feedback loop that would encourage them
-to communicate.&lt;/p&gt;
-
-&lt;p&gt;I think bad mentors in tech are often experienced and skilled developers
-who forgot how hard it was to get to where they are and didn’t think to ask.&lt;/p&gt;
-
-&lt;h3 id=&quot;building-a-relationship-with-a-mentor&quot;&gt;Building a relationship with a mentor&lt;/h3&gt;
-
-&lt;p&gt;One of my best friends at the Recurse Center was also my first great mentor.
-Over the course of our batch we developed a relationship based on trust and
-mutual respect, motivating each other to grow. I still think I got more
-out of this dynamic, even though I’ve been a mentor myself for the past
-few weeks and I know how much I’ve learned from that.&lt;/p&gt;
-
-&lt;p&gt;My first great mentor expected me to not give up on my problems and approach
-them with a curious mind, instead of stressing out and feeling inadequate.
-He expected me to first try and answer my own questions, even if I was
-worried I’d get them completely wrong. He’d discuss features with me and make sure I understand what’s happening, addressing relevant parts of my
-input.&lt;/p&gt;
-
-&lt;p&gt;Whenever I got lost, I could just ask him, even if it felt like the stupidest question ever. The fear of embarrassing myself gradually went
-away thanks to all the confidence he had in me. After a few weeks, it felt more like a partnership of equals than mentoring, even though there was a
-vast difference in our knowledge and experience.&lt;/p&gt;
-
-&lt;h3 id=&quot;working-with-open-source-mentors&quot;&gt;Working with open-source mentors&lt;/h3&gt;
-
-&lt;p&gt;When I started working with Zulip I didn’t know any of my soon to be
-mentors. They could only learn about me from chat and my contributions,
-without having the opportunity to get to know me in person, which could
-help me be more confident. I’ve been entering this community of awesome
-developers and all of them knew much more than I did - how could I possibly
-bring value?&lt;/p&gt;
-
-&lt;p&gt;I was lucky again since Zulip maintainers and contributors are not only
-welcoming to newbie developers, but also have experience with introducing
-them to the project. Zulip has great &lt;a href=&quot;https://zulip.readthedocs.io/en/latest/&quot;&gt;documentation&lt;/a&gt; and the team is
-very responsive on chat.&lt;/p&gt;
-
-&lt;p&gt;When working on a feature, mentors would set up a context for my work,
-providing any relevant information and making sure I understand the
-problem well. They’d answer my questions and encourage me to share
-work-in-progress code to drive the conversation.&lt;/p&gt;
-
-&lt;p&gt;From day one I was treated like a contributor, a partner, not a problem. I
-was taken seriously and expected to be a responsible community member. My
-input was valued and taken into account, my questions answered. I was also
-constantly encouraged with gradual code reviews that improved my skills and
-workflow tremendously over the span of a month (and are still improving).&lt;/p&gt;
-
-&lt;h3 id=&quot;dealing-with-the-real-world&quot;&gt;Dealing with the &lt;em&gt;real world&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;A newbie developer and a woman, I’m sure to face some communication issues
-in my future endeavors. I will have to prove my abilities and substantiate
-my reasoning. That’s why I also seek out more direct and less welcoming mentors, who will compare my solutions to optimal ones and not make it
-any easier for me to solve problems.&lt;/p&gt;
-
-&lt;p&gt;It’s not easy to deal with direct questions about my implementation and
-go into the nitty-gritty of my code without the comfort of additional research and asynchronous communication. I do however need to know my stuff
-cold if I want to become a better developer, so I welcome mentors who are
-harder to deal with.&lt;/p&gt;
-
-&lt;h3 id=&quot;whats-important-to-the-mentee&quot;&gt;What’s important to the mentee&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Believing in them.&lt;/p&gt;
-
-    &lt;p&gt;It’s not only about supporting the mentee, but also challenging them and giving them real responsibilities from the very start. Building a relationship based on trust requires accountability and a good way to motivate oneself to deliver is knowing someone needs our input.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Being excited about their growth.&lt;/p&gt;
-
-    &lt;p&gt;Every review at Zulip begins and ends with a positive note. Start with
-  a thank you when the mentee is asking for a review - they are learning
-  and a great way to learn is to build and improve.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Setting up a learning environment.&lt;/p&gt;
-
-    &lt;p&gt;Give the mentee context for their work - point them to other
-  contributions and relevant docs. Treat code reviews as learning
-  opportunities and give incremental steps to improve the mentee’s work,
-  starting from the core functionality and expecting more and more
-  self-guidance and quality.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Encouraging them to leave their comfort zone.&lt;/p&gt;
-
-    &lt;p&gt;Ask the mentee to read others’ code, support them in mentoring less
-  experienced contributors. Push them to share their code early with
-  work-in-progress pull requests - I for one had to talk myself out of
-  being this perfect person, who should never share their mistakes.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Introducing different kinds of mentors.&lt;/p&gt;
-
-    &lt;p&gt;Encourage the mentee to ask multiple mentors for advice and help. Let
-  them learn how to communicate with other team members and benefit
-  from their guidance.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Balancing the amount of information.&lt;/p&gt;
-
-    &lt;p&gt;Don’t give the mentee answers right away, but don’t leave them hanging
-  for too long. Start with not giving enough and gradually find a balance
-  with providing more details while expecting more self-guidance. Stop
-  before you answer your own questions.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content>
-              
-
-
-              
-              
-              
-              
-              
-
-              
-                <author>
-                    <name>alicja</name>
-                  
-                  
-                </author>
-              
-
-              
-
-              
-
-              
-                <summary type="html">One of my fellow Recursers is actively researching needs of newbie developers and interviewing juniors, mentors and anyone else engaged in hiring programmers who are starting out. Given my experience so far, I more than qualified for an interview as a tech industry newbie.</summary>
-              
-
-              
-              
-            </entry>
-          
-        
-      
-        
-          
-        
-      
-    
-  
-    
       
         
           
