@@ -6,7 +6,7 @@
   <link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" />
   
-  <updated>2017-01-25T17:26:12+01:00</updated>
+  <updated>2017-01-31T18:30:23+01:00</updated>
   
     <id>https://trueskawka.github.io/</id>
   
@@ -19,6 +19,259 @@
 
   
 
+  
+    
+      
+        
+          
+        
+          
+            <entry>
+              <title type="html">return programmer;</title>
+
+              
+                <link href="https://trueskawka.github.io/blog/programming/rc/2017/01/31/return-programmer.html" rel="alternate" type="text/html" title="&lt;b&gt;return&lt;/b&gt; programmer;" />
+                <published>2017-01-31T16:15:00+01:00</published>
+                <updated>2017-01-31T16:15:00+01:00</updated>
+                <id>https://trueskawka.github.io/blog/programming/rc/2017/01/31/return-programmer</id>
+                <content type="html" xml:base="https://trueskawka.github.io/blog/programming/rc/2017/01/31/return-programmer.html">&lt;p&gt;24 weeks ago I entered the Recurse Center in New York, not sure what to
+expect. I’ve only known what I was able to find online and anything I could
+gather from introductory emails. I flew to another continent based on the gut
+feeling that this is the right thing to do and not being able to explain
+what &lt;em&gt;this&lt;/em&gt; was exactly.&lt;/p&gt;
+
+&lt;h2 id=&quot;expectations&quot;&gt;Expectations&lt;/h2&gt;
+
+&lt;p&gt;I have submitted my RC application on a whim when life didn’t feel quite where
+I wanted it to be in March last year. It was surprisingly easy to answer
+two core questions on the application form:&lt;/p&gt;
+
+&lt;h3 id=&quot;what-do-you-want-to-be-doing-in-two-years&quot;&gt;What do you want to be doing in two years?&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I want to work with people who are smarter than me and learn.
+I want to have a remote job that allows me to travel and work.
+I want to make products that suit the users’ needs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;why-do-you-want-to-attend-the-recurse-center&quot;&gt;Why do you want to attend the Recurse Center?&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I want to kick-off and have a new start.
+For the last few years I’ve been an analyst/programmer/whatever-is-needed
+and I didn’t really have a clear idea on what I want to do.
+Going abroad for a few months and creating something from scratch sounds
+like a great idea to finally start being a full-time programmer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Looking back, I’m not that surprised I got in, even though when I first
+got my acceptance email a month later I was shocked. (&lt;em&gt;Me? The person who
+couldn’t even code a proper recursive FizzBuzz?&lt;/em&gt;) The answers above are
+very much in RC-spirit, even though I’m not sure I can pin down what that
+means.&lt;/p&gt;
+
+&lt;h2 id=&quot;people&quot;&gt;People&lt;/h2&gt;
+
+&lt;p&gt;The Recurse Center is primarily and predominantly about people. It’s not
+just a space where we can hang out all the time (sometimes literally days
+at a time), with WiFi, beanbags and coffee. A co-working space or a start-up
+office doesn’t quite describe it.&lt;/p&gt;
+
+&lt;p&gt;Imagine a place where you can always find someone to talk to and ask any
+question. When you get to spend time with someone, they are fully engaged
+in the conversation, whether it’s helping you find a fairly straightforward
+typo in your code, learning a new paradigm together, late-night discussions
+or listening just because you need it.&lt;/p&gt;
+
+&lt;p&gt;It’s a community where you can make friends nearly instantaneously.
+Sure, not everyone is going to be your bestie - after all, without diversity
+it would be a very boring community. When you meet the people you resonate
+with, it’s like a first date - time flies as you end up talking about anything
+and everything.&lt;/p&gt;
+
+&lt;p&gt;Daily check-ins and check-outs to motivate and discuss problems,
+building projects together and attending workshops, morning meditation,
+group sightseeing and hiking, arcade games, drinks, karaoke… It’s a big
+and lively community, with something to suit everyone’s needs.&lt;/p&gt;
+
+&lt;h2 id=&quot;space&quot;&gt;Space&lt;/h2&gt;
+
+&lt;p&gt;There is a lot of light, thanks to huge windows and a pretty big central
+space. There are rooms where one could hide should there be too much noise
+from people discussing, lunching and enjoying each others’ company. Beanbags
+and coffee mugs are everywhere, as are programming books.&lt;/p&gt;
+
+&lt;p&gt;RC has a good balance between having enough space for tens of people at a
+time and still being warm and cozy. Sometimes one has to wait for
+the “perfect” spot to work or make sure they come early enough to get the
+big coffee mug. Sometimes it’s overcrowded in a friendly way during
+community events like presentations or job fairs.&lt;/p&gt;
+
+&lt;p&gt;It’s always a welcoming space, even though it’s ever-changing and adjusting
+to the needs of every new batch. It’s also always open, so it’s easy enough
+to fit everyone’s schedule, whether an early bird or extreme night owl.&lt;/p&gt;
+
+&lt;h2 id=&quot;learning&quot;&gt;Learning&lt;/h2&gt;
+
+&lt;p&gt;Learning as an adult is hard. Everything seems to be more important than
+your personal growth right at this very moment. It doesn’t give you
+immediate benefits, it requires a lot of work and dedication. It’s easy
+enough to understand that someone wants to travel or just have a nice
+evening out with friends. But there’s nothing glamorous or instantly
+gratifying in sitting down and going through the complicated algorithm or
+learning German grammar.&lt;/p&gt;
+
+&lt;p&gt;RC is self-motivated and self-paced. The freedom is overwhelming. There are
+no constraints, apart from the vague deadline of the end of batch. Everyone
+there wants to learn, which makes it easier, but also extremely hard - how
+can you feel you’re growing enough when someone else is doing way more
+interesting things, even though you’ve put in the work every day?&lt;/p&gt;
+
+&lt;p&gt;There is also the need to be honest with oneself. To know when you got lost
+or the path you’ve chosen was not the right one. To tell yourself “I’m going
+to try, even though this can turn out to be a mistake” and to admit “I was
+mistaken, because I didn’t know enough”. Most importantly, it’s about keeping
+oneself motivated and asking “what can I learn from this?”. After all, you
+often can’t tell if something is going to be the right thing before you try it.&lt;/p&gt;
+
+&lt;p&gt;Going to RC, I wanted to learn all the things. I ended up learning things I
+didn’t think I needed, which were usually not the things I’ve planned for.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-us&quot;&gt;The US&lt;/h2&gt;
+
+&lt;p&gt;This was my very first time in the US and I didn’t expect it would be much
+different from Europe. After all, I’ve been to places and seen things. Also,
+&lt;em&gt;everyone&lt;/em&gt; knows the American culture - the movies, the music, the never-ending
+broadcast on everything American.&lt;/p&gt;
+
+&lt;p&gt;Yet I can see some pretty significant changes in my approach, many of which
+were triggered by or learned from my American(ized) friends.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I don’t care what people think until I do. Walking around New York it
+doesn’t matter that much how you look or what you are wearing, which is
+something I’ve always been self-conscious about. I gained freedom to focus
+on the important relationships, not worry about what could be.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I tried and failed a lot. Got up and failed again. Thanks to my newly
+gained freedom from judgement, I’ve learned to try while I believe there is
+a purpose to it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I’ve learned to be more open. Coming up with a smile and talking to
+strangers is the new normal. As is being open about money and expecting a fair
+renumeration for one’s efforts.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I challenge whining, especially my own rambling and negativity. It still
+happens more often than I’d like, but each time I’m getting better at turning
+things around and focusing on solutions rather than problems.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I embrace my inner introvert and preferred working hours. I no longer feel
+guilty about not being a morning person or having &lt;em&gt;me&lt;/em&gt; days, when I’d rather
+just work instead of talking to people.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;The moment I came in on a sunny Monday morning, I immediately embarrassed
+myself by confusing some minor organizational thing. I then ran for the
+coffee and tried to hide with half the croissant and the overwhelming feeling
+of being out of place. I was scared nobody will be able to understand my
+accent. I was terrified I won’t be able to match their programming skills
+and that by the end of the first week someone would politely ask me to go
+back home and stop pretending I belong.&lt;/p&gt;
+
+&lt;p&gt;I’ve been welcomed with all my flaws and encouraged to embrace the obstacles,
+real or imagined. I tend to talk about my life pre- and post-RC, because this
+has been a transformative experience for me. I know how to grow and adjust
+it to my needs. I’ve learned some things I hope future-me will keep in mind.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Time and attention are the most valuable resources you can give and receive.
+The more of those we share with each other, the better our world is going to
+be.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Having an “a-ha” moment together is the most magical experience. Whenever
+possible, try to grow or help grow.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Honor all forms of progress. Your friend is doing it all wrong, learning
+Python instead of falling head over heels into Haskell? You don’t think
+anyone could every be a good programmer without a CS degree? Let it go.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Don’t force yourself. I forced myself to get up in the morning and fit into
+other people’s schedule. I forced myself to try things I didn’t feel like doing.
+I forced myself to work on something I publicly said I would, even though I’ve
+realized early on it doesn’t spark joy. If forcing yourself, it’s probably
+time to change something.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Do things your own way. I thought I needed to do “proper” pair programming, but
+what I really needed was to have someone care about what I do and ask me the
+right questions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;No regrets. There are so many people you can meet and work with, no way
+you’re going to do something with all of them. And that’s okay.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It was exhausting, it was wonderful. New York might not be the place where
+I’d like to live, but it’s definitely a place I want to keep coming back to.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/return/nyc.jpg&quot; /&gt;&lt;/p&gt;</content>
+              
+
+
+              
+              
+              
+              
+              
+
+              
+                <author>
+                    <name>alicja</name>
+                  
+                  
+                </author>
+              
+
+              
+
+              
+
+              
+                <summary type="html">24 weeks ago I entered the Recurse Center in New York, not sure what to expect. I’ve only known what I was able to find online and anything I could gather from introductory emails. I flew to another continent based on the gut feeling that this is the right thing to do and not being able to explain what this was exactly.</summary>
+              
+
+              
+              
+            </entry>
+          
+        
+      
+        
+          
+        
+          
+        
+      
+        
+          
+        
+          
+        
+      
+    
   
     
       
@@ -698,214 +951,6 @@ process and communication, even going as far as to have &lt;a href=&quot;https:/
 
               
                 <summary type="html">When I first heard Zulip is taking part in Google Code-In and was asked to become a mentor, I got excited. And scared. The more time passed, the more scared I was, feeling inadequate and not experienced enough to review other people’s code.</summary>
-              
-
-              
-              
-            </entry>
-          
-        
-      
-    
-  
-    
-      
-        
-          
-        
-          
-        
-      
-        
-          
-        
-          
-        
-      
-        
-          
-        
-          
-            <entry>
-              <title type="html">To be mentored</title>
-
-              
-                <link href="https://trueskawka.github.io/zulip/outreachy/blog/2017/01/02/to-be-mentored.html" rel="alternate" type="text/html" title="To be mentored" />
-                <published>2017-01-02T23:25:00+01:00</published>
-                <updated>2017-01-02T23:25:00+01:00</updated>
-                <id>https://trueskawka.github.io/zulip/outreachy/blog/2017/01/02/to-be-mentored</id>
-                <content type="html" xml:base="https://trueskawka.github.io/zulip/outreachy/blog/2017/01/02/to-be-mentored.html">&lt;p&gt;One of my fellow Recursers is actively researching needs of newbie
-developers and interviewing juniors, mentors and anyone else engaged in hiring programmers who are starting out. Given my experience so far, I more than qualified for an interview as a tech industry newbie.&lt;/p&gt;
-
-&lt;p&gt;At first I thought I wouldn’t have any relevant insights, since my
-experience is very fresh and I haven’t encountered any of the serious problems many face in tech. I started talking and only realized about 45 minutes later that our chat is nearly over.&lt;/p&gt;
-
-&lt;h3 id=&quot;first-developer-job---no-mentoring&quot;&gt;First developer job - no mentoring&lt;/h3&gt;
-
-&lt;p&gt;The team I worked with in my first development job was not experienced in software development. They were, just like me, mostly economists who learned to program, without any previous experience in building applications. Even though they’ve done thorough research and managed to build a pretty good product, I was constantly struggling.&lt;/p&gt;
-
-&lt;p&gt;I didn’t have an experienced developer as a mentor, so I felt I was
-learning only through making mistakes. It’s not wrong to make mistakes and fix them, but it can’t be the only learning strategy for effective development. The job was more about quick fixes and tiny new features than important contributions that enhanced the core product. I was barely taken into account when building important features, usually as a person who’d
-work on implementation rather than an equal contributor.&lt;/p&gt;
-
-&lt;p&gt;I didn’t have the words to name most of my concerns. I felt that no one cared about my growth as a developer and an employee, even if that could be beneficial for the company in the long term. Most of the time I wasn’t sure I was doing things right and had serious doubts if I was even working on the right things.&lt;/p&gt;
-
-&lt;p&gt;I felt that I was the only person who had these problems. How
-could I pinpoint such vague ideas like “you are interrupting my learning process” and “I don’t think this solution is something we want to do, since
-it’s not best practice”, especially when I didn’t know how the process
-should look like or what are the best practices?&lt;/p&gt;
-
-&lt;h3 id=&quot;recognizing-bad-mentoring&quot;&gt;Recognizing bad mentoring&lt;/h3&gt;
-
-&lt;p&gt;I was very lucky to spend three months at the Recurse Center, where I was
-encouraged to ask questions and voice my concerns. The concerns were taken
-seriously, even if I felt I’m being overly sensitive. That helped me
-recognize bad mentoring, among other behaviors I couldn’t previously name.&lt;/p&gt;
-
-&lt;p&gt;I’m not saying any of my mentors intended not to help me or were driven by the wrong things. Bad mentoring is not about intent, but the way of approaching a problem. Mentoring should be about helping the mentee with
-their problem at hand, in a way that helps them grow and encourages them to try and learn. It’s a skill to be learned.&lt;/p&gt;
-
-&lt;p&gt;Bad mentors ask questions they already know the answers to and get impatient when they don’t receive the right answer quickly. They sometimes answer their own questions to speed up the process and correct the details before making sure the mentee even understands the problem. They say something is “obvious” or “easy”, which further discourages the mentee from trying.&lt;/p&gt;
-
-&lt;p&gt;Bad mentors answer the problem they see, not the one the mentee asked to be
-helped with. They focus on their comfort and the &lt;em&gt;right&lt;/em&gt; approach instead
-of focusing on the mentee’s learning process. They sometimes don’t even try
-to help with the actual problem, but rephrase the issue to answer
-something that’s more interesting or easier for them to explain.&lt;/p&gt;
-
-&lt;p&gt;Bad mentors don’t give the mentee time to find answers on their own and
-explore. They don’t want to explore with the mentee. They throw resources at the mentee and don’t set up a feedback loop that would encourage them
-to communicate.&lt;/p&gt;
-
-&lt;p&gt;I think bad mentors in tech are often experienced and skilled developers
-who forgot how hard it was to get to where they are and didn’t think to ask.&lt;/p&gt;
-
-&lt;h3 id=&quot;building-a-relationship-with-a-mentor&quot;&gt;Building a relationship with a mentor&lt;/h3&gt;
-
-&lt;p&gt;One of my best friends at the Recurse Center was also my first great mentor.
-Over the course of our batch we developed a relationship based on trust and
-mutual respect, motivating each other to grow. I still think I got more
-out of this dynamic, even though I’ve been a mentor myself for the past
-few weeks and I know how much I’ve learned from that.&lt;/p&gt;
-
-&lt;p&gt;My first great mentor expected me to not give up on my problems and approach
-them with a curious mind, instead of stressing out and feeling inadequate.
-He expected me to first try and answer my own questions, even if I was
-worried I’d get them completely wrong. He’d discuss features with me and make sure I understand what’s happening, addressing relevant parts of my
-input.&lt;/p&gt;
-
-&lt;p&gt;Whenever I got lost, I could just ask him, even if it felt like the stupidest question ever. The fear of embarrassing myself gradually went
-away thanks to all the confidence he had in me. After a few weeks, it felt more like a partnership of equals than mentoring, even though there was a
-vast difference in our knowledge and experience.&lt;/p&gt;
-
-&lt;h3 id=&quot;working-with-open-source-mentors&quot;&gt;Working with open-source mentors&lt;/h3&gt;
-
-&lt;p&gt;When I started working with Zulip I didn’t know any of my soon to be
-mentors. They could only learn about me from chat and my contributions,
-without having the opportunity to get to know me in person, which could
-help me be more confident. I’ve been entering this community of awesome
-developers and all of them knew much more than I did - how could I possibly
-bring value?&lt;/p&gt;
-
-&lt;p&gt;I was lucky again since Zulip maintainers and contributors are not only
-welcoming to newbie developers, but also have experience with introducing
-them to the project. Zulip has great &lt;a href=&quot;https://zulip.readthedocs.io/en/latest/&quot;&gt;documentation&lt;/a&gt; and the team is
-very responsive on chat.&lt;/p&gt;
-
-&lt;p&gt;When working on a feature, mentors would set up a context for my work,
-providing any relevant information and making sure I understand the
-problem well. They’d answer my questions and encourage me to share
-work-in-progress code to drive the conversation.&lt;/p&gt;
-
-&lt;p&gt;From day one I was treated like a contributor, a partner, not a problem. I
-was taken seriously and expected to be a responsible community member. My
-input was valued and taken into account, my questions answered. I was also
-constantly encouraged with gradual code reviews that improved my skills and
-workflow tremendously over the span of a month (and are still improving).&lt;/p&gt;
-
-&lt;h3 id=&quot;dealing-with-the-real-world&quot;&gt;Dealing with the &lt;em&gt;real world&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;A newbie developer and a woman, I’m sure to face some communication issues
-in my future endeavors. I will have to prove my abilities and substantiate
-my reasoning. That’s why I also seek out more direct and less welcoming mentors, who will compare my solutions to optimal ones and not make it
-any easier for me to solve problems.&lt;/p&gt;
-
-&lt;p&gt;It’s not easy to deal with direct questions about my implementation and
-go into the nitty-gritty of my code without the comfort of additional research and asynchronous communication. I do however need to know my stuff
-cold if I want to become a better developer, so I welcome mentors who are
-harder to deal with.&lt;/p&gt;
-
-&lt;h3 id=&quot;whats-important-to-the-mentee&quot;&gt;What’s important to the mentee&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Believing in them.&lt;/p&gt;
-
-    &lt;p&gt;It’s not only about supporting the mentee, but also challenging them and giving them real responsibilities from the very start. Building a relationship based on trust requires accountability and a good way to motivate oneself to deliver is knowing someone needs our input.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Being excited about their growth.&lt;/p&gt;
-
-    &lt;p&gt;Every review at Zulip begins and ends with a positive note. Start with
-  a thank you when the mentee is asking for a review - they are learning
-  and a great way to learn is to build and improve.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Setting up a learning environment.&lt;/p&gt;
-
-    &lt;p&gt;Give the mentee context for their work - point them to other
-  contributions and relevant docs. Treat code reviews as learning
-  opportunities and give incremental steps to improve the mentee’s work,
-  starting from the core functionality and expecting more and more
-  self-guidance and quality.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Encouraging them to leave their comfort zone.&lt;/p&gt;
-
-    &lt;p&gt;Ask the mentee to read others’ code, support them in mentoring less
-  experienced contributors. Push them to share their code early with
-  work-in-progress pull requests - I for one had to talk myself out of
-  being this perfect person, who should never share their mistakes.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Introducing different kinds of mentors.&lt;/p&gt;
-
-    &lt;p&gt;Encourage the mentee to ask multiple mentors for advice and help. Let
-  them learn how to communicate with other team members and benefit
-  from their guidance.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Balancing the amount of information.&lt;/p&gt;
-
-    &lt;p&gt;Don’t give the mentee answers right away, but don’t leave them hanging
-  for too long. Start with not giving enough and gradually find a balance
-  with providing more details while expecting more self-guidance. Stop
-  before you answer your own questions.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content>
-              
-
-
-              
-              
-              
-              
-              
-
-              
-                <author>
-                    <name>alicja</name>
-                  
-                  
-                </author>
-              
-
-              
-
-              
-
-              
-                <summary type="html">One of my fellow Recursers is actively researching needs of newbie developers and interviewing juniors, mentors and anyone else engaged in hiring programmers who are starting out. Given my experience so far, I more than qualified for an interview as a tech industry newbie.</summary>
               
 
               
