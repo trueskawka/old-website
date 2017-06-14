@@ -6,7 +6,7 @@
   <link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" />
   
-  <updated>2017-02-01T22:30:12+01:00</updated>
+  <updated>2017-06-14T15:20:21+02:00</updated>
   
     <id>https://trueskawka.github.io/</id>
   
@@ -19,6 +19,16 @@
 
   
 
+  
+    
+      
+        
+          
+        
+          
+        
+      
+    
   
     
       
@@ -227,7 +237,7 @@ you’re going to do something with all of them. And that’s okay.&lt;/p&gt;
 &lt;p&gt;It was exhausting, it was wonderful. New York might not be the place where
 I’d like to live, but it’s definitely a place I want to keep coming back to.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/56085440/photos/return/nyc.jpg&quot; /&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/return/nyc.JPG&quot; /&gt;&lt;/p&gt;</content>
               
 
 
@@ -280,6 +290,16 @@ I’d like to live, but it’s definitely a place I want to keep coming back to.
         
           
         
+      
+        
+          
+        
+          
+        
+      
+    
+  
+    
       
         
           
@@ -770,192 +790,6 @@ intervals of varied lengths.&lt;/p&gt;
         
           
         
-          
-        
-      
-    
-  
-    
-      
-        
-          
-        
-          
-        
-      
-        
-          
-        
-          
-        
-      
-    
-  
-    
-      
-        
-          
-        
-          
-        
-      
-        
-          
-        
-          
-        
-      
-        
-          
-        
-          
-        
-      
-        
-          
-        
-          
-            <entry>
-              <title type="html">To mentor</title>
-
-              
-                <link href="https://trueskawka.github.io/zulip/outreachy/gci/blog/2017/01/03/to-mentor.html" rel="alternate" type="text/html" title="To mentor" />
-                <published>2017-01-03T03:27:00+01:00</published>
-                <updated>2017-01-03T03:27:00+01:00</updated>
-                <id>https://trueskawka.github.io/zulip/outreachy/gci/blog/2017/01/03/to-mentor</id>
-                <content type="html" xml:base="https://trueskawka.github.io/zulip/outreachy/gci/blog/2017/01/03/to-mentor.html">&lt;p&gt;When I first heard Zulip is taking part in Google Code-In and was asked to
-become a mentor, I got excited. And scared. The more time passed, the more
-scared I was, feeling inadequate and not experienced enough to review other
-people’s code.&lt;/p&gt;
-
-&lt;p&gt;After the first week of GCI I was terrified. It felt like the reviews were
-a never-ending battle between the quality and quantity (GCI students are motivated to do as many tasks as possible due to the contest rules). I’ve
-constantly been asked questions I didn’t know the answers to and was
-expected to understand features from a large chunk of the codebase - larger
-than I felt comfortable with.&lt;/p&gt;
-
-&lt;p&gt;I felt like I was only disturbing the learning process and irritating the
-students with my constant questions and nagging for improvements. I was
-learning a lot to my own benefit:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;After explaining git flow many times, I finally feel confident while working in the terminal and not just pretending to be comfortable with it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I’ve learned to rebase, amend and merge other’s work into the
-  codebase.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I’ve created a group of tasks on interactive bots and learned more
-  from students asking questions about them than from creating my own bot.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I’ve had a comprehensible conversation in German with one of the
-  students, which is a big deal for me since I haven’t used the language
-  in years.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Gradually, I became more and more confident with code reviews and helping
-out on chat. I’ve read a bunch of articles on multiple topics concerning
-Python, APIs, webhooks, frontend testing and typing. I’ve learned a ton
-from reading other mentors’ reviews of the contributions. I’m now able to
-calmly read a question and not panic when I initially don’t know the
-answer, even though I’m &lt;em&gt;supposed to&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Being in this double role of a mentee and a mentor, I think I benefited
-much more from GCI than I thought possible. Also, Zulip is rapidly being
-improved by many motivated students - hundreds of mypy annotations were
-added, multiple features were fixed, many interactive bots were introduced, and a ton of user documentation was written. I did not expect for it to go
-this well.&lt;/p&gt;
-
-&lt;p&gt;Over the past few weeks I’ve also had a lot of thoughts on improving the
-process and communication, even going as far as to have &lt;a href=&quot;https://github.com/zulip/zulip-gci/pull/394&quot;&gt;pull request&lt;/a&gt; for that.&lt;/p&gt;
-
-&lt;h3 id=&quot;whats-important-to-the-mentor&quot;&gt;What’s important to the mentor&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Give context.&lt;/p&gt;
-
-    &lt;p&gt;When asking for help or a review, give the mentor some context on the
-  issue. They are working on multiple issues and helping many people -
-  they might not immediately remember all the relevant facts. Show what
-  you have already done to solve the problem.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Think about the user.&lt;/p&gt;
-
-    &lt;p&gt;When developing a feature, think about the user perspective whenever
-  applicable. What are the expected use cases? What would be comfortable
-  to use, not just simple and reasonable to implement?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Respect others’ time.&lt;/p&gt;
-
-    &lt;p&gt;Before submitting anything, make sure you took care of any sloppiness
-  (typos, linter errors, unnecessary chunks of code). Test your feature
-  manually. Make sure you are asking for help for something you weren’t able to solve, not something you forgot to check.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Don’t expect simple answers.&lt;/p&gt;
-
-    &lt;p&gt;When asking questions, expect help, but be prepared to accept it in
-  the form it’s been offered. If a mentor is pointing you to an external
-  resource or asking you to double check your implementation, they’re
-  doing it to help you learn.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Don’t be embarrassed.&lt;/p&gt;
-
-    &lt;p&gt;Sometimes you might think asking a question will make you look&lt;br /&gt;
-  inadequate. Don’t let this keep you stuck. If you’ve tried and failed,
-  there is nothing to be ashamed of.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Strive for self-guidance.&lt;/p&gt;
-
-    &lt;p&gt;Have ownership of your work - both the solutions and the problems. Be
-  proud of your achievements, however small. You are learning here and the best way to learn is to take responsibility.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Stay positive.&lt;/p&gt;
-
-    &lt;p&gt;I’m sure you can do it - so you should be too. Don’t discourage yourself
-  and lessen your skills. You are here to learn and I’m here to help you,
-  there is nothing wrong with making mistakes on the way. Just be sure to
-  understand and learn from them.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content>
-              
-
-
-              
-              
-              
-              
-              
-
-              
-                <author>
-                    <name>alicja</name>
-                  
-                  
-                </author>
-              
-
-              
-
-              
-
-              
-                <summary type="html">When I first heard Zulip is taking part in Google Code-In and was asked to become a mentor, I got excited. And scared. The more time passed, the more scared I was, feeling inadequate and not experienced enough to review other people’s code.</summary>
-              
-
-              
-              
-            </entry>
           
         
       
