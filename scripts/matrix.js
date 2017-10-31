@@ -3,10 +3,16 @@ var letters = [];
 function setup() {
   createCanvas(window.innerWidth,window.innerHeight);
 
+  calculateLetters(width, height);
+
+  textSize(32);
+  background(0);
+}
+
+function calculateLetters(width, height) {
   for (var i = 0; i < width / 34; i++) {
     l = [];
     for (var j= 0; j < height / 32; j++) {
-      console.log(getRandomCharacter());
       letter = new Letter(
         i * 34,
         j * 32,
@@ -21,13 +27,11 @@ function setup() {
     }
     letters.push(l);
   }
-
-  textSize(32);
-  background(0);
 }
 
 function draw() {
   background(0,25);
+
   letters.forEach(function(l) {
     l.forEach(function(letter) {
       letter.render();
@@ -64,4 +68,10 @@ function getRandomCharacter() {
   return String.fromCharCode(
     0x0400 + int(random(255))
   );
+}
+
+function windowResized() {
+  resizeCanvas(window.innerWidth,window.innerHeight);
+  letters = [];
+  calculateLetters(width, height);
 }
