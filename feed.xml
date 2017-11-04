@@ -6,7 +6,7 @@
   <link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" />
   
-  <updated>2017-11-04T22:10:45+01:00</updated>
+  <updated>2017-11-04T23:21:25+01:00</updated>
   
     <id>https://trueskawka.github.io/</id>
   
@@ -106,7 +106,26 @@ and it sort of, kind of
 it’s not my own design and I didn’t fully understand what was
 happening with some parts of it, but I’ve learned to decompose
 an image and then translate it into basic shapes, colors
-and layers.&lt;/p&gt;
+and layers. Also, it wasn’t yet a single div image - but I was
+getting closer.&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/cat.css&quot; /&gt;
+
+&lt;div class=&quot;cat-container&quot;&gt;
+  &lt;div class=&quot;cat&quot;&gt;
+    &lt;div class=&quot;ear ear-left&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;ear ear-right&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;head&quot;&gt;
+      &lt;div class=&quot;eye eye-left&quot;&gt;
+        &lt;div class=&quot;pupil&quot;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;eye eye-right&quot;&gt;
+        &lt;div class=&quot;pupil&quot;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;muzzle&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h3 id=&quot;i-dont-know-enough-about-css&quot;&gt;I don’t know enough about CSS&lt;/h3&gt;
 
