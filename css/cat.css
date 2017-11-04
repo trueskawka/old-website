@@ -1,6 +1,7 @@
 .cat-container {
-  height: 600px;
+  height: 550px;
   width: 500px;
+  margin-bottom: 30px;
   display: flex;
   align-items: center;
   justify-content: center;
