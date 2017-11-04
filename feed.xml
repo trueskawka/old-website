@@ -6,7 +6,7 @@
   <link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" />
   
-  <updated>2017-10-31T14:01:33+01:00</updated>
+  <updated>2017-11-04T22:10:45+01:00</updated>
   
     <id>https://trueskawka.github.io/</id>
   
@@ -22,6 +22,216 @@
 
   
 
+  
+    
+      
+        
+          
+        
+          
+            <entry>
+              <title type="html">Single div CSS animations</title>
+
+              
+                <link href="https://trueskawka.github.io/blog/programming/rc/2017/11/04/single-div-CSS-animations.html" rel="alternate" type="text/html" title="Single &lt;b&gt;div&lt;/b&gt; CSS animations" />
+                <published>2017-11-04T21:45:00+01:00</published>
+                <updated>2017-11-04T21:45:00+01:00</updated>
+                <id>https://trueskawka.github.io/blog/programming/rc/2017/11/04/single-div-CSS-animations</id>
+                <content type="html" xml:base="https://trueskawka.github.io/blog/programming/rc/2017/11/04/single-div-CSS-animations.html">&lt;p&gt;I recently got inspired to try pure CSS single div
+animations, as I came across &lt;a href=&quot;https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/&quot;&gt;this blog post&lt;/a&gt; (thank you, Gabrielle!).
+There were only two problems:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I can’t draw&lt;/li&gt;
+  &lt;li&gt;I don’t know enough about CSS&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It seemed impossible to tackle without a lot of
+effort, so I’ve been putting it off, until I
+realized the more I think about it, the harder it
+gets. I decided this is more of a learning
+challenge than it is a problem. Would I ever be able to draw well enough to be a designer? I don’t think so. Would I be able to have fun creating a small project from time to time and see improvements? I betcha.&lt;/p&gt;
+
+&lt;p&gt;How do I usually approach learning a new programming concept?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I read about it and find a tangible example&lt;/li&gt;
+  &lt;li&gt;I look around the example and break it in a controlled way,
+ to make sure I understand what happens&lt;/li&gt;
+  &lt;li&gt;I come up with a small enough problem of my own that uses
+the concept I want to learn and keep the example as reference,
+googling for other ideas and suggestions&lt;/li&gt;
+  &lt;li&gt;I incorporate the concept into other projects, to make sure
+I understand it&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For the animations, I decided there are a few key factors:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;I want to make them cute, so that I’ll share them and get
+ encouraged to create more&lt;/li&gt;
+  &lt;li&gt;I want write quality code, not just make them look good&lt;/li&gt;
+  &lt;li&gt;I’d like to be able to plan my approach before coding, either
+by drawing them by hand or breaking into building blocks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;i-cant-draw&quot;&gt;I can’t draw&lt;/h3&gt;
+
+&lt;p&gt;The more I work on my laptop, the less I write, so my
+handwriting went from cute tiny letters to
+barely legible tiny squiggles. And even though I can draw a
+passable cat (meaning - my youngest sister can identify it as a
+cat without much trouble), I don’t think I can draw.&lt;/p&gt;
+
+&lt;p&gt;For the initial experiment, I decided to explore what makes
+for a cute cat. I looked for various tutorials and thought of
+a few key features:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;pointy ears, usually a bit rounded&lt;/li&gt;
+  &lt;li&gt;cute little nose, sometimes heart-shaped&lt;/li&gt;
+  &lt;li&gt;big eyes, with or without snake-like pupils&lt;/li&gt;
+  &lt;li&gt;tiny mouth, often smiling or meowing&lt;/li&gt;
+  &lt;li&gt;whiskers, usually 2 or 3 on each side&lt;/li&gt;
+  &lt;li&gt;oval or rounded head&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I then explored them on paper, to get a better grasp of what I
+need.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/blog/cat_exploring_final.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally, I worked to recreate &lt;a href=&quot;https://codepen.io/johanmouchet/pen/OXxvqr&quot;&gt;this cute cat
+animation&lt;/a&gt;
+and it sort of, kind of
+&lt;a href=&quot;https://codepen.io/trueskawka/pen/zPYXLM&quot;&gt;worked&lt;/a&gt;. Granted,
+it’s not my own design and I didn’t fully understand what was
+happening with some parts of it, but I’ve learned to decompose
+an image and then translate it into basic shapes, colors
+and layers.&lt;/p&gt;
+
+&lt;h3 id=&quot;i-dont-know-enough-about-css&quot;&gt;I don’t know enough about CSS&lt;/h3&gt;
+
+&lt;p&gt;Don’t get me wrong, I know enough CSS to create websites and
+work on HTML email templates (which require you to write CSS
+like it’s 2004), but I’ve never gone into more intricate
+styling techniques.&lt;/p&gt;
+
+&lt;p&gt;For one, I am not a designer and designers usually provide me
+with either images or relatively simple UIs to code. It
+doesn’t make much sense to use CSS images in a production
+environment - who has the time to write and review them?&lt;/p&gt;
+
+&lt;p&gt;But CSS seems like a good medium for me to draw - I can build
+on basic shapes as I deconstruct images and the examples are
+reproducible (which I can’t yet say about my hand-drawn
+images).&lt;/p&gt;
+
+&lt;p&gt;I looked for more examples and came across &lt;a href=&quot;https://www.dotconferences.com/2016/12/wenting-zhang-make-css-your-secret-super-drawing-tool&quot;&gt;this
+talk&lt;/a&gt;
+by Wenting Zhang. I decided follow along with the tutorial and
+create a simple mustache animation.&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/mustache.css&quot; /&gt;
+
+&lt;div class=&quot;mustache-container&quot;&gt;
+  &lt;div class=&quot;mustache&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;It was a great exercise, as it taught me a bit more about
+&lt;code class=&quot;highlighter-rouge&quot;&gt;box-shadow&lt;/code&gt;, most importantly, that there is no limit on the
+number of shadows and they can be moved around, stretched and
+recolored. It also helped me start treating &lt;code class=&quot;highlighter-rouge&quot;&gt;:before&lt;/code&gt; and
+&lt;code class=&quot;highlighter-rouge&quot;&gt;:after&lt;/code&gt; pseudoelements as layers.&lt;/p&gt;
+
+&lt;p&gt;I then proceeded to create a few more animations, trying to
+get a good grasp of how I should divide my images between
+those layers. It turns out there is a lot of flexibility with
+shadows, but reshaping is not their strongest feature - they
+mostly stay the same shape as the initial layer and, although
+they can be manipulated with &lt;code class=&quot;highlighter-rouge&quot;&gt;border-radius&lt;/code&gt;, since I wanted
+more than a few basic shapes in my drawings, I needed to learn
+more.&lt;/p&gt;
+
+&lt;p&gt;Still, I could now create pretty complex shapes with three
+layers and &lt;code class=&quot;highlighter-rouge&quot;&gt;box-shadows&lt;/code&gt;, like this animation of the Recurse
+Center logo.&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/rc.css&quot; /&gt;
+
+&lt;div class=&quot;rc-container&quot;&gt;
+  &lt;div class=&quot;rc&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Creating shapes with a single div is sometimes quite
+challenging and can use all three layers (the div, its
+&lt;code class=&quot;highlighter-rouge&quot;&gt;:before&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;:after&lt;/code&gt;). One a tad more complex shape I wanted
+to use was a chevron, in order to create a simple animation of
+the &lt;a href=&quot;https://www.xfive.co/&quot;&gt;Xfive&lt;/a&gt; logo, similar to the one on
+their main website, but created with pure CSS. For this I
+needed to learn and understand gradients better, so I turned to
+the &lt;a href=&quot;http://shop.oreilly.com/product/0636920031123.do&quot;&gt;CSS Secrets&lt;/a&gt;
+book - after doing a few exercises, I felt ready to create
+multiple gradient layers and mix them up with pseudoelements
+and &lt;code class=&quot;highlighter-rouge&quot;&gt;box-shadow&lt;/code&gt;s.&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/x5.css&quot; /&gt;
+
+&lt;div class=&quot;x5-container&quot;&gt;
+  &lt;div class=&quot;x5&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;whats-next&quot;&gt;What’s next?&lt;/h3&gt;
+
+&lt;p&gt;I want to further improve both my drawing and CSS skills. I’m
+planning to do a bigger project soon, but for now I’ll try to
+do a few CSS animations a week - you can check out my &lt;a href=&quot;https://github.com/trueskawka/css-drawings&quot;&gt;GitHub
+repository&lt;/a&gt; for
+the animations’ code and my
+&lt;a href=&quot;https://codepen.io/trueskawka/&quot;&gt;CodePen&lt;/a&gt; to view them (along
+with some bits and pieces from various old projects).&lt;/p&gt;</content>
+              
+
+
+              
+              
+              
+              
+              
+
+              
+                <author>
+                    <name>alicja</name>
+                  
+                  
+                </author>
+              
+
+              
+
+              
+
+              
+                <summary type="html">I recently got inspired to try pure CSS single div animations, as I came across this blog post (thank you, Gabrielle!). There were only two problems:</summary>
+              
+
+              
+              
+            </entry>
+          
+        
+      
+        
+          
+        
+          
+        
+      
+        
+          
+        
+          
+        
+      
+    
   
     
       
@@ -1106,195 +1316,6 @@ harder to deal with.&lt;/p&gt;
 
               
                 <summary type="html">One of my fellow Recursers is actively researching needs of newbie developers and interviewing juniors, mentors and anyone else engaged in hiring programmers who are starting out. Given my experience so far, I more than qualified for an interview as a tech industry newbie.</summary>
-              
-
-              
-              
-            </entry>
-          
-        
-      
-    
-  
-    
-      
-        
-          
-        
-          
-        
-      
-        
-          
-        
-          
-            <entry>
-              <title type="html">Getting into Outreachy</title>
-
-              
-                <link href="https://trueskawka.github.io/outreachy/blog/2016/12/07/getting-into-outreachy.html" rel="alternate" type="text/html" title="Getting into Outreachy" />
-                <published>2016-12-07T16:45:00+01:00</published>
-                <updated>2016-12-07T16:45:00+01:00</updated>
-                <id>https://trueskawka.github.io/outreachy/blog/2016/12/07/getting-into-outreachy</id>
-                <content type="html" xml:base="https://trueskawka.github.io/outreachy/blog/2016/12/07/getting-into-outreachy.html">&lt;p&gt;Getting into Outreachy is a long process that requires a lot of effort. In order to have a chance at an internship one has to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Look through all the participating organizations.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Read up about the projects and find relevant bite-sized contributions.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Make a small contributions and communicate with mentors.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Write an application and submit it before the deadline.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Keep contributing and communicating.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You can find more details about the process on the &lt;a href=&quot;https://wiki.gnome.org/Outreachy&quot;&gt;GNOME wiki&lt;/a&gt; - I’m not going to dive into that. I’d like to reflect on what helped me, as it might be useful for next round’s applicants and tech newbies in general.&lt;/p&gt;
-
-&lt;h3 id=&quot;fight-the-impostor-syndrome&quot;&gt;Fight the impostor syndrome.&lt;/h3&gt;
-
-&lt;p&gt;First time I’ve heard about Outreachy, I wasn’t sure it was for me. The application process alone was enough to make me doubt my skills.&lt;/p&gt;
-
-&lt;p&gt;A little bit of background here - I’ve had my fair share of programming experience over the past 10 years, but I’ve never worked as a &lt;em&gt;real&lt;/em&gt; developer (apart from this one time at a startup, when it didn’t feel real enough). I come from a quant-economical background and I’ve been mostly working analytical and consulting jobs over the course of my career. Around February this year I’ve decided to take a sabbatical and become the developer I’ve always wanted to be.&lt;/p&gt;
-
-&lt;p&gt;During my Outreachy application process I’ve been staying in New York, taking part in the most wonderful programming experience as a participant at the &lt;a href=&quot;https://www.recurse.com/&quot;&gt;Recurse Center&lt;/a&gt;. I was immersed in a friendly environment, full of brilliant people who wouldn’t take &lt;em&gt;I’m not good enough&lt;/em&gt; for an answer.&lt;/p&gt;
-
-&lt;p&gt;The Recurse Center founders tell us we’re a part of the community and they want us there on the very first day of the batch. That alone made me feel more of a programmer. They also tell us about the importance of self-motivation and the risk many smart people face - the &lt;a href=&quot;https://www.wikiwand.com/en/Impostor_syndrome&quot;&gt;impostor syndrome&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;If you are thinking about applying, you are good enough. Challenge yourself and fight your impostor syndrome. We’ve all had to begin somewhere.&lt;/p&gt;
-
-&lt;h3 id=&quot;find-your-motivation&quot;&gt;Find your motivation.&lt;/h3&gt;
-
-&lt;p&gt;Why did I want to get into Outreachy in the first place?&lt;/p&gt;
-
-&lt;p&gt;What helped me a lot was talking to many people about the idea of applying. I was shy about it, so at first I asked only the people I felt very comfortable with - my closest friends and RC facilitators. While answering their questions, I’ve stated my doubts (and there were a lot of them!) and pointed out the possible benefits of Outreachy, to get myself more and more excited about the idea of applying:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;I was too stressed out to apply for &lt;em&gt;real&lt;/em&gt; developer jobs.&lt;/p&gt;
-
-    &lt;p&gt;I’ve decided only recently to switch careers and become a full-time developer. I felt that Outreachy would be the next logical step for me, as it seemed like a safe yet challenging environment for a newbie developer.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I wanted a remote opportunity, as I was not sure if I’d like to move abroad for a developer job.&lt;/p&gt;
-
-    &lt;p&gt;This meant I was looking for something that’d allow me to work from Warsaw and gain enough experience to decide what should my next step be. Also, getting a job as a remote developer requires remote experience, so it would benefit my future career.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I’ve always wanted to contribute to open-source projects, but I was too scared to start.&lt;/p&gt;
-
-    &lt;p&gt;It seemed that with my mixed experience and only so much time on my hands while working analytical and consulting jobs, I’m not a good fit. Outreachy would be an opportunity to challenge those assumptions.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I felt my half-year sabbatical wasn’t enough.&lt;/p&gt;
-
-    &lt;p&gt;I’ve started many projects and had so much to learn, it felt like it’s never going to end - which is exciting, but may also be demotivating. A few more months spent in a lightweight environment felt like something I needed.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Gradually, I became confident enough to tell everyone I’m applying. At some point I became confident enough to convince myself this is in my reach. To explain what I’ll be doing as an intern even to people I didn’t know.&lt;/p&gt;
-
-&lt;p&gt;Understand why you think applying for Outreachy is what you want to do - it’s a long, self-motivated endeavor that will require a lot from you. In order for this to work, you need to be sure you have motivation behind it. There are many other opportunities if you decide it’s not for you.&lt;/p&gt;
-
-&lt;p&gt;If you’re not sure what motivates you or need some help with that impostor syndrome, ask people who care about you. Find a community. Ask stupid questions. When, if not now?&lt;/p&gt;
-
-&lt;h3 id=&quot;make-sure-its-meaningful&quot;&gt;Make sure it’s meaningful.&lt;/h3&gt;
-
-&lt;p&gt;As I was interested in working with many organizations, I’ve had to make some tough choices and choose a project. Some names sparked my immediate interest, but many of them felt out of my reach (I still feel that contributing to Linux kernel or FFmpeg requires a lot more than I could muster).&lt;/p&gt;
-
-&lt;p&gt;I came up with a set of criteria that worked for me:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;I need to be familiar with the product and use it often enough to be comfortable as a user.&lt;/p&gt;
-
-    &lt;p&gt;This meant anything that had to do with Linux couldn’t be my first choice, as I’m unfamiliar with the environment and the problems product users are facing.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I need to find the project meaningful, fulfilling specific needs and supporting a community.&lt;/p&gt;
-
-    &lt;p&gt;This meant I had to find a community I care about that is using the product and would benefit from a new contributor engaging in the project.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I need to feel welcome when contributing to the project.&lt;/p&gt;
-
-    &lt;p&gt;This meant I had to be comfortable with making mistakes and learning from the community, asking questions rather than being embarrassed. Other developers had to understand that as a newbie in open-source I need a lot of learning and patience.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I need to believe I can actually impact the project significantly and make a meaningful contribution.&lt;/p&gt;
-
-    &lt;p&gt;I didn’t want to get engaged in something I’d only be able to do mundane and seemingly unimportant tasks for - although the &lt;em&gt;mundane&lt;/em&gt; and &lt;em&gt;seemingly unimportant&lt;/em&gt; are often tasks that have been neglected for a while and need a contributor. This meant I had to be comfortable with the codebase and understand what is a meaningful contribution.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There was only one organization that was a clear &lt;em&gt;yes&lt;/em&gt; for all of my criteria - Zulip. I’ve been using the product constantly since day one at the Recurse Center, which also meant I’ve had a community I cared about. I’ve felt immediately welcome in the project and believed I know the users’ needs well enough to understand what’s meaningful for them.&lt;/p&gt;
-
-&lt;p&gt;Define your own criteria that’ll help you through this process. It’s hard, as there are a lot of interesting choices and you’ll be tempted to try everything. I’m not saying it’s impossible, but I’ve heard from many people more experienced than me that one can’t really have more than 2-3 priority organizations in this process.&lt;/p&gt;
-
-&lt;p&gt;I went all in for Zulip and didn’t look back - I haven’t applied for any other organizations, because it seemed to me with the time I had I couldn’t possibly make a meaningful contribution to any other project. This strategy might be ill-advised for many, just like with getting into college - sometimes having a second choice that is good enough makes one feel a little bit more confident and that confidence can make a difference.&lt;/p&gt;
-
-&lt;p&gt;Whatever you decide to do, make sure any projects you choose spark joy and will allow you to be motivated for the whole 3 months.&lt;/p&gt;
-
-&lt;h3 id=&quot;learn-code-repeat&quot;&gt;Learn. Code. Repeat.&lt;/h3&gt;
-
-&lt;p&gt;The past two months have been a learning fast-track. I’ve made many mistakes, some embarrassing enough that I still need some time to be able to talk about them publicly. What kept me going were the encouragement from the community - as I contributed and got more comfortable, Zulip was becoming more and more &lt;strong&gt;my&lt;/strong&gt; community - and seeing my contributions implemented in the project. Slowly a more refined idea of project needs emerged and I started thinking about myself as a contributor, as opposed to the newbie everyone had to help.&lt;/p&gt;
-
-&lt;p&gt;I don’t have any easy answers here, as this process is different for everyone. In order to become a contributor, you need to understand the current state of the project and what is the expected state - in a week, a few months and a few years. This is something you learn gradually, through asking questions and coding, engaging in the community and being proactive.&lt;/p&gt;
-
-&lt;p&gt;If it feels like home, it probably is.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;One can never be too grateful. I’d like to thank:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Cihan Demirci&lt;/strong&gt; for all the the all-nighters, patience and our growing friendship&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sumana Harihareswara&lt;/strong&gt; for her guidance, inspiration and help&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tim Abbott&lt;/strong&gt; and &lt;strong&gt;Steve Howell&lt;/strong&gt; for their patience and introducing the newbie developer to open-source&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Neeraj Wahi&lt;/strong&gt; for his positive attitude and Zulip React Native workshop&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Michael Cordover&lt;/strong&gt; for helping me out with my first contribution&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Andy Lee&lt;/strong&gt;, &lt;strong&gt;Andrew Yoon&lt;/strong&gt; and &lt;strong&gt;Andrea Orru&lt;/strong&gt; for being the best RC check-out group&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;James Porter&lt;/strong&gt; for our weekly one-on-ones and guidance&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Leah Hanson&lt;/strong&gt; for helping me out with refactoring my Outreachy application&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Satabdi Das&lt;/strong&gt; for our conversations on Outreachy and encouragement&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Alicia Thilani Singham Goodwin&lt;/strong&gt; and &lt;strong&gt;Jennifer Gooley&lt;/strong&gt; for telling me about this opportunity&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nancy Thomas&lt;/strong&gt; for support and advice&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Rachel Vincent&lt;/strong&gt;, &lt;strong&gt;Michelle Steigerwalt&lt;/strong&gt; and &lt;strong&gt;Lyn Normoyle&lt;/strong&gt; for flooding my feed with positivity, inspiration and cats&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nick Bergson-Shilcock&lt;/strong&gt;, &lt;strong&gt;David Albert&lt;/strong&gt; and &lt;strong&gt;Sonali Sridhar&lt;/strong&gt; for saying the right words at the right time&lt;/li&gt;
-  &lt;li&gt;the &lt;strong&gt;Recurse Center community&lt;/strong&gt; as a whole for making me a part of something magical&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I’m excited about &lt;a href=&quot;https://wiki.gnome.org/Outreachy/2016/DecemberMarch&quot;&gt;Outreachy round 13&lt;/a&gt;!&lt;/p&gt;</content>
-              
-
-
-              
-              
-              
-              
-              
-
-              
-                <author>
-                    <name>alicja</name>
-                  
-                  
-                </author>
-              
-
-              
-
-              
-
-              
-                <summary type="html">Getting into Outreachy is a long process that requires a lot of effort. In order to have a chance at an internship one has to:</summary>
               
 
               

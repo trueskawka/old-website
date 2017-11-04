@@ -1,6 +1,6 @@
 body {
   background-color: #fff;
-  font: 14px/1.5 -apple-system, "PT Sans", Helvetica, Arial, sans-serif;
+  font: 17px/1.5 -apple-system, "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
   padding: 50px;
   color: #595959; }
@@ -48,7 +48,7 @@ img {
 code, pre {
   font-family: Monaco, Lucida Console, Courier New, monospace;
   color: #333;
-  font-size: 12px; }
+  font-size: 16px; }
 
 pre {
   padding: 8px 15px;
@@ -65,19 +65,17 @@ pre {
 .rtl {
   direction: rtl; }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 959px) {
   #wrapper {
     width: auto;
     margin: 0; } }
 @media print, screen and (max-width: 760px) {
   body {
-    word-wrap: break-word; }
+    word-wrap: break-word;
+    padding: 15px; }
 
   pre, code {
     word-wrap: normal; } }
-@media print, screen and (max-width: 480px) {
-  body {
-    padding: 15px; } }
 header {
   width: 270px;
   height: 90%;
@@ -114,7 +112,7 @@ header {
   font-size: 0.8em;
   margin-top: 10px; }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 959px) {
   header {
     float: none;
     position: static;
@@ -130,7 +128,7 @@ header {
 
   #title-main {
     text-align: inherit; } }
-@media print, screen and (max-width: 760px) {
+@media print, screen and (max-width: 480px) {
   header {
     padding: 0; }
 
@@ -140,7 +138,7 @@ header {
   margin-top: 210px; }
 
 section {
-  width: 500px;
+  width: 580px;
   float: right;
   padding-bottom: 50px; }
 
@@ -151,20 +149,20 @@ section {
   padding-bottom: 2em;
   padding-top: 0; }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 959px) {
   section {
     float: none;
     position: static;
     width: auto;
     border: 1px solid #e5e5e5;
     border-width: 1px 0;
-    padding: 20px 0;
+    padding: 20px 20px;
     margin: 0 0 20px; }
 
   #main-wrapper {
     margin-top: 2em; } }
 .col-1 {
-  margin-right: 2em;
+  margin-right: 1em;
   display: inline-block;
   vertical-align: top;
   padding-top: 0.1em; }
