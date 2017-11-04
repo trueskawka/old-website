@@ -6,7 +6,7 @@
   <link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" />
   
-  <updated>2017-11-04T23:33:00+01:00</updated>
+  <updated>2017-11-04T23:34:37+01:00</updated>
   
     <id>https://trueskawka.github.io/</id>
   
@@ -185,9 +185,9 @@ challenging and can use all three layers (the div, its
 &lt;code class=&quot;highlighter-rouge&quot;&gt;:before&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;:after&lt;/code&gt;). One a tad more complex shape I wanted
 to use was a chevron, in order to create a simple animation of
 the &lt;a href=&quot;https://www.xfive.co/&quot;&gt;Xfive&lt;/a&gt; logo, similar to the one on
-their main website, but created with pure CSS. For this I
-needed to learn and understand gradients better, so I turned to
-the &lt;a href=&quot;http://shop.oreilly.com/product/0636920031123.do&quot;&gt;CSS Secrets&lt;/a&gt;
+their website, but created with pure CSS. For this I needed to
+learn and understand gradients better, so I turned to the
+&lt;a href=&quot;http://shop.oreilly.com/product/0636920031123.do&quot;&gt;CSS Secrets&lt;/a&gt;
 book - after doing a few exercises, I felt ready to create
 multiple gradient layers and mix them up with pseudoelements
 and &lt;code class=&quot;highlighter-rouge&quot;&gt;box-shadow&lt;/code&gt;s.&lt;/p&gt;
