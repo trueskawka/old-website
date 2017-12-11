@@ -137,10 +137,6 @@
   
     
       
-    
-  
-    
-      
         <post postDate="20161118" class="dpost"></post>
       
     
@@ -1295,7 +1291,7 @@
         
   <div class="post postContent">
     <div  class="postDate">
-      <time datetime="2016-10-01T03:34:31+02:00" itemprop="datePublished">
+      <time datetime="2016-10-01T03:34:31+00:00" itemprop="datePublished">
       
         01.10.2016 03:34
       
@@ -1340,14 +1336,13 @@
   <li>
     <p>musi zostać zainicjowana pusta baza postgresql:</p>
 
-    <div class="highlighter-rouge"><pre class="highlight"><code>heroku addons:add heroku-postgresql
-</code></pre>
-    </div>
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>heroku addons:add heroku-postgresql
+</code></pre></div>    </div>
   </li>
   <li>
     <p>migracje robi się w konsoli Heroku:</p>
 
-    <div class="highlighter-rouge"><pre class="highlight"><code>heroku run console
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>heroku run console
 require 'sinatra'
 require 'slim'
 require 'data_mapper'
@@ -1355,8 +1350,7 @@ require './main'
 DataMapper.setup(:default, ENV['DATABASE_URL'] ||
  "sqlite3://#{Dir.pwd}/development.db")  
 DataMapper.auto_migrate!
-</code></pre>
-    </div>
+</code></pre></div>    </div>
   </li>
 </ul>
 

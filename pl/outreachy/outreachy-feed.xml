@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl">
-  <generator uri="http://jekyllrb.com" version="3.5.0">Jekyll</generator>
+  <generator uri="http://jekyllrb.com" version="3.6.2">Jekyll</generator>
   
-  <link href="https://trueskawka.github.io/pl/outreachy/outreachy-feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" />
+  <link href="http://0.0.0.0:4000/pl/outreachy/outreachy-feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://0.0.0.0:4000/pl/" rel="alternate" type="text/html" hreflang="pl" />
   
-  <updated>2017-11-16T21:03:48+01:00</updated>
+  <updated>2017-12-11T10:21:46+00:00</updated>
   
-    <id>https://trueskawka.github.io/pl/</id>
+    <id>http://0.0.0.0:4000/pl/</id>
   
 
   
@@ -61,6 +61,10 @@
           
         
       
+        
+          
+        
+      
     
   
     
@@ -76,6 +80,10 @@
     
   
     
+      
+        
+          
+        
       
         
           
