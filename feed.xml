@@ -6,7 +6,7 @@
   <link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" hreflang="en" />
   
-  <updated>2017-12-11T10:31:46+00:00</updated>
+  <updated>2018-01-04T03:10:24+00:00</updated>
   
     <id>http://0.0.0.0:4000/</id>
   
@@ -22,6 +22,173 @@
 
   
 
+  
+    
+      
+        
+          
+        
+          
+            <entry>
+              <title type="html">Making pairing flow</title>
+
+              
+                <link href="http://0.0.0.0:4000/blog/programming/2018/01/03/making-pairing-flow.html" rel="alternate" type="text/html" title="Making pairing flow" />
+                <published>2018-01-03T17:25:00+00:00</published>
+                <updated>2018-01-03T17:25:00+00:00</updated>
+                <id>http://0.0.0.0:4000/blog/programming/2018/01/03/making-pairing-flow</id>
+                <content type="html" xml:base="http://0.0.0.0:4000/blog/programming/2018/01/03/making-pairing-flow.html">&lt;p&gt;As my second batch at the Recurse Center is approaching, I can’t help
+but to be excited for all the pairings to come. I enjoy learning by 
+working with others - other than improving my coding style and understanding
+how to solve problems better, I always pick up all sorts of little tweaks 
+and ideas while geeking out over someone’s setup.&lt;/p&gt;
+
+&lt;p&gt;Since many of my batchlings are going to be new to the community, I wanted to think
+of some rules for pairing that could improve the experience for all those involved,
+other than the &lt;a href=&quot;https://www.recurse.com/manual#sub-sec-social-rules&quot;&gt;Recurse Center social rules&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In general, I find there are a at least three types of potentially great pairing 
+experiences:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;helping someone out - when one of the parties has an issue and they’re looking 
+for some guidance from a pairing partner more experienced in the area of interest&lt;/li&gt;
+  &lt;li&gt;exploring a concept together - when both parties are looking forward to tackle
+a new problem together, regardless of their perceived experience&lt;/li&gt;
+  &lt;li&gt;rubber-ducking - when one of the parties needs to talk to another programmer, 
+be it on a more general, problem-solving level or particulars of their code that
+make for a mind-boggling puzzle they’re struggling with, again - regardless of their 
+perceived experience (it is often the “stupid” or “beginner” questions that we 
+forget to ask ourselves when debugging our own code that are just the right questions)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;have-a-good-setup&quot;&gt;Have a good setup&lt;/h3&gt;
+
+&lt;p&gt;Don’t assume your setup is going to work for pairing out of the box. Think of possible 
+obstacles and make sure your pairing partner is comfortable, e.g. I promise to 
+increase my 8-point font and adjust the brightness, so you can read everything you 
+need on my tiny screen.&lt;/p&gt;
+
+&lt;p&gt;The best approach is to find the lowest common denominator - no Vim/Emacs bindings, 
+no dark magic shortcuts and gear. Using a text editor with at least some GUI (VS Code, 
+Atom), a separate window for the terminal and a browser window for web testing usually 
+works. Sometimes even a simple service like &lt;a href=&quot;https://glitch.com/&quot;&gt;Glitch&lt;/a&gt; or &lt;a href=&quot;https://codepen.io/&quot;&gt;CodePen&lt;/a&gt; 
+is enough.&lt;/p&gt;
+
+&lt;h3 id=&quot;keyboard-is-lava&quot;&gt;Keyboard is lava&lt;/h3&gt;
+
+&lt;p&gt;During pairing it’s usually best that only one person types - they’re called the 
+driver and their role is to implement your shared ideas in code. The more beginner 
+they are, the better for them to be the person writing the code, since they can 
+make mistakes and learn from them through discussing and correcting them together. 
+They won’t learn as much from simply observing.&lt;/p&gt;
+
+&lt;p&gt;Even if you are much better at typing, please, don’t take over the keyboard. It 
+happened to me more than once, usually out of the sheer eagerness of my pairing 
+partner to just solve the problem at hand, and I always felt intimidated by it.&lt;/p&gt;
+
+&lt;h3 id=&quot;know-whats-important&quot;&gt;Know what’s important&lt;/h3&gt;
+
+&lt;p&gt;When pairing, try to focus on the problem at hand - you are giving/receiving the most
+important asset one can give, their time and attention. There is no point in focusing
+on unrelevant details, e.g. I might write terribly suboptimal Python, but if the 
+purpose of the pairing is first and foremost for me to understand how merge sort works,
+optimizing too early might not be all too helpful.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;When helping - depending of how experienced your pairing partner is, there might be 
+ an urge to solve every possible problem together - if you have a ton of time, that’s a 
+ wonderful way to spend the afternoon/night! Learning from more experienced developers
+ is always fun, especially when they can also learn a trick or two from their 
+ pairing buddies.&lt;/p&gt;
+
+    &lt;p&gt;Most of the time the pairing is focused around a particular problem. If you are 
+ helping someone out, they probably went through at least a few ideas and have tried
+ various approaches. Before you get started, make sure you know:&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;what is the problem&lt;/li&gt;
+      &lt;li&gt;what has already been tried&lt;/li&gt;
+      &lt;li&gt;what kind of help are they looking for&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;When asking for help - &lt;a href=&quot;https://blogs.akamai.com/2013/10/you-must-try-and-then-you-must-ask.html&quot;&gt;before you ask, try&lt;/a&gt;. 
+ Try to understand where and why you have a problem, so that you can describe it to 
+ your pairing partner. Check for all the usual suspects (semicolons, not passing 
+ arguments, not calling the function, typos) - you shouldn’t be embarassed if your 
+ problem turns out to be “just” about a typo, but more often than not you probably will 
+ feel bad for “wasting” someone’s time (please, don’t - you learn by making mistakes).&lt;/p&gt;
+
+    &lt;p&gt;Before you get started:&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;give a brief overview of your code&lt;/li&gt;
+      &lt;li&gt;describe the problem and the approaches you already tried&lt;/li&gt;
+      &lt;li&gt;talk about your hypotheses as to where the issue might be&lt;/li&gt;
+      &lt;li&gt;say what kind of help you are looking for&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;When pairing on a new problem  - be it a “Cracking the Coding Interview” 
+ question or a project you are building together, try to define what are you looking to 
+ do during the pairing session. Decide together on the setup, stack and other relevant
+ technical details.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;be-mindful&quot;&gt;Be mindful&lt;/h3&gt;
+
+&lt;p&gt;Pairing is meant to be a pleasurable experience for all parties involved, but we do 
+make mistakes - you might tell an unfortunate joke or the solution you propose ends 
+up causing a stack overflow. That’s all good, as long as you are mindful and open 
+to correcting any missteps.&lt;/p&gt;
+
+&lt;p&gt;Think of pairing as canoeing together (or dancing, if that’s a more appealing 
+metaphore). There is a rhythm to it and a direction you’re working towards, but there
+is also the pleasure of being in the moment together and enjoying the experience. If 
+you’re going to go in different directions or not find a shared rhythm to it, the canoe
+might end up spinning in the middle of the river and you will get nowhere.&lt;/p&gt;
+
+&lt;p&gt;Finding the right balance might take time, but it’s rewarding. Also, you don’t have 
+to have a great experience with everyone - even when you’re both excited about 
+programming and mindful, you might just not be good pairing partners. And that’s okay.&lt;/p&gt;</content>
+              
+
+
+              
+              
+              
+              
+              
+
+              
+                <author>
+                    <name>alicja</name>
+                  
+                  
+                </author>
+              
+
+              
+
+              
+
+              
+                <summary type="html">As my second batch at the Recurse Center is approaching, I can’t help but to be excited for all the pairings to come. I enjoy learning by working with others - other than improving my coding style and understanding how to solve problems better, I always pick up all sorts of little tweaks and ideas while geeking out over someone’s setup.</summary>
+              
+
+              
+              
+            </entry>
+          
+        
+      
+        
+          
+        
+          
+        
+      
+    
   
     
       
@@ -1095,218 +1262,6 @@ the Recurse Center.&lt;/p&gt;
 
               
                 <summary type="html">The past few months have been an ongoing adventure for me - an adventure in learning to manage the disorienting level of freedom I’ve had to face.</summary>
-              
-
-              
-              
-            </entry>
-          
-        
-      
-    
-  
-    
-      
-        
-          
-        
-          
-        
-      
-        
-          
-        
-          
-        
-      
-        
-          
-        
-          
-        
-      
-        
-          
-        
-          
-            <entry>
-              <title type="html">Outreachy - first month recap</title>
-
-              
-                <link href="http://0.0.0.0:4000/zulip/outreachy/gci/blog/2017/01/11/outreachy-first-month-recap.html" rel="alternate" type="text/html" title="Outreachy - first month recap" />
-                <published>2017-01-11T23:48:00+00:00</published>
-                <updated>2017-01-11T23:48:00+00:00</updated>
-                <id>http://0.0.0.0:4000/zulip/outreachy/gci/blog/2017/01/11/outreachy-first-month-recap</id>
-                <content type="html" xml:base="http://0.0.0.0:4000/zulip/outreachy/gci/blog/2017/01/11/outreachy-first-month-recap.html">&lt;p&gt;I’ve been asked today to reflect on my first Outreachy month and share
-what I’ve done so far.&lt;/p&gt;
-
-&lt;h3 id=&quot;initial-proposal&quot;&gt;Initial proposal&lt;/h3&gt;
-
-&lt;p&gt;I admit I’ve felt queasy about it at first - after
-all, my initial &lt;a href=&quot;https://paper.dropbox.com/doc/Outreachy-proposal-QfwrTnnGBDBd9hBGCyUjT&quot;&gt;proposal&lt;/a&gt;
-was full of ambitious goals that were to be driven by the regular expected
-levels of productivity.&lt;/p&gt;
-
-&lt;p&gt;That didn’t happen. I have made mistakes on the way:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;I let my momentum get lost while visiting family for the better part of
-November and it took time to regain it after I got back home.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I am still struggling with sharing imperfect code and contributions, even
-though as a mentor I know their value.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I got completely involved in the Google Code-In, because after the initial
-stress of being inexperienced and unable to help the students, it became
-easier and easier with every week to focus on it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I got used to my to-do list getting longer and longer, focusing more on
-immediate tasks than long-term goals. It’s easier to tick off “create
-a GCI task” than “implement this big and fuzzy issue”.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;What it meant for my proposal - I haven’t worked on most of my planned tasks
-when planned:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The CSS splitting got behind the Zulip redesign and I was able to split
-only one part since my pre-Outreachy splits, as everything else is in the
-midst of changes and refactoring.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Building screenshots and improving Casper tests is still on my to-do list,
-but the only steps I’ve taken so far is reading the Casper docs, tinkering
-a bit with our Casper doc and refactoring the task into more actionable
-steps earlier this week.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;My work on interactive bots was late, but since it was part of my GCI
-responsibilities, I’ve managed to learn how to create bots and wrote the
-tasks for them. Over the past few weeks I’ve also helped students work
-on the bots and learned a lot from them (more on that later on).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I haven’t worked on issues related to stream flow.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;what-i-have-been-working-on&quot;&gt;What I have been working on&lt;/h3&gt;
-
-&lt;p&gt;My contributions concerned mostly GCI improvements and communication, with
-some minor work towards my general goals. I’ve found it much easier to
-write and be social - respond to messages, review pull requests, help
-students with tasks, create documents - than to focus on my own code.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;I have created the &lt;a href=&quot;https://github.com/zulip/zulip-gci/blob/master/tasks/interactive-bots.md&quot;&gt;interactive bots tasks&lt;/a&gt;
-for the GCI students.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I have created the &lt;a href=&quot;https://github.com/zulip/zulip-gci/blob/master/tasks/translations.md&quot;&gt;translation tasks&lt;/a&gt; for
-the GCI students and wrote the &lt;a href=&quot;https://github.com/zulip/zulip/pull/2439&quot;&gt;initial Polish style guide&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I have written a doc on &lt;a href=&quot;https://github.com/zulip/zulip-gci/blob/master/docs/improving-gci-experience.md&quot;&gt;improving the GCI experience&lt;/a&gt;
-as a reflection and a shared set of experiences. I have also written an
-internal doc for mentors on encouraging students.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I &lt;a href=&quot;https://github.com/zulip/zulip/pull/2128&quot;&gt;split the right sidebar CSS&lt;/a&gt;
-from the main &lt;code class=&quot;highlighter-rouge&quot;&gt;zulip.css&lt;/code&gt; file.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I have had 3 GCI shifts a week for reviewing student submissions and
-helping them on Zulip. I’ve also been helping students, posting various
-reflections, and discussing issues and improvements quite a lot.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I also currently have multiple tasks in line:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;I posted a work-in-progress pull request on a &lt;a href=&quot;https://github.com/zulip/zulip/pull/2721&quot;&gt;muted streams prompt&lt;/a&gt; that needs refactoring and
-better testing.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I’m working on building CSS linters after a &lt;a href=&quot;https://chat.zulip.org/#narrow/stream/test.20suites/topic/linting&quot;&gt;fruitful chat with Steve&lt;/a&gt; [you
-have to be logged in &lt;a href=&quot;https://chat.zulip.org&quot;&gt;Zulip&lt;/a&gt;]. I am also creating
-a write-up of this discussion for further use.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I have a React Native app &lt;a href=&quot;https://github.com/zulip/zulip-mobile/issues/181&quot;&gt;issue assigned&lt;/a&gt; - so far I’ve a working
-environment and I’ve tried to trigger the issue with no luck on my mobile
-device.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I have a draft write-up about Casper testing and will be improving the
-existing &lt;a href=&quot;https://zulip.readthedocs.io/en/latest/testing-with-casper.html&quot;&gt;Zulip Casper doc&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I have a few draft posts on mypy, open-source skills and improving as an
-intermediate programmer.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;actionable-goals&quot;&gt;Actionable goals&lt;/h3&gt;
-
-&lt;p&gt;For the next two months of my internship, I want to focus more on my own
-contributions, especially putting my coding skills to good use. Google
-Code-In is ending soon, which will free up my schedule and prevent me from
-focusing entirely on mentoring. Alas, I need some actionable goals, since
-my initial proposal was too vague and I got easily distracted with better
-defined tasks.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;I will refactor each of the tasks currently in line (and any future task)
-and split them into smaller, better defined ones, with more specific
-deadlines.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I will check in daily, as it’s much harder to be vague when informing
-others what I’ve been up to.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I will set aside time for big picture ideas on possible enhancements and
-creative writing on non-technical aspects of software development and I
-will be focused on the task at hand outside of those intervals.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I will follow a more regular schedule instead of working in irregular
-intervals of varied lengths.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content>
-              
-
-
-              
-              
-              
-              
-              
-
-              
-                <author>
-                    <name>alicja</name>
-                  
-                  
-                </author>
-              
-
-              
-
-              
-
-              
-                <summary type="html">I’ve been asked today to reflect on my first Outreachy month and share what I’ve done so far.</summary>
               
 
               

@@ -6,7 +6,7 @@
   <link href="http://0.0.0.0:4000/outreachy/outreachy-feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" hreflang="en" />
   
-  <updated>2017-12-11T10:31:46+00:00</updated>
+  <updated>2018-01-04T03:10:24+00:00</updated>
   
     <id>http://0.0.0.0:4000/</id>
   
@@ -22,6 +22,18 @@
 
   
 
+  
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
   
     
       
@@ -291,210 +303,6 @@ the Recurse Center.&lt;/p&gt;
 
               
                 <summary type="html">The past few months have been an ongoing adventure for me - an adventure in learning to manage the disorienting level of freedom I’ve had to face.</summary>
-              
-
-              
-              
-            </entry>
-          
-        
-      
-        
-          
-        
-      
-        
-          
-        
-      
-    
-  
-    
-      
-        
-          
-        
-      
-        
-          
-            <entry>
-              <title type="html">Outreachy - first month recap</title>
-
-              
-                <link href="http://0.0.0.0:4000/zulip/outreachy/gci/blog/2017/01/11/outreachy-first-month-recap.html" rel="alternate" type="text/html" title="Outreachy - first month recap" />
-                <published>2017-01-11T23:48:00+00:00</published>
-                <updated>2017-01-11T23:48:00+00:00</updated>
-                <id>http://0.0.0.0:4000/zulip/outreachy/gci/blog/2017/01/11/outreachy-first-month-recap</id>
-                <content type="html" xml:base="http://0.0.0.0:4000/zulip/outreachy/gci/blog/2017/01/11/outreachy-first-month-recap.html">&lt;p&gt;I’ve been asked today to reflect on my first Outreachy month and share
-what I’ve done so far.&lt;/p&gt;
-
-&lt;h3 id=&quot;initial-proposal&quot;&gt;Initial proposal&lt;/h3&gt;
-
-&lt;p&gt;I admit I’ve felt queasy about it at first - after
-all, my initial &lt;a href=&quot;https://paper.dropbox.com/doc/Outreachy-proposal-QfwrTnnGBDBd9hBGCyUjT&quot;&gt;proposal&lt;/a&gt;
-was full of ambitious goals that were to be driven by the regular expected
-levels of productivity.&lt;/p&gt;
-
-&lt;p&gt;That didn’t happen. I have made mistakes on the way:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;I let my momentum get lost while visiting family for the better part of
-November and it took time to regain it after I got back home.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I am still struggling with sharing imperfect code and contributions, even
-though as a mentor I know their value.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I got completely involved in the Google Code-In, because after the initial
-stress of being inexperienced and unable to help the students, it became
-easier and easier with every week to focus on it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I got used to my to-do list getting longer and longer, focusing more on
-immediate tasks than long-term goals. It’s easier to tick off “create
-a GCI task” than “implement this big and fuzzy issue”.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;What it meant for my proposal - I haven’t worked on most of my planned tasks
-when planned:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The CSS splitting got behind the Zulip redesign and I was able to split
-only one part since my pre-Outreachy splits, as everything else is in the
-midst of changes and refactoring.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Building screenshots and improving Casper tests is still on my to-do list,
-but the only steps I’ve taken so far is reading the Casper docs, tinkering
-a bit with our Casper doc and refactoring the task into more actionable
-steps earlier this week.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;My work on interactive bots was late, but since it was part of my GCI
-responsibilities, I’ve managed to learn how to create bots and wrote the
-tasks for them. Over the past few weeks I’ve also helped students work
-on the bots and learned a lot from them (more on that later on).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I haven’t worked on issues related to stream flow.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;what-i-have-been-working-on&quot;&gt;What I have been working on&lt;/h3&gt;
-
-&lt;p&gt;My contributions concerned mostly GCI improvements and communication, with
-some minor work towards my general goals. I’ve found it much easier to
-write and be social - respond to messages, review pull requests, help
-students with tasks, create documents - than to focus on my own code.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;I have created the &lt;a href=&quot;https://github.com/zulip/zulip-gci/blob/master/tasks/interactive-bots.md&quot;&gt;interactive bots tasks&lt;/a&gt;
-for the GCI students.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I have created the &lt;a href=&quot;https://github.com/zulip/zulip-gci/blob/master/tasks/translations.md&quot;&gt;translation tasks&lt;/a&gt; for
-the GCI students and wrote the &lt;a href=&quot;https://github.com/zulip/zulip/pull/2439&quot;&gt;initial Polish style guide&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I have written a doc on &lt;a href=&quot;https://github.com/zulip/zulip-gci/blob/master/docs/improving-gci-experience.md&quot;&gt;improving the GCI experience&lt;/a&gt;
-as a reflection and a shared set of experiences. I have also written an
-internal doc for mentors on encouraging students.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I &lt;a href=&quot;https://github.com/zulip/zulip/pull/2128&quot;&gt;split the right sidebar CSS&lt;/a&gt;
-from the main &lt;code class=&quot;highlighter-rouge&quot;&gt;zulip.css&lt;/code&gt; file.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I have had 3 GCI shifts a week for reviewing student submissions and
-helping them on Zulip. I’ve also been helping students, posting various
-reflections, and discussing issues and improvements quite a lot.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I also currently have multiple tasks in line:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;I posted a work-in-progress pull request on a &lt;a href=&quot;https://github.com/zulip/zulip/pull/2721&quot;&gt;muted streams prompt&lt;/a&gt; that needs refactoring and
-better testing.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I’m working on building CSS linters after a &lt;a href=&quot;https://chat.zulip.org/#narrow/stream/test.20suites/topic/linting&quot;&gt;fruitful chat with Steve&lt;/a&gt; [you
-have to be logged in &lt;a href=&quot;https://chat.zulip.org&quot;&gt;Zulip&lt;/a&gt;]. I am also creating
-a write-up of this discussion for further use.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I have a React Native app &lt;a href=&quot;https://github.com/zulip/zulip-mobile/issues/181&quot;&gt;issue assigned&lt;/a&gt; - so far I’ve a working
-environment and I’ve tried to trigger the issue with no luck on my mobile
-device.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I have a draft write-up about Casper testing and will be improving the
-existing &lt;a href=&quot;https://zulip.readthedocs.io/en/latest/testing-with-casper.html&quot;&gt;Zulip Casper doc&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I have a few draft posts on mypy, open-source skills and improving as an
-intermediate programmer.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;actionable-goals&quot;&gt;Actionable goals&lt;/h3&gt;
-
-&lt;p&gt;For the next two months of my internship, I want to focus more on my own
-contributions, especially putting my coding skills to good use. Google
-Code-In is ending soon, which will free up my schedule and prevent me from
-focusing entirely on mentoring. Alas, I need some actionable goals, since
-my initial proposal was too vague and I got easily distracted with better
-defined tasks.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;I will refactor each of the tasks currently in line (and any future task)
-and split them into smaller, better defined ones, with more specific
-deadlines.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I will check in daily, as it’s much harder to be vague when informing
-others what I’ve been up to.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I will set aside time for big picture ideas on possible enhancements and
-creative writing on non-technical aspects of software development and I
-will be focused on the task at hand outside of those intervals.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I will follow a more regular schedule instead of working in irregular
-intervals of varied lengths.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content>
-              
-
-
-              
-              
-              
-              
-              
-
-              
-                <author>
-                    <name>alicja</name>
-                  
-                  
-                </author>
-              
-
-              
-
-              
-
-              
-                <summary type="html">I’ve been asked today to reflect on my first Outreachy month and share what I’ve done so far.</summary>
               
 
               
