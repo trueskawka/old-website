@@ -6,7 +6,7 @@
   <link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" />
   
-  <updated>2018-02-12T14:44:57-05:00</updated>
+  <updated>2018-02-27T10:09:54-08:00</updated>
   
     <id>https://trueskawka.github.io/</id>
   
@@ -34,8 +34,8 @@
 
               
                 <link href="https://trueskawka.github.io/blog/programming/2018/02/07/drawing-with-CSS-part-1-box-shadows.html" rel="alternate" type="text/html" title="Drawing with CSS - part 1: box shadows" />
-                <published>2018-02-07T17:21:00-05:00</published>
-                <updated>2018-02-07T17:21:00-05:00</updated>
+                <published>2018-02-07T17:21:00-08:00</published>
+                <updated>2018-02-07T17:21:00-08:00</updated>
                 <id>https://trueskawka.github.io/blog/programming/2018/02/07/drawing-with-CSS-part-1-box-shadows</id>
                 <content type="html" xml:base="https://trueskawka.github.io/blog/programming/2018/02/07/drawing-with-CSS-part-1-box-shadows.html">&lt;p&gt;I have been using CSS as a medium for drawing for the past few months and I appreciate its
 versatility and wide support. Since it’s hard to get started without understanding the 
@@ -644,8 +644,8 @@ in the image. We’re going to use a simple &lt;code class=&quot;highlighter-rou
 
               
                 <link href="https://trueskawka.github.io/blog/programming/2018/01/17/git-branch-in-your-prompt.html" rel="alternate" type="text/html" title="Git branch in your prompt" />
-                <published>2018-01-17T20:41:00-05:00</published>
-                <updated>2018-01-17T20:41:00-05:00</updated>
+                <published>2018-01-17T20:41:00-08:00</published>
+                <updated>2018-01-17T20:41:00-08:00</updated>
                 <id>https://trueskawka.github.io/blog/programming/2018/01/17/git-branch-in-your-prompt</id>
                 <content type="html" xml:base="https://trueskawka.github.io/blog/programming/2018/01/17/git-branch-in-your-prompt.html">&lt;p&gt;I have paired a lot over the past week (which makes me tremendously happy!)
 and I noticed how lost I can get in someone else’s terminal if I don’t have
@@ -849,8 +849,8 @@ symbol and wrapping it in a function. For reference, my full git parsing code is
 
               
                 <link href="https://trueskawka.github.io/blog/programming/2018/01/03/making-pairing-flow.html" rel="alternate" type="text/html" title="Making pairing flow" />
-                <published>2018-01-03T17:25:00-05:00</published>
-                <updated>2018-01-03T17:25:00-05:00</updated>
+                <published>2018-01-03T17:25:00-08:00</published>
+                <updated>2018-01-03T17:25:00-08:00</updated>
                 <id>https://trueskawka.github.io/blog/programming/2018/01/03/making-pairing-flow</id>
                 <content type="html" xml:base="https://trueskawka.github.io/blog/programming/2018/01/03/making-pairing-flow.html">&lt;p&gt;As my second batch at the Recurse Center is approaching, I can’t help
 but to be excited for all the pairings to come. I enjoy learning by 
@@ -1016,8 +1016,8 @@ programming and mindful, you might just not be good pairing partners. And that�
 
               
                 <link href="https://trueskawka.github.io/blog/programming/2017/11/16/designing-HTML-emails.html" rel="alternate" type="text/html" title="Designing HTML emails" />
-                <published>2017-11-16T20:49:00-05:00</published>
-                <updated>2017-11-16T20:49:00-05:00</updated>
+                <published>2017-11-16T20:49:00-08:00</published>
+                <updated>2017-11-16T20:49:00-08:00</updated>
                 <id>https://trueskawka.github.io/blog/programming/2017/11/16/designing-HTML-emails</id>
                 <content type="html" xml:base="https://trueskawka.github.io/blog/programming/2017/11/16/designing-HTML-emails.html">&lt;p&gt;It’s 2017 and it seems that plain text emails are just boring for most users.
 Communicating without the emoji, GIFs or images seems rather stiff and your
@@ -1366,8 +1366,8 @@ design&lt;/a&gt;&lt;/li&gt;
 
               
                 <link href="https://trueskawka.github.io/blog/programming/rc/2017/11/04/single-div-CSS-animations.html" rel="alternate" type="text/html" title="Single &lt;b&gt;div&lt;/b&gt; CSS animations" />
-                <published>2017-11-04T21:45:00-04:00</published>
-                <updated>2017-11-04T21:45:00-04:00</updated>
+                <published>2017-11-04T21:45:00-07:00</published>
+                <updated>2017-11-04T21:45:00-07:00</updated>
                 <id>https://trueskawka.github.io/blog/programming/rc/2017/11/04/single-div-CSS-animations</id>
                 <content type="html" xml:base="https://trueskawka.github.io/blog/programming/rc/2017/11/04/single-div-CSS-animations.html">&lt;p&gt;I recently got inspired to try pure CSS single div
 animations, as I came across &lt;a href=&quot;https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/&quot;&gt;this blog post&lt;/a&gt; (thank you, Gabrielle!).
@@ -1625,8 +1625,8 @@ with some bits and pieces from various old projects).&lt;/p&gt;</content>
 
               
                 <link href="https://trueskawka.github.io/blog/programming/rc/2017/01/31/return-programmer.html" rel="alternate" type="text/html" title="&lt;b&gt;return&lt;/b&gt; programmer;" />
-                <published>2017-01-31T16:15:00-05:00</published>
-                <updated>2017-01-31T16:15:00-05:00</updated>
+                <published>2017-01-31T16:15:00-08:00</published>
+                <updated>2017-01-31T16:15:00-08:00</updated>
                 <id>https://trueskawka.github.io/blog/programming/rc/2017/01/31/return-programmer</id>
                 <content type="html" xml:base="https://trueskawka.github.io/blog/programming/rc/2017/01/31/return-programmer.html">&lt;p&gt;24 weeks ago I entered the Recurse Center in New York, not sure what to
 expect. I’ve only known what I was able to find online and anything I could
