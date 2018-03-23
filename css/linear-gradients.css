@@ -1,0 +1,63 @@
+.boxy {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  
+  background: black;
+}
+
+.boxy-gradient-bottom {
+  background-image: linear-gradient(black, white);
+}
+
+.boxy-gradient-top {
+  background-image: linear-gradient(to top, black, white);
+}
+
+.boxy-gradient-right {
+  background-image: linear-gradient(to right, black, white);
+}
+
+.boxy-gradient-left {
+  background-image: linear-gradient(to left, black, white);
+}
+
+#gradient-container {
+  position: relative;
+  margin: 0 auto;
+  height: 380px;
+  width: 400px;
+}
+
+#gradient-box {
+  height: 260px;
+  width: 360px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+#js-gradient { 
+  position: relative;
+  top: 30px;
+  left: 30px;
+  height: 200px;
+  width: 300px;
+}
+
+#angle-form {
+  text-align: center;
+}
+
+#angle {
+  width: 360px;
+}
+
+.perpendicular {
+  height: 10px;
+  border-color: white;
+  border-width: 0.5px;
+  background-image: linear-gradient(to right, 
+                                  orange 0%, orange 220px,
+                                  #ff9a9e 300px, #ff9a9e 300px, 
+                                  red 380px, red 100%);
+}
