@@ -6,7 +6,7 @@
   <link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" />
   
-  <updated>2018-04-22T16:25:33-07:00</updated>
+  <updated>2018-04-22T16:44:51-07:00</updated>
   
     <id>https://trueskawka.github.io/</id>
   
@@ -37,7 +37,7 @@
                 <published>2018-04-22T16:13:00-07:00</published>
                 <updated>2018-04-22T16:13:00-07:00</updated>
                 <id>https://trueskawka.github.io/blog/2018/04/22/designing-conference-badges</id>
-                <content type="html" xml:base="https://trueskawka.github.io/blog/2018/04/22/designing-conference-badges.html">&lt;p&gt;We recently organized &lt;a href=&quot;https://www.meetup.com/codecoffeeyvr/events/249207842/&quot;&gt;Conf &amp;amp; Coffee 2018&lt;/a&gt; in Vancouver
+                <content type="html" xml:base="https://trueskawka.github.io/blog/2018/04/22/designing-conference-badges.html">&lt;p&gt;We recently organized &lt;a href=&quot;https://www.meetup.com/codecoffeeyvr/events/249207842/&quot;&gt;Conf &amp;amp; Coffee 2018&lt;/a&gt; in Vancouver, BC,
 and one of the bigger tasks we had to take care of was designing and printing our conference badges. A conference is 
 all about people - people who come there to learn, meet new people and have a good time. We wanted
 to make it easier for them and create useable badges.&lt;/p&gt;
@@ -78,12 +78,13 @@ peach color for attendees and a green one for organizers.&lt;/p&gt;
 helped us with:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;creating an image in Adobe Illustrator - the original design by Alanna was created in AI, but since the person mostly 
-working with the designs had more experince with Sketch, we decided to use it for brainstorming&lt;/p&gt;
+    &lt;p&gt;creating an image in &lt;a href=&quot;https://www.adobe.com/products/illustrator.html&quot;&gt;Adobe Illustrator&lt;/a&gt; - the original design by Alanna was 
+created in Illustrator, but since the person mostly working with the designs had more experince with 
+&lt;a href=&quot;https://www.sketchapp.com/&quot;&gt;Sketch&lt;/a&gt;, we decided to use it for brainstorming&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;adding bleed - we had a sense that we’re going to need bleed, but initially added it in the SVG projects rather than
-using the AI tooling for adding it, it turns out it takes about 20 seconds to add if you know how&lt;/p&gt;
+using the Illustrator tooling for adding it, it turns out it takes about 20 seconds to add if you know how&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;making sure everything aligns just right, especially the names and the speaker talk information - a few people had longer
@@ -134,7 +135,7 @@ episodes, because without my partner helping me I’d probably call all the othe
   &lt;li&gt;
     &lt;p&gt;Design - it’s not easy&lt;/p&gt;
 
-    &lt;p&gt;If you are not a designer, don’t assume you can make the bages look good without one. Our badges looked great, but most of it
+    &lt;p&gt;If you are not a designer, don’t assume you can make the badges look good on your own. Our badges looked great, but most of it
  was thanks to a simple and adjustable design that we could then reuse. The back side of the badges had a simple table for 
  names and Twitter handles, because we didn’t have a clue as to what else we could put there that would look good and be usable
  (or, at least, not look terribly out of place). Make sure to work with a designer.&lt;/p&gt;
@@ -144,16 +145,16 @@ episodes, because without my partner helping me I’d probably call all the othe
 
     &lt;p&gt;We decided to print the badges after finalizing the ticket sales, but we didn’t expect too many swaps. 
  That turned out to be an overly optimistic assumption, as many people suddenly remembered about the conference a few days
- before and were asking about last minute changes. We ended up ordering additional blank badges, so that people could write
- their own names.&lt;/p&gt;
+ before it and were asking about last minute changes. We ended up ordering additional blank badges, so that people could write
+ their own names on them.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Informing attendees at registration - especially on adjustable lanyards&lt;/p&gt;
 
     &lt;p&gt;Yes, we had the adjustable lanyards - but we didn’t do a great job explaining it at the registration desk and some of our 
  attendees were initially very uncomfortable. We could also encourage people more to draw on them and use them, as, even though
- we had a prop just for that, not many people felt encouraged to do so. The back of the badge design with a table to put names and 
- twitter handles in was not used by most of the attendees, so maybe we could figure out a way to better use it in the future.&lt;/p&gt;
+ we had a prop just for that, not many people felt encouraged to do so. The back of the badge with a table to put names and 
+ Twitter handles in was not used by most of the attendees, so maybe we could figure out a way to better use it in the future.&lt;/p&gt;
 
     &lt;image src=&quot;/images/badges/prop.jpg&quot; style=&quot;width: 80%&quot; /&gt;
   &lt;/li&gt;
@@ -206,7 +207,7 @@ It was a great experience, especially since I got to work with a wonderful group
               
 
               
-                <summary type="html">We recently organized Conf &amp;amp; Coffee 2018 in Vancouver and one of the bigger tasks we had to take care of was designing and printing our conference badges. A conference is all about people - people who come there to learn, meet new people and have a good time. We wanted to make it easier for them and create useable badges.</summary>
+                <summary type="html">We recently organized Conf &amp;amp; Coffee 2018 in Vancouver, BC, and one of the bigger tasks we had to take care of was designing and printing our conference badges. A conference is all about people - people who come there to learn, meet new people and have a good time. We wanted to make it easier for them and create useable badges.</summary>
               
 
               
