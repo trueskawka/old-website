@@ -6,7 +6,7 @@
   <link href="https://trueskawka.github.io/pl/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://trueskawka.github.io/pl/" rel="alternate" type="text/html" hreflang="pl" />
   
-  <updated>2018-05-25T15:21:18-07:00</updated>
+  <updated>2018-05-25T15:54:39-07:00</updated>
   
     <id>https://trueskawka.github.io/pl/</id>
   
@@ -22,6 +22,81 @@
 
   
 
+  
+    
+      
+        
+          
+        
+          
+            <entry>
+              <title type="html">Dostosowanie do RODO</title>
+
+              
+                <link href="https://trueskawka.github.io/pl/blog/2018/05/25/GDPR-compliance.html" rel="alternate" type="text/html" title="Dostosowanie do RODO" />
+                <published>2018-05-25T15:30:00-07:00</published>
+                <updated>2018-05-25T15:30:00-07:00</updated>
+                <id>https://trueskawka.github.io/pl/blog/2018/05/25/GDPR-compliance</id>
+                <content type="html" xml:base="https://trueskawka.github.io/pl/blog/2018/05/25/GDPR-compliance.html">&lt;p&gt;W związku z nadejściem terminu wdrożenia &lt;em&gt;Rozporządzenia Parlamentu Europejskiego w sprawie ochrony osób fizycznych 
+w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE&lt;/em&gt;
+(zwanym &lt;a href=&quot;https://pl.wikipedia.org/wiki/Og%C3%B3lne_rozporz%C4%85dzenie_o_ochronie_danych&quot;&gt;RODO&lt;/a&gt;), usunęłam ze swojej strony
+wszelkie skrypty zbierające dane użytkowników.&lt;/p&gt;
+
+&lt;p&gt;Robię to wyłącznie w celu ochrony własnej, ponieważ jako osoba prowadząca działalność gospodarczą jestem
+traktowana jako osoba prawna. Nigdy nie gromadziłam danych poza wejściami użytkowników, w szczególności
+danych osobowych czy haseł.&lt;/p&gt;
+
+&lt;p&gt;Używałam jedynie dwóch skryptów zbierających dane, obu zewnętrznych:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;skrypt Google Analytics dla śledzenia wejść na stronę - całkowicie usunięty&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;skrypt Recurse Center dla śledzenia poleceń - usunęłam skrypt i obecnie używam tylko statycznego linka (nawet animacja z logo
+Recurse Center jest stworzona całkowicie w CSS)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ponieważ ta strona jest hostowana na &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub pages&lt;/a&gt;, dane użytkowników są 
+w jakimś stopniu nadal zbieranie przez serwery GitHuba w celu dostarczenia usługi hostingowej. Nie mam
+kontroli nad tym, co GitHub może śledzić, ale nie przekazuję im żadnych dodatkowych informacji. Jakiekolwiek
+dane, które GitHub ma na temat użytkownika, który wchodzi na tę stronę internetową, są przekazywane przez
+użytkownika w wyniku przeglądania Internetu.&lt;/p&gt;
+
+&lt;p&gt;W przyszłości być może wprowadzę nowy sposób gromadzenia zbiorczych informacji o wejściach na stronę, po dokładnym 
+zapoznaniu się z działaniem usługi Google Analytics i jej ewentualnymi konsekwencjami prawnymi.&lt;/p&gt;</content>
+              
+
+
+              
+              
+              
+              
+              
+
+              
+                <author>
+                    <name>alicja</name>
+                  
+                  
+                </author>
+              
+
+              
+
+              
+
+              
+                <summary type="html">W związku z nadejściem terminu wdrożenia Rozporządzenia Parlamentu Europejskiego w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (zwanym RODO), usunęłam ze swojej strony wszelkie skrypty zbierające dane użytkowników.</summary>
+              
+
+              
+              
+            </entry>
+          
+        
+      
+    
   
     
       
@@ -585,281 +660,6 @@
               
               
             </entry>
-          
-        
-          
-        
-      
-        
-          
-        
-          
-        
-      
-    
-  
-    
-      
-        
-          
-            <entry>
-              <title type="html">RC - ostatni dzień</title>
-
-              
-                <link href="https://trueskawka.github.io/pl/usa/rc/log/2016/11/05/RC-last-day.html" rel="alternate" type="text/html" title="RC - ostatni dzień" />
-                <published>2016-11-05T04:41:31-07:00</published>
-                <updated>2016-11-05T04:41:31-07:00</updated>
-                <id>https://trueskawka.github.io/pl/usa/rc/log/2016/11/05/RC-last-day</id>
-                <content type="html" xml:base="https://trueskawka.github.io/pl/usa/rc/log/2016/11/05/RC-last-day.html">&lt;p&gt;Osiągnięcia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;pomogłam przy sprzątaniu RC&lt;/li&gt;
-  &lt;li&gt;odwiedziłam Evę, Shawna i maleństwo&lt;/li&gt;
-  &lt;li&gt;kupiłam nieco prezentów i drobiazgów&lt;/li&gt;
-  &lt;li&gt;poszłam na kolację z moją północną grupą check-outową&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Impreza anty-graduacyjna skończyła się późno, więc zaczęłam dzień długim spacerem przez Manhattan i kupowaniem drobiazgów. Pogoda była idealna do tego, żeby po prostu spacerować, popijając chai latte, i rozmawiając, robiąc przy okazji wiele zdjęć (niektóre są z wcześniejszych eskapad).&lt;/p&gt;
-
-&lt;p&gt;Dotarłam do RC na sprzątanie - Deniz i Isla miały miły pomysł posprzątania razem wspólnej przestrzeni. Nie pomogłam tak dużo, jak bym chciała, bo chciałam jeszcze pożegnać się z Evą i Shawnem, a przede wszystkim przytulić maleństwo jako odpowiedzialna ciocia.&lt;/p&gt;
-
-&lt;p&gt;Poszłam później na kolację z moją pónocną grupą check-outową i świetnie się bawiłam, szczególnie kiedy wybraliśmy się na niezwykłe rolowane lody - dosłownie zamrozili na naszych oczach mleko i inne składniki w magicznym procesie, który wymagał sporo skrobania substancji.&lt;/p&gt;
-
-&lt;p&gt;Nie pożegnałam się ze wszystkimi, tak jak to sobie wyobrażałam, ale może to i lepiej - tyle było emocji i łez w ciągu ostatnich kilku dni, że mogłabym nie wytrzymać kolejnych.&lt;/p&gt;
-
-&lt;p&gt;Mój czas w Nowym Jorku i fizyczna obecność w RC dobiegły końca, ale to nie oznacza, że przestanę być członkiem społeczności. Potrzebuję trochę czasu, żeby napisać podsumowanie tych trzech miesięcy, szczególnie ze względu na to, ile napisałam przez ostatnie 12 tygodni - zanim przez to wszystko przebrnę i przeanalizuję miną z dwa tygodnie.&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;kliknij dowolny obrazek, żeby wyświetlić galerię&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_1.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_1.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_1.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_2.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_2.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_2.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_3.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_3.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_3.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_4.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_4.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_4.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_5.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_5.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_5.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_6.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_6.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_6.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_7.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;Autobus szkolny&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_7.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_7.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_8.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;Koty też mogą być jednorożcami i aniołkami&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_8.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_8.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_9.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_9.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_9.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_10.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_10.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_10.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_11.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_11.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_11.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_12.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_12.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_12.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_13.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_13.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_13.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_14.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_14.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_14.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_15.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_15.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_15.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_16.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_16.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_16.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_17.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_17.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_17.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_18.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_18.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_18.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_19.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;Cihan przed jednym z dziwniejszych sklepów&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_19.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_19.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_20.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_20.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_20.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_21.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_21.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_21.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_22.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_22.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_22.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_23.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_23.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_23.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_24.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_24.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_24.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_25.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_25.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_25.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_26.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_26.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_26.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_27.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;Nie był zainteresowany rozmową, bo nie mieliśmy jedzenia&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_27.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_27.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_28.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_28.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_28.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_29.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_29.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_29.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_30.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;Nie ma to jak dobry obiad&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_30.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_30.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_31.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;Rolowane lody&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_31.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_31.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;thumb-container&quot;&gt;
-  &lt;a href=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_main_32.JPG&quot; data-lightbox=&quot;nyc/9&quot; data-title=&quot;&quot;&gt;
-    &lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos/nyc/9/nyc_thumb_32.JPG&quot; class=&quot;thumb-img&quot; alt=&quot;nyc_main_32.JPG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;/p&gt;</content>
-              
-
-
-              
-              
-              
-              
-              
-
-              
-                <author>
-                    <name>alicja</name>
-                  
-                  
-                </author>
-              
-
-              
-
-              
-
-              
-                <summary type="html">Osiągnięcia:</summary>
-              
-
-              
-              
-            </entry>
-          
-        
-          
-        
-      
-        
           
         
           

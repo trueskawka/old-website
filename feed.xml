@@ -6,7 +6,7 @@
   <link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" />
   
-  <updated>2018-05-25T15:21:08-07:00</updated>
+  <updated>2018-05-25T15:54:29-07:00</updated>
   
     <id>https://trueskawka.github.io/</id>
   
@@ -22,6 +22,77 @@
 
   
 
+  
+    
+      
+        
+          
+        
+          
+            <entry>
+              <title type="html">GDPR compliance</title>
+
+              
+                <link href="https://trueskawka.github.io/blog/2018/05/25/GDPR-compliance.html" rel="alternate" type="text/html" title="GDPR compliance" />
+                <published>2018-05-25T15:30:00-07:00</published>
+                <updated>2018-05-25T15:30:00-07:00</updated>
+                <id>https://trueskawka.github.io/blog/2018/05/25/GDPR-compliance</id>
+                <content type="html" xml:base="https://trueskawka.github.io/blog/2018/05/25/GDPR-compliance.html">&lt;p&gt;As the &lt;a href=&quot;https://en.wikipedia.org/wiki/General_Data_Protection_Regulation&quot;&gt;General Data Protection Regulation&lt;/a&gt; compliance deadline has 
+arrived today, I have removed all tracking scripts from my website.&lt;/p&gt;
+
+&lt;p&gt;I did it to protect myself, as being self-employed implies I’m a legal entity. I never collected any data
+beyond user visits, be it personal information or passwords.&lt;/p&gt;
+
+&lt;p&gt;I have only used two tracking scripts, both external:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Google Analytics for getting info on the website traffic - removed completely&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Recurse Center script for referrals - I removed the script and now only use a static link for referrals 
+(even the RC logo animation is in pure CSS)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Since this website is being hosted on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub pages&lt;/a&gt;, some data is still
+being tracked by GitHub servers for providing the service. I don’t have control over what GitHub might 
+be tracking, but I don’t provide any additional data to them. Any data GitHub might have on users 
+after visiting this website is what they willfully provide by browsing the Internet.&lt;/p&gt;
+
+&lt;p&gt;I might add a new tracking script to this website in the future, after I make sure I understand if and how 
+Google Analytics is compliant with GDPR.&lt;/p&gt;</content>
+              
+
+
+              
+              
+              
+              
+              
+
+              
+                <author>
+                    <name>alicja</name>
+                  
+                  
+                </author>
+              
+
+              
+
+              
+
+              
+                <summary type="html">As the General Data Protection Regulation compliance deadline has arrived today, I have removed all tracking scripts from my website.</summary>
+              
+
+              
+              
+            </entry>
+          
+        
+      
+    
   
     
       
@@ -2153,16 +2224,6 @@ design&lt;/a&gt;&lt;/li&gt;
             </entry>
           
         
-      
-        
-          
-        
-          
-        
-      
-    
-  
-    
       
         
           
