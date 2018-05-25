@@ -100,13 +100,14 @@ header {
 #contact,
 #lang,
 #categories-main,
-#rc,
 #rss {
   margin-top: 50px; }
 
-.rc-scout {
-  height: 80px !important;
-  width: 70px !important; }
+.rc-container {
+  margin-top: 20px;
+  overflow: hidden;
+  height: 100px;
+  width: 100px; }
 
 .rc-text {
   font-size: 0.8em;

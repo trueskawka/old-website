@@ -1,17 +1,14 @@
-.rc-container {
-  position: relative;
-  height: 380px;
-  width: 300px;
-  margin: 40px 0;
-}
-
-.rc {
+.rc-scout {
   background-color: black;
   height: 380px;
   width: 300px;
+  transform: scale(0.25);
+  position: relative;
+  left: -105px;
+  top: -140px;
 }
 
-.rc:before {
+.rc-scout::before {
   content: "";
   background-color: transparent;
   height: 200px;
@@ -54,7 +51,7 @@
     -375px 20px 0 0 white;
 }
 
-.rc:after {
+.rc-scout::after {
   content: "";
   background-color: transparent;
   height: 200px;
@@ -76,6 +73,7 @@
     -382px -10px 0 -87px #5dbd49,
     -432px -10px 0 -87px #5dbd49,
     -457px -10px 0 -87px #5dbd49;
+
   animation: pride 3s linear infinite;
 }
 
@@ -208,8 +206,4 @@
       -432px -10px 0 -87px #8f71b9,
       -457px -10px 0 -87px #8f71b9;
   }
-}
-
-.rc-scout {
-  transform: scale(-3);
 }
