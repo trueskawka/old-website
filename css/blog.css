@@ -117,8 +117,7 @@ header {
   header {
     float: none;
     position: static;
-    width: auto;
-    padding-right: 320px; }
+    width: auto; }
 
   #calendarView,
   #categories,
