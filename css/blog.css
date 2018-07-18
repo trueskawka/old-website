@@ -124,8 +124,26 @@ header {
   #categories,
   #rss,
   #signature,
-  #rc {
+  #rc,
+  #resume {
     display: none; }
+
+  #contact,
+  #lang,
+  #categories-main {
+    margin-top: 24px; }
+
+  .category {
+    margin: 5px 0; }
+
+  .icon-item {
+    display: inline-block; }
+    .icon-item .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 0.5em; }
+    .icon-item .username {
+      display: none; }
 
   #title-main {
     text-align: inherit; } }
@@ -172,6 +190,11 @@ section {
   width: 70%;
   display: inline-block; }
 
+@media print, screen and (max-width: 760px) {
+  .col-1,
+  .col-2 {
+    width: 100%;
+    display: block; } }
 .pic {
   height: 200px;
   border-radius: 5%; }
