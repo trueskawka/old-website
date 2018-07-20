@@ -62,6 +62,21 @@ pre {
   width: 860px;
   margin: 0 auto; }
 
+header {
+  width: 100%;
+  position: fixed;
+  height: 220px;
+  top: 50px; }
+
+#content-wrapper {
+  margin-top: 220px; }
+
+@media print, screen and (max-width: 959px) {
+  header {
+    display: none; }
+
+  #content-wrapper {
+    margin-top: 0; } }
 .rtl {
   direction: rtl; }
 
@@ -76,17 +91,17 @@ pre {
 
   pre, code {
     word-wrap: normal; } }
-header {
+sidebar {
   width: 270px;
-  height: 90%;
+  max-height: 80vh;
   float: left;
   position: fixed;
   overflow-x: auto;
   -webkit-font-smoothing: subpixel-antialiased; }
-  header ul {
+  sidebar ul {
     list-style: none;
     padding: 0; }
-  header .icon {
+  sidebar .icon {
     display: inline-block;
     width: 16px;
     height: 16px;
@@ -114,7 +129,7 @@ header {
   margin-top: 10px; }
 
 @media print, screen and (max-width: 959px) {
-  header {
+  sidebar {
     float: none;
     position: static;
     width: auto; }
@@ -122,7 +137,6 @@ header {
   #calendarView,
   #categories,
   #rss,
-  #signature,
   #rc,
   #resume {
     display: none; }
@@ -147,15 +161,9 @@ header {
   #title-main {
     text-align: inherit; } }
 @media print, screen and (max-width: 480px) {
-  header {
-    padding: 0; }
-
   #calendarView {
     display: none; } }
-#main-wrapper {
-  margin-top: 210px; }
-
-section {
+content {
   width: 580px;
   float: right;
   padding-bottom: 50px; }
@@ -168,17 +176,15 @@ section {
   padding-top: 0; }
 
 @media print, screen and (max-width: 959px) {
-  section {
+  content {
+    margin-top: 2em;
     float: none;
     position: static;
     width: auto;
     border: 1px solid #e5e5e5;
     border-width: 1px 0;
     padding: 20px 20px;
-    margin: 0 0 20px; }
-
-  #main-wrapper {
-    margin-top: 2em; } }
+    margin: 0 0 20px; } }
 .col-1 {
   margin-right: 1em;
   display: inline-block;

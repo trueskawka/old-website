@@ -6,7 +6,7 @@
   <link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" />
   
-  <updated>2018-07-17T18:04:38-07:00</updated>
+  <updated>2018-07-20T14:16:12-07:00</updated>
   
     <id>https://trueskawka.github.io/</id>
   
@@ -22,6 +22,85 @@
 
   
 
+  
+    
+      
+        
+          
+        
+          
+            <entry>
+              <title type="html">Browsing in grayscale</title>
+
+              
+                <link href="https://trueskawka.github.io/blog/2018/07/20/Browsing-in-grayscale.html" rel="alternate" type="text/html" title="Browsing in grayscale" />
+                <published>2018-07-20T12:50:00-07:00</published>
+                <updated>2018-07-20T12:50:00-07:00</updated>
+                <id>https://trueskawka.github.io/blog/2018/07/20/Browsing-in-grayscale</id>
+                <content type="html" xml:base="https://trueskawka.github.io/blog/2018/07/20/Browsing-in-grayscale.html">&lt;p&gt;I started exploring my browsing habits to better understand why certain websites grab my attention.
+As aware of UX dark patterns as I am, I grew tired of mindfully noticing when they want to “nudge” 
+me into certain behaviors with vibrant colors and obscuring others by making them less visually
+appealing.&lt;/p&gt;
+
+&lt;p&gt;While I was trying to unsubscribe from yet another unwanted email marketing list, chasing for the 
+“unsubscribe” link hidden in plain sight, I noticed that grayscale works well for techincally showing the 
+information required of advertisers, yet obscuring it among the flashy colorful action calls.&lt;/p&gt;
+
+&lt;p&gt;My previous attempt at decreasing the time I spend on social media was leveraging &lt;a href=&quot;https://addons.mozilla.org/en-US/firefox/addon/styl-us/&quot;&gt;Stylus&lt;/a&gt;
+to hide certain parts of websites, e.g. related videos and comments on YouTube. It manages user styles, 
+with a simple checkbox menu for enabling and disabling them.&lt;/p&gt;
+
+&lt;p&gt;Since I use FireFox, switching to grayscale is fairly simple. I created a new stylesheet that applies to 
+all websites and added a single property for &lt;code class=&quot;highlighter-rouge&quot;&gt;body&lt;/code&gt;. (you can also add a filter in &lt;a href=&quot;https://superuser.com/questions/330830/how-to-turn-web-pages-in-browser-into-black-white-grayscale&quot;&gt;other browsers&lt;/a&gt;)&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;body {
+  filter: grayscale(100%);
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;It’s easy to turn it off when I want to. And it encouraged me to fix minor annoyances on some websites. 
+I stopped using AdBlock when I switched to FireFox and I now use targeted &lt;code class=&quot;highlighter-rouge&quot;&gt;display: none&lt;/code&gt; on elements 
+I find distracting.&lt;/p&gt;
+
+&lt;p&gt;A minor caveat of the extension is that it doesn’t work on all websites, because it’s a WebExtension. 
+I found that it only makes me appreciate it more when I encouter a page that doesn’t apply my user 
+styles.&lt;/p&gt;
+
+&lt;p&gt;One more surprising issue I encountered is that the &lt;code class=&quot;highlighter-rouge&quot;&gt;grayscale&lt;/code&gt; filter sometimes breaks scrolling. I tried 
+debugging it on my website, thinking it might be caused by some legacy code or a hidden Stylus property, 
+but adding it directly to the &lt;code class=&quot;highlighter-rouge&quot;&gt;body&lt;/code&gt; also changed scrolling behavior.&lt;/p&gt;</content>
+              
+
+
+              
+              
+              
+              
+              
+
+              
+                <author>
+                    <name>alicja</name>
+                  
+                  
+                </author>
+              
+
+              
+
+              
+
+              
+                <summary type="html">I started exploring my browsing habits to better understand why certain websites grab my attention. As aware of UX dark patterns as I am, I grew tired of mindfully noticing when they want to “nudge” me into certain behaviors with vibrant colors and obscuring others by making them less visually appealing.</summary>
+              
+
+              
+              
+            </entry>
+          
+        
+      
+    
   
     
       
@@ -1973,173 +2052,6 @@ symbol and wrapping it in a function. For reference, my full git parsing code is
 
               
                 <summary type="html">I have paired a lot over the past week (which makes me tremendously happy!) and I noticed how lost I can get in someone else’s terminal if I don’t have my regular bash prompt - not only the cute little heart that welcomes me every time I run the terminal, but also the git branch name I’m currently on.</summary>
-              
-
-              
-              
-            </entry>
-          
-        
-      
-        
-          
-        
-          
-        
-      
-    
-  
-    
-      
-        
-          
-        
-          
-            <entry>
-              <title type="html">Making pairing flow</title>
-
-              
-                <link href="https://trueskawka.github.io/blog/programming/2018/01/03/making-pairing-flow.html" rel="alternate" type="text/html" title="Making pairing flow" />
-                <published>2018-01-03T17:25:00-08:00</published>
-                <updated>2018-01-03T17:25:00-08:00</updated>
-                <id>https://trueskawka.github.io/blog/programming/2018/01/03/making-pairing-flow</id>
-                <content type="html" xml:base="https://trueskawka.github.io/blog/programming/2018/01/03/making-pairing-flow.html">&lt;p&gt;As my second batch at the Recurse Center is approaching, I can’t help
-but to be excited for all the pairings to come. I enjoy learning by 
-working with others - other than improving my coding style and understanding
-how to solve problems better, I always pick up all sorts of little tweaks 
-and ideas while geeking out over someone’s setup.&lt;/p&gt;
-
-&lt;p&gt;Since many of my batchlings are going to be new to the community, I wanted to think
-of some rules for pairing that could improve the experience for all those involved,
-other than the &lt;a href=&quot;https://www.recurse.com/manual#sub-sec-social-rules&quot;&gt;Recurse Center social rules&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In general, I find there are a at least three types of potentially great pairing 
-experiences:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;helping someone out - when one of the parties has an issue and they’re looking 
-for some guidance from a pairing partner more experienced in the area of interest&lt;/li&gt;
-  &lt;li&gt;exploring a concept together - when both parties are looking forward to tackle
-a new problem together, regardless of their perceived experience&lt;/li&gt;
-  &lt;li&gt;rubber-ducking - when one of the parties needs to talk to another programmer, 
-be it on a more general, problem-solving level or particulars of their code that
-make for a mind-boggling puzzle they’re struggling with, again - regardless of their 
-perceived experience (it is often the “stupid” or “beginner” questions that we 
-forget to ask ourselves when debugging our own code that are just the right questions)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;have-a-good-setup&quot;&gt;Have a good setup&lt;/h3&gt;
-
-&lt;p&gt;Don’t assume your setup is going to work for pairing out of the box. Think of possible 
-obstacles and make sure your pairing partner is comfortable, e.g. I promise to 
-increase my 8-point font and adjust the brightness, so you can read everything you 
-need on my tiny screen.&lt;/p&gt;
-
-&lt;p&gt;The best approach is to find the lowest common denominator - no Vim/Emacs bindings, 
-no dark magic shortcuts and gear. Using a text editor with at least some GUI (VS Code, 
-Atom), a separate window for the terminal and a browser window for web testing usually 
-works. Sometimes even a simple service like &lt;a href=&quot;https://glitch.com/&quot;&gt;Glitch&lt;/a&gt; or &lt;a href=&quot;https://codepen.io/&quot;&gt;CodePen&lt;/a&gt; 
-is enough.&lt;/p&gt;
-
-&lt;h3 id=&quot;keyboard-is-lava&quot;&gt;Keyboard is lava&lt;/h3&gt;
-
-&lt;p&gt;During pairing it’s usually best that only one person types - they’re called the 
-driver and their role is to implement your shared ideas in code. The more beginner 
-they are, the better for them to be the person writing the code, since they can 
-make mistakes and learn from them through discussing and correcting them together. 
-They won’t learn as much from simply observing.&lt;/p&gt;
-
-&lt;p&gt;Even if you are much better at typing, please, don’t take over the keyboard. It 
-happened to me more than once, usually out of the sheer eagerness of my pairing 
-partner to just solve the problem at hand, and I always felt intimidated by it.&lt;/p&gt;
-
-&lt;h3 id=&quot;know-whats-important&quot;&gt;Know what’s important&lt;/h3&gt;
-
-&lt;p&gt;When pairing, try to focus on the problem at hand - you are giving/receiving the most
-important asset one can give, their time and attention. There is no point in focusing
-on unrelevant details, e.g. I might write terribly suboptimal Python, but if the 
-purpose of the pairing is first and foremost for me to understand how merge sort works,
-optimizing too early might not be all too helpful.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;When helping - depending of how experienced your pairing partner is, there might be 
- an urge to solve every possible problem together - if you have a ton of time, that’s a 
- wonderful way to spend the afternoon/night! Learning from more experienced developers
- is always fun, especially when they can also learn a trick or two from their 
- pairing buddies.&lt;/p&gt;
-
-    &lt;p&gt;Most of the time the pairing is focused around a particular problem. If you are 
- helping someone out, they probably went through at least a few ideas and have tried
- various approaches. Before you get started, make sure you know:&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;what is the problem&lt;/li&gt;
-      &lt;li&gt;what has already been tried&lt;/li&gt;
-      &lt;li&gt;what kind of help are they looking for&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;When asking for help - &lt;a href=&quot;https://blogs.akamai.com/2013/10/you-must-try-and-then-you-must-ask.html&quot;&gt;before you ask, try&lt;/a&gt;. 
- Try to understand where and why you have a problem, so that you can describe it to 
- your pairing partner. Check for all the usual suspects (semicolons, not passing 
- arguments, not calling the function, typos) - you shouldn’t be embarassed if your 
- problem turns out to be “just” about a typo, but more often than not you probably will 
- feel bad for “wasting” someone’s time (please, don’t - you learn by making mistakes).&lt;/p&gt;
-
-    &lt;p&gt;Before you get started:&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;give a brief overview of your code&lt;/li&gt;
-      &lt;li&gt;describe the problem and the approaches you already tried&lt;/li&gt;
-      &lt;li&gt;talk about your hypotheses as to where the issue might be&lt;/li&gt;
-      &lt;li&gt;say what kind of help you are looking for&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;When pairing on a new problem  - be it a “Cracking the Coding Interview” 
- question or a project you are building together, try to define what are you looking to 
- do during the pairing session. Decide together on the setup, stack and other relevant
- technical details.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;be-mindful&quot;&gt;Be mindful&lt;/h3&gt;
-
-&lt;p&gt;Pairing is meant to be a pleasurable experience for all parties involved, but we do 
-make mistakes - you might tell an unfortunate joke or the solution you propose ends 
-up causing a stack overflow. That’s all good, as long as you are mindful and open 
-to correcting any missteps.&lt;/p&gt;
-
-&lt;p&gt;Think of pairing as canoeing together (or dancing, if that’s a more appealing 
-metaphor). There is a rhythm to it and a direction you’re working towards, but there
-is also the pleasure of being in the moment together and enjoying the experience. If 
-you’re going to go in different directions or not find a shared rhythm to it, the canoe
-might end up spinning in the middle of the river and you will get nowhere.&lt;/p&gt;
-
-&lt;p&gt;Finding the right balance might take time, but it’s rewarding. Also, you don’t have 
-to have a great experience with everyone - even when you’re both excited about 
-programming and mindful, you might just not be good pairing partners. And that’s okay.&lt;/p&gt;</content>
-              
-
-
-              
-              
-              
-              
-              
-
-              
-                <author>
-                    <name>alicja</name>
-                  
-                  
-                </author>
-              
-
-              
-
-              
-
-              
-                <summary type="html">As my second batch at the Recurse Center is approaching, I can’t help but to be excited for all the pairings to come. I enjoy learning by working with others - other than improving my coding style and understanding how to solve problems better, I always pick up all sorts of little tweaks and ideas while geeking out over someone’s setup.</summary>
               
 
               
