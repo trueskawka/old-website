@@ -6,7 +6,7 @@
   <link href="https://trueskawka.github.io/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://trueskawka.github.io/" rel="alternate" type="text/html" hreflang="en" />
   
-  <updated>2018-07-20T14:16:12-07:00</updated>
+  <updated>2018-07-27T19:08:30-07:00</updated>
   
     <id>https://trueskawka.github.io/</id>
   
@@ -22,6 +22,69 @@
 
   
 
+  
+    
+      
+        
+          
+        
+          
+            <entry>
+              <title type="html">The curb cut effect of the Internet</title>
+
+              
+                <link href="https://trueskawka.github.io/blog/2018/07/27/the-curb-cut-effect-of-the-internet.html" rel="alternate" type="text/html" title="The curb cut effect of the Internet" />
+                <published>2018-07-27T18:52:00-07:00</published>
+                <updated>2018-07-27T18:52:00-07:00</updated>
+                <id>https://trueskawka.github.io/blog/2018/07/27/the-curb-cut-effect-of-the-internet</id>
+                <content type="html" xml:base="https://trueskawka.github.io/blog/2018/07/27/the-curb-cut-effect-of-the-internet.html">&lt;p&gt;I recently listened to an episode of the 99% Invisible podcast on &lt;a href=&quot;https://99percentinvisible.org/episode/curb-cuts/transcript/&quot;&gt;curb cuts&lt;/a&gt; 
+and it made me pause to appreciate some of the curb cuts I experienced. One with 
+the most profound impact on my life is the Internet.&lt;/p&gt;
+
+&lt;p&gt;Without it I wouldn’t be where I am. I wouldn’t have learned 
+English well enough to be confident and fluent without all those hours binge-watching 
+&lt;em&gt;Bones&lt;/em&gt; and &lt;em&gt;Grey’s Anatomy&lt;/em&gt;. I wouldn’t reignite my interest in programming without 
+free MOOCs and open-source communities. I would never go to New York to join the Recurse 
+Center, I wouldn’t go to meetups to make friends and find jobs, I finally wouldn’t meet 
+my partner and move to Canada.&lt;/p&gt;
+
+&lt;p&gt;The Internet gave me opportunities and support I needed to take advantage of them. A space
+to explore, experiment and embarrass myself. A way to learn resilience and build up confidence
+by overcoming challenges, making mistakes and getting back on my feet.&lt;/p&gt;
+
+&lt;p&gt;It’s often a mixed bag, yet I can’t be anything but grateful.&lt;/p&gt;</content>
+              
+
+
+              
+              
+              
+              
+              
+
+              
+                <author>
+                    <name>alicja</name>
+                  
+                  
+                </author>
+              
+
+              
+
+              
+
+              
+                <summary type="html">I recently listened to an episode of the 99% Invisible podcast on curb cuts and it made me pause to appreciate some of the curb cuts I experienced. One with the most profound impact on my life is the Internet.</summary>
+              
+
+              
+              
+            </entry>
+          
+        
+      
+    
   
     
       
@@ -1847,211 +1910,6 @@ in the image. We’re going to use a simple &lt;code class=&quot;highlighter-rou
 
               
                 <summary type="html">I have been using CSS as a medium for drawing for the past few months and I appreciate its versatility and wide support. Since it’s hard to get started without understanding the basic concepts and most of the online guides are not focusing on how to draw images with CSS, I decided to write a few simple guides on creating single div CSS images. In the first part I’ll focus on drawing using box shadows.</summary>
-              
-
-              
-              
-            </entry>
-          
-        
-      
-        
-          
-        
-          
-        
-      
-    
-  
-    
-      
-        
-          
-        
-          
-            <entry>
-              <title type="html">Git branch in your prompt</title>
-
-              
-                <link href="https://trueskawka.github.io/blog/programming/2018/01/17/git-branch-in-your-prompt.html" rel="alternate" type="text/html" title="Git branch in your prompt" />
-                <published>2018-01-17T20:41:00-08:00</published>
-                <updated>2018-01-17T20:41:00-08:00</updated>
-                <id>https://trueskawka.github.io/blog/programming/2018/01/17/git-branch-in-your-prompt</id>
-                <content type="html" xml:base="https://trueskawka.github.io/blog/programming/2018/01/17/git-branch-in-your-prompt.html">&lt;p&gt;I have paired a lot over the past week (which makes me tremendously happy!)
-and I noticed how lost I can get in someone else’s terminal if I don’t have
-my regular bash prompt - not only the cute little heart that welcomes me
-every time I run the terminal, but also the git branch name I’m currently on.&lt;/p&gt;
-
-&lt;p&gt;As I couldn’t find the tutorial I used to learn how to parse the git branch, 
-I decided to go through my &lt;code class=&quot;highlighter-rouge&quot;&gt;.bashrc&lt;/code&gt; and write one myself.&lt;/p&gt;
-
-&lt;h3 id=&quot;bash-prompt-variables&quot;&gt;Bash prompt variables&lt;/h3&gt;
-&lt;p&gt;Bash prompt variables hold the text that shows as the terminal prompt in 
-various contexts. Their values are examined and executed just before Bash 
-prints them. There are several of them, but for now I’m going to 
-focus on &lt;code class=&quot;highlighter-rouge&quot;&gt;PS1&lt;/code&gt;, which is the primary prompt string.&lt;/p&gt;
-
-&lt;p&gt;In a bash prompt, you can use:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tiswww.case.edu/php/chet/bash/bashref.html#Controlling-the-Prompt&quot;&gt;special characters&lt;/a&gt; 
-that can be used for current user name (&lt;code class=&quot;highlighter-rouge&quot;&gt;\u&lt;/code&gt;), time (&lt;code class=&quot;highlighter-rouge&quot;&gt;\t&lt;/code&gt;), host name (&lt;code class=&quot;highlighter-rouge&quot;&gt;\h&lt;/code&gt;) etc.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/ANSI_escape_code#Colors&quot;&gt;colors&lt;/a&gt; both for the 
-foreground and the background&lt;/li&gt;
-  &lt;li&gt;unicode characters (letters, numbers, symbols, emoji)&lt;/li&gt;
-  &lt;li&gt;custom variables&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Let’s look at an example value of &lt;code class=&quot;highlighter-rouge&quot;&gt;PS1&lt;/code&gt;: &lt;code class=&quot;highlighter-rouge&quot;&gt;\s-\v\$&lt;/code&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\s&lt;/code&gt; the name of the shell&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;-&lt;/code&gt; just a dash&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\v&lt;/code&gt; the version of the shell&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$&lt;/code&gt; a dollar sign at the end of the prompt&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;which in my terminal evaluates to: &lt;code class=&quot;highlighter-rouge&quot;&gt;-bash-3.2$&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;To change the value of &lt;code class=&quot;highlighter-rouge&quot;&gt;PS1&lt;/code&gt; for the current session, you can use 
-&lt;code class=&quot;highlighter-rouge&quot;&gt;export PS1=&quot;&amp;lt;value&amp;gt;&quot;&lt;/code&gt; in the terminal:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;adding a lambda
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;export PS1=&quot;λ &quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;changing the lambda’s color to red
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;export PS1=&quot;\[\033[0;31m\]λ \[\033[0m\]&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;adding the current directory before the red lambda
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;export PS1=&quot;\w\[\033[0;31m\] λ \[\033[0m\]&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;and so on.&lt;/p&gt;
-
-&lt;p&gt;If you want to make the &lt;code class=&quot;highlighter-rouge&quot;&gt;PS1&lt;/code&gt; more permanent, you can add it to your &lt;code class=&quot;highlighter-rouge&quot;&gt;.bashrc&lt;/code&gt; (or &lt;code class=&quot;highlighter-rouge&quot;&gt;.bash_profile&lt;/code&gt;,
-if &lt;a href=&quot;https://apple.stackexchange.com/questions/51036/what-is-the-difference-between-bash-profile-and-bashrc&quot;&gt;you’re on a Mac&lt;/a&gt;),
-reload your session with&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;source .bashrc
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;et voilà!&lt;/p&gt;
-
-&lt;h3 id=&quot;getting-information-from-git&quot;&gt;Getting information from git&lt;/h3&gt;
-&lt;p&gt;When I work on code, I usually want to know a few things:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;am I using git? (if not, I might want to &lt;code class=&quot;highlighter-rouge&quot;&gt;git init&lt;/code&gt;)&lt;/li&gt;
-  &lt;li&gt;what branch I am currently on?&lt;/li&gt;
-  &lt;li&gt;are there any changes in the directory - untracked, unadded, added or deleted files?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All of those things I can check by simply using the &lt;code class=&quot;highlighter-rouge&quot;&gt;git status&lt;/code&gt; command, but it gets 
-tedious to do that every time I need to change something (am I on the right branch? 
-did I add everything? did I switch to a feature branch?). I can also parse git commands 
-output with Bash and add the parsed information to my prompt, using custom variables.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Branch&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In order to get the current branch, you can parse the output of
-&lt;a href=&quot;https://stackoverflow.com/questions/6245570/how-to-get-the-current-branch-name-in-git&quot;&gt;several different git commands&lt;/a&gt;. 
-I don’t think there is one good way to do it, as you might want to get slightly different
-results depending on the context, but some good ideas are:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git rev-parse --abbrev-ref HEAD&lt;/code&gt; - which gives you the right name of the local branch and consistent 
-&lt;code class=&quot;highlighter-rouge&quot;&gt;HEAD&lt;/code&gt; for other contexts&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git branch | sed -n '/\* /s///p'&lt;/code&gt; - which gives you the right name of the local branch and appropriate
-outputs for other contexts&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Whichever method you choose, to add it to your &lt;code class=&quot;highlighter-rouge&quot;&gt;PS1&lt;/code&gt; prompt you can:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;add a function for parsing the branch (the &lt;code class=&quot;highlighter-rouge&quot;&gt;2&amp;gt;/dev/null&lt;/code&gt; stops the command from printing the output):
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git_prompt() {
-  local ref=$(git branch 2&amp;gt;/dev/null | sed -n '/\* /s///p')
-  if [ &quot;$ref&quot; != &quot;&quot; ]
-  then
-    echo &quot;($ref) &quot;
-  fi
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;add the function output to your prompt
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;export PS1=&quot;\w\[\033[0;31m\] λ $(git_prompt)\[\033[0m\]&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-    &lt;p&gt;or, with a hint of color&lt;/p&gt;
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;export PS1=&quot;\w\[\033[0;31m\] λ \[\033[0;95m\]\$(git_prompt)\[\033[0m\]\[\033[0m\]&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Number of various changes&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;You can run &lt;code class=&quot;highlighter-rouge&quot;&gt;git status&lt;/code&gt; with various options - if you use the &lt;a href=&quot;https://git-scm.com/docs/git-status#_short_format&quot;&gt;short format&lt;/a&gt;,
-you will get the statuses of your paths that are a bit easier to understand for parsing purposes, notably:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;?&lt;/code&gt; for untracked paths&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;M&lt;/code&gt; for modified paths&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;A&lt;/code&gt; for added paths&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;D&lt;/code&gt; for deleted paths&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;To parse untracked paths you can:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;grep &lt;code class=&quot;highlighter-rouge&quot;&gt;git status --porcelain&lt;/code&gt; for &lt;code class=&quot;highlighter-rouge&quot;&gt;?&lt;/code&gt; and count the number of lines in the output (as each untracked path
-is on a new line)
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;untracked=`expr $(git status --porcelain 2&amp;gt;/dev/null | grep &quot;?&quot; | wc -l)`
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;wrap it in a function that returns the number of untracked paths with a symbol of your choice when it’s not 0
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;function parse_untracked {
-  local untracked=`expr $(git status --porcelain 2&amp;gt;/dev/null | grep &quot;?&quot; | wc -l)`
-  if [ &quot;$untracked&quot; != &quot;0&quot; ]
-  then
-    echo &quot; ?$untracked&quot;
-  fi
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;add it to your &lt;code class=&quot;highlighter-rouge&quot;&gt;PS1&lt;/code&gt; prompt
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git_prompt() {
-  local ref=$(git branch 2&amp;gt;/dev/null | sed -n '/\* /s///p')
-  if [ &quot;$ref&quot; != &quot;&quot; ]
-  then
-    echo &quot;($ref)$(parse_untracked) &quot;
-  fi
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You can add a separate function for each status and add them to your prompt by simply grepping for the appropriate
-symbol and wrapping it in a function. For reference, my full git parsing code is 
-&lt;a href=&quot;https://gist.github.com/trueskawka/aab826ea75d7219790df92fba8bb8e47&quot;&gt;in this gist&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Have fun adjusting your prompt and hopefully never getting lost among your git branches!&lt;/p&gt;</content>
-              
-
-
-              
-              
-              
-              
-              
-
-              
-                <author>
-                    <name>alicja</name>
-                  
-                  
-                </author>
-              
-
-              
-
-              
-
-              
-                <summary type="html">I have paired a lot over the past week (which makes me tremendously happy!) and I noticed how lost I can get in someone else’s terminal if I don’t have my regular bash prompt - not only the cute little heart that welcomes me every time I run the terminal, but also the git branch name I’m currently on.</summary>
               
 
               
