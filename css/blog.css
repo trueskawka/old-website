@@ -63,13 +63,16 @@ pre {
   margin: 0 auto; }
 
 header {
-  width: 100%;
+  width: 260px;
   position: fixed;
   height: 220px;
   top: 50px; }
 
 #content-wrapper {
   margin-top: 220px; }
+
+#content-wrapper-usa {
+  margin-top: 1em; }
 
 @media print, screen and (max-width: 959px) {
   header {
